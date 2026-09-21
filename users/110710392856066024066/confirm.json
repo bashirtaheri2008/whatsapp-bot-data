@@ -3,7 +3,20 @@
   "ownerJid": null,
   "ownerName": "",
   "sourceGroups": [],
-  "verifierGroups": [],
+  "verifierGroups": [
+    {
+      "jid": "120363431214442888@g.us",
+      "name": "ت"
+    },
+    {
+      "jid": "120363412269148665@g.us",
+      "name": "tst"
+    },
+    {
+      "jid": "120363426767944178@g.us",
+      "name": "Test"
+    }
+  ],
   "contacts": {
     "272933108883617@lid": "༒༒  𝑴𝑶𝑹𝑨𝑫𝑰༒ ༒",
     "214521486561397@lid": "",
