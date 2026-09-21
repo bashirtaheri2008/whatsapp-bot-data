@@ -1,37 +1,6 @@
 {
   "list": [
     {
-      "id": "rc_1789991171710_zz1hs",
-      "data": {
-        "isReceipt": true,
-        "bank": "Ziraat Bankası",
-        "bankBranch": "0309/KARAPINAR/KONYA ŞUBESİ",
-        "amount": "100000",
-        "currency": "TL",
-        "date": "21/09/2026",
-        "time": "09:31:05",
-        "trackingNo": "7302345892",
-        "receiptNo": "F50707",
-        "referenceCode": "",
-        "senderName": "CELİL CİNGÖZ",
-        "senderIban": "TR150001000309375346805002",
-        "receiverName": "nuh gold kuyumculuk anonim şirketi",
-        "receiverIban": "TR470006400000145004128718",
-        "description": "Fast işleminin yapılması, Bu işlem için tarafıma bildirilen 2,63 TRY masraf alınmasını talep ederim."
-      },
-      "sender": "122600479035526",
-      "timestamp": 1789991171710,
-      "source": "image",
-      "msgKey": {
-        "remoteJid": "120363426767944178@g.us",
-        "fromMe": false,
-        "id": "AC292DD01278155F0D758261BFDA5BE8",
-        "participant": "122600479035526@lid",
-        "participantAlt": "93745872028@s.whatsapp.net",
-        "addressingMode": "lid"
-      }
-    },
-    {
       "id": "rc_1789991182406_b7ern",
       "data": {
         "isReceipt": true,
