@@ -2,7 +2,7 @@
   "users": {
     "110710392856066024066": {
       "allowDup": true,
-      "allowConfirm": true
+      "allowConfirm": false
     }
   },
   "defaults": {
