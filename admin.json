@@ -1,8 +1,8 @@
 {
   "users": {
     "110710392856066024066": {
-      "allowDup": false,
-      "allowConfirm": false
+      "allowDup": true,
+      "allowConfirm": true
     }
   },
   "defaults": {
