@@ -11,6 +11,14 @@
     "up_logout_probe2_d5bb": {
       "allowDup": true,
       "allowConfirm": false
+    },
+    "up_admin_ddc1": {
+      "allowDup": true,
+      "allowConfirm": false
+    },
+    "up_0000_1552": {
+      "allowDup": true,
+      "allowConfirm": false
     }
   },
   "defaults": {
