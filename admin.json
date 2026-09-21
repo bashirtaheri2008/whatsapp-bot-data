@@ -3,6 +3,14 @@
     "110710392856066024066": {
       "allowDup": true,
       "allowConfirm": false
+    },
+    "up_logout_probe1_826f": {
+      "allowDup": true,
+      "allowConfirm": false
+    },
+    "up_logout_probe2_d5bb": {
+      "allowDup": true,
+      "allowConfirm": false
     }
   },
   "defaults": {
