@@ -1,14 +1,14 @@
 {
   "gid": "109187527843962571943",
-  "email": "aicreat1446@gmail.com",
-  "name": "Ai Create",
-  "picture": "https://lh3.googleusercontent.com/a/ACg8ocJ9CQixH6pitGQUZZNnsz5xsLF5KDwYmvnkpkSVSC13D7HYHQ=s96-c",
-  "createdAt": 1790054145072,
-  "lastSeen": 1790054145073,
+  "email": "",
+  "name": "",
+  "picture": "",
+  "createdAt": 1790055057680,
+  "lastSeen": 1790055057681,
   "slot": 1,
   "plan": {
     "type": "free",
-    "at": 1790054147251,
-    "expires": 1790658947251
+    "at": 1790055057695,
+    "expires": 1790659857695
   }
 }
