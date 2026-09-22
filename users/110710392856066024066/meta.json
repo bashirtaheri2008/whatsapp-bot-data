@@ -4,12 +4,12 @@
   "name": "بشیر طاهری",
   "picture": "https://lh3.googleusercontent.com/a/ACg8ocL7QEtzRr1cYkReO9Su7COwf9ItftWsgKQlRSkiDS_BXagMdGA=s96-c",
   "createdAt": 1789990915761,
-  "lastSeen": 1790058758391,
+  "lastSeen": 1790067341662,
   "slot": 1,
   "label": "",
   "plan": {
-    "type": "free",
-    "at": 1790064643963,
-    "expires": 1790669443963
+    "type": "premium",
+    "at": 1790076743622,
+    "expires": 1797852743622
   }
 }
