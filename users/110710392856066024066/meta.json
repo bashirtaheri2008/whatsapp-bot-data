@@ -4,12 +4,12 @@
   "name": "بشیر طاهری",
   "picture": "https://lh3.googleusercontent.com/a/ACg8ocL7QEtzRr1cYkReO9Su7COwf9ItftWsgKQlRSkiDS_BXagMdGA=s96-c",
   "createdAt": 1789990915761,
-  "lastSeen": 1790008318578,
+  "lastSeen": 1790058758391,
   "slot": 1,
-  "label": "ربات تشخیص فیش",
+  "label": "",
   "plan": {
-    "type": "premium",
-    "at": 1790056128685,
-    "expires": 1797832128685
+    "type": "free",
+    "at": 1790059688311,
+    "expires": 1790664488311
   }
 }
