@@ -27,6 +27,6 @@
   },
   "defaults": {
     "allowDup": true,
-    "allowConfirm": false
+    "allowConfirm": true
   }
 }
