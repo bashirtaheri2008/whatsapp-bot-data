@@ -3,12 +3,12 @@
   "email": "",
   "name": "",
   "picture": "",
-  "createdAt": 1790063151316,
-  "lastSeen": 1790063151316,
+  "createdAt": 1790063328729,
+  "lastSeen": 1790063328729,
   "slot": 1,
   "plan": {
     "type": "free",
-    "at": 1790063196357,
-    "expires": 1790667996357
+    "at": 1790063333926,
+    "expires": 1790668133926
   }
 }
