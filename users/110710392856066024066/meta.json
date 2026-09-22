@@ -8,8 +8,8 @@
   "slot": 1,
   "label": "",
   "plan": {
-    "type": "premium",
-    "at": 1790064375478,
-    "expires": 1797840375478
+    "type": "free",
+    "at": 1790064643963,
+    "expires": 1790669443963
   }
 }
