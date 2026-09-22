@@ -1,34 +1,5 @@
 {
-  "targetGroups": [
-    {
-      "jid": "120363427079520925@g.us",
-      "name": ""
-    },
-    {
-      "jid": "120363426767944178@g.us",
-      "name": "Test"
-    },
-    {
-      "jid": "120363429382915811@g.us",
-      "name": "Test1"
-    },
-    {
-      "jid": "120363412269148665@g.us",
-      "name": "tst"
-    },
-    {
-      "jid": "120363430150238574@g.us",
-      "name": "Yu"
-    },
-    {
-      "jid": "120363431214442888@g.us",
-      "name": "ت"
-    },
-    {
-      "jid": "120363411892890314@g.us",
-      "name": "تست"
-    }
-  ],
+  "targetGroups": [],
   "allowedNumbers": [],
   "enabled": false
 }
