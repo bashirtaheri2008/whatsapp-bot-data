@@ -2,7 +2,12 @@
   "enabled": true,
   "ownerJid": null,
   "ownerName": "",
-  "sourceGroups": [],
+  "sourceGroups": [
+    {
+      "jid": "120363427079520925@g.us",
+      "name": ""
+    }
+  ],
   "verifierGroups": [],
   "contacts": {
     "272933108883617@lid": "༒༒  𝑴𝑶𝑹𝑨𝑫𝑰༒ ༒",
