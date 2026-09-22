@@ -5,5 +5,10 @@
   "picture": "",
   "createdAt": 1790004025199,
   "lastSeen": 1790004025199,
-  "slot": 1
+  "slot": 1,
+  "plan": {
+    "type": "free",
+    "at": 1790055077342,
+    "expires": 1790659877342
+  }
 }
