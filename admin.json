@@ -31,6 +31,10 @@
     "up_logo_probe1_2706": {
       "allowDup": true,
       "allowConfirm": true
+    },
+    "up_logo_probe2_1cf1": {
+      "allowDup": true,
+      "allowConfirm": true
     }
   },
   "defaults": {
