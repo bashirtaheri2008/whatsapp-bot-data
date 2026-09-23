@@ -805,6 +805,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790194113456_6lwsa",
+      "data": {
+        "isReceipt": true,
+        "bank": "BURGAN BANK",
+        "bankBranch": "İŞLEMLER İNTERNET",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "23/09/2024",
+        "time": "23:05",
+        "trackingNo": "TR440000150007991489193",
+        "receiptNo": "",
+        "referenceCode": "2000-0079192-351",
+        "senderName": "İSRAEL SOTU",
+        "senderIban": "TR440000150007991489193",
+        "receiverName": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "receiverIban": "",
+        "description": "Tutarın tamamı bilgileri verilmiş PAFT işlemi için 2000-0079192-351 baştanlama toplam 7.500,00 TL Bakiye kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790194113456,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A520F0AA81527B5B014",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
