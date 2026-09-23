@@ -1,58 +1,5 @@
 {
-  "users": {
-    "110710392856066024066": {
-      "allowDup": true,
-      "allowConfirm": true
-    },
-    "up_logout_probe1_826f": {
-      "allowDup": true,
-      "allowConfirm": false
-    },
-    "up_logout_probe2_d5bb": {
-      "allowDup": true,
-      "allowConfirm": false
-    },
-    "up_admin_ddc1": {
-      "allowDup": true,
-      "allowConfirm": false
-    },
-    "up_0000_1552": {
-      "allowDup": true,
-      "allowConfirm": false
-    },
-    "114757617886726075760": {
-      "allowDup": true,
-      "allowConfirm": false
-    },
-    "109187527843962571943": {
-      "allowDup": true,
-      "allowConfirm": true
-    },
-    "up_logo_probe1_2706": {
-      "allowDup": true,
-      "allowConfirm": true
-    },
-    "up_logo_probe2_1cf1": {
-      "allowDup": true,
-      "allowConfirm": true
-    },
-    "117931435358715586348": {
-      "allowDup": true,
-      "allowConfirm": true
-    },
-    "114659721962191070059": {
-      "allowDup": true,
-      "allowConfirm": true
-    },
-    "up_v106test_c0c2": {
-      "allowDup": true,
-      "allowConfirm": true
-    },
-    "111571616982322721985": {
-      "allowDup": true,
-      "allowConfirm": true
-    }
-  },
+  "users": {},
   "defaults": {
     "allowDup": true,
     "allowConfirm": true
