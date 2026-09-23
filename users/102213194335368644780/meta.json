@@ -4,11 +4,15 @@
   "name": "Matin Muradi",
   "picture": "https://lh3.googleusercontent.com/a/ACg8ocJnGHAQmwIaYzD7BlhtSP5AALghwmwlaShtNydRaEDbLKEGwg=s96-c",
   "createdAt": 1790182216133,
-  "lastSeen": 1790182216135,
+  "lastSeen": 1790182658618,
   "slot": 1,
   "plan": {
     "type": "free",
     "at": 1790182263685,
     "expires": 1790787063685
+  },
+  "usage": {
+    "day": "2026-09-23",
+    "count": 1
   }
 }
