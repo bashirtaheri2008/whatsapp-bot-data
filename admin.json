@@ -50,7 +50,7 @@
     },
     "111571616982322721985": {
       "allowDup": true,
-      "allowConfirm": false
+      "allowConfirm": true
     }
   },
   "defaults": {
