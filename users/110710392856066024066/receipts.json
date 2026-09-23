@@ -123,6 +123,68 @@
         "participantAlt": "93745872028@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790132810501_385ob",
+      "data": {
+        "isReceipt": true,
+        "bank": "TÜRKİYE İŞ BANKASI A.Ş.",
+        "bankBranch": "KONYA",
+        "amount": "49000",
+        "currency": "TRY",
+        "date": "20/09/2026",
+        "time": "13:57:45",
+        "trackingNo": "20.09.2026/447/8888/8888",
+        "receiptNo": "450068007059",
+        "referenceCode": "H2609086272497",
+        "senderName": "EJAZOLHAGH MIRZAEI",
+        "senderIban": "TR510006400000145003807091",
+        "receiverName": "NU*** GO*** KU*** AN*** Şİ***",
+        "receiverIban": "TR540006400000145004128689",
+        "description": "ELDEN ALDIĞIM ALTIN BEDELİ"
+      },
+      "sender": "122600479035526",
+      "timestamp": 1790132810501,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430150238574@g.us",
+        "fromMe": false,
+        "id": "AC022E40D7B1F38B0129A19149127E7D",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790132855797_i6i6d",
+      "data": {
+        "isReceipt": true,
+        "bank": "Albaraka Türk Katılım Bankası A.Ş.",
+        "bankBranch": "69 - YALOVA",
+        "amount": "90000",
+        "currency": "TL",
+        "date": "21/09/2026",
+        "time": "08:44:54",
+        "trackingNo": "4006252",
+        "receiptNo": "10890496",
+        "referenceCode": "11623",
+        "senderName": "CIHANGIR DEĞİRMENCİ",
+        "senderIban": "TR250020300003530299000001",
+        "receiverName": "NUH GOLD KUYUMCULUK ANONİM ŞİRKETİ",
+        "receiverIban": "TR54000000145004128689",
+        "description": "ELDEN ALDIĞIM ALTIN BEDELİ"
+      },
+      "sender": "122600479035526",
+      "timestamp": 1790132855797,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430150238574@g.us",
+        "fromMe": false,
+        "id": "AC7EBC335CFEACDF1843D18DB242996B",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
