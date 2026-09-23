@@ -1,5 +1,10 @@
 {
-  "users": {},
+  "users": {
+    "up_user_74bb": {
+      "allowDup": true,
+      "allowConfirm": true
+    }
+  },
   "defaults": {
     "allowDup": true,
     "allowConfirm": true
