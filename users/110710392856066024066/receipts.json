@@ -94,68 +94,6 @@
       }
     },
     {
-      "id": "rc_1790132798590_uywuf",
-      "data": {
-        "isReceipt": true,
-        "bank": "TÜRKİYE BANKASI",
-        "bankBranch": "MOBİL BANKACILIK",
-        "amount": "59800",
-        "currency": "TRY",
-        "date": "20/09/2026",
-        "time": "14:27:40",
-        "trackingNo": "H2609086371323",
-        "receiptNo": "455207002288",
-        "referenceCode": "A032026427833410",
-        "senderName": "BORI BAY HAMDAKD",
-        "senderIban": "TR650006400000145520308656",
-        "receiverName": "NU**** GO**** KU**** AN**** Şİ****",
-        "receiverIban": "TR540006400000145004128689",
-        "description": "ELDEN ALDIĞIM ALTIN BEDELİ"
-      },
-      "sender": "122600479035526",
-      "timestamp": 1790132798590,
-      "source": "image",
-      "msgKey": {
-        "remoteJid": "120363430150238574@g.us",
-        "fromMe": false,
-        "id": "ACB2EEE99CED9CBB120236DA4B0CE2D0",
-        "participant": "122600479035526@lid",
-        "participantAlt": "93745872028@s.whatsapp.net",
-        "addressingMode": "lid"
-      }
-    },
-    {
-      "id": "rc_1790132810501_385ob",
-      "data": {
-        "isReceipt": true,
-        "bank": "TÜRKİYE İŞ BANKASI A.Ş.",
-        "bankBranch": "KONYA",
-        "amount": "49000",
-        "currency": "TRY",
-        "date": "20/09/2026",
-        "time": "13:57:45",
-        "trackingNo": "20.09.2026/447/8888/8888",
-        "receiptNo": "450068007059",
-        "referenceCode": "H2609086272497",
-        "senderName": "EJAZOLHAGH MIRZAEI",
-        "senderIban": "TR510006400000145003807091",
-        "receiverName": "NU*** GO*** KU*** AN*** Şİ***",
-        "receiverIban": "TR540006400000145004128689",
-        "description": "ELDEN ALDIĞIM ALTIN BEDELİ"
-      },
-      "sender": "122600479035526",
-      "timestamp": 1790132810501,
-      "source": "image",
-      "msgKey": {
-        "remoteJid": "120363430150238574@g.us",
-        "fromMe": false,
-        "id": "AC022E40D7B1F38B0129A19149127E7D",
-        "participant": "122600479035526@lid",
-        "participantAlt": "93745872028@s.whatsapp.net",
-        "addressingMode": "lid"
-      }
-    },
-    {
       "id": "rc_1790132855797_i6i6d",
       "data": {
         "isReceipt": true,
