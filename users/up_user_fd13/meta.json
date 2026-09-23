@@ -1,0 +1,14 @@
+{
+  "gid": "up_user_fd13",
+  "email": "",
+  "name": "",
+  "picture": "",
+  "createdAt": 1790154955508,
+  "lastSeen": 1790154955508,
+  "slot": 1,
+  "plan": {
+    "type": "free",
+    "at": 1790154955512,
+    "expires": 1790759755512
+  }
+}
