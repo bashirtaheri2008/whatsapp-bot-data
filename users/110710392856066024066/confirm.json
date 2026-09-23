@@ -22,5 +22,21 @@
     "191878435713054@lid": "",
     "236765172490443@lid": "ᔕᵘᠻ𝓲ᗩ𝘳ꪖ𝘴ꫝ"
   },
-  "queue": {}
+  "queue": {
+    "3EB022809FEDA31D8C886D": {
+      "origJid": "120363430150238574@g.us",
+      "origId": "AC7D609FB1925F2512A1A23D0292FAC2",
+      "participant": "122600479035526@lid",
+      "group": "Yu",
+      "sender": "122600479035526",
+      "amount": "50000",
+      "currency": "TL",
+      "ts": 1790130998449,
+      "answered": true,
+      "answer": "👍",
+      "via": "group",
+      "viaName": "Test",
+      "answeredBy": "122600479035526@lid"
+    }
+  }
 }
