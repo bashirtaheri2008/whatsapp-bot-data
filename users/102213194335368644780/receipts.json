@@ -712,6 +712,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790192315725_onwf1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "9000",
+        "currency": "TRY",
+        "date": "23/09/2026",
+        "time": "22:32:32",
+        "trackingNo": "439137004787",
+        "receiptNo": "A032026465554351",
+        "referenceCode": "23.09.2026/447/8888/8888",
+        "senderName": "MERVE AKSU",
+        "senderIban": "",
+        "receiverName": "jawd usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "MERVE AKSU tarafından aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790192315725,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE7AAE6CACFF85A89D3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
