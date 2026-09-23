@@ -402,6 +402,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790188790268_q8una",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "Büyük Mükellefler Vergi Dairesi",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "21:30:39",
+        "trackingNo": "2026092326374573",
+        "receiptNo": "01315-2146745",
+        "referenceCode": "13390555",
+        "senderName": "GATT FAST EFT GIDEN FAST EFT",
+        "senderIban": "TR9400010001500150015891491919",
+        "receiverName": "MURTAZA ERTAS",
+        "receiverIban": "TR1500010000000013860917",
+        "description": "ACIKLAMASI:13390555"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790188790268,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A13C507FB982FC5B5DA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
