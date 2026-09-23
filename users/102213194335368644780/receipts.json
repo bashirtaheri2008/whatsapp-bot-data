@@ -216,6 +216,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790185951356_kzvl7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "20:51:27",
+        "trackingNo": "AWGCF-B-20260923246",
+        "receiptNo": "CKD2026001621293",
+        "referenceCode": "113fc0fe-1943-47b4-a0b9-e0010e40b0d0",
+        "senderName": "İSMAİL TANSEL HORASAN",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: İSMAİL TANSEL HORASAN, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790185951356,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A48CACEC4580CB53020",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
