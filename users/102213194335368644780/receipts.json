@@ -1022,6 +1022,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790196524078_lh5nu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "23:34",
+        "trackingNo": "4845463191",
+        "receiptNo": "03663-03663-923515802",
+        "referenceCode": "202609253532997",
+        "senderName": "Emrah Baktemur",
+        "senderIban": "TR0400157000000000083285798",
+        "receiverName": "Bori Bay Hamdard",
+        "receiverIban": "TR65000640000145520308656",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790196524078,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC51D21D47E4FE3EE51",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
