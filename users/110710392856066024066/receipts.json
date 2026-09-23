@@ -61,6 +61,37 @@
         "participantAlt": "93745872028@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790132133013_xlfh3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Finans",
+        "bankBranch": "İNKILAP MAH. SOKULLU CD. NO: 6/3 ÜMRANİYE İSTANBUL",
+        "amount": "167125",
+        "currency": "TL",
+        "date": "17/09/2026",
+        "time": "14:12:00",
+        "trackingNo": "20260917-99-XIB75",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RASIM ARAÇLI",
+        "senderIban": "",
+        "receiverName": "NUH GOLD KUYUMCULUK A.Ş.",
+        "receiverIban": "TR540006400000145004128689",
+        "description": "ELDEN ALINAN ALTIN BEDELİ"
+      },
+      "sender": "122600479035526",
+      "timestamp": 1790132133013,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430150238574@g.us",
+        "fromMe": false,
+        "id": "AC40F073B509E1A9230B7E19B0FFBB1C",
+        "participant": "122600479035526@lid",
+        "participantAlt": "93745872028@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
