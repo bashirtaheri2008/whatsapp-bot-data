@@ -1,0 +1,14 @@
+{
+  "gid": "up_user_74bb",
+  "email": "",
+  "name": "User-1",
+  "picture": "",
+  "createdAt": 1790154725331,
+  "lastSeen": 1790154725331,
+  "slot": 1,
+  "plan": {
+    "type": "free",
+    "at": 1790154725742,
+    "expires": 1790759525742
+  }
+}
