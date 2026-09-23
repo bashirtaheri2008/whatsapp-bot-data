@@ -30,6 +30,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790183802063_4wrqa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "19:51",
+        "trackingNo": "4845055931",
+        "receiptNo": "202609252015410",
+        "referenceCode": "03663-03663-923164571",
+        "senderName": "Şener Çiftçi",
+        "senderIban": "TR700015700000000157028181",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790183802064,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7B94F11C215C3F69BD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790183804534_xumua",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "3800",
+        "currency": "TRY",
+        "date": "23/09/2026",
+        "time": "20:13:02",
+        "trackingNo": "3779921189",
+        "receiptNo": "420485003573",
+        "referenceCode": "23.09.2026/447/8888/8888",
+        "senderName": "YUSUF KARATAŞ",
+        "senderIban": "TR080006400000142040814534",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YUSUF KARATAŞ tarafından aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790183804534,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A193479F1F08843A9C7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790184144733_9nbdd",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "150000",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "20:21:58",
+        "trackingNo": "2026013356391615",
+        "receiptNo": "",
+        "referenceCode": "2953499320",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Saadattullah Azhar Amini",
+        "receiverIban": "TR260006400000111530856451",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790184144733,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AC538A460FBED3C0251",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
