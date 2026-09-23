@@ -898,6 +898,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790194583360_x9g0s",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "12000",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "23:16:02",
+        "trackingNo": "2953762445",
+        "receiptNo": "",
+        "referenceCode": "2026013362151920",
+        "senderName": "JAWID USMANI / UNVAN",
+        "senderIban": "",
+        "receiverName": "Ercan yurt",
+        "receiverIban": "TR82001570000000203429855",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790194583360,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A254A165FFB95166947",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790194880263_uoag9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "9500",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "22:32:32",
+        "trackingNo": "439137004787",
+        "receiptNo": "A032026465554351",
+        "referenceCode": "23.09.2026/447/8888/8888",
+        "senderName": "MERVE AKSU",
+        "senderIban": "TR680006400000143910575754",
+        "receiverName": "jawd usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "MERVE AKSU tarafından aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790194880263,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A441DC1302E2C9E9B77",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
