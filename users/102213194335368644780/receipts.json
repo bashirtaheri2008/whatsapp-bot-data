@@ -495,6 +495,68 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790189658490_9kct6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "21:39",
+        "trackingNo": "4845282391",
+        "receiptNo": "03663-03663-923356363",
+        "referenceCode": "202609252884501",
+        "senderName": "Emre Gökyer",
+        "senderIban": "TR37000157000000000145039315",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1790189658490,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5F44DE97CE4614227824C8E01549CD8",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790189661103_lsgo6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SELÇUKLU",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "23/09/2026",
+        "time": "21:49:03",
+        "trackingNo": "8904000423",
+        "receiptNo": "2026-09-23-21.49.00.438054",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "1323370070092",
+      "timestamp": 1790189661103,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A578EEC414404E5FCB5C0C666B45E179",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
