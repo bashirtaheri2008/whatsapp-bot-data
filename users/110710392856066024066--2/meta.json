@@ -6,5 +6,10 @@
   "createdAt": 1790078258360,
   "lastSeen": 1790078258361,
   "slot": 2,
-  "label": "Yu"
+  "label": "Yu",
+  "plan": {
+    "type": "premium",
+    "at": 1790135968395,
+    "expires": 1797911968395
+  }
 }
