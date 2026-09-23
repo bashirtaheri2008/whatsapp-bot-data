@@ -1,5 +1,18 @@
 {
-  "targetGroups": [],
+  "targetGroups": [
+    {
+      "jid": "120363430150238574@g.us",
+      "name": "Yu"
+    },
+    {
+      "jid": "120363412269148665@g.us",
+      "name": "tst"
+    },
+    {
+      "jid": "120363429382915811@g.us",
+      "name": "Test1"
+    }
+  ],
   "allowedNumbers": [],
-  "enabled": false
+  "enabled": true
 }
