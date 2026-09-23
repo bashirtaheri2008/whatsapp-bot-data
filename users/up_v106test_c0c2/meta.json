@@ -1,0 +1,14 @@
+{
+  "gid": "up_v106test_c0c2",
+  "email": "",
+  "name": "",
+  "picture": "",
+  "createdAt": 1790135134678,
+  "lastSeen": 1790135134678,
+  "slot": 1,
+  "plan": {
+    "type": "free",
+    "at": 1790135286145,
+    "expires": 1790740086145
+  }
+}
