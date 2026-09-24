@@ -3471,6 +3471,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790264253250_0ay5u",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BİLECİK ŞUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "18:35:15",
+        "trackingNo": "7323814694",
+        "receiptNo": "",
+        "referenceCode": "F24161",
+        "senderName": "REFİK AKTAŞ",
+        "senderIban": "TR710001000118920222865001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790264253250,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB2A77EE651949CAC19",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
