@@ -3626,6 +3626,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790268334721_py90q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARATAY SANAYİ",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "19:38:02",
+        "trackingNo": "2718000340",
+        "receiptNo": "2026-09-24-19.37.55.821758",
+        "referenceCode": "",
+        "senderName": "NECMETTİN KILIÇ",
+        "senderIban": "TR460006200051900006646551",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790268334721,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEC2D0E0299172B4E22",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
