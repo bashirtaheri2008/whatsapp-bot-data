@@ -3254,6 +3254,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790262094853_d2sth",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "18:00:01",
+        "trackingNo": "5174777898259",
+        "receiptNo": "SYI202628868835",
+        "referenceCode": "925-338448 / 2546848385756",
+        "senderName": "MUSTAFA BAŞKAYA",
+        "senderIban": "TR8400067010000005221611",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790262094853,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A90DD5501A860C190F6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
