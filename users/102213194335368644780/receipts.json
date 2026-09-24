@@ -1921,6 +1921,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790246292054_z5v10",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "MANİSA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "24/09/2026",
+        "time": "13:29:32",
+        "trackingNo": "F11147",
+        "receiptNo": "",
+        "referenceCode": "7321667830",
+        "senderName": "YUSUF KAYA",
+        "senderIban": "TR350001001256757127505001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Fast Mesaj Kodu: A01"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790246292054,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC95DC5DC969DCC5A1F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
