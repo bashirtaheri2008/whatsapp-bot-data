@@ -4556,6 +4556,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790276800012_b3de8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Şekerbank",
+        "bankBranch": "ÇAY",
+        "amount": "70000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "22:05:47",
+        "trackingNo": "58741600",
+        "receiptNo": "2026375500650",
+        "referenceCode": "301483731",
+        "senderName": "MUHAMMED DEMİRHAN MUHANMED",
+        "senderIban": "TR920005500550130055087606",
+        "receiverName": "JAWIN USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "BIREYSEL ÖDEME"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790276800012,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A67F70DADF5DBE397F1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
