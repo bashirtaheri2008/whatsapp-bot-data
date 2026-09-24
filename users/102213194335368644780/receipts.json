@@ -4680,6 +4680,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790278149772_t4p82",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "9850",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "22:28:37",
+        "trackingNo": "2026013410819660",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "EREN USLU",
+        "senderIban": "TR46000150015881",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790278149772,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8284EEA3B343E03D06",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
