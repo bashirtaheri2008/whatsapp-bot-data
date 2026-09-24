@@ -4184,6 +4184,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790272565159_f35f3",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.S.",
+        "bankBranch": "TUNALI HILMI SUBESI",
+        "amount": "4350",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "20:54:11",
+        "trackingNo": "7996002",
+        "receiptNo": "8760043243",
+        "referenceCode": "24/09/2026-207-48237-25784",
+        "senderName": "Sayın İBRAHİM ATLI",
+        "senderIban": "TR070006400000100001455000",
+        "receiverName": "VALNOZ Dövizci İşletim Tic.A.Ş.",
+        "receiverIban": "TR440001500158007409100100",
+        "description": "Gelen FAST İşlem No:2604750275 TR440001500158007409100100 Tutarı İle Bankamız T.A.Ş. AHMD USMAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790272565159,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A065F88B5CC4D70695F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
