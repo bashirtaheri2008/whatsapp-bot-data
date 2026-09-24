@@ -2200,6 +2200,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790251151931_9012m",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ERYAMAN",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "14:57:24",
+        "trackingNo": "5397000232",
+        "receiptNo": "2026-09-24-14.57.18.384689",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR210006200119800006653015",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790251151931,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD3863D561B452B168A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
