@@ -3099,6 +3099,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790260780726_gwn8h",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "17:37:32",
+        "trackingNo": "2026013399337510",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALEV ŞEHREMAN",
+        "senderIban": "TR3800015001583906",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790260780726,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A562C5C0C9580D26D66",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790260817984_kd5ml",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4158.37",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "17:39:26",
+        "trackingNo": "48087035 / 426702",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MERT ARSLAN",
+        "senderIban": "TR030004600005888000611227",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790260817985,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAFC1AF0E5614D96103",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
