@@ -2820,6 +2820,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790259062920_7bcxd",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "1200",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "17:10:31",
+        "trackingNo": "2026013398490190",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001589193",
+        "receiverName": "MOHAMMAD NASER AZIZI",
+        "receiverIban": "TR530001500158007322889343",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790259062920,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A5874EE26807AD746C9",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
