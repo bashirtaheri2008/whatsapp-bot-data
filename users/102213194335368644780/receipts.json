@@ -4711,6 +4711,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790278567740_c2rxr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "22:34:22",
+        "trackingNo": "7324934397",
+        "receiptNo": "F26360_4025",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR020001004025900059565006",
+        "receiverName": "ARZU KÜLAHLI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "8.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790278567740,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3C4A1B24E257769473",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
