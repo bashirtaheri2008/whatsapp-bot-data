@@ -4525,6 +4525,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790275896277_2vfnn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "21:50:00",
+        "trackingNo": "CKD2026001631440",
+        "receiptNo": "AWXCY-B-20260924246",
+        "referenceCode": "77ba1d1d-0c36-4f24-bce4-5b204ae03e18",
+        "senderName": "ERDEM DEMİRKULA",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "jawd usmanı",
+        "receiverIban": "",
+        "description": "Gönderen: ERDEM DEMİRKULA , Alıcı: jawd usmanı , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790275896277,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFF271FE1C273B20279",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
