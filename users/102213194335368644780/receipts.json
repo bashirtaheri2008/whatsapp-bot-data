@@ -1704,6 +1704,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790243150904_28bx4",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3990.00",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "12:44:17",
+        "trackingNo": "32061720 / 873714",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SEDA ÖZEL",
+        "senderIban": "TR940004600401888000221577",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790243150904,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2B1B6D0F99A628FE92",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
