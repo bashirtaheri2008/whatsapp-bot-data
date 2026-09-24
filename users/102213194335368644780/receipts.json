@@ -4308,6 +4308,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790273618804_c03uv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "1734",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "21:11:53",
+        "trackingNo": "AWJOC-B-20260924287",
+        "receiptNo": "CRF2026000555416",
+        "referenceCode": "4e788e2d-e0ae-4596-9939-cc17bfb8834a",
+        "senderName": "RECEP KÖSE",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: RECEP KÖSE, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790273618804,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A463034D7D4789A69C8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
