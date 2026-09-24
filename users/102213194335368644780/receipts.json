@@ -4866,6 +4866,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790280005754_na4y6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0132/ISPARTA ŞUBESİ",
+        "amount": "13650",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "22:59:03",
+        "trackingNo": "7325026263",
+        "receiptNo": "497940",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "EROL EMİN ASLAN",
+        "receiverIban": "TR420001000132825202315014",
+        "description": "13.650,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 0,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790280005754,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A575458CFB03976C6E3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
