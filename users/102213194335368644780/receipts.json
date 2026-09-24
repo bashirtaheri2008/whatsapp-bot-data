@@ -3595,6 +3595,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790267746784_rs8nx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KARAMAN ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "24/09/2026",
+        "time": "19:33:04",
+        "trackingNo": "7324173832",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "ESAT KARABACAK",
+        "senderIban": "TR820001000177848508665004",
+        "receiverName": "Jawid usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790267746784,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEDDB8E80CE3B66933B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
