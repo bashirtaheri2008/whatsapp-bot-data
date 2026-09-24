@@ -1394,6 +1394,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790238451522_t500b",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "SİNCAN ANKARA CADDESİ ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "11:22:44",
+        "trackingNo": "1688664654",
+        "receiptNo": "202609241518875",
+        "referenceCode": "01337-2299428",
+        "senderName": "RIDVAN VURAL",
+        "senderIban": "TR690011100000000164403984",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400011500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790238451522,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A279241D2CE71C25EA3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
