@@ -1146,6 +1146,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790229503385_bmdp0",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "40000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "08:58:02",
+        "trackingNo": "2026013374429393",
+        "receiptNo": "",
+        "referenceCode": "2954059677",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "CENGİZ SİLVER KUYUMCULUK İÇ VE DIŞ TİCARET SANAYİ LİMİTED ŞİRKETİ",
+        "receiverIban": "TR570013400002295505500001",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790229503385,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AFC27A65A6B3E728A4D",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
