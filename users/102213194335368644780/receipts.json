@@ -1363,6 +1363,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790238235173_nz3h0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "11:09:42",
+        "trackingNo": "626012380225994752",
+        "receiptNo": "",
+        "referenceCode": "24092026-9300-19969440",
+        "senderName": "ARİFE YILDIRIM",
+        "senderIban": "TR150013400002454497100001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790238235173,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC7D15457A17D72BDC4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
