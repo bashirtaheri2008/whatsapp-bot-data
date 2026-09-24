@@ -4587,6 +4587,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790276920931_kxblu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİNCAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "22:07:55",
+        "trackingNo": "7324847385",
+        "receiptNo": "",
+        "referenceCode": "F07867",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "EDA ÇELİK",
+        "receiverIban": "TR820001001754063401135001",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 0,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790276920931,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA896AFE052ACD7E8CD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
