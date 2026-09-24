@@ -3347,6 +3347,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790262627424_j2bu9",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYİ KONYA ŞUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "18:03:24",
+        "trackingNo": "16892715",
+        "receiptNo": "202609244550148",
+        "referenceCode": "01532-1157492",
+        "senderName": "MUHAMMET EYÜP DÜŞÜNCELİ",
+        "senderIban": "TR2100011100000000139719512",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790262627424,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9E5372C7DF3D20177B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790262647988_877on",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "24/09/2026",
+        "time": "18:08:41",
+        "trackingNo": "3782442145",
+        "receiptNo": "115637003080",
+        "referenceCode": "24.09.2026/447/8888/8888",
+        "senderName": "İBRAHİM EREN",
+        "senderIban": "TR45000640000011560782646",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "İBRAHİM EREN tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790262647988,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1C60EF75A6F111CA30",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790262709597_a3rsd",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "18:10:39",
+        "trackingNo": "2026013401207227",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "FATMA İNAL",
+        "senderIban": "TR8600015001586432",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790262709597,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB49B1230D092B3506C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
