@@ -4742,6 +4742,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790278848143_w2rp1",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "22:39:41",
+        "trackingNo": "626186021889257472",
+        "receiptNo": "",
+        "referenceCode": "24092026-9300-46069737",
+        "senderName": "GÜLTEKİN ÖZDEMİR",
+        "senderIban": "TR880013400002146319200004",
+        "receiverName": "JAWIDUSMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790278848143,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0A0EEFD89E0C0E279D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
