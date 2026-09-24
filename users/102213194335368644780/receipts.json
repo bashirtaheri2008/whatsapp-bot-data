@@ -1115,6 +1115,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790227552854_sd1dx",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNCAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "08:14:10",
+        "trackingNo": "3425000033",
+        "receiptNo": "2026-09-24-08.14.08.692603",
+        "referenceCode": "",
+        "senderName": "BEHİCE SULTAN UYSAL",
+        "senderIban": "TR470006200046500006891437",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790227552854,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2DEAD1C5C6D87A91BE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
