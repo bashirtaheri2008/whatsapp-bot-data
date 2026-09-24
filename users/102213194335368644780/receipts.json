@@ -3440,6 +3440,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790263182909_aofoz",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "18:15:54",
+        "trackingNo": "TR810004600221888000119649",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HASAN YAVUZYİĞİT",
+        "senderIban": "TR810004600221888000119649",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790263182909,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A42800809454DBFC34C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
