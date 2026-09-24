@@ -4153,6 +4153,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790272442818_bsb53",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2488/ZAFER/KONYA ŞUBESİ",
+        "amount": "15000",
+        "currency": "TRY",
+        "date": "24/09/2026",
+        "time": "20:53:10",
+        "trackingNo": "F12794",
+        "receiptNo": "7324572416",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR100001002488603156125003",
+        "receiverName": "HÜSEYİN KOCAKULAK",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID USMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790272442818,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0CE1099B39559811B8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
