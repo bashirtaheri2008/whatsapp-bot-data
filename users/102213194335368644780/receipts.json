@@ -1208,6 +1208,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790232439288_iu1tr",
+      "data": {
+        "isReceipt": true,
+        "bank": "TÜRKİYE İŞ BANKASI",
+        "bankBranch": "GEYVE/SAKARYA",
+        "amount": "38000",
+        "currency": "TL",
+        "date": "22/09/2026",
+        "time": "08:41:44",
+        "trackingNo": "H26095657816",
+        "receiptNo": "2026002988",
+        "referenceCode": "22.09.2026/447/8888/8888",
+        "senderName": "EROL İNAN",
+        "senderIban": "TR690006400000120200312545",
+        "receiverName": "NU**** GO**** KU**** AN**** Şİ****",
+        "receiverIban": "TR540006400000145004128689",
+        "description": "elden aldığım altın bedeli"
+      },
+      "sender": "135412265783517",
+      "timestamp": 1790232439288,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363410970580686@g.us",
+        "fromMe": false,
+        "id": "3A93217369D1AF9BFA3A",
+        "participant": "135412265783517@lid",
+        "participantAlt": "93780121382@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
