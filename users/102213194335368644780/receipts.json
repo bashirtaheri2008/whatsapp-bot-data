@@ -4618,6 +4618,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790277628952_bdkyp",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARATAY SANAYİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "22:19:25",
+        "trackingNo": "1653000452",
+        "receiptNo": "2026-09-24-22.19.23.070820",
+        "referenceCode": "",
+        "senderName": "MURAT YILMAZOĞLU",
+        "senderIban": "TR840006200051900006657313",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790277628952,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2BA189C31B83B141C7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
