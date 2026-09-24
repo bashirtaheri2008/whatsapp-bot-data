@@ -1983,6 +1983,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790247213426_ree6r",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "SERVİS ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "13:49:25",
+        "trackingNo": "202609242667974",
+        "receiptNo": "01164-5841611",
+        "referenceCode": "1688881991",
+        "senderName": "BARİŞ SARI",
+        "senderIban": "TR3900111000000000154925393",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790247213426,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A38ADC073A2F4C339D6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
