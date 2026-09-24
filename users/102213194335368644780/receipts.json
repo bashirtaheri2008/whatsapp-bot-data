@@ -1487,6 +1487,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790240709165_ub51q",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک تجارت",
+        "bankBranch": "",
+        "amount": "600000000",
+        "currency": "TL",
+        "date": "22/07/1450",
+        "time": "12:33",
+        "trackingNo": "14507020182010588",
+        "receiptNo": "2381460887",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "فرشته تیموری",
+        "receiverIban": "IR30101010000000501936",
+        "description": "خرید کالا"
+      },
+      "sender": "17549588717728",
+      "timestamp": 1790240709165,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "2A34C679C81B4656A910",
+        "participant": "17549588717728@lid",
+        "participantAlt": "93781813112@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
