@@ -4649,6 +4649,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790277959845_2x08d",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "55500",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "17:34:45",
+        "trackingNo": "2955407872",
+        "receiptNo": "",
+        "referenceCode": "2026013399241739",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "FOLAD BAY RAHMATI",
+        "receiverIban": "TR310006400000145010999225",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790277959845,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AAA3D4F53C468E07DC4",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
