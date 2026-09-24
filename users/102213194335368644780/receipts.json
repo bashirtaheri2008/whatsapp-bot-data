@@ -2665,6 +2665,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790255735100_3kd7e",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "İstanbul",
+        "amount": "4500.00",
+        "currency": "TRY",
+        "date": "24/03/2026",
+        "time": "16:09:18",
+        "trackingNo": "376202401683",
+        "receiptNo": "45005417",
+        "referenceCode": "240920260472397821",
+        "senderName": "KADİR SOSLU",
+        "senderIban": "TR440001500158007591459150",
+        "receiverName": "MOBİL BANKACILIK",
+        "receiverIban": "TR620006400000145050968099",
+        "description": "KADİR SOSLU tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790255735100,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2EE36CEB9EAB300FD5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
