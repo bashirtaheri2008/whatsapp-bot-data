@@ -1177,6 +1177,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790232044644_jsox3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk Katılım Bankası A.Ş.",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "24/09/2026",
+        "time": "06:10:34",
+        "trackingNo": "BDM2026002121205",
+        "receiptNo": "AG145-B-202609247",
+        "referenceCode": "cb56f716-cacc-4a5b-adb2-80814d72731c",
+        "senderName": "YAVUZ YÜREK",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: YAVUZ YÜREK, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790232044644,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0802258AB68B4AF986",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
