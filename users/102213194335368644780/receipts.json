@@ -7067,6 +7067,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790342307144_eieq6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BOSNA HERSEK MAH.",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "16:16:11",
+        "trackingNo": "7305000280",
+        "receiptNo": "2026-09-25-16.16.09.146115",
+        "referenceCode": "",
+        "senderName": "MEHMET EMİN ŞENOL",
+        "senderIban": "TR450006200144800006633776",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID USMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790342307144,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5E5D90B2FBB3BFBCF0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
