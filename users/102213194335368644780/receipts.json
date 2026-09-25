@@ -6478,6 +6478,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790337681266_1ijz8",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "15:00:48",
+        "trackingNo": "2026013438841688",
+        "receiptNo": "",
+        "referenceCode": "2957431392",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Amirataha Shahnavaazi",
+        "receiverIban": "TR780001001946889742925001",
+        "description": "FAST Giden Anlık Ödeme"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790337681266,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4AB837A11421A8E342D8",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
