@@ -6385,6 +6385,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790336119060_kt6ua",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "14:30:15",
+        "trackingNo": "254694409910",
+        "receiptNo": "SYI202629835165",
+        "referenceCode": "254696146602",
+        "senderName": "İSA SOĞANLIOĞLU",
+        "senderIban": "TR2200067010000003160971",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790336119060,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF63A15322BCD745F09",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
