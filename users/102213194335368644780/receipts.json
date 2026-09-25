@@ -7563,6 +7563,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790348408137_copip",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "17:51",
+        "trackingNo": "1627596091",
+        "receiptNo": "M-2026-09-25-17.51.15.994051",
+        "referenceCode": "",
+        "senderName": "EMİN YURT",
+        "senderIban": "TR940001200938400001072225",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158017391459193",
+        "description": "GİDEN FAST - EMİN YURT TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790348408137,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A89370EED234A2442D9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
