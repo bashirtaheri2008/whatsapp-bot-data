@@ -6509,6 +6509,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790337775314_t50pe",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "15:00:03",
+        "trackingNo": "73544_4003",
+        "receiptNo": "73544_4003",
+        "referenceCode": "73828122638",
+        "senderName": "MUHAMMED CİNFİR",
+        "senderIban": "TR090001004003817011295006",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "7500,00 TRY tutarında Fast işleminiz yapılmıştır. Bu işlem için tarafınıza bildirilen 4,18 TRY masraf alınması talep edilmek."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790337775314,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5F1890F82A3B61636C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
