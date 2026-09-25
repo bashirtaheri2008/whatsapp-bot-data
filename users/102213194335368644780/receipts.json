@@ -7098,6 +7098,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790342359455_vidcp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ANKARA ATATÜRK",
+        "amount": "1000000",
+        "currency": "TL",
+        "date": "15/01/2026",
+        "time": "10:15:22",
+        "trackingNo": "TR630001000458500000012345",
+        "receiptNo": "1234567890",
+        "referenceCode": "TR630001000458500000012345",
+        "senderName": "AHMET YILMAZ",
+        "senderIban": "TR630001000458500000012345",
+        "receiverName": "MUSTAFA DEMIR",
+        "receiverIban": "TR120000600000000001234567",
+        "description": "HESAPTA FAST"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790342359455,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AFDEF37BAC74AE877D2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
