@@ -6912,6 +6912,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790341369146_k489f",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "16:02:02",
+        "trackingNo": "2026013442293080",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET ÇULHA",
+        "senderIban": "TR7800015001581589",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790341369146,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA225171036D0321628",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790341511848_x2k7h",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "16:02",
+        "trackingNo": "4849290578",
+        "receiptNo": "202609270473961",
+        "referenceCode": "03663-03663-929755483",
+        "senderName": "Fatih Burak",
+        "senderIban": "TR1400157000000000127906976",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790341511848,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD805FDA8A27A65F075",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
