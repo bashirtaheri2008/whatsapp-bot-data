@@ -8276,6 +8276,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790356260404_rjdfc",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "7008.37",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "20:08:38",
+        "trackingNo": "37077599 / 282118",
+        "receiptNo": "",
+        "referenceCode": "TR430004600922888000100706",
+        "senderName": "HASAN BASRİ SÜMMEN",
+        "senderIban": "TR430004600922888000100706",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790356260404,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A865A46A2D6DA8CC589",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790356890448_g3kbi",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "OSTİM BULVARI ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "20:20:50",
+        "trackingNo": "1690961353",
+        "receiptNo": "01326-1289290",
+        "referenceCode": "202609256143280",
+        "senderName": "YASİN KOLCU",
+        "senderIban": "TR5900111000000000156090197",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790356890448,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE46D79C59F20D50BCD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
