@@ -5672,6 +5672,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790324473167_uu1se",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0309/KARAPINAR/KONYA ŞUBESİ",
+        "amount": "8500",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "10:53:29",
+        "trackingNo": "7236328416",
+        "receiptNo": "062220",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "ABDULLAH KARATAŞ",
+        "receiverIban": "TR840001000309875433775002",
+        "description": "8.500,00 TL tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 16,76 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790324473167,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A09FC49CC7E11229BDF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790324490587_osqmw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BİNKONUTLAR/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "25/09/2026",
+        "time": "10:42:27",
+        "trackingNo": "7326313493",
+        "receiptNo": "",
+        "referenceCode": "F04517",
+        "senderName": "ORHAN ÖĞÜZ",
+        "senderIban": "TR020001001916790693155006",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790324490587,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9E12CA92243605CAA5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790324509756_tegyk",
+      "data": {
+        "isReceipt": true,
+        "bank": "PTT BANKASI",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "11:09:39",
+        "trackingNo": "244023",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "KAMURAN SOLAK",
+        "receiverIban": "TR499289",
+        "description": "BİREYSEL ÖDEME"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790324509756,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A71AA3A6C95A1500F40",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
