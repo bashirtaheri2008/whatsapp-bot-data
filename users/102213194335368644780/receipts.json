@@ -5176,6 +5176,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790312096818_wtvxd",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.Ş.",
+        "bankBranch": "BİREYSEL MERKEZ ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "01:22:02",
+        "trackingNo": "26346740091",
+        "receiptNo": "45927782",
+        "referenceCode": "TR440001500158007391459193",
+        "senderName": "MUSA BİÇER",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Giden FAST Sorgu No:26346740091 TR440001500158007391459193 Türkiye Vakıflar Bankası T.A.O. JAWID USMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790312096818,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA9F1360F5EF86019E5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
