@@ -6292,6 +6292,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790334034101_4hs80",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARATAY ŞUBESİ",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "12:49:39",
+        "trackingNo": "202609252176501",
+        "receiptNo": "00422-1217636",
+        "referenceCode": "169014",
+        "senderName": "FURKAN KARAKAYA",
+        "senderIban": "TR740011100000000082916231",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790334034101,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFD8F21DC3DCF465EBF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
