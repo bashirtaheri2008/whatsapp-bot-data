@@ -5765,6 +5765,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790325267266_ta06v",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "25/09/2026",
+        "time": "11:30:20",
+        "trackingNo": "3784038875",
+        "receiptNo": "A032026480267534",
+        "referenceCode": "085db0cf-0609-4b6f-bad6-881dd3fdaeee",
+        "senderName": "RAMAZAN ŞENGÜL",
+        "senderIban": "TR300006400000162201487944",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "RAMAZAN ŞENGÜL TARAFINDAN AKTARILAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790325267266,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF2CA455F6D2B5B19EA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
