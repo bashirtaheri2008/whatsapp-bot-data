@@ -5145,6 +5145,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790305517835_w9122",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "00:25:53",
+        "trackingNo": "2026013413932348",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET AKDEMİR",
+        "senderIban": "TR8200015001582737",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790305517835,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A674709D0DCE2CBAE22",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
