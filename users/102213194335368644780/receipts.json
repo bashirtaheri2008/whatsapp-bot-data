@@ -6044,6 +6044,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790328553960_3qpcn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1916/BİNKONUTLAR/KONYA ŞUBESİ",
+        "amount": "900",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "12:23:49",
+        "trackingNo": "7327031164",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "ORHAN ÖĞÜZ",
+        "senderIban": "TR020001001916790693155006",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "900,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790328553960,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2BB7097BB70FD20F27",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
