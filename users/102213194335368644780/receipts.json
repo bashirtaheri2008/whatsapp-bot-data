@@ -7315,6 +7315,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790344737765_gzfxa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0497/YUNAK/KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "16:57:58",
+        "trackingNo": "7329266860",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR280001000497768303255002",
+        "receiverName": "Jawid Usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.500,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790344737765,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3A6348694007BA3F82",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
