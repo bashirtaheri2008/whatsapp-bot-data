@@ -9175,6 +9175,68 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790366222736_i3ipm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0537/BANAZ/USAÇK ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "22:41:26",
+        "trackingNo": "F09052",
+        "receiptNo": "7331466140",
+        "referenceCode": "A01",
+        "senderName": "MUHAMMED GÜNER",
+        "senderIban": "TR300001000537790466895001",
+        "receiverName": "Jawid usmani",
+        "receiverIban": "TR440001500158007291459195",
+        "description": "HESAPTAN FAST"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790366222736,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA2BE26F9EEE0DF7D55",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790366225062_rvqho",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNCAN",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "22:44:24",
+        "trackingNo": "7764000512",
+        "receiptNo": "2026-09-25-22.44.20.706999",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR610006200046500006878575",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459183",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790366225062,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4E22FE24ABB4630094",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
