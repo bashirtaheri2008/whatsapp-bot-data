@@ -7780,6 +7780,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790350448955_83d5n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0847/TOPRAKLIK/ANKARA ŞUBESİ",
+        "amount": "780",
+        "currency": "TRY",
+        "date": "25/09/2026",
+        "time": "18:32:19",
+        "trackingNo": "7330027929",
+        "receiptNo": "",
+        "referenceCode": "F05659",
+        "senderName": "GÖZDENUR ENGEZ",
+        "senderIban": "TR290001000847605249315003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesabınızdan 788,37 TL (Yalnız YEDİYÜZSEKSENSEKİZTLOTUZYEDİKÜR) Çekilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790350448955,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A677187A7DAF32DD4B2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
