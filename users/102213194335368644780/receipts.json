@@ -5579,6 +5579,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790321076616_7kgug",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0731/SİNCAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "10:23:27",
+        "trackingNo": "7326199305",
+        "receiptNo": "F04483",
+        "referenceCode": "A01",
+        "senderName": "ERAY ÇİFTÇİ",
+        "senderIban": "TR710001000731935194925001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790321076616,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEA9E389CC72C74C7FB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
