@@ -5889,6 +5889,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790327076945_la2tp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0193/SOMA/MANİSA ŞUBESİ",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "11:54:55",
+        "trackingNo": "7326806137",
+        "receiptNo": "F04941",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR450001000193625737345005",
+        "receiverName": "MUSA KOYUNCU",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "javid usman"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790327076945,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A27B9F16DFE581A4985",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
