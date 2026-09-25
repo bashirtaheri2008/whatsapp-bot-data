@@ -5424,6 +5424,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790316788315_uacnm",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "09:08:24",
+        "trackingNo": "2026013423416864",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "NUH YAĞIZ",
+        "senderIban": "TR8600015001586607",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790316788315,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5F864399EB4D0595E2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
