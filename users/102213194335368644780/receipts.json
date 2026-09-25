@@ -8338,6 +8338,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790357874355_905xp",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DİREKT MOBİL CEP",
+        "amount": "4708.37",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "20:27:03",
+        "trackingNo": "20579927",
+        "receiptNo": "306789",
+        "referenceCode": "",
+        "senderName": "SADIK ASLAN",
+        "senderIban": "TR8801790202113",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790357874355,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABCFA0A616A1A6FA365",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790357876877_a0tmj",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "SİNCAK ANKARA CADDESİ ŞUBESİ",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "20:32:22",
+        "trackingNo": "202609256211036",
+        "receiptNo": "01337-2309840",
+        "referenceCode": "1690976888",
+        "senderName": "BURAK GÜMÜŞBAŞ",
+        "senderIban": "TR570011100000000167186354",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790357876877,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAA77719D72705D0D44",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
