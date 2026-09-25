@@ -5858,6 +5858,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790326347904_w1a8m",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0193/SOMA/MANİSA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "11:47:59",
+        "trackingNo": "7326795484",
+        "receiptNo": "F04841",
+        "referenceCode": "A01",
+        "senderName": "BESBİNEKİZLOTLUZÜYEDİKİR",
+        "senderIban": "",
+        "receiverName": "MUSA KOYUNCU",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790326347904,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC180A9F81973F12E1C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
