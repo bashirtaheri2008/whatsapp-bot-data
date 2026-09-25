@@ -6540,6 +6540,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790337779074_tpbce",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SELÇUKLU",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "15:00:23",
+        "trackingNo": "6153000229",
+        "receiptNo": "2026-09-25-15.00.20.735337",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR700006200146400006650997",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790337779074,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA39DE3C7E7107C31DD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790337810329_5ha46",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "15:03:12",
+        "trackingNo": "2957458395",
+        "receiptNo": "",
+        "referenceCode": "2026013438948717",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Ercan yurt",
+        "receiverIban": "TR82001570000000203429855",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790337810329,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AAE088794B7CC865777",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790337919253_g25mx",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "15:02:55",
+        "trackingNo": "2026013438975851",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HASAN HÜSEYİN GÜZEL",
+        "senderIban": "TR9700015001580911",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790337919253,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7477BBE885322500AD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
