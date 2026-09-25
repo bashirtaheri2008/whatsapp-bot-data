@@ -6819,6 +6819,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790341239249_uuerw",
+      "data": {
+        "isReceipt": true,
+        "bank": "KUVEYT TÜRK",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "15:59:05",
+        "trackingNo": "CRJ2026001405710",
+        "receiptNo": "AQQYP-B-20260925292",
+        "referenceCode": "97981206",
+        "senderName": "HAMDI ÖZMEN",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: HAMDI ÖZMEN, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790341239249,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA1EAE02C68654B36E4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
