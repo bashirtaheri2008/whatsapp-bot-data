@@ -7346,6 +7346,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790345535750_wqofy",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "16:48",
+        "trackingNo": "1627453774",
+        "receiptNo": "",
+        "referenceCode": "M-2026-09-25-16.48.18.095135",
+        "senderName": "GÜRHAN GÜNASLAN",
+        "senderIban": "TR300001200951100001036949",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - GÜRHAN GÜNASLAN TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790345535750,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC7C9274BB92882C968",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
