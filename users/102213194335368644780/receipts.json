@@ -7904,6 +7904,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790353490977_81dqq",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SELÇUKLU",
+        "amount": "5900",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "19:22:27",
+        "trackingNo": "5771000435",
+        "receiptNo": "2026-09-25-19.22.04.514944",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "KEMAL KÜÇÜKÇELEBİ",
+        "receiverIban": "TR320006200146400006880601",
+        "description": "ET PETROL"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790353490977,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6D75681268445668C6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
