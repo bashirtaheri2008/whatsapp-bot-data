@@ -9299,6 +9299,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790369498332_a4g1p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0118/BİLECİK ŞUBESİ",
+        "amount": "4505",
+        "currency": "TL",
+        "date": "25/09/2026",
+        "time": "23:46:18",
+        "trackingNo": "7331603820",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "FATİH ÖZDEM",
+        "senderIban": "TR820001000118644482685001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesabınızdan 4.513,37 TL (Yalnız DÖRTBİNBEŞYÜZONÜÇTLUTUZYEDİKÜR) Çekilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790369498332,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A40FBFF591F677F6A18",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
