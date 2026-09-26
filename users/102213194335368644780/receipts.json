@@ -13298,6 +13298,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790455122125_uodnb",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "3400",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "23:33:38",
+        "trackingNo": "626924371640459264",
+        "receiptNo": "",
+        "referenceCode": "26092026-9300-42485120",
+        "senderName": "AYSEL BAYRAKCI",
+        "senderIban": "TR930013400002576965800001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790455122125,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0B603FCD3D42686676",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
