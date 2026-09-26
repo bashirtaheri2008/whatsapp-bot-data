@@ -13205,6 +13205,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790452504383_thrx7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4850.00",
+        "currency": "TRY",
+        "date": "26/09/2026",
+        "time": "22:20:48",
+        "trackingNo": "3788588838",
+        "receiptNo": "426225004590",
+        "referenceCode": "26.09.2026/447/88888/8888",
+        "senderName": "HALİL İBRAHİM TUNÇAY",
+        "senderIban": "TR920006400000142620290925",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "HALİL İBRAHİM TUNÇAY tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790452504383,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4D1812F9226358C277",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
