@@ -12647,6 +12647,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790445075737_xpnnx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ETİMESGUT",
+        "amount": "60000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "20:04:52",
+        "trackingNo": "2880000347",
+        "receiptNo": "2026-09-26-20.04.35.351906",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR26000620003020006839668",
+        "receiverName": "HASAN BAŞARAN",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ AltmişBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790445075737,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC2E74D13AF5AD9E04B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
