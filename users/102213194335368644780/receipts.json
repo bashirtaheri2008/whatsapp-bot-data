@@ -9578,6 +9578,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790404678482_22s4q",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kueveyt Türk",
+        "bankBranch": "Mobıl Şube",
+        "amount": "7000.00",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "09:25:05",
+        "trackingNo": "BN00260901255331",
+        "receiptNo": "95285352",
+        "referenceCode": "95285352-0-26090925105",
+        "senderName": "Cevdet Mutluoğlu",
+        "senderIban": "TR440001500158007991459193",
+        "receiverName": "SABAN KADIR AKYILDIZ",
+        "receiverIban": "TR440001500158007991459193",
+        "description": "SABAN KADIR AKYILDIZ - Alıcı: JAWID USMANI - IBAN'a Para Transf..."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790404678482,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3F026E6A25803BC984",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
