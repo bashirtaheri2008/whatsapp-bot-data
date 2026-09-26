@@ -9733,6 +9733,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790407692109_km04d",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "10:23:43",
+        "trackingNo": "2026013471427324",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUSA BEYOĞLU",
+        "senderIban": "TR960001500158******6071",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790407692109,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA8AC5B67E04152D629",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790407912347_dbop8",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "150000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "10:31:30",
+        "trackingNo": "2026013471808904",
+        "receiptNo": "",
+        "referenceCode": "2959174993",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "NUH GOLD KUYUMCULUK ANONIM ŞİRKETİ",
+        "receiverIban": "TR540006400000145004128689",
+        "description": "ELDEN ALDIĞIM ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790407912347,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A2DF54EFACA87350399",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
