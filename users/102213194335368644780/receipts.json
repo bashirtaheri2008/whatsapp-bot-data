@@ -11066,6 +11066,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790428746831_b4gxj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SİNCAN ÇARŞI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "16:10:14",
+        "trackingNo": "7724000242",
+        "receiptNo": "2026-09-26-16.10.04.806910",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR870006200109100006876820",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790428746831,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7FE99BFF6D16BD9F0F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
