@@ -9795,6 +9795,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790408612746_9g80g",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "10:40:43",
+        "trackingNo": "36396394",
+        "receiptNo": "734657",
+        "referenceCode": "",
+        "senderName": "ARDA KAYNAK",
+        "senderIban": "TR370004600005888000733902",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790408612746,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AECF1C1F8EEDBBD8380",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
