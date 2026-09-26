@@ -10043,6 +10043,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790412352085_eg9xi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "26/09/2026",
+        "time": "11:16:52",
+        "trackingNo": "3787165475",
+        "receiptNo": "437538001031",
+        "referenceCode": "26.09.2026/447/8888/8888",
+        "senderName": "MUSTAFA YURDAKUL",
+        "senderIban": "TR330006400000143750075916",
+        "receiverName": "JAWID OSMANI",
+        "receiverIban": "TR445001500158007391459193",
+        "description": "MUSTAFA YURDAKUL tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790412352085,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC23D334DB63BE747E9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
