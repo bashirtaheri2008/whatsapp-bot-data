@@ -11469,6 +11469,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790435204439_dflf4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "18:04:26",
+        "trackingNo": "7335361100",
+        "receiptNo": "F17484_4035",
+        "referenceCode": "A01",
+        "senderName": "ZIYA ARGUN",
+        "senderIban": "TR780001004035630869345002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ALTI BİNE BÉŞ YÜZ EKİZ LOTO YÜZ EDİK R"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790435204439,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEE77EE654B17968BBD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
