@@ -11128,6 +11128,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790429431038_52ie2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "UFUKTEPE / KEÇİÖREN",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "16:19:18",
+        "trackingNo": "8069000241",
+        "receiptNo": "2026-09-26-16.19.19.13.877324",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR900006200135700006599665",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790429431038,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABEF89BA03F2AD1746F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
