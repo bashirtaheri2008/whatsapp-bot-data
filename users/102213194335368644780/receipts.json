@@ -13112,6 +13112,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790450936585_s22yb",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYİ KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "22:26:32",
+        "trackingNo": "1692292952",
+        "receiptNo": "202609265287257",
+        "referenceCode": "01532-1165407",
+        "senderName": "MUHAMMET EYÜP DÜŞÜNCELİ",
+        "senderIban": "TR2100011000000000139719512",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790450936585,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7B981BB05046E48C00",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
