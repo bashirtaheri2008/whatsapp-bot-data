@@ -9857,6 +9857,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790410039427_v7jpg",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4308.37",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "10:59:02",
+        "trackingNo": "17737372",
+        "receiptNo": "752894",
+        "referenceCode": "",
+        "senderName": "SERKAN DOĞANER",
+        "senderIban": "TR270004600153888000185325",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790410039427,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF453E99E4AD705BF0A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
