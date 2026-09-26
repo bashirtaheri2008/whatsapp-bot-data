@@ -13019,6 +13019,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790449459937_yx3hk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0880/HÜYÜK/KONYA ŞUBESİ",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "21:59:35",
+        "trackingNo": "F04448",
+        "receiptNo": "7336593753",
+        "referenceCode": "A01",
+        "senderName": "ERTUĞRUL GÜNEY",
+        "senderIban": "TR570001000880891350255002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Yalnız İKİBİNEKİZLOTÜZYEDİKİR"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790449459937,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADF039FC50F981D82E3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
