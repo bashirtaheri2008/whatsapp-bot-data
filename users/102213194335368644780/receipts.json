@@ -12492,6 +12492,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790443376110_mivke",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0022/BOLVADIN/AFYONKARAHİSAR ŞUBESİ",
+        "amount": "17000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "20:10:34",
+        "trackingNo": "F06708",
+        "receiptNo": "7336018085",
+        "referenceCode": "A01",
+        "senderName": "HAVA AKSU",
+        "senderIban": "TR330001000022669924015001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "HESAPTAN FAST"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790443376110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB199694BAE52759DAD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790443551337_fhbzs",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "20:25:07",
+        "trackingNo": "2026013496948017",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RİFKİ AKTAŞ",
+        "senderIban": "TR5800015001584798",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790443551337,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A010C282BE6F65321E3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
