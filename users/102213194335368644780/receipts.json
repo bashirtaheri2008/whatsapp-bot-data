@@ -13422,6 +13422,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790465643978_jfuk7",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "01:46:08",
+        "trackingNo": "6902000019",
+        "receiptNo": "2026-09-27-00.58.47.565958",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "SÜLEYMAN PINARCI",
+        "receiverIban": "TR820001001985801478545002",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790465643978,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4D719F1400104DEFEF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
