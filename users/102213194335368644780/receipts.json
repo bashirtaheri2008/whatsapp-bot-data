@@ -10632,6 +10632,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790423504984_gcqnb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Aktifbank",
+        "bankBranch": "444 - Bireysel Bankacılık Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "14:49",
+        "trackingNo": "4603903208",
+        "receiptNo": "59142097",
+        "referenceCode": "",
+        "senderName": "AHMET MERT",
+        "senderIban": "TR11001430000000029536370",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790423504984,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A78606F65DAF65C7601",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
