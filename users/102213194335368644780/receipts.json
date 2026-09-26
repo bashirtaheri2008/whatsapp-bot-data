@@ -9547,6 +9547,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790395571545_661ku",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARAMAN",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "00:42:40",
+        "trackingNo": "3787000014",
+        "receiptNo": "2026-09-26-00.42.36.383020",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "SEVKET TAŞER",
+        "receiverIban": "TR660006200059400006854754",
+        "description": "YALNIZ DörtBinBeşYüzTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790395571545,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A129AC5F2354E09D83E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
