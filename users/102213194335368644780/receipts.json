@@ -11159,6 +11159,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790429913897_9td8g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Aktifbank",
+        "bankBranch": "444 - Birleşik Bankacılık Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "16:33",
+        "trackingNo": "4603903208",
+        "receiptNo": "0850 724 30 50",
+        "referenceCode": "0198 17/4007004 - 04",
+        "senderName": "AIHMET MERT",
+        "senderIban": "TR11001430000000029536370",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "MBLNKOLAY / Sogru No:591420"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790429913897,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA03416F4F62FFBB6E4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
