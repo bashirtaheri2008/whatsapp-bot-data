@@ -13143,6 +13143,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790451221613_xxukj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "97 KAMENİ KÖYÜ MERKEZ KARAMAN",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "12:24:00",
+        "trackingNo": "16338649855",
+        "receiptNo": "16338649855",
+        "referenceCode": "TR440001500158007391459193",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWİT USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Türkiye ve Vakıflar Bankası T.A.O./TR440001500158007391459193-JAWİT USMANI/FAST işlemi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790451221613,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A88B0884B65B1DD5CD1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
