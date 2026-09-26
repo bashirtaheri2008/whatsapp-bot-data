@@ -11376,6 +11376,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790434295942_71a0g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "26/09/2026",
+        "time": "17:49:18",
+        "trackingNo": "3788329181",
+        "receiptNo": "426893004200",
+        "referenceCode": "26.09.2026/447/88888/8888",
+        "senderName": "MURAT ÇAĞLAN",
+        "senderIban": "TR400006400000142680698417",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MURAT ÇAĞLAN TARAFINDAN AKTARILAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790434295942,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A21B81722E655438B91",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
