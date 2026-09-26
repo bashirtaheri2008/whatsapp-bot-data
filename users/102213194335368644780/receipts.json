@@ -12802,6 +12802,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790446876000_x5kfs",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0265/ÇUMRA/KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "21:15:59",
+        "trackingNo": "7336418321",
+        "receiptNo": "",
+        "referenceCode": "F17370",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "EYÜP CURA",
+        "receiverIban": "TR390001009010587223205001",
+        "description": "Fast Mesaj Kodu: A01"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790446876000,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A74D27B418AFCCFD565",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
