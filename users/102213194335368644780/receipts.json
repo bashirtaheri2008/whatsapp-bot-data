@@ -11438,6 +11438,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790435128906_a98cn",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "70000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "18:01:53",
+        "trackingNo": "2960220737",
+        "receiptNo": "",
+        "referenceCode": "2026013492216228",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "NUH GOLD KUYUMCULUK ANONIM ŞİRKETİ",
+        "receiverIban": "TR36000670100000407224171",
+        "description": "ALDIM ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790435128906,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AB35CF4CB6B9B383A84",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
