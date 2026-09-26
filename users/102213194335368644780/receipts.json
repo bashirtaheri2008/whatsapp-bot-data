@@ -11686,6 +11686,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790436919311_qhtsg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1345/ESKİL/AKSARAY ŞUBESİ",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "18:26:25",
+        "trackingNo": "7335456028",
+        "receiptNo": "F10021",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR560001001345914373475001",
+        "receiverName": "JAWID UMMANİ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "7.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790436919311,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A575A06AAA2EF1F17EE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
