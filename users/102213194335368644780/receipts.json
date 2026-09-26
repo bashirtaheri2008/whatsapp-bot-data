@@ -11934,6 +11934,161 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790439127625_0dx0f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "MESIR/MANISA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "26/09/2026",
+        "time": "19:03:46",
+        "trackingNo": "7355647271",
+        "receiptNo": "",
+        "referenceCode": "36517159580",
+        "senderName": "YUSUF KAYA",
+        "senderIban": "TR330001001256757127505001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesabindan 5.008,37 TL (Yalnız BEŞBİNSEKİZTLÜTZEDİRKUR) Çekilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790439127625,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC222223CD8C9FD4F27",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790439139867_g7sn9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TÜRKÖZÜ/ANKARA ŞUBESİ",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "11:50:15",
+        "trackingNo": "7332888420",
+        "receiptNo": "F01061",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "MUSTAFA KARATEKELİOĞLU",
+        "receiverIban": "TR420001001521638928595003",
+        "description": "4.400,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790439139867,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A93158D0BA585CCA297",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790439142906_q18kj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0847/TOPRAKLIK/ANKARA ŞUBESİ",
+        "amount": "1960",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "11:24:27",
+        "trackingNo": "7332653320",
+        "receiptNo": "",
+        "referenceCode": "F01189",
+        "senderName": "GÖZDENUR ENGEZ",
+        "senderIban": "TR2900010008476052493150",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "1.960,00 TRY tutarında Fast İşleminin yapılmasını, Bu işlem tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790439142906,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC1EDF893AE20ABEDED",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790439199342_qoku9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANADOLU SANAYİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "19:10:29",
+        "trackingNo": "9029000304",
+        "receiptNo": "2026-09-26-19.10.12.858189",
+        "referenceCode": "",
+        "senderName": "SERKAN YILMAZ",
+        "senderIban": "TR790006200105200006639412",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ AltıBinBeşYüzTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790439199342,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A99A1A2BB1A24F0DF52",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790439688286_7vsll",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2603/ZAFER SANAYİ/KONYA ŞUBESİ",
+        "amount": "6300",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "19:20:30",
+        "trackingNo": "7335816153",
+        "receiptNo": "F11723",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "İHSAN KARAAOKUR",
+        "receiverIban": "TR460001002603401664065003",
+        "description": "6.300,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790439688286,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A18F11458161C0D9EA7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
