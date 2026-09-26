@@ -10260,6 +10260,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790416571818_wz0l7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ELVANKENT",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "12:54:20",
+        "trackingNo": "9679000126",
+        "receiptNo": "2026-09-26-12.54.17.808837",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR370006200124700006641521",
+        "receiverName": "HAZAL POLAT",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ BesBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790416571818,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD3453E1706F702DC7F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
