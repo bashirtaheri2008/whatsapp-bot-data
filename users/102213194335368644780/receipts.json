@@ -12461,6 +12461,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790443319489_7ciq0",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "20:19",
+        "trackingNo": "1629312593",
+        "receiptNo": "M-2026-09-26-20.19.18.290246",
+        "referenceCode": "",
+        "senderName": "AHMET KOÇAK",
+        "senderIban": "TR520001200951700001028375",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - AHMET KOÇAK TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790443319489,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A647F64EB7D6C8D3BA2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
