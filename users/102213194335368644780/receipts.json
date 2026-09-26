@@ -13050,6 +13050,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790449537431_1p4hm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "İSTANBUL",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "26/09/2024",
+        "time": "22:03:43",
+        "trackingNo": "30870000338",
+        "receiptNo": "2024-09-26-22.01.24.632280",
+        "referenceCode": "2024-0001-3001-8006-7201-8501-01",
+        "senderName": "KARADENIZ",
+        "senderIban": "",
+        "receiverName": "GARAN",
+        "receiverIban": "",
+        "description": "HESAP"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790449537431,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0E18A1B4D487F4EC3C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790449612847_eopn8",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARAMAN",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "26/09/2026",
+        "time": "22:05:16",
+        "trackingNo": "3087000388",
+        "receiptNo": "2026-09-26-22.01.24.652260",
+        "referenceCode": "",
+        "senderName": "ALİ ALİBİNGÖL",
+        "senderIban": "TR110006200059400006607327",
+        "receiverName": "JAWID UZMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790449612847,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A870AA2059C2CBBE3A7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
