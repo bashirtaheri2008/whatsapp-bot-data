@@ -15654,6 +15654,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790529868998_u46rg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "GÖLYAKA/DÜZCE ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "27/09/2026",
+        "time": "20:21:29",
+        "trackingNo": "7340168043",
+        "receiptNo": "",
+        "referenceCode": "F12000",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "ENES ORHAN",
+        "receiverIban": "TR830001000805755217635002",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 0,00 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790529868998,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A42E33AFC32D1D0B79C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
