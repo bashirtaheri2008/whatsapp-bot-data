@@ -15437,6 +15437,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790525874990_kbs7i",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "19:13:34",
+        "trackingNo": "6689000256",
+        "receiptNo": "2026-09-27-19.12.58.525869",
+        "referenceCode": "",
+        "senderName": "MEHMET YAKARŞİMŞEK",
+        "senderIban": "TR830006200041900006825253",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ AltıBinBeşYüzTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790525874990,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A09925227913C631AE2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
