@@ -14693,6 +14693,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790512259505_tjc3i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0912ONALCAĞACIOĞLUİŞLETME",
+        "amount": "7000",
+        "currency": "TRY",
+        "date": "27/09/2026",
+        "time": "15:27:53",
+        "trackingNo": "7338641673",
+        "receiptNo": "09120327015-0005",
+        "referenceCode": "F23632",
+        "senderName": "İBRAHİM DEMİR",
+        "senderIban": "TR44000100015800739149591493",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000100015800739149591493",
+        "description": "PARASINA MAH. SEMSİ EFENDİ SK. NO: 16/11 BEŞİKTAŞI İSTANBUL"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790512259505,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFC9CA0388D76A3E016",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
