@@ -15561,6 +15561,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790527779054_3e8gk",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "19:47:11",
+        "trackingNo": "627229772284153856",
+        "receiptNo": "",
+        "referenceCode": "27092026-9300-29720546",
+        "senderName": "MUSTAFA KUMCU",
+        "senderIban": "TR670013400002170899100001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi icin 4490-21708991-351 hesabınıza toplam 7.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790527779054,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A23B2D8C8FBA5E170CE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
