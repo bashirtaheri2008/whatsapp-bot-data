@@ -13887,6 +13887,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790501230768_xfrfp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "12:25",
+        "trackingNo": "202609287890557",
+        "receiptNo": "03663-03663-935925493",
+        "referenceCode": "4853390815",
+        "senderName": "Ayhan Eşen",
+        "senderIban": "TR030015700000000106733238",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790501230768,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD7182E89BE531F97FD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790501233923_enz3l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SİNÇAN ÇARŞI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "12:24:58",
+        "trackingNo": "8527000094",
+        "receiptNo": "2026-09-27-12.24.52.587766",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR870006200109100006876820",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790501233923,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD9B1B87F618320311F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
