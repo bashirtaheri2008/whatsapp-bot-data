@@ -15344,6 +15344,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790523880328_cw83p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ANKARA/MAVİŞE ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "27/09/2026",
+        "time": "18:43:58",
+        "trackingNo": "7339672392",
+        "receiptNo": "186077317166",
+        "referenceCode": "TR44 0001 5001 5800 7391 4581 93",
+        "senderName": "MERT CELIK",
+        "senderIban": "TR440001500158007391458193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR000000000000000000000000",
+        "description": "Fast Mesaj Kodu: AD1"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790523880328,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD15E1C7816E2DC04DC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
