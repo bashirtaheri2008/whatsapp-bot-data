@@ -15685,6 +15685,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790530836363_cbkra",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "CEPTE TEB Mobil Bankacilik",
+        "amount": "3990",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "20:36",
+        "trackingNo": "755972962",
+        "receiptNo": "00294017",
+        "referenceCode": "21150368",
+        "senderName": "MUHAMMED OMIT",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "jawid uzman",
+        "receiverIban": "TR45000320000000150324473",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790530836363,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A25DB06BB134F214506",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
