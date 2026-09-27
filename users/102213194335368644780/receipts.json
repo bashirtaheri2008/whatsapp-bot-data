@@ -15406,6 +15406,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790525458139_hbcgz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KADINHANİ/KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "19:05:37",
+        "trackingNo": "7339833031",
+        "receiptNo": "F18122",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "SEYİT ALİ GÜNDÜZ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790525458139,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFD0163C49420490722",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
