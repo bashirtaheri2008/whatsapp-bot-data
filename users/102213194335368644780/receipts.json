@@ -14600,6 +14600,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790511673211_vrnof",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "200",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "15:19:31",
+        "trackingNo": "007811",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "KARTSIZ PARA YATIRMA"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790511673211,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2BEF47CDF4BDD8E78E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790511729090_8y2es",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SELÇUKLU",
+        "amount": "1500",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "15:20:59",
+        "trackingNo": "1466000133",
+        "receiptNo": "2026-09-27-15.20.54.230694",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790511729090,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A60FE835496DBB2F2A9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790511883860_kngij",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "15:18:57",
+        "trackingNo": "1183000137",
+        "receiptNo": "2026-09-27-15.18.54.300469",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001580073914591",
+        "receiverName": "İLAYDA ŞAHİN",
+        "receiverIban": "TR760006200041900006839735",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790511883860,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A94C5BAEF795D0C76DF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
