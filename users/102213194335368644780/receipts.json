@@ -15995,6 +15995,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790537137125_ytsnk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "6000",
+        "currency": "TRY",
+        "date": "27/09/2026",
+        "time": "22:20:15",
+        "trackingNo": "7340599220",
+        "receiptNo": "",
+        "referenceCode": "F38000",
+        "senderName": "ÖMER BAŞ",
+        "senderIban": "TR610001000912823237045002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "EFTTGIDD INTERNET INTERNET"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790537137125,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A826ACD0090E21C4F9D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
