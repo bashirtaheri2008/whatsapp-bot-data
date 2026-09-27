@@ -13763,6 +13763,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790497368556_yneng",
+      "data": {
+        "isReceipt": true,
+        "bank": "TÜRKİYE İŞ BANKASI",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "11:15:30",
+        "trackingNo": "21095840666",
+        "receiptNo": "",
+        "referenceCode": "27.09.2026447/8888/8888",
+        "senderName": "MUAMMER KURT",
+        "senderIban": "TR77000640000012371156201",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790497368556,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8DB2CC5917CADF2333",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
