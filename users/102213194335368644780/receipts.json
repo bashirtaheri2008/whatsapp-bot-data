@@ -14817,6 +14817,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790514074240_fl36g",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARAMAN ŞUBESİ",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "27/09/2026",
+        "time": "15:58:47",
+        "trackingNo": "202609270543195",
+        "receiptNo": "00700-1222171",
+        "referenceCode": "16928675",
+        "senderName": "AHMET ÜNÜVAR",
+        "senderIban": "TR770011100000000083164885",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790514074240,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD09EE42F79193C47AA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
