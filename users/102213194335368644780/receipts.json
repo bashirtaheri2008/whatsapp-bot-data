@@ -16739,6 +16739,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790602087306_xq4fa",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING",
+        "bankBranch": "TÜM İŞLEMLER ŞUBESİ",
+        "amount": "200000",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "15:25:01",
+        "trackingNo": "2634751792",
+        "receiptNo": "8105002",
+        "referenceCode": "TR64000015003300278145910",
+        "senderName": "İBRAHİM ATLI",
+        "senderIban": "TR64000015003300278145910",
+        "receiverName": "TÜRKİYE VARİFÖR BANKASI T.A.Ş.",
+        "receiverIban": "",
+        "description": "Gider FAST Sorgu No:2634751792 TR64000015003300278145910 Türkiye Variför Bankası T.A.Ş. JAVİD USMANİ"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790602087306,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A79206E5C8ED9ED4E7A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790602160654_2l5r8",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BATIKENT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "16:27:38",
+        "trackingNo": "583000302",
+        "receiptNo": "2026-09-28-16.22.54.869348",
+        "referenceCode": "",
+        "senderName": "MUHAMMED CIHAN ÜNALDI",
+        "senderIban": "TR880006200132500006646227",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790602160654,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEA033AEDC0D33B208E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
