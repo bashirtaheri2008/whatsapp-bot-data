@@ -17886,6 +17886,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790622269996_rf1ua",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0317/TORBALI/İZMİR ŞUBESİ",
+        "amount": "11000",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "21:58:03",
+        "trackingNo": "7346801928",
+        "receiptNo": "",
+        "referenceCode": "F486464",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "İBRAHİM BAŞAK",
+        "receiverIban": "TR410001000317791460645001",
+        "description": "11.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790622269996,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A587DDD4D048DBDC141",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790622906594_xxzp1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1985/AYDOĞDU/KONYA ŞUBESİ",
+        "amount": "12000",
+        "currency": "TRY",
+        "date": "28/09/2026",
+        "time": "22:13:00",
+        "trackingNo": "7346719532",
+        "receiptNo": "F41085",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR820001001985801478545002",
+        "receiverName": "SÜLEYMAN PINARCI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "12.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790622906594,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A609CF82229E9A359BE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
