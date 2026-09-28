@@ -17266,6 +17266,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790612058127_hnxz0",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "19:12:07",
+        "trackingNo": "2026013585447450",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAŞİT CAN KURUM",
+        "senderIban": "TR1200015001586766",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790612058127,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A205AB0A9B71E7446CE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
