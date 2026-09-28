@@ -16181,6 +16181,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790575885323_21t70",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "11350",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "09:10:36",
+        "trackingNo": "2026013556065311",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SAMIA HASHIMI",
+        "senderIban": "TR070001500158007376240656",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790575885323,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF05E071081866C7C78",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
