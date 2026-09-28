@@ -16615,6 +16615,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790597480732_exc28",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "05/09/2024",
+        "time": "12:18:52",
+        "trackingNo": "20247465054",
+        "receiptNo": "05092475",
+        "referenceCode": "TR46000000001234567890123456",
+        "senderName": "SAYIN IBRAHIM ATLI",
+        "senderIban": "TR46000000001234567890123456",
+        "receiverName": "TOPALAN",
+        "receiverIban": "TR123456789012345678901234",
+        "description": "YA NE 50 cm'lik begazi TL'ye"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790597480732,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACABCDBDF0AC2156CED",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
