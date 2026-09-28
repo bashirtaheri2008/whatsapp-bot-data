@@ -16212,6 +16212,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790579556238_qg4b3",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "10:11",
+        "trackingNo": "1630858300",
+        "receiptNo": "M-2026-09-28-10.11.26.543489",
+        "referenceCode": "",
+        "senderName": "TUGAY DOĞAN",
+        "senderIban": "TR660001200176200001103176",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - TUGAY DOĞAN TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790579556238,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8EE613EBD0D1D2E2BB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
