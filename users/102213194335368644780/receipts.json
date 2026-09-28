@@ -16987,6 +16987,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790607220512_pbc7o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "17:50:21",
+        "trackingNo": "BRN2026000936895",
+        "receiptNo": "ANFJ3-B-20260928124",
+        "referenceCode": "0056d580-5a01-45ba-88c2-231c038f8557",
+        "senderName": "HUMA AZAM",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI VAKIF BANK",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: HUMA AZAM , Alıcı: JAWID USMANI VAKIF BANK, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790607220512,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9910655098FE70EE7A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
