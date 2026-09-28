@@ -16305,6 +16305,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790584160411_d8f33",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "41700",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "11:28:57",
+        "trackingNo": "2962958921",
+        "receiptNo": "",
+        "referenceCode": "2026013563318300",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Şaban Baltacı",
+        "receiverIban": "TR100021000000072265600003",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790584160411,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A5A13F5AD8C3596A3E9",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
