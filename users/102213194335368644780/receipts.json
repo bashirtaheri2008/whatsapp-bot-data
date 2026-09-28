@@ -17638,6 +17638,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790616005053_ex0at",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "3600",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "20:19:10",
+        "trackingNo": "1694482067",
+        "receiptNo": "00421-1765785",
+        "referenceCode": "202609282184771",
+        "senderName": "ERTUĞRUL TEMİZ",
+        "senderIban": "TR3200111000000000116545723",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790616005053,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6AF02114477E46AC9F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
