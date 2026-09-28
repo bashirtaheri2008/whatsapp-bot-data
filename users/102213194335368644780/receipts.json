@@ -16863,6 +16863,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790604399900_8nhrw",
+      "data": {
+        "isReceipt": true,
+        "bank": "World Gold",
+        "bankBranch": "",
+        "amount": "3550",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "TR440001500158007391459193",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderildi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790604399900,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD12B6D8511E0444842",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
