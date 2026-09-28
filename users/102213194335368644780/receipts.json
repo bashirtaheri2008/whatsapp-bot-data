@@ -16677,6 +16677,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790601421876_b69s7",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "1500.00",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "16:12:56",
+        "trackingNo": "53372998",
+        "receiptNo": "760077",
+        "referenceCode": "",
+        "senderName": "ÖMER ÖZTOPRAK",
+        "senderIban": "TR080004600033888000468408",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790601421876,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAFAC918573E3939A2C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790602054233_y76oe",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "16:10:58",
+        "trackingNo": "627537747213598720",
+        "receiptNo": "",
+        "referenceCode": "28092026 - 9300 - 29290558",
+        "senderName": "TEYFİK TOKMAK",
+        "senderIban": "TR440013400001315547200002",
+        "receiverName": "ZİNAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi icin 4890-13155472-351 hesabınıza toplam 4.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790602054233,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6B57ACE91CAD21A994",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
