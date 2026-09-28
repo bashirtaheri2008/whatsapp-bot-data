@@ -17142,6 +17142,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790610106482_7fpyx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0265/CUMRA/KONYA ŞUBESİ",
+        "amount": "11000",
+        "currency": "TRY",
+        "date": "28/09/2026",
+        "time": "18:39:48",
+        "trackingNo": "7345644654",
+        "receiptNo": "F53554",
+        "referenceCode": "A01",
+        "senderName": "EYÜP CURA",
+        "senderIban": "TR390001009010587223205001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "11.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790610106482,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A53626E18EA52C88360",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
