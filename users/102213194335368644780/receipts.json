@@ -17235,6 +17235,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790611604049_ftt8s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "19:04:21",
+        "trackingNo": "7345726364",
+        "receiptNo": "FAAP68_4038",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "HASAN KAYNAK",
+        "receiverIban": "TR360001004038927359465001",
+        "description": "6.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 4,18 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790611604049,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0ED53573AF1FA62E2F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
