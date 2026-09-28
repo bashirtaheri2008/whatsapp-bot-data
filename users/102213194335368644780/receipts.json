@@ -17049,6 +17049,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790608932873_ax3x6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SELÇUKLU",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "28/09/2026",
+        "time": "18:16:28",
+        "trackingNo": "3966000349",
+        "receiptNo": "2026-09-28-18.16.24.523061",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001580073914591",
+        "receiverName": "MUSTAFA YALÇIN",
+        "receiverIban": "TR090006200146400006830187",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790608932873,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD449A8C6C1B22F4B1B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
