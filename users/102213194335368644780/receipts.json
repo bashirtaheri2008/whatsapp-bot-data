@@ -19374,6 +19374,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790691296019_jawjh",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "VAN",
+        "amount": "6650",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "17:11:18",
+        "trackingNo": "5744000285",
+        "receiptNo": "2026-09-29-17.11.15.314895",
+        "referenceCode": "",
+        "senderName": "ALPAY ALTAY",
+        "senderIban": "TR690006200046400006824019",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790691296019,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF306ECFC845527CEFF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
