@@ -18754,6 +18754,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790677170657_y1e6b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "6600",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "13:17:36",
+        "trackingNo": "7348914195",
+        "receiptNo": "009854_4022",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR040001004022920538975009",
+        "receiverName": "AHMET FURKAN BAHÇECİ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.600,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 4,18 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790677170657,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A88BFE7DF6D1E8121B1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
