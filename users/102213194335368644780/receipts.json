@@ -18630,6 +18630,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790674941652_w1yo9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANADOLU SANAYİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "12:41:12",
+        "trackingNo": "4811000141",
+        "receiptNo": "2026-09-29-12.41.08.643953",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR620006200105200006642725",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ AltıBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790674941652,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A387C0015AC2D865E06",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
