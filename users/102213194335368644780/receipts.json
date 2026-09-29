@@ -19157,6 +19157,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790686814398_umeq8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "25000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "15:57:23",
+        "trackingNo": "3795799490",
+        "receiptNo": "106247003774",
+        "referenceCode": "447/8888/8888",
+        "senderName": "MUHAMMAD SEDIQ MAWLAN",
+        "senderIban": "TR680006400000110621181547",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MUHAMMAD SEDIQ MAWLAN tarafından aktarilan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790686814398,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A45A932A8AB8885BEF5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
