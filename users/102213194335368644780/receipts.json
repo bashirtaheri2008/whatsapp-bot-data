@@ -18258,6 +18258,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790660496099_l5qln",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "20000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "08:35",
+        "trackingNo": "1632471155",
+        "receiptNo": "",
+        "referenceCode": "M-2026-09-29-08.35.41.679895",
+        "senderName": "ATİLA GÜLEÇ",
+        "senderIban": "TR3300012009410000101800",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - ATİLA GÜLEÇ TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790660496099,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8C0516627A717823E9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
