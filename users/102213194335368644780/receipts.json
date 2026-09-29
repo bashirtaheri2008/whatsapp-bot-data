@@ -19467,6 +19467,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790694498038_kzaw8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KARAPINAR/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "29/09/2026",
+        "time": "18:03:45",
+        "trackingNo": "7351066696",
+        "receiptNo": "",
+        "referenceCode": "F22140",
+        "senderName": "SERHAT YABIR",
+        "senderIban": "TR330001000123456789012345",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001000123456789012345",
+        "description": "Hesabınızdan 5.008,37 TL, (Yalnız BEŞBİNSEKİZLİOTÜZYEDİKUR) Çekilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790694498038,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC25AD758518161DCB4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
