@@ -18599,6 +18599,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790674226590_vem1s",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "12:28:01",
+        "trackingNo": "2026013618177876",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "VELİ AYYILDIZ",
+        "senderIban": "TR4500015001588641",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790674226590,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD4D1B59A235F2B7DF4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
