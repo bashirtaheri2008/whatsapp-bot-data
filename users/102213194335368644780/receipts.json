@@ -19405,6 +19405,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790693160533_16luw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1939/YENİKENT/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "17:44:19",
+        "trackingNo": "7350920915",
+        "receiptNo": "F09940",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR85000100193970625705002",
+        "receiverName": "YAŞAR ARAR",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790693160533,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A32ED585A81A966A949",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
