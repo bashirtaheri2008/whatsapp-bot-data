@@ -18289,6 +18289,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790663758176_hgsrj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "09:26:40",
+        "trackingNo": "627798390273523712",
+        "receiptNo": "",
+        "referenceCode": "29092026-9300-15570585",
+        "senderName": "ALİ BAKİ ÖZEFE",
+        "senderIban": "TR340013400002679589100001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 5760-26795891-351 hesabınıza toplam 4.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790663758176,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3879335753CD4B6810",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
