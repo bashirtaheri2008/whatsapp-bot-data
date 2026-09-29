@@ -20490,6 +20490,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790711005064_epucw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "22:41:57",
+        "trackingNo": "7352333833",
+        "receiptNo": "58390115208",
+        "referenceCode": "F28347_4012",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR44000150015807391459193",
+        "receiverName": "RAMAZAN UNAL",
+        "receiverIban": "TR430001004012751999765002",
+        "description": "RAMAZAN UNAL"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790711005064,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A79ACC8571F21B064F9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
