@@ -20614,6 +20614,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790715066791_eq94u",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "23:32",
+        "trackingNo": "4859500296",
+        "receiptNo": "202609313711563",
+        "referenceCode": "03663-03663-944072294",
+        "senderName": "Mustafa Şenol",
+        "senderIban": "TR2400157000000000204745637",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "bos konum atio"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790715066791,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4CBA83C2577D91C697",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
