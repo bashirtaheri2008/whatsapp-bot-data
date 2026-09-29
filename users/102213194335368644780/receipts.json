@@ -18475,6 +18475,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790669832738_2pivb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "OSTİM BULVAR",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "11:15:03",
+        "trackingNo": "2020000096",
+        "receiptNo": "2026-09-29-11.14.37.291005",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001580073914591",
+        "receiverName": "ADEM KARAMAN",
+        "receiverIban": "TR430006200101900006662535",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790669832738,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA0E92C1BB716BF9EBD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
