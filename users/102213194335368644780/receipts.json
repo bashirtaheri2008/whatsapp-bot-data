@@ -19591,6 +19591,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790696067746_luh69",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ETLİK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "18:30:28",
+        "trackingNo": "5291000333",
+        "receiptNo": "2026-09-29-18.30.25.774383",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR93000620007740006622217",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790696067746,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7F68E3304FE637D355",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
