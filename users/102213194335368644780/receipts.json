@@ -19312,6 +19312,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790690682977_g6mwj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1345/ESKIL/AKSARAY SUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "16:56:42",
+        "trackingNo": "7350588450",
+        "receiptNo": "",
+        "referenceCode": "F11689",
+        "senderName": "MUSTAFA ÖKSÜN",
+        "senderIban": "TR420001001345729900015003",
+        "receiverName": "YEDİBİNEZİOLU OTUZÜÇDİKR",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "7.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790690682977,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A47E4E1F42C7862A7BC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
