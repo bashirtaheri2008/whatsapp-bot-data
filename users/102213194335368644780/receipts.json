@@ -23032,6 +23032,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790799737541_n041l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "23:20:39",
+        "trackingNo": "3800103866",
+        "receiptNo": "456031001246",
+        "referenceCode": "30.09.2026/447/8888/8888",
+        "senderName": "RAMAZAN ADIGÜZEL",
+        "senderIban": "TR530006400000145600272568",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "RAMAZAN ADIGÜZEL tarafından aktarilan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790799737541,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE8E0F14AC01594FA1C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
