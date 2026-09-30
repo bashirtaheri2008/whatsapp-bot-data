@@ -22784,6 +22784,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790796083527_ikq1q",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "11000",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "22:14:06",
+        "trackingNo": "3800001539",
+        "receiptNo": "456076001304",
+        "referenceCode": "30.09.2026/447/8888/8888",
+        "senderName": "DERVİŞ ÇAYLAK",
+        "senderIban": "TR050006400000145600247048",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "DERVİŞ ÇAYLAK tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790796083527,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF60B22446003C03F82",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
