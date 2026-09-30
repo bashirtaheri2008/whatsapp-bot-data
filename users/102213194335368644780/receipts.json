@@ -21947,6 +21947,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790782783899_w28g9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKŞEHİR",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "18:24:02",
+        "trackingNo": "6339000415",
+        "receiptNo": "2026-09-30-18.24.00.085298",
+        "referenceCode": "",
+        "senderName": "KAZİM TİN",
+        "senderIban": "TR340006200063400006654534",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790782783899,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A764F621C4AF11FE885",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
