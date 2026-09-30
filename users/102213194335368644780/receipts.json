@@ -22846,6 +22846,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790796562544_frryp",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "9000.00",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "20:38:25",
+        "trackingNo": "47743478 / 210461",
+        "receiptNo": "TR960004601094888000104538",
+        "referenceCode": "TR44 0001 5001 5800 7391 4591 93",
+        "senderName": "HACI BAYRAM OKUMUŞ",
+        "senderIban": "TR960004601094888000104538",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790796562544,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6618BAB11C6BEE7F6A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
