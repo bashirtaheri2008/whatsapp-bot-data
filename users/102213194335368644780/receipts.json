@@ -20738,6 +20738,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790741807568_463ek",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "6300",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "00:49:32",
+        "trackingNo": "628030638670991360",
+        "receiptNo": "",
+        "referenceCode": "30092026 - 9300 - 123705",
+        "senderName": "TAYİP ESKİCİ",
+        "senderIban": "TR62001340000238941100001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 1510-2389411-351 hesabınıza toplam 6.300,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790741807568,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A39C9422CEC958210CE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790741835519_861oq",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "01:11:57",
+        "trackingNo": "254744476857",
+        "receiptNo": "925-555664 / 2547424079259",
+        "referenceCode": "SYI202634391514",
+        "senderName": "NUH ÇELİK",
+        "senderIban": "TR92000670100000026653751",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790741835519,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFE7F5897DB43A036F4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790741838852_f8gx4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Cep Şube",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "02:05",
+        "trackingNo": "4859645156",
+        "receiptNo": "202609315363971",
+        "referenceCode": "03663-03663-945652708",
+        "senderName": "RAMAZAN YUMUK",
+        "senderIban": "TR620015700000000204795393",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790741838852,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0DBA4D625489E84A6B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
