@@ -21420,6 +21420,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790775263175_zno9h",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN - GAZINO",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "16:11:53",
+        "trackingNo": "9177000341",
+        "receiptNo": "2026-09-30-16.11.51.918300",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR460006200106100006650146",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790775263175,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1997670DF1B7C3D00A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790775265626_f58po",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "CEBECİ",
+        "amount": "4980",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "16:24:37",
+        "trackingNo": "6889000330",
+        "receiptNo": "2026-09-30-16.24.29.245893",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR130006200047000006650300",
+        "receiverName": "SÜLEYMAN YARAR",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinDokuzYüzSeksenTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790775265626,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A032FA8D967B07AC409",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
