@@ -21606,6 +21606,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790777976354_nm4ky",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "17:18",
+        "trackingNo": "4861349685",
+        "receiptNo": "03663-03663-947167150",
+        "referenceCode": "202609321657021",
+        "senderName": "Mehmet Kılıçvur",
+        "senderIban": "TR4000157000000000202165052",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "SEMA KARAMAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790777976354,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA3F7851578CC4C14E8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
