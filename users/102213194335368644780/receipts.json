@@ -21575,6 +21575,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790777896967_yztbq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "6000",
+        "currency": "TRY",
+        "date": "30/09/2026",
+        "time": "17:16:14",
+        "trackingNo": "3799203449",
+        "receiptNo": "450599007516",
+        "referenceCode": "30.09.2026/447/88888/8888",
+        "senderName": "KADİR SÜSLÜ",
+        "senderIban": "TR620006400040145050968099",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "KADİR SÜSLÜ tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790777896967,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB92C87D46292FF8F86",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
