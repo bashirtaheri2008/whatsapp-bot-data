@@ -22598,6 +22598,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790794437904_3aijw",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARAMAN",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "21:46:54",
+        "trackingNo": "5221000500",
+        "receiptNo": "2026-09-30-21.46.50.184273",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "ALİ GÖK",
+        "receiverIban": "TR930006200059400006640965",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790794437904,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEA760E060D68A8B944",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
