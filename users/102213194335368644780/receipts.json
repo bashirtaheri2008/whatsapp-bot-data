@@ -23001,6 +23001,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790799200683_aou1p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KIRIKKALE ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "30/09/2026",
+        "time": "23:12:25",
+        "trackingNo": "7358930185",
+        "receiptNo": "F33390",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "BARANCAN KARALÖK",
+        "receiverIban": "TR640001009010124223705002",
+        "description": "4.000,00 TRY tutarında Fast işlemi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790799200683,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFCF0709B00551E1601",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
