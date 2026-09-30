@@ -22908,6 +22908,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790797243372_bcll7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "22:35",
+        "trackingNo": "4862158955",
+        "receiptNo": "03663-03663-947854940",
+        "referenceCode": "202609324693901",
+        "senderName": "Serhat Türk",
+        "senderIban": "TR2900157000000000205105999",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Aidat ödemesi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790797243372,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A817A033CD626817D23",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
