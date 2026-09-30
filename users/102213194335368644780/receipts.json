@@ -22505,6 +22505,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790791414256_1vcri",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "MERKEZ/ANKARA ŞUBESİ",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "21:02:34",
+        "trackingNo": "7358463699",
+        "receiptNo": "A01",
+        "referenceCode": "F10658",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "SERCAN ARSLANTAŞ",
+        "receiverIban": "TR120001009010538731505001",
+        "description": "2.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790791414256,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0422CEC3DEA705750C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
