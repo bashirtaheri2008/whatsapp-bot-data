@@ -22381,6 +22381,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790790335651_l1rnb",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "20:42",
+        "trackingNo": "1635553160",
+        "receiptNo": "",
+        "referenceCode": "M-2026-09-30-20.42.33.720160",
+        "senderName": "MURAT KAÇAR",
+        "senderIban": "TR790001200153500001104950",
+        "receiverName": "JAWID UZMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - MURAT KAÇAR TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790790335651,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE1CC366D1CEFEE3DCE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
