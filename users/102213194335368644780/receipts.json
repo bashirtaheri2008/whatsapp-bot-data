@@ -22939,6 +22939,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790797881921_yb1yi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "43754123",
+        "amount": "4089",
+        "currency": "TL",
+        "date": "22/09/2026",
+        "time": "22:49:11",
+        "trackingNo": "4947088500",
+        "receiptNo": "2026-09-22-49.00.098104",
+        "referenceCode": "4947088500",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440006100450001091456",
+        "receiverName": "AYLIN",
+        "receiverIban": "TR09000620007740826265",
+        "description": "YALRI DostlOPL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790797881921,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A67DC3C09921E735CCF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
