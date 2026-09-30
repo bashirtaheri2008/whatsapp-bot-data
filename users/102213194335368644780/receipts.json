@@ -22288,6 +22288,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790789210676_br22e",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NECATİBEY",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "20:05:42",
+        "trackingNo": "554000468",
+        "receiptNo": "2026-09-30-20.05.30.049284",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391435193",
+        "description": "YALNIZ DörtBinikiYüzTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790789210676,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFCF264E0810E9D26FD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790789213770_cs771",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "YENİ SANAYİ",
+        "amount": "4390",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "20:19:57",
+        "trackingNo": "1794000470",
+        "receiptNo": "2026-09-30-20.19.53.160835",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790789213770,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4C50215C7121F90BEB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
