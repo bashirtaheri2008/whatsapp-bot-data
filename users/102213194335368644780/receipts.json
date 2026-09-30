@@ -22164,6 +22164,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790787111949_h9kwy",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "GAZİ BULVARI ŞUBESİ",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "30/09/2026",
+        "time": "19:49:28",
+        "trackingNo": "202609302477687",
+        "receiptNo": "00355-2252877",
+        "referenceCode": "16973838580",
+        "senderName": "HASAN GÜNDÖĞAN",
+        "senderIban": "TR680011100000000017417865",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Aidat odemesi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790787111949,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABB900E502FCE6316DB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
