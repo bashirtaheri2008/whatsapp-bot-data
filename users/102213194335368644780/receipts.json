@@ -26380,6 +26380,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790885163502_lkjpm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "23:04:18",
+        "trackingNo": "BPT2026001208214",
+        "receiptNo": "B0IXB-B-20261001429",
+        "referenceCode": "61a12a4a-b0b7-4622-853c-ad2b41a8678f",
+        "senderName": "SATILMIŞ KARA",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: SATILMIŞ KARA , Alıcı: RAHMATULLAH HAKIMI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790885163502,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA0780940D94C7E1726",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
