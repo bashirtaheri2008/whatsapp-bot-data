@@ -23528,6 +23528,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790844187033_trqed",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک صادرات",
+        "bankBranch": "",
+        "amount": "500000000",
+        "currency": "TL",
+        "date": "09/07/1405",
+        "time": "12:10",
+        "trackingNo": "14050709162323361",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "IR4315000003101103793156",
+        "receiverName": "فرشته تیموری",
+        "receiverIban": "",
+        "description": "پرداخت قرض و تادیه دیون"
+      },
+      "sender": "17549588717728",
+      "timestamp": 1790844187033,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "2AD6723B50834CD76979",
+        "participant": "17549588717728@lid",
+        "participantAlt": "93781813112@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790844189514_n650m",
+      "data": {
+        "isReceipt": true,
+        "bank": "مسکن",
+        "bankBranch": "",
+        "amount": "500000000",
+        "currency": "TL",
+        "date": "09/07/1405",
+        "time": "12:09",
+        "trackingNo": "140507090142307205",
+        "receiptNo": "710179408467",
+        "referenceCode": "46785982",
+        "senderName": "",
+        "senderIban": "IR5601400000710179408467",
+        "receiverName": "فرشته تیموری",
+        "receiverIban": "IR7401500000301103793156",
+        "description": "درخواست انتقال وجه با با موفقیت ثبت شد. ثبت این درخواست به منزله واریز قطعی به حساب نمیباشد و پس از تایید بانک مقصد، نهایی خواهد شد."
+      },
+      "sender": "17549588717728",
+      "timestamp": 1790844189514,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "2AE5EE627144CCFACBCB",
+        "participant": "17549588717728@lid",
+        "participantAlt": "93781813112@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
