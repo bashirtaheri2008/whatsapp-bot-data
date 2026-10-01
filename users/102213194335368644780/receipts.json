@@ -24737,6 +24737,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790864060310_r7r8m",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "17:12:01",
+        "trackingNo": "4027000456",
+        "receiptNo": "2026-10-01-17.11.42.693149",
+        "referenceCode": "",
+        "senderName": "MEHMET YAKARŞİMŞEK",
+        "senderIban": "TR830006200041900006825253",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ALMANCA ÇAĞRI MERKEZİ"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790864060310,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6B21F0202BCC59E596",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
