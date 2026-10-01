@@ -23962,6 +23962,130 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790850547008_w0fh8",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "11:52:31",
+        "trackingNo": "17737372",
+        "receiptNo": "161244",
+        "referenceCode": "",
+        "senderName": "SERKAN DOĞANER",
+        "senderIban": "TR270004600153888000185325",
+        "receiverName": "Jawid Usmanı",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790850547008,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8D5156F552DADDF15B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790850549416_cpo0z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "12:26:55",
+        "trackingNo": "3801584278",
+        "receiptNo": "42787004492",
+        "referenceCode": "01.10.2026/447/8888/8888",
+        "senderName": "TÜLAY KOÇ",
+        "senderIban": "TR110006400000142780327639",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "TÜLAY KOÇ tarafından aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790850549416,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A760C24A9A8C056FBF4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790850552181_ttxl9",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4228.37",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "12:49:35",
+        "trackingNo": "49292257",
+        "receiptNo": "290670",
+        "referenceCode": "",
+        "senderName": "İBRAHİM TÜRKER",
+        "senderIban": "TR740004600112888000189633",
+        "receiverName": "Jawid Usmanı",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790850552181,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE8DE51BFA4840CCEF2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790850554329_q3m2w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "13:24:18",
+        "trackingNo": "628582968194899968",
+        "receiptNo": "",
+        "referenceCode": "01102026-9300-24502341",
+        "senderName": "UKAP ŞAHİN",
+        "senderIban": "TR610013400002461825500001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790850554329,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA4C0618F1226622AD5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
