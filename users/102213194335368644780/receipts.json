@@ -24644,6 +24644,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790863356256_ok2db",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "11000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "17:01:25",
+        "trackingNo": "628637607381786624",
+        "receiptNo": "",
+        "referenceCode": "01102026 - 9300 - 32550319",
+        "senderName": "MUSTAFA KUMCU",
+        "senderIban": "TR670013400002170899100001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 4490-21708991-351 hesabınıza toplam 11.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790863356256,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFF98FC2EDF01909AF3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790863755857_hhcjw",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ERYAMAN",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "17:07:09",
+        "trackingNo": "6751000436",
+        "receiptNo": "2026-10-01-17.07.07.246062",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR210006200119800006653015",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "YALNIZ DörtBinBeşYüzTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790863755857,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACD2D219580D102BDFE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790863758702_skewv",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "17:07:03",
+        "trackingNo": "52330653 / 848715",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SELİN ÖZTÜRK ÇİHAN",
+        "senderIban": "TR8000004600179888000203732",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790863758702,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEF04CF5874844F2F39",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
