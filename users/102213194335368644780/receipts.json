@@ -26659,6 +26659,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790894083487_0ynbd",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "16000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "01:07:12",
+        "trackingNo": "19775568",
+        "receiptNo": "482243",
+        "referenceCode": "",
+        "senderName": "HACI MUSTAFA DEMİR",
+        "senderIban": "TR270004601094888000044573",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790894083487,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A42A6B7BDA321F10122",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
