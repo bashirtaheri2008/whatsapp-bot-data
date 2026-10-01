@@ -24458,6 +24458,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790858456097_mkvww",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "10/01/2026",
+        "time": "15:23:05",
+        "trackingNo": "1592000357",
+        "receiptNo": "2026-10-01-15:23:05.490691",
+        "referenceCode": "TR77 0006 2000 1010 0006 8423 74",
+        "senderName": "JAMID UGMANI",
+        "senderIban": "TR4400010001580073001459193",
+        "receiverName": "MUSTAFA SABRİ KÜÇÜK AÇICI CAD.",
+        "receiverIban": "TR770006200010100006842374",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790858456097,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A311AD56C5C1FE43C4F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
