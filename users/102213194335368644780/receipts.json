@@ -24272,6 +24272,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790854620010_wvcva",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Cep Şube",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "14:35",
+        "trackingNo": "4863770579",
+        "receiptNo": "202610006479332",
+        "referenceCode": "03663-03663-950761605",
+        "senderName": "Durmuş Orhan",
+        "senderIban": "TR2300157000000000131276691",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790854620010,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2FFE7076A8841BA20A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
