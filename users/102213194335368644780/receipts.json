@@ -24210,6 +24210,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790853412559_rcxhk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "00300/ANADOLU ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "14:15:24",
+        "trackingNo": "7362512150",
+        "receiptNo": "0000071212978501",
+        "referenceCode": "00300/ANADOLU ŞUBESİ",
+        "senderName": "MERT CELIK",
+        "senderIban": "",
+        "receiverName": "YELISUKE MEH. YASINLIK CAD. NO: 6/3 YEŞİLKÖY ANKARA",
+        "receiverIban": "TR440001500158007391458193",
+        "description": "Fast Mesaj Kodu: A01"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790853412559,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF6DAD94C719211ED77",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
