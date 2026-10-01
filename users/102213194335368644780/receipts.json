@@ -23249,6 +23249,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790824985101_7x121",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "13900",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "01:54",
+        "trackingNo": "4862414046",
+        "receiptNo": "202610001067445",
+        "referenceCode": "03663-03663-948811760",
+        "senderName": "Cemalettin Cengiz",
+        "senderIban": "TR0700157000000000130053518",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790824985101,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0CE955D7953F811583",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
