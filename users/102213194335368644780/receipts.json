@@ -24799,6 +24799,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790865495050_2afu7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1985/AYDOĞDU/KONYA ŞUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "17:35:25",
+        "trackingNo": "7364142189",
+        "receiptNo": "",
+        "referenceCode": "F12000",
+        "senderName": "YALINZ ALTIBINSEKIZLUTUZYEDIKIRK",
+        "senderIban": "TR150001001985885300065001",
+        "receiverName": "DİLBER ADAR",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790865495050,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A874E907F9561485312",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
