@@ -26101,6 +26101,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790881324236_zbmp3",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "21:59:51",
+        "trackingNo": "20261001019197197",
+        "receiptNo": "00421-1787888",
+        "referenceCode": "169924418",
+        "senderName": "TAHİR KARATAŞ",
+        "senderIban": "TR8500111000000000072440421",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "3.3.1 EFT UCreti(BSMV DAHIL)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790881324236,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2A1DFB17AE0B941C45",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
