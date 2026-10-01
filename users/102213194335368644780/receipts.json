@@ -25295,6 +25295,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790871998993_eqo97",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN - GAZİNO",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "19:19:49",
+        "trackingNo": "5226000510",
+        "receiptNo": "2026-10-01-19.19.48.323683",
+        "referenceCode": "",
+        "senderName": "EMRE ERCAN",
+        "senderIban": "TR460006200106100006650146",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790871998993,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0C564D578E53933634",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
