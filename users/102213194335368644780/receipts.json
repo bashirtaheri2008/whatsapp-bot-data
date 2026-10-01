@@ -23776,6 +23776,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790847126617_qpwmr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "25000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "11:52:50",
+        "trackingNo": "CGR2026001441575",
+        "receiptNo": "AIGI3-B-20261001223",
+        "referenceCode": "",
+        "senderName": "MUHARREM ERGÜL",
+        "senderIban": "",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Gönderen: MUHARREM ERGÜL, Alıcı: ZINAT NAZARI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790847126617,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF065EEB753EBCCB0DB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
