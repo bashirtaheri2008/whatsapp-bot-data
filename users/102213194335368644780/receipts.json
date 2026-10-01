@@ -26287,6 +26287,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790883785967_q9use",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4508.37",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "22:40:48",
+        "trackingNo": "TR460004600179888000202113",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SADIK ASLAN",
+        "senderIban": "TR8801790202113",
+        "receiverName": "Jawid Usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "TERS İŞLEM YAPILDI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790883785967,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6EBB63F5992C9C539F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
