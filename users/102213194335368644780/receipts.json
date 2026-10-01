@@ -24954,6 +24954,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790869177253_4ql7z",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "18:13:36",
+        "trackingNo": "TR650004600382888000283577",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEZBUREGÜL BOYACI",
+        "senderIban": "TR650004600382888000283577",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790869177253,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABA0DA0EE416CD829B8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
