@@ -23218,6 +23218,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790824960925_she73",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "00:25:00",
+        "trackingNo": "6351000008",
+        "receiptNo": "2026-10-01-00-00-24.58.084880",
+        "referenceCode": "31289450798",
+        "senderName": "JAMID USMANI",
+        "senderIban": "TR440001000150007391459193",
+        "receiverName": "AYMET MAMAT",
+        "receiverIban": "TR40000620007700006591306",
+        "description": "YALNIZ BesBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790824960925,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7844E15489A5B96AB6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
