@@ -25264,6 +25264,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790871832867_0wf8f",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "İspark Demiryolu-74",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "19:20",
+        "trackingNo": "758268187",
+        "receiptNo": "00018250",
+        "referenceCode": "",
+        "senderName": "BEDİRHAN ALTUNEL",
+        "senderIban": "TR97000320000000146322093",
+        "receiverName": "Javid usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "1"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790871832867,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEEEDFE2A4178A1CABD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
