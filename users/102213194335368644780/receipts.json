@@ -24427,6 +24427,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790856887843_71ldg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "15:13:10",
+        "trackingNo": "BNV2026001300011",
+        "receiptNo": "ANUP3-B-20261001105",
+        "referenceCode": "",
+        "senderName": "RECEP DEMİRCİ",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: RECEP DEMİRCİ , Alıcı: JAWID USMANİ , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790856887843,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB1B610F7E8C4CA1488",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
