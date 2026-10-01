@@ -24613,6 +24613,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790862898092_1lrnt",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "FEVZİ ÇAKMAK KMB, 10438, DÜZCE, N. 016",
+        "amount": "7.97",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "14:51:45",
+        "trackingNo": "6742000395",
+        "receiptNo": "4039570",
+        "referenceCode": "419/6811307",
+        "senderName": "MURAT GÜNEŞ",
+        "senderIban": "TR440001500158027891459193",
+        "receiverName": "NURMET EMİN GÜLÇİN",
+        "receiverIban": "TR710006000041900006811307",
+        "description": "MALÇALI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790862898092,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A63A8FD91EFAACA947A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
