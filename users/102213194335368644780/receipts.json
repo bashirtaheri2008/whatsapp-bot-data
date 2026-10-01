@@ -23280,6 +23280,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790835983905_vlj84",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "İVEDİK ORG. SAN.",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "09:19:24",
+        "trackingNo": "2490000099",
+        "receiptNo": "2026-10-01-09.19.09.971521",
+        "referenceCode": "",
+        "senderName": "CEVDET ÖZÇELİK",
+        "senderIban": "TR330006200053300006692984",
+        "receiverName": "JAWID USMANİ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790835983905,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB5304BB0AF88B17CFD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
