@@ -23931,6 +23931,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790850513578_h87tj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "00300AMASYA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/01/2026",
+        "time": "13:24:51",
+        "trackingNo": "7361967862",
+        "receiptNo": "TR44 0001 5001 5800 7361 4391 93",
+        "referenceCode": "TR44 0001 5001 5800 7361 4391 93",
+        "senderName": "MERT CELIK",
+        "senderIban": "TR440001500158007361439193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "HESAPLAR FAST"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790850513578,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A123978F8E0F728D7F1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
