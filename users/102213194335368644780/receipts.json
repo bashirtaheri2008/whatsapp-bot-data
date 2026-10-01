@@ -23311,6 +23311,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790839485719_by381",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:20:14",
+        "trackingNo": "7360418119",
+        "receiptNo": "F05509_4025",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR940001009010851480605002",
+        "receiverName": "MUHAMMED ÖMER KOYUNCU",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID USMANI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790839485719,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE224A18A26C843D56C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
