@@ -26690,6 +26690,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790895378281_ctkh0",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubeşiz Bankacılık",
+        "amount": "5500000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "01:45:49",
+        "trackingNo": "202601372542009",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALİO AD SOYAD/UUNVAN",
+        "senderIban": "TR550001500158007362279815",
+        "receiverName": "RIFKI AKTAŞ",
+        "receiverIban": "TR5800015001588474798",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790895378281,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADA4EBF5234FF3484E3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
