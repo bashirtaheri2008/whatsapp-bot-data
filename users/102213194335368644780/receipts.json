@@ -26473,6 +26473,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790886106149_0pm9h",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NECATİBEY",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "23:18:39",
+        "trackingNo": "5746000669",
+        "receiptNo": "2026-10-01-23.18.29.765109",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR670006200013000006613489",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391435193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790886106149,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE677737C1E162C2008",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
