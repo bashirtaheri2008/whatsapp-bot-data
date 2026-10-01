@@ -24241,6 +24241,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790853583380_s2nzn",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "50000",
+        "currency": "TL",
+        "date": "10/01/2026",
+        "time": "14:19:22",
+        "trackingNo": "2971539912",
+        "receiptNo": "",
+        "referenceCode": "2026013742665051",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Burhan bala",
+        "receiverIban": "TR490006400000112740611519",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790853583380,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4ACA7D150D56EB54A836",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
