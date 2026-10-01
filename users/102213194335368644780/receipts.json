@@ -23590,6 +23590,37 @@
         "participantAlt": "93781813112@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790844392399_xhifr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "11:45",
+        "trackingNo": "4863149980",
+        "receiptNo": "202610004292758",
+        "referenceCode": "03663-03663-950231459",
+        "senderName": "Ali Sorkum",
+        "senderIban": "TR4600157000000000134908248",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "borc"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790844392399,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABBEE03205D6A28471F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
