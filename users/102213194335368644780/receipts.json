@@ -25357,6 +25357,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790872776593_jt004",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "SİNCAN ANKARA CADDESİ ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "19:34:23",
+        "trackingNo": "16991260040",
+        "receiptNo": "202610009210847",
+        "referenceCode": "01337-2364321",
+        "senderName": "MEHMET CAN BAŞ",
+        "senderIban": "TR3400011100000000152261281",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790872776593,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A47F3FF91493F2472C2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
