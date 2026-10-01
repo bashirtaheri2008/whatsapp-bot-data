@@ -26504,6 +26504,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790886177934_e5vj2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "23:16",
+        "trackingNo": "4865304241",
+        "receiptNo": "202610012748656",
+        "referenceCode": "03663-03663-952380704",
+        "senderName": "Islam Erden",
+        "senderIban": "TR9100157000000000203839130",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1790886177934,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "ACBF06C5F401A7A25954E0A795308B6A",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
