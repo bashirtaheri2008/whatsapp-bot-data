@@ -24985,6 +24985,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790869238270_hfhxu",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING",
+        "bankBranch": "ING BANK A.S. TUNALI HILMI ŞUBESİ",
+        "amount": "4390.00",
+        "currency": "TL",
+        "date": "12/05/2025",
+        "time": "18:05:12",
+        "trackingNo": "364430010015303278145910",
+        "receiptNo": "01198273",
+        "referenceCode": "01198273",
+        "senderName": "İBRAHİM ATLI",
+        "senderIban": "TR6300064000001100534291",
+        "receiverName": "T.A.O. JAVOQ USMANOV",
+        "receiverIban": "",
+        "description": "Ödem FAST Sorgu No:364430010015303278145910 Takip için lütfen T.A.O. JAVOQ USMANOV"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790869238270,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEB350C7F878DAF5C66",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790869241104_e2i1j",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "01/10/2026",
+        "time": "18:11:06",
+        "trackingNo": "3803194615",
+        "receiptNo": "426882004380",
+        "referenceCode": "01.10.2026/447/88888/8888",
+        "senderName": "MURAT ÇAĞLAN",
+        "senderIban": "TR400006400000142680698417",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MURAT ÇAĞLAN tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790869241104,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4178815B8B15976BDB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790869244302_5ipp6",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "18:15:55",
+        "trackingNo": "517551720955",
+        "receiptNo": "SYJ202601466683",
+        "referenceCode": "925-822270 / 2547559837264",
+        "senderName": "MEHMET ALİ KESİK",
+        "senderIban": "TR17000670100000015333067",
+        "receiverName": "Cihangir Değirmenci",
+        "receiverIban": "TR2500203000035302990001",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790869244302,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF7EF9159876640EBAA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
