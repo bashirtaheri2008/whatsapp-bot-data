@@ -24303,6 +24303,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790854715562_pg1qf",
+      "data": {
+        "isReceipt": true,
+        "bank": "BankSaderat",
+        "bankBranch": "۱۴۸۰-۰۲",
+        "amount": "1150000000",
+        "currency": "TL",
+        "date": "09/05/1405",
+        "time": "15:08:00",
+        "trackingNo": "3550156159",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "فرشته تموری",
+        "senderIban": "IR8701900000000000000014",
+        "receiverName": "جواد مشایخی",
+        "receiverIban": "IR63015000000000000000793156",
+        "description": "انتقال وجه موفق (پایا)"
+      },
+      "sender": "17549588717728",
+      "timestamp": 1790854715562,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "2A9D62766DEE64DCAD9D",
+        "participant": "17549588717728@lid",
+        "participantAlt": "93781813112@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
