@@ -24582,6 +24582,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790862580084_20wkk",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "6870",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "16:42",
+        "trackingNo": "1637228241",
+        "receiptNo": "M-2026-10-01-16.42.20.287872",
+        "referenceCode": "",
+        "senderName": "KAMİL SELEK",
+        "senderIban": "TR290001200952400001107906",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - KAMİL SELEK TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790862580084,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5A3095F854EE3C6706",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
