@@ -25140,6 +25140,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790870704500_san0p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0177/KARAMAN ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "18:53:22",
+        "trackingNo": "F25748",
+        "receiptNo": "7364787828",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "SELÇAN AY",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "7.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790870704500,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A38AE2CBEA7815D9919",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
