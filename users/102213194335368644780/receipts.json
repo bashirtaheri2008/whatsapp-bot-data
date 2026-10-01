@@ -26597,6 +26597,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790891842708_tpm10",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0309/KARAPINAR/KONYA ŞUBESİ",
+        "amount": "6395",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "00:41:09",
+        "trackingNo": "7366388296",
+        "receiptNo": "F00339",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "ÖMÜR NAKİPOĞLU",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.395,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790891842708,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA760A7B5C913DEA500",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
