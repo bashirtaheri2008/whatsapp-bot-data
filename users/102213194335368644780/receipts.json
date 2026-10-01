@@ -24830,6 +24830,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790865625191_9f9wl",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "01/10/2026",
+        "time": "17:36:21",
+        "trackingNo": "628646397873041408",
+        "receiptNo": "",
+        "referenceCode": "01102026-9300-33967564",
+        "senderName": "RÜŞTÜ AKGÜN",
+        "senderIban": "TR650013400002560953600001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790865625191,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEA6A204BBFC8EC436D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
