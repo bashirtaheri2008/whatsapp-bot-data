@@ -23652,6 +23652,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790844751533_6ncne",
+      "data": {
+        "isReceipt": true,
+        "bank": "",
+        "bankBranch": "",
+        "amount": "320000000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "12:13:43",
+        "trackingNo": "14050709121350981041504",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "IR378396214000",
+        "receiverName": "فرشته تیموری",
+        "receiverIban": "IR301500000310103793156",
+        "description": ""
+      },
+      "sender": "17549588717728",
+      "timestamp": 1790844751533,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "2A3BB5AF4534801FDEF5",
+        "participant": "17549588717728@lid",
+        "participantAlt": "93781813112@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790844753912_fxu04",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک ملی",
+        "bankBranch": "",
+        "amount": "800000000",
+        "currency": "TL",
+        "date": "09/12/1405",
+        "time": "17:57",
+        "trackingNo": "14050709054200059490",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ابادر کهنانی",
+        "senderIban": "IR70000000000000000000000F",
+        "receiverName": "فرشته تیموری",
+        "receiverIban": "IR34500000310103993186",
+        "description": "این رسید به منزله پرداخت قطعی نیوده و تا زمان وصول وجه در حساب مقصد رسید فاقد اعتبار است."
+      },
+      "sender": "17549588717728",
+      "timestamp": 1790844753912,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "2A575D4A705CFC3601F4",
+        "participant": "17549588717728@lid",
+        "participantAlt": "93781813112@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
