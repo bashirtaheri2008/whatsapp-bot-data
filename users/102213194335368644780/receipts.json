@@ -28705,6 +28705,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790949414009_kgu5v",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "NEVŞEHİR ŞUBESİ",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "16:52:51",
+        "trackingNo": "1705411484",
+        "receiptNo": "00500-1357239",
+        "referenceCode": "202610019632880",
+        "senderName": "AHMETCAN ARSLAN",
+        "senderIban": "TR6900111000000000101215856",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000155001580073622279815",
+        "description": "Bireysel Ode"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790949414009,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB9AB55E6F5356E4599",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
