@@ -28581,6 +28581,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790948128794_3scfd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "16:31",
+        "trackingNo": "4867076257",
+        "receiptNo": "03663-03663-955947366",
+        "referenceCode": "202610021508736",
+        "senderName": "ORHAN YAZIMAN",
+        "senderIban": "TR950015700000000205419479",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Finansal"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790948128794,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4FBB6F4A41D1D5E275",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
