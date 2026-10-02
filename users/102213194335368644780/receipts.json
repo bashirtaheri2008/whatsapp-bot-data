@@ -27899,6 +27899,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790940413805_5vkyp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Papara",
+        "bankBranch": "",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "14:14",
+        "trackingNo": "4448178054",
+        "receiptNo": "PUA2026018527673",
+        "referenceCode": "542340739",
+        "senderName": "Tahsin Küçük kara",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "BeşBinBeşYüzTL"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790940413805,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A399C5F83D8B7E35B28",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
