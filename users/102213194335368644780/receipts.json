@@ -29201,6 +29201,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790953389586_iu5em",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "6508.37",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "17:58:50",
+        "trackingNo": "45951244",
+        "receiptNo": "745721",
+        "referenceCode": "",
+        "senderName": "KADER TUĞAN",
+        "senderIban": "TR390004600033888000473573",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790953389586,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADBAF7AA06710142B8E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
