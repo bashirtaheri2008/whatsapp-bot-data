@@ -29232,6 +29232,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790953513303_3k3zo",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "8008.37",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "18:01:39",
+        "trackingNo": "23816017 / 750537",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ÖZCAN CULDUR",
+        "senderIban": "TR670004601283888000078344",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790953513303,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC13C9BF298F914061E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
