@@ -29263,6 +29263,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790953614008_yj8nx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2721/SARAY/ANKARA ŞUBESİ",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "18:05:08",
+        "trackingNo": "7371079183",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR200001002721958006705001",
+        "receiverName": "KÜBRA TOMAKİN",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.100,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790953614008,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0534D8C5112A556DC2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
