@@ -31340,6 +31340,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790973910086_kgdtd",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "1500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "23:37",
+        "trackingNo": "1639818140",
+        "receiptNo": "M-2026-10-02-23.37.05.442828",
+        "referenceCode": "",
+        "senderName": "CEYLAN KEKLİCİ",
+        "senderIban": "TR530001200951000001081839",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - CEYLAN KEKLİCİ TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1790973910086,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A56EE56D12930D23D2CB29A3121A0C7F",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
