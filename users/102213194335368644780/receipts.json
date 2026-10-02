@@ -28922,6 +28922,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790951728730_qcd6u",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ALAŞEHİR/MANİSA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "17:34:29",
+        "trackingNo": "7370912555",
+        "receiptNo": "171413",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR380001000190909620335001",
+        "receiverName": "İSMAİL ÇELİK",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "beni ara"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790951728730,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC55604DB5B7CAEF4E3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
