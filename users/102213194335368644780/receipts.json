@@ -27434,6 +27434,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790934819068_c0cis",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "12:52:50",
+        "trackingNo": "2026013792477996",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ERKAN TAN YILMAZ",
+        "senderIban": "TR180001500158007391722240",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790934819068,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD5EC5227B1B337130E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790935140081_t3v0g",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "VAN",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "12:56:56",
+        "trackingNo": "7448000210",
+        "receiptNo": "2026-10-02-12.56.54.976301",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ALACAKLI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790935140081,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A85C4CF1CB15E0746BE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
