@@ -28364,6 +28364,68 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790944873401_hj6l3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "15:36",
+        "trackingNo": "202609279171109",
+        "receiptNo": "03663-03663-932878107",
+        "referenceCode": "4851365250",
+        "senderName": "MUSTAFA ÇİMEN",
+        "senderIban": "TR1100157000000000202410790",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TRTR350001500158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790944873401,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8BAEA6050C18C13D40",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790945209353_ultox",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "HÜSEYİNGAZİ",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "15:41:59",
+        "trackingNo": "4134000288",
+        "receiptNo": "2026-10-02-15.41.53.423251",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790945209353,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A669E2D99C8F8B66CBC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
