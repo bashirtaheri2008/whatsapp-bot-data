@@ -27558,6 +27558,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790936700217_zzxno",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "13:03:25",
+        "trackingNo": "6289401010449031680",
+        "receiptNo": "",
+        "referenceCode": "02102026-9300-24004667",
+        "senderName": "MUHAMMEDALİ ŞİMŞİR",
+        "senderIban": "TR070013400002264864200001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Talebiniz uyarınca işleminizin 4300,00 tutarı KMH'tan alınmıştır."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790936700217,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACA8B2AA088F7F93E8E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
