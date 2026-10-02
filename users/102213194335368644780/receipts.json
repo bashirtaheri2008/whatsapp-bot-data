@@ -28674,6 +28674,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790948764001_l56np",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "AKŞEHİR/KONYA ŞUBESİ",
+        "amount": "16000",
+        "currency": "TRY",
+        "date": "02/10/2026",
+        "time": "16:21:50",
+        "trackingNo": "7370170928",
+        "receiptNo": "F08425",
+        "referenceCode": "A01",
+        "senderName": "VEYSEL TAVUT",
+        "senderIban": "TR55000100017030429335506",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "16.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790948764001,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF2C331735106A75B3F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
