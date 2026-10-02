@@ -27155,6 +27155,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790931029141_ndqsi",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKŞEHİR",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "11:38:31",
+        "trackingNo": "2745000151",
+        "receiptNo": "2026-10-02-11.38.27.511603",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR340006200063400006654534",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790931029141,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A06E6EB2C5802F1D772",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790931039558_5p0ei",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "EMEK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "11:21:25",
+        "trackingNo": "5463000158",
+        "receiptNo": "2026-10-02-11.21.19.699356",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790931039558,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A49F63C6634C4F88C03",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790931056053_uels5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "11:18",
+        "trackingNo": "4865989298",
+        "receiptNo": "03663-03663-955029580",
+        "referenceCode": "202610017669285",
+        "senderName": "Doğan Siğinç",
+        "senderIban": "TR5900157000000000201505207",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Diğer Kira Ödemesi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790931056053,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A643EA496E3E50908B5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
