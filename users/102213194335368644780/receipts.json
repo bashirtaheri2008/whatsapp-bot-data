@@ -28829,6 +28829,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790950443018_box44",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2488/ZAFER/KONYA ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "17:13:05",
+        "trackingNo": "7370682725",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR35**************279815",
+        "receiverName": "VELİ FURKAN KAPLAN",
+        "receiverIban": "TR40**************885003",
+        "description": "7.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790950443018,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6FCE56ED88BC1BCADA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
