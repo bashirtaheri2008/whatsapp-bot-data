@@ -29077,6 +29077,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790952663886_9gepa",
+      "data": {
+        "isReceipt": true,
+        "bank": "TOM Bank",
+        "bankBranch": "Merkez Şube",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "17:49",
+        "trackingNo": "9806908",
+        "receiptNo": "",
+        "referenceCode": "A8Z6Y-B-202610021",
+        "senderName": "ENES TOPRAK",
+        "senderIban": "",
+        "receiverName": "NIZAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Gönderen: ENES TOPRAK , Alıcı: NIZAT NAZARI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790952663886,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD58C68D424F96708FF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
