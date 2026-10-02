@@ -31154,6 +31154,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790971463514_b07hx",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "7808.37",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "23:02:55",
+        "trackingNo": "29489598",
+        "receiptNo": "249103",
+        "referenceCode": "",
+        "senderName": "VOLKAN KÖSTEKLİ",
+        "senderIban": "TR300004601283888000084442",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790971463514,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6E9F06D3340E7CF771",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
