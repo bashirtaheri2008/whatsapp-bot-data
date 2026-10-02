@@ -29108,6 +29108,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790952674599_dtc9e",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0919/YILDIZEVLER/ANKARA ŞUBESİ",
+        "amount": "4350",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "17:49:52",
+        "trackingNo": "7370976138",
+        "receiptNo": "505671",
+        "referenceCode": "A01",
+        "senderName": "ERDİ AVŞAR",
+        "senderIban": "TR940001000919622787545001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.350,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790952674599,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4103EC8EED6375E6C3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790952850355_n0ias",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0265/ÇUMRA/KONYA ŞUBESİ",
+        "amount": "7990",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "17:50:30",
+        "trackingNo": "7371013574",
+        "receiptNo": "F16588",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "ALİ OSMAN UÇGUN",
+        "receiverIban": "TR810001000265906845635001",
+        "description": "Hesabınızdan 7.990,37 TL (Yalnız YEDİBİNDOKUZYÜZDOKSANSEKİZLİRAOTUZYEDİKURUŞ) tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "1323370070092",
+      "timestamp": 1790952850355,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A531F8EF54D17693E2C400093295F40A",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
