@@ -27310,6 +27310,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790934157828_cp8f2",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "12:37:35",
+        "trackingNo": "254760913240",
+        "receiptNo": "2547670914448",
+        "referenceCode": "SYJ202602279928",
+        "senderName": "ALİ İBRAHİM",
+        "senderIban": "TR08000670100000039080575",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073391459",
+        "description": "FAST/"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1790934157828,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5B94227D3B189106014C7B6D3F6549B",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
