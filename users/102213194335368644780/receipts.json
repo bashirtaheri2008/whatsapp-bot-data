@@ -30317,6 +30317,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790960813712_rvcrf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "20:04:40",
+        "trackingNo": "1838000493",
+        "receiptNo": "2026-10-02-20.04.37.470647",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR740006200041900006840838",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790960813712,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAC89530601A17E8C73",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
