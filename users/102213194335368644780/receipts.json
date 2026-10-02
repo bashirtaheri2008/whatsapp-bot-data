@@ -27651,6 +27651,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790937294690_hycom",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1597/PLEVNE MAHALLESİ/ANKARA ŞUBESİ",
+        "amount": "4850.37",
+        "currency": "TRY",
+        "date": "02/10/2026",
+        "time": "13:25:20",
+        "trackingNo": "7368540954",
+        "receiptNo": "F03310",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "BÜŞRA KOCA",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesabınızdan 4.858,37 TL (Yalnız DÖRTBİNSEKİZYÜZELLİSEKİZLİOTUZYEDEKİR) Çekilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1790937294690,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A220D51FCBB74CF77D8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
