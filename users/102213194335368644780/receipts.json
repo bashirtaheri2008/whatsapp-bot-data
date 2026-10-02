@@ -27124,6 +27124,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790931021252_ct1wv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "TOPTANCILAR ST/KONYA",
+        "amount": "13950",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "11:37:52",
+        "trackingNo": "9995000148",
+        "receiptNo": "2026-10-02-11.37.44.119201",
+        "referenceCode": "",
+        "senderName": "EMRAH KOYUNCU",
+        "senderIban": "TR840006200121300006654619",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790931021252,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A71903608371E53EB1B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
