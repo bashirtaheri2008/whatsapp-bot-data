@@ -27620,6 +27620,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790937145346_8t0g7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2721/SARAY/ANKARA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "13:30:40",
+        "trackingNo": "7366672600",
+        "receiptNo": "F00772",
+        "referenceCode": "A01",
+        "senderName": "HASAN GÖBÜTOĞLU",
+        "senderIban": "TR380001002721861311245004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.500 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafımdan bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790937145346,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA91B6A7932594808FD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
