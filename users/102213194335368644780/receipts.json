@@ -28178,6 +28178,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790942975753_xw1zn",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "15:04:52",
+        "trackingNo": "2026013798934732",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET ALİ YÜZCÜ",
+        "senderIban": "TR8600015001584838",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790942975753,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF84FA3927827AAD3C4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790942981703_39b2w",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "15:01",
+        "trackingNo": "1638888211",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-02-15.01.12.095286",
+        "senderName": "ORHAN KURNAZ",
+        "senderIban": "TR060001200944800001022370",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - ORHAN KURNAZ TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790942981703,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A94833C9D82C5F67AED",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1790942988212_ljqch",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MEVLANA",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "15:07:16",
+        "trackingNo": "8944000319",
+        "receiptNo": "2026-10-02-15.07.08.068129",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR250006200010100006809651",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ BeşBinBeşYüzTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790942988212,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0A23FDA2FC4AECDFC4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
