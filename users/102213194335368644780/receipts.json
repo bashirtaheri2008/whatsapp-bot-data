@@ -28488,6 +28488,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790947015144_mz90a",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "16:15:47",
+        "trackingNo": "TR960004601094888000104538",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Yusuf Fikirlı",
+        "senderIban": "TR960004601094888000104538",
+        "receiverName": "RAHMATULLAH HAKIM I",
+        "receiverIban": "TR35000150015800",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790947015144,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0BC08B8F294D6D590F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
