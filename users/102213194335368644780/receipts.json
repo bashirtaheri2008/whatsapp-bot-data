@@ -28643,6 +28643,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790948750223_0rwdo",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "16:43:37",
+        "trackingNo": "517572894813",
+        "receiptNo": "SYJ202602642663",
+        "referenceCode": "925-619359 / 2547675796473",
+        "senderName": "BEDRİ AKBAŞ",
+        "senderIban": "TR05000670100000032260947",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790948750223,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A06AAB9A6601A5DCB8F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
