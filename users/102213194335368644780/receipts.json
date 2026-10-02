@@ -30782,6 +30782,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790965412510_a9c4t",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "21:17",
+        "trackingNo": "1639671221",
+        "receiptNo": "M-2026-10-02-21.17.49.814978",
+        "referenceCode": "",
+        "senderName": "AHMET KOÇAK",
+        "senderIban": "TR520001200951700001028375",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - AHMET KOÇAK TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790965412510,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8FD36FF257F52CE9E8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
