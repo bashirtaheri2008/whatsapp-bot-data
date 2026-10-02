@@ -29945,6 +29945,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790957993925_uwl6p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "3904",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "18:38",
+        "trackingNo": "F30520_4002",
+        "receiptNo": "7371530710",
+        "referenceCode": "",
+        "senderName": "ORHAN ULU",
+        "senderIban": "TR930001000475000000785003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR33000640000011279815",
+        "description": "Hesabımızdan 3.904,18 TL (Yalnız ÜÇBİNDOKUZDÖRTLİRAONSEKİZKR) Çekilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790957993925,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8EBF52B26A3319E493",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
