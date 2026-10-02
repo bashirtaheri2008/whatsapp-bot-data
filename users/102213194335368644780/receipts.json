@@ -29294,6 +29294,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790953874033_j4rok",
+      "data": {
+        "isReceipt": true,
+        "bank": "TÜRKİYE İŞ BANKASI",
+        "bankBranch": "İstanbul",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "18:59:20",
+        "trackingNo": "3805614116",
+        "receiptNo": "460005417",
+        "referenceCode": "02.10.2026/4788868688",
+        "senderName": "KADİR SOSLU",
+        "senderIban": "TR620006400000145050968099",
+        "receiverName": "JOHND USMANI",
+        "receiverIban": "TR440001500158007391459150",
+        "description": "KADİR SOSLU tarafından aktarım"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790953874033,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF80F79E2D24B2E6DFC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
