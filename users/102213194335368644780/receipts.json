@@ -28116,6 +28116,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790942127604_j96f0",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "75000",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "14:55:06",
+        "trackingNo": "2026013798651456",
+        "receiptNo": "",
+        "referenceCode": "2974466508",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Öğütürk kıymetli taşlar",
+        "receiverIban": "TR160021000000148233400004",
+        "description": "25174 ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1790942127604,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4ABC2F06857DCC741E8A",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
