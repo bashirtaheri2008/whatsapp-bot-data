@@ -27279,6 +27279,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790932224562_7869u",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARAKOY MAH. ERGÜN SOK. 14/12",
+        "amount": "6990.00",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "12:08:37",
+        "trackingNo": "964600172",
+        "receiptNo": "106176030132",
+        "referenceCode": "0006 2001 0610 0006 6301 32",
+        "senderName": "GAMZETOGAN",
+        "senderIban": "TR350001500158007382279815",
+        "receiverName": "GAMZETOGAN",
+        "receiverIban": "",
+        "description": "HESAPTAN FAST"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1790932224562,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF7BA10334968602810",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
