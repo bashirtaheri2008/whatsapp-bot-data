@@ -31433,6 +31433,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1790997764966_m1scl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "05:40:15",
+        "trackingNo": "629190964073533440",
+        "receiptNo": "",
+        "referenceCode": "03102026-9300-6467999",
+        "senderName": "CUMALI SARSILMAZ",
+        "senderIban": "TR910013400002336850100001",
+        "receiverName": "USMANI",
+        "receiverIban": "TR440001500158007391459193JAWID",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi icin 3905-23368501-351 hesabınıza toplam 7,000.00TL Borç kaydedilmiştir."
+      },
+      "sender": "1323370070092",
+      "timestamp": 1790997764966,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5DBA024DBC2081B2D787A64D72D7F3B",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
