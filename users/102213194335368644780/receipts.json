@@ -31805,6 +31805,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791002021104_7nxj9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1912/ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "07:25:00",
+        "trackingNo": "7373304688",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "BEDİR ÖĞÜZHAN SİVRİ",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icintarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791002021104,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3B4777D3DD341EB48E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
