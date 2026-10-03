@@ -32084,6 +32084,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791018912066_8154a",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4308.37",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "12:12:30",
+        "trackingNo": "53493376",
+        "receiptNo": "622322",
+        "referenceCode": "",
+        "senderName": "ALİ SAMET YALÇIN",
+        "senderIban": "TR810004600567888000375307",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791018912066,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1CE0C76464E042AA22",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
