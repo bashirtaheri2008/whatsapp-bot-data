@@ -34936,6 +34936,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791055237419_vilqt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "22:18",
+        "trackingNo": "202610006779856",
+        "receiptNo": "03663-03663-950833914",
+        "referenceCode": "4863857302",
+        "senderName": "Ahmet Gökbakar",
+        "senderIban": "TR1700157000000000121903107",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gayrimenkul alım ödemesi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791055237419,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3FE3496A6D8BB40C3F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
