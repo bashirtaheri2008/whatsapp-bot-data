@@ -33758,6 +33758,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791041320903_4magb",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KEÇİÖREN ŞUBESİ",
+        "amount": "590",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "18:21:14",
+        "trackingNo": "01310-1871799",
+        "receiptNo": "202610029932603",
+        "referenceCode": "1702047067",
+        "senderName": "ABDULKADİR AŞKİN",
+        "senderIban": "TR610011100000000124153105",
+        "receiverName": "NIZAMUDDİN YAOUBİ",
+        "receiverIban": "TR3400015001580037122220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791041320903,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB2FDB5DB115157AEA5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
