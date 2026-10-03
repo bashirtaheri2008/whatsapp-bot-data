@@ -33634,6 +33634,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791040898507_ptby7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SARAYÖNÜ/KONYA ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "18:08:00",
+        "trackingNo": "7376713105",
+        "receiptNo": "",
+        "referenceCode": "00600/109718754-5001",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "SÜLEYMAN ACAY",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmetul lah hakım"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791040898507,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A711B4FB08AC8413F48",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
