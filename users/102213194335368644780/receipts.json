@@ -34781,6 +34781,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791053349203_1x0h7",
+      "data": {
+        "isReceipt": true,
+        "bank": "TOM Bank",
+        "bankBranch": "Merkez Şube",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "21:45",
+        "trackingNo": "9892736",
+        "receiptNo": "",
+        "referenceCode": "A1T2V-B-202607271",
+        "senderName": "ALİ RIZA KALAY",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen:"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791053349203,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3DD979AE48CF436B1F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
