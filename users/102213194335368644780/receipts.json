@@ -32053,6 +32053,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791015534400_b3fbh",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "11:15:31",
+        "trackingNo": "2026013837663410",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "VELİ AYYILDIZ",
+        "senderIban": "TR4500015001588641",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791015534400,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4680A16D70D1206B91",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
