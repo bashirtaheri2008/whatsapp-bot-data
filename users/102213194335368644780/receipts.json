@@ -34192,6 +34192,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791046509301_4yao0",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "19:51",
+        "trackingNo": "1641034190",
+        "receiptNo": "M-2026-10-03-19.51.31.350149",
+        "referenceCode": "",
+        "senderName": "ERDEM İLERİ",
+        "senderIban": "TR840001200939900001021211",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - ERDEM İLERİ TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791046509301,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD8238FE3750DDE966D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
