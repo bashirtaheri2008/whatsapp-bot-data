@@ -33479,6 +33479,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791040098604_fwlu4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "03/10/2026",
+        "time": "18:06:25",
+        "trackingNo": "3809038044",
+        "receiptNo": "426820004474",
+        "referenceCode": "03.10.2026/447/8888/8888",
+        "senderName": "MURAT ÇAĞLAN",
+        "senderIban": "TR400006400000142680698417",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MURAT ÇAĞLAN TARAFINDAN AKTARILAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791040098605,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA514CA9AAF35747CA9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791040191990_gap3p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "18:08:12",
+        "trackingNo": "CKD2026001727228",
+        "receiptNo": "AM408-B-20261003246",
+        "referenceCode": "724ca31f-8166-41ad-984a-e63e76cf2335",
+        "senderName": "ERDEM DEMİRKULA",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "jawd usmanı",
+        "receiverIban": "",
+        "description": "Gönderen: ERDEM DEMİRKULA , Alıcı: jawd usmanı , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791040191990,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6876C9C0A570BE8657",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
