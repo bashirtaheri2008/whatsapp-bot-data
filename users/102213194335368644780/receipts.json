@@ -34998,6 +34998,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791056041267_jvzs1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2603/ZAFER SANAYİ/KONYA ŞUBESİ",
+        "amount": "7500",
+        "currency": "TRY",
+        "date": "03/10/2026",
+        "time": "22:32:34",
+        "trackingNo": "7378083968",
+        "receiptNo": "F15124",
+        "referenceCode": "A01",
+        "senderName": "YUSUF PARMAKSIZ",
+        "senderIban": "TR720001009010015282305003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791056041267,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3A54762F26513F067E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
