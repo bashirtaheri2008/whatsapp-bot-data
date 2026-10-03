@@ -33076,6 +33076,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791036499357_74thn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KARAMAN ŞUBESİ",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "17:07:00",
+        "trackingNo": "7376284479",
+        "receiptNo": "F15664",
+        "referenceCode": "A01",
+        "senderName": "ŞERAFETTİN ÖZÜTEMİZ",
+        "senderIban": "TR290001000177594999795003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "14.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791036499357,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A24A26226D3C10D5640",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
