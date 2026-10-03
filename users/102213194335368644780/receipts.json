@@ -33541,6 +33541,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791040495600_odqqz",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNCAN",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "18:11:53",
+        "trackingNo": "5739000342",
+        "receiptNo": "2026-10-03-18.11.50.034881",
+        "referenceCode": "",
+        "senderName": "ŞÜKRÜ KANDAZ",
+        "senderIban": "TR370006200046500006839431",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ YediBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791040495600,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A02F8A6A1A20C264E00",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
