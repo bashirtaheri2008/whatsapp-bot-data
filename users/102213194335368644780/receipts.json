@@ -33355,6 +33355,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791039497923_b57ip",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "17:53:04",
+        "trackingNo": "CKR2026000792090",
+        "receiptNo": "ALOKB-B-20261003334",
+        "referenceCode": "187b1bc6-8c6b-4444-bc71-8ba7a69effaf",
+        "senderName": "ALI AYDOĞDU",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: ALI AYDOĞDU , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791039497923,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A18195CFAE89DF88759",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791039526039_mpsf1",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "17:51:50",
+        "trackingNo": "2026013850967934",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "UMUT AYDOĞAN",
+        "senderIban": "TR3400015001584683",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791039526039,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A62B25414D37A892576",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791039660002_onxgy",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KIZILAY ŞUBESİ",
+        "amount": "3900",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "17:59:30",
+        "trackingNo": "1702015809",
+        "receiptNo": "00946-1533781",
+        "referenceCode": "202610029723271",
+        "senderName": "HASRET ADAK",
+        "senderIban": "TR9300111000000000167949969",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622279815",
+        "description": "Bireysel Ode"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791039660002,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3635B6F321BB90A3C6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
