@@ -34564,6 +34564,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791049948401_juzqe",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "20:50:33",
+        "trackingNo": "2026013856835874",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "CANSU ATILIR",
+        "senderIban": "TR100001500158********1880",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791049948401,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7E6A1175F2E1BE34EE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
