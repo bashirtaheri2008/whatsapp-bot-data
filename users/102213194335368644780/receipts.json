@@ -33913,6 +33913,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791043860004_t09ss",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TORBALI/İZMİR ŞUBESİ",
+        "amount": "19980",
+        "currency": "TRY",
+        "date": "03/10/2026",
+        "time": "19:09:26",
+        "trackingNo": "7377123676",
+        "receiptNo": "F11776",
+        "referenceCode": "0317/79146064-5001",
+        "senderName": "",
+        "senderIban": "TR410001000317791460645001",
+        "receiverName": "İBRAHİM BAŞAK",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID USMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791043860004,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8769BFD6CB16DA3690",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
