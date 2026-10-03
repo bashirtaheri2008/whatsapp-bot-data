@@ -33293,6 +33293,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791039052600_jo79q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNÇAN ÇARŞI",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "17:49:05",
+        "trackingNo": "9724000328",
+        "receiptNo": "2026-10-03-17.48.53.328795",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791039052600,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A71C353C3B8C8BF410D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791039478700_rk6ac",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KADINHAN/KONYA ŞUBESİ",
+        "amount": "5990",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "17:56:22",
+        "trackingNo": "78276945821",
+        "receiptNo": "F08348",
+        "referenceCode": "49020444514",
+        "senderName": "EMRE YILDIZ",
+        "senderIban": "TR0200010001748941055003",
+        "receiverName": "RAHMETULLAH HAKIMI",
+        "receiverIban": "TR550001500158007362279815",
+        "description": "KONAKLAMA"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791039478700,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8865D73CFF2E076913",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
