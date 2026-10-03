@@ -32673,6 +32673,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791028142800_gpv6r",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "6008.37",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "14:48:07",
+        "trackingNo": "44453943 / 847504",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ABDULKADİR TÜRKOĞLU",
+        "senderIban": "TR730004600922888000155844",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791028142800,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD3F85263F00312585D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
