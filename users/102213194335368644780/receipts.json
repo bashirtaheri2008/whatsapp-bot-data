@@ -34843,6 +34843,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791054252900_q16un",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "GİMAT",
+        "amount": "3600",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "22:02:48",
+        "trackingNo": "6272000429",
+        "receiptNo": "2026-10-03-22.02.45.465322",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "JAWID USMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791054252900,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2916AAFF058955560B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
