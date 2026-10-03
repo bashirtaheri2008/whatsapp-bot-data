@@ -31464,6 +31464,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791001336805_eded1",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "7200",
+        "currency": "TL",
+        "date": "02/10/2026",
+        "time": "23:26:54",
+        "trackingNo": "517589217835",
+        "receiptNo": "SYJ202603022344",
+        "referenceCode": "925-757489 / 2547681307012",
+        "senderName": "ÖZCAN SURKUN",
+        "senderIban": "TR29000670100000020549123",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073391459",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRE"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791001336805,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADA4AACA259F9C2C424",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
