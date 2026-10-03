@@ -32549,6 +32549,68 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791026202403_nqnfa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2312/ŞAŞMAZ/ANKARA ŞUBESİ",
+        "amount": "12750",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "14:11:53",
+        "trackingNo": "7375072223",
+        "receiptNo": "F02385",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR220001002312657032675001",
+        "receiverName": "MUSTAFA ONUR TEMEL",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "12.750,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791026202403,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A23774FB6D602750619",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791026206332_oo7m5",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "6008.37",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "14:11:51",
+        "trackingNo": "TR35 0001 5001 5800 7362 2798 15",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ABDULKADİR TÜRKOĞLU",
+        "senderIban": "TR730004600922888000155844",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791026206332,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADB8A16C88EEAF3B061",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
