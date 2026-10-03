@@ -32611,6 +32611,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791027060105_v1u6v",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "İş Bankası",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "03/10/2028",
+        "time": "14:27:55",
+        "trackingNo": "20280012843398350",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALICI AD SOYADINININ",
+        "senderIban": "TR000001560158007312222252",
+        "receiverName": "OSMAN DURAK",
+        "receiverIban": "TR000001560158007312222271",
+        "description": "Hesaplar Arası Havale"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791027060105,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A82A1101978CACCA9CE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
