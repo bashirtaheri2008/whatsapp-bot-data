@@ -35091,6 +35091,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791057797604_nqu5r",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "22:51:48",
+        "trackingNo": "5597000451",
+        "receiptNo": "2026-10-03-22.51.40.734783",
+        "referenceCode": "",
+        "senderName": "MURAT KÖKSAL",
+        "senderIban": "TR710006200059600006606237",
+        "receiverName": "ZİNAT NAZARI",
+        "receiverIban": "TR80000150015800739203005554",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791057797604,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC6F08415F4533996BA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
