@@ -33107,6 +33107,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791036741400_e2o9b",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.S.",
+        "bankBranch": "BÜYÜKMÜELLERLER VD",
+        "amount": "4290",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "17:06:45",
+        "trackingNo": "TR4400015001580078914593",
+        "receiptNo": "8236149",
+        "referenceCode": "87655442243",
+        "senderName": "TAKKIM YAPI VE BASKAN T.A.O.",
+        "senderIban": "",
+        "receiverName": "IBRAHIM ATLI",
+        "receiverIban": "",
+        "description": "YALNIZ Dörbin Milyz TL'dir"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791036741400,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC8E72DF11B69BD606C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
