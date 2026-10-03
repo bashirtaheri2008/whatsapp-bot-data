@@ -33572,6 +33572,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791040500855_t0kz1",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KEÇİÖREN ŞUBESİ",
+        "amount": "12000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "18:13:08",
+        "trackingNo": "01310-1872467",
+        "receiptNo": "202610029823157",
+        "referenceCode": "T99148",
+        "senderName": "ABDULKADİR AŞKİN",
+        "senderIban": "TR610011100000000124153105",
+        "receiverName": "NIZAMUDDİN YAOUBİ",
+        "receiverIban": "TR3400015001580037122220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791040500855,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF07E6D005F5CA808A1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791040612004_twavn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "18:13:59",
+        "trackingNo": "517590861726",
+        "receiptNo": "SYJ202603759326",
+        "referenceCode": "925-598481 / 25",
+        "senderName": "SEFA SEMA SELVİ",
+        "senderIban": "TR45000670100000057598179",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073391459",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791040612004,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A56CFA39E9DD2AF92BD708DC9A321DFF",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
