@@ -32425,6 +32425,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791023465700_hmpz7",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ETİMESGUT",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "13:25:25",
+        "trackingNo": "5565000177",
+        "receiptNo": "2026-10-03-13.25.23.624499",
+        "referenceCode": "",
+        "senderName": "HASAN BAŞARAN",
+        "senderIban": "TR260006200030200006839668",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791023465700,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0B5C1D12143FD7C531",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791023468507_skj95",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "50000",
+        "currency": "TL",
+        "date": "03/10/2026",
+        "time": "13:29:25",
+        "trackingNo": "2976634561",
+        "receiptNo": "",
+        "referenceCode": "2026013842373392",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Öğütürk kıymetli taşlar",
+        "receiverIban": "TR160021000000148233400004",
+        "description": "25174 ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791023468507,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A910E87E8E7FC50BBD3",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
