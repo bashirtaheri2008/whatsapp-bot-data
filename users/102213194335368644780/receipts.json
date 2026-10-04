@@ -36827,6 +36827,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791120658103_tma8h",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "15:22:42",
+        "trackingNo": "AGG6K-B-20261004105",
+        "receiptNo": "BNV2026001325208",
+        "referenceCode": "9cf97b49-4647-4255-85b2-a58dfd6fc686",
+        "senderName": "BAHADIR YANMAZ",
+        "senderIban": "",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: BAHADIR YANMAZ , Alıcı: nizamuddin yaqubi , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791120658103,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFA6539124651F0E476",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
