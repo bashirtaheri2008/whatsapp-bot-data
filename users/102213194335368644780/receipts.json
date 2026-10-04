@@ -37695,6 +37695,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791127377600_0y3hb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SELÇUKLU",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "18:21:08",
+        "trackingNo": "792000245",
+        "receiptNo": "2026-10-04-18.21.04.789867",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR700006200146400006650997",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "YALNIZ AltıBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791127377600,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5DDA687DABED62B9B7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
