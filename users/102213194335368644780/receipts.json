@@ -36362,6 +36362,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791116491802_bua0s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk Katılım Bankası A.Ş.",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "15:16:12",
+        "trackingNo": "AGDKZ-B-20261004105",
+        "receiptNo": "BNV2026001325171",
+        "referenceCode": "8db6c5ca-84d0-467b-8631-21deac10be5f",
+        "senderName": "ERCAN DOĞRU",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "jawit usmani",
+        "receiverIban": "",
+        "description": "Gönderen: ERCAN DOĞRU , Alıcı: jawit usmani , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791116491802,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE8A2F629C835707A6B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
