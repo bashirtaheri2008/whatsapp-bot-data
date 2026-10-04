@@ -38346,6 +38346,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791133380909_o0rn7",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÖVEÇLER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "20:02:30",
+        "trackingNo": "4182000277",
+        "receiptNo": "2026-10-04-20.02.28.733338",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "YUSUF BURAK CEMEKCI",
+        "receiverIban": "TR090006200126000006656025",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791133380909,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF49FD59E2198A4F9E8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
