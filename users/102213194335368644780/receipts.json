@@ -36486,6 +36486,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791117497606_ny1s3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2401/MEYDAN-BATIKENT/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "15:35:58",
+        "trackingNo": "7380088674",
+        "receiptNo": "",
+        "referenceCode": "F09324",
+        "senderName": "BAYRAM YARADAN",
+        "senderIban": "TR0500010024014668007503",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.000,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791117497606,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9663539B5627ACB5F2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
