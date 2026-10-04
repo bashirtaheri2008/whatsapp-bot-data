@@ -38966,6 +38966,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791141943306_p20s9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2ZRAT MOBİL",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "04/10/2025",
+        "time": "22:14:51",
+        "trackingNo": "7381911547",
+        "receiptNo": "04102520221424",
+        "referenceCode": "F46474",
+        "senderName": "ZEYNEP KAYAŞIMAR",
+        "senderIban": "TR630001000177814957259501",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001580158097362279815",
+        "description": "ALICI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791141943306,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB57B395A029E99FBE4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791141988907_2n7u7",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "3192",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "22:04:54",
+        "trackingNo": "6401000331",
+        "receiptNo": "2026-10-04-22.04.50.485614",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791141988907,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABD66FA07B535D0D97E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791142126103_zg8ae",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SARACBAŞI MAH. YÜCÜŞAN SK. NO: 11/19 SELÇULLU KONYA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "22:27:17",
+        "trackingNo": "7381920042",
+        "receiptNo": "",
+        "referenceCode": "TR44 0001 5001 5800 7391 4593 91",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459391",
+        "description": "FAST"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791142126103,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5469E5F423C52C876BCF178EF977743",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
