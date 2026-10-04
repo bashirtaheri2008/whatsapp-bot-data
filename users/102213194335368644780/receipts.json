@@ -37075,6 +37075,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791121618505_jlate",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "16:10:08",
+        "trackingNo": "AGZAN-B-202610047",
+        "receiptNo": "BDM2026002260649",
+        "referenceCode": "4736247a-ecf7-4396-ad5a-d9330c40f3d0",
+        "senderName": "HASAN BAYSAL",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: HASAN BAYSAL, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791121618505,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5B6366868F859A96C165A9AFFE9EF0A",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
