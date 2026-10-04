@@ -39524,6 +39524,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791146500603_cwoyd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "23:40:54",
+        "trackingNo": "629825303724544000",
+        "receiptNo": "",
+        "referenceCode": "04102026-9300-40441055",
+        "senderName": "FURKAN KAPLAN",
+        "senderIban": "TR740013400002058896400002",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi icin 2160-20588964-351 hesabınıza toplam 4.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791146500603,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4730A0E8CF3D6789F5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
