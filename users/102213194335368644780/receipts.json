@@ -36641,6 +36641,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791119191306_lt5cl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0500/MAZIDAĞI/MARDİN ŞUBESİ",
+        "amount": "5980",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "16:01:28",
+        "trackingNo": "7380253078",
+        "receiptNo": "",
+        "referenceCode": "F78157",
+        "senderName": "CELAAL AKTAN",
+        "senderIban": "TR690001000500636406405007",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.980,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791119191306,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A65245FD01608561D11",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791119809200_uv6t5",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "82000",
+        "currency": "TL",
+        "date": "10/04/2026",
+        "time": "16:02:02",
+        "trackingNo": "2026013885582803",
+        "receiptNo": "",
+        "referenceCode": "2978680483",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "NUH GOLD KUYUMCULUK ANONİM ŞİRKETİ",
+        "receiverIban": "TR36000670100000407224171",
+        "description": "ALDIM ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791119809200,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A085E042D38B4C0BDA8",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
