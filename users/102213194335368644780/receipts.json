@@ -36548,6 +36548,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791118595912_3zxcs",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3898.37",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "15:54:37",
+        "trackingNo": "25810361",
+        "receiptNo": "165795",
+        "referenceCode": "",
+        "senderName": "SINAN PINAR",
+        "senderIban": "TR260004600345888000223758",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791118595912,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1348372A4E0E8A703C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
