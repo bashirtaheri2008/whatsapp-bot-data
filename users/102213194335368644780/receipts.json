@@ -35649,6 +35649,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791105740001_jbv5f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0766/ALTINDAĞ/ANKARA ŞUBESİ",
+        "amount": "3950",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "12:13:08",
+        "trackingNo": "7379190058",
+        "receiptNo": "F10205",
+        "referenceCode": "A01",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "TR66662765435001",
+        "receiverName": "SEVİLAY ERÖNCÜL",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "3.950,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791105740001,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA4870CE28252EFF0CD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791105780036_udzw9",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "12:20:49",
+        "trackingNo": "2026013878684418",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KERİM SOLMAZ",
+        "senderIban": "TR8300015801",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791105780036,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AADAEA67C271A2C5F27",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
