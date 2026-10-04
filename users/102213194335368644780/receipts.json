@@ -36207,6 +36207,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791114478704_khd1p",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NECATİBEY",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "14:45:02",
+        "trackingNo": "541000153",
+        "receiptNo": "2026-10-04-14.45.00.039670",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "ZİNAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791114478704,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6276CF0788CA8EE4BA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
