@@ -36517,6 +36517,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791117921002_k12x0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "15:41:52",
+        "trackingNo": "CKD2026001732504",
+        "receiptNo": "AGO02-B-20261004246",
+        "referenceCode": "9a086286-b71b-4b52-ac36-7434d9ecf234",
+        "senderName": "AHMET ALPTEKİN",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Gönderen: AHMET ALPTEKİN , Alıcı: RAHMATULLAH HAKIMI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791117921002,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABFA04C195452E4D318",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
