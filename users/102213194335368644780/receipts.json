@@ -38718,6 +38718,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791137926206_2ylt8",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "21:13:15",
+        "trackingNo": "629788145884676096",
+        "receiptNo": "",
+        "referenceCode": "04102026-9300-33338036",
+        "senderName": "RÜŞTÜ AKGÜN",
+        "senderIban": "TR650013400002560953600001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791137926206,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB2356FA533224395D5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
