@@ -37881,6 +37881,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791129392906_jt4zp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1437/ALTINEKİN/KONYA SUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "04/10/2026",
+        "time": "18:48:30",
+        "trackingNo": "7381090082",
+        "receiptNo": "",
+        "referenceCode": "F12432",
+        "senderName": "MUSTAFA CEYLAN",
+        "senderIban": "TR780001001437539417325009",
+        "receiverName": "Jawid usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791129392906,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8E429F70D07C73C2DF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
