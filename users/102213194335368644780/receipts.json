@@ -39152,6 +39152,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791142852908_8y0f7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "04/10/2026",
+        "time": "22:38:45",
+        "trackingNo": "3811246539",
+        "receiptNo": "421821013734",
+        "referenceCode": "04.10.2026/447/8888/8888",
+        "senderName": "NİSAN UÇMAK",
+        "senderIban": "TR930006400000142184997490",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR44000158007391459193",
+        "description": "NİSAN UÇMAK tarafından aktarılın"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791142852908,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFEC7F326259A5A47DC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
