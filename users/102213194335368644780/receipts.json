@@ -36765,6 +36765,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791119943506_40lit",
+      "data": {
+        "isReceipt": true,
+        "bank": "PTT BANKASI",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "3200",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "16:17",
+        "trackingNo": "641253",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "KAMURAN SOLAK",
+        "receiverIban": "TR35**************9815",
+        "description": "BİREYSEL ÖDEME"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791119943506,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4F4CC87F68873A34A1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791120285513_n05wv",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "57000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "16:23:31",
+        "trackingNo": "2026013886258391",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HAFIZULLAH MOHAMMADI",
+        "senderIban": "TR230001500158007330695764",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791120285513,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0C7216CF85820461D0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
