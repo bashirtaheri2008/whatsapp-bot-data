@@ -39307,6 +39307,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791144189401_sif16",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SANCAK MAH. YÜCÜMR SK. NO: 11/19 SELÇULLU KONYA",
+        "amount": "700",
+        "currency": "TRY",
+        "date": "04/10/2026",
+        "time": "22:58:34",
+        "trackingNo": "7382060453",
+        "receiptNo": "",
+        "referenceCode": "TR44 0001 5001 5800 7391 4593 91",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459391",
+        "description": "HESABIMIZDAN 708.37 TL (Yediyüzsekizliraotuzyedekur) Cekilmistir."
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791144189401,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5D0671013A9721656623793E15E36B3",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
