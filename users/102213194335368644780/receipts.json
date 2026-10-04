@@ -37385,6 +37385,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791124796806_9rmy0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "17:38:30",
+        "trackingNo": "BVP2026001349971",
+        "receiptNo": "AHYCG-B-20261004156",
+        "referenceCode": "a8d66b45-b14b-4fdc-a09f-2297ee81446d",
+        "senderName": "AHMET SARICI",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: AHMET SARICI, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791124796806,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACED1A94B70348FA409",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
