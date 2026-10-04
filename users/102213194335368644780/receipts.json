@@ -39276,6 +39276,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791143276112_ql5ze",
+      "data": {
+        "isReceipt": true,
+        "bank": "",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "22:31",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JA**** US****",
+        "receiverIban": "TR14",
+        "description": "Giden Fast"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791143276112,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5C7656C5EECD1E8DA8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
