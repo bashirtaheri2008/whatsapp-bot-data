@@ -37323,6 +37323,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791124325100_wa6w1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "EMEK",
+        "amount": "3860",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "17:30:57",
+        "trackingNo": "5626000208",
+        "receiptNo": "2026-10-04-17.30.55.293193",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR970006200077800006883637",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791124325100,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACF74C6D52191C8435C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
