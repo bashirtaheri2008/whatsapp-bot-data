@@ -36052,6 +36052,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791111939969_3dlef",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "14:02",
+        "trackingNo": "1641723658",
+        "receiptNo": "M-2026-10-04-14.02.49.023567",
+        "referenceCode": "",
+        "senderName": "OKAN CANSU",
+        "senderIban": "TR690001200153500001109689",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - OKAN CANSU TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791111939969,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A257762BAFCFC88207C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
