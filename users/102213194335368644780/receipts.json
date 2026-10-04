@@ -37540,6 +37540,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791126052610_g5pcv",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "17:58:08",
+        "trackingNo": "19131708",
+        "receiptNo": "294652",
+        "referenceCode": "",
+        "senderName": "FERDİ YILDIZ",
+        "senderIban": "TR290004601283888000072820",
+        "receiverName": "Rahmaullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791126052610,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFCA96E050D7AEEE7E1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
