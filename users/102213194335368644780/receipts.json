@@ -36331,6 +36331,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791116192286_t52ys",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "MERKEZ/KARAMAN",
+        "amount": "1596",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "15:05:25",
+        "trackingNo": "2626000161",
+        "receiptNo": "2026-10-04-15.05.22.001913",
+        "referenceCode": "594/6407758",
+        "senderName": "KARAMAN",
+        "senderIban": "TR140006200059400006607758",
+        "receiverName": "VALİDE SULTAN MAH. AHMET TOLAT",
+        "receiverIban": "",
+        "description": "ALICI YATIRIM"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791116192286,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9837EBEC1764738144",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
