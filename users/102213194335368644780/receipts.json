@@ -36114,6 +36114,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791113497493_e6aw0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SEFAKÖY",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "14:30:06",
+        "trackingNo": "588000152",
+        "receiptNo": "2026-10-04-14.30.00.699767",
+        "referenceCode": "",
+        "senderName": "OĞUZHAN DURMUŞ",
+        "senderIban": "TR880006200043200006618682",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791113497493,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4799C488244A24549A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
