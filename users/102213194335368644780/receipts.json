@@ -37509,6 +37509,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791125904007_soz3n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "7000",
+        "currency": "TRY",
+        "date": "04/10/2026",
+        "time": "17:56:40",
+        "trackingNo": "3810759764",
+        "receiptNo": "453579003478",
+        "referenceCode": "04.10.2026/447/88888/8888",
+        "senderName": "ÜBEYİT AYDIN",
+        "senderIban": "TR110006400000145350042327",
+        "receiverName": "zınat nazan",
+        "receiverIban": "TR80000158007392030554",
+        "description": "ÜBEYİT AYDIN tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791125904007,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A23502BB42F210AE075",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
