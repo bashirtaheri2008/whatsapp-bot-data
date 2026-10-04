@@ -36858,6 +36858,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791120684327_dak89",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "OSTİM AHİ EVRAN",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "15:33:36",
+        "trackingNo": "9614000167",
+        "receiptNo": "2026-10-04-15.33.32.508793",
+        "referenceCode": "",
+        "senderName": "OSTİM AHİ EVRAN",
+        "senderIban": "TR830006200048100006626675",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ YediBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791120684327,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF8FA26BEC237DE11A4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
