@@ -37354,6 +37354,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791124571605_55f2a",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "17:34:30",
+        "trackingNo": "2026013888537696",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "GÜNEY KAPLAN",
+        "senderIban": "TR9000015001589025",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791124571605,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A475FDE252FD9FC3FD6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
