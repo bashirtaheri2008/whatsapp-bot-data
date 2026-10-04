@@ -35587,6 +35587,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791105538100_8djg5",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "65000",
+        "currency": "TL",
+        "date": "10/04/2026",
+        "time": "08:40:25",
+        "trackingNo": "2026013871668729",
+        "receiptNo": "",
+        "referenceCode": "2978098465",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "NUH GOLD KUYUMCULUK ANONİM ŞİRKETİ",
+        "receiverIban": "TR36000670100000407224171",
+        "description": "ELDEN ALDIM ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791105538100,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A0EEA93DD8508A937BD",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
