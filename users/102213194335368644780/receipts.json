@@ -35928,6 +35928,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791109290101_3o7h8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİVASLI/UŞAK ŞUBESİ",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "04/10/2026",
+        "time": "13:15:05",
+        "trackingNo": "7379512522",
+        "receiptNo": "",
+        "referenceCode": "F07330",
+        "senderName": "EMRAH KÖKKIRAN",
+        "senderIban": "TR080001000536652602045001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "kişisel borç"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791109290101,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0E6B225D65432152AA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
