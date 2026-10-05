@@ -41787,6 +41787,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791204308403_56tze",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2561/YAZIR/KONYA ŞUBESİ",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "15:43:38",
+        "trackingNo": "7386340422",
+        "receiptNo": "551513",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "MUHAMMET YILDIZ",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "3.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791204308403,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB61EBD68BD18FA9496",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791204363102_sjpmh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BANAZ/USAK ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "15:41:58",
+        "trackingNo": "7386316503",
+        "receiptNo": "F13921",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR300001000537790466895001",
+        "receiverName": "MUHAMMED GÜNER",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "jawid u"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791204363102,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1BFDC89469D0A83D9D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791204421904_pg0oy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "15:32:25",
+        "trackingNo": "6300647599555685376",
+        "receiptNo": "",
+        "referenceCode": "05102026-9300-28859080",
+        "senderName": "EMİN KARATAŞ",
+        "senderIban": "TR900013400001926048100014",
+        "receiverName": "NIZAMUDDİN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 9490-19260481-356 hesabınıza toplam 13.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791204421904,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1F2EB02400DE07E7C8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
