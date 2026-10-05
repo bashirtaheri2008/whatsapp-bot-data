@@ -41880,6 +41880,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791204448725_pj4cr",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "20000",
+        "currency": "TL",
+        "date": "10/05/2026",
+        "time": "15:47:10",
+        "trackingNo": "2026013934020144",
+        "receiptNo": "",
+        "referenceCode": "2981325303",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Abdül kadir ateş",
+        "receiverIban": "TR650006200077000006804907",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791204448725,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A72CDAD73A6E16E4CD4",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
