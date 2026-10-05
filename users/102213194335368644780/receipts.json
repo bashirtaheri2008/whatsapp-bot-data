@@ -42903,6 +42903,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791212546404_3dhbj",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "POLATLI",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "18:01:00",
+        "trackingNo": "7650000557",
+        "receiptNo": "2026-10-05-18.00.59.276806",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "BURAK ESERYEL",
+        "receiverIban": "TR730006200084900006296864",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791212546404,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7AA765F9E8FF9F2EA6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
