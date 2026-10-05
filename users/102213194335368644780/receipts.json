@@ -40671,6 +40671,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791194298006_g2kw3",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "GİMAT ŞUBESİ",
+        "amount": "4470",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "12:26:36",
+        "trackingNo": "202610045182320",
+        "receiptNo": "01305-1152509",
+        "referenceCode": "170391",
+        "senderName": "DİDEM SUDE ÇAKİROĞLU",
+        "senderIban": "TR0200111000000000137046825",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791194298006,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2EDB7C2B3255796422",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
