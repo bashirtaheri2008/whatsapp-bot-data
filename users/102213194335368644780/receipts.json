@@ -43864,6 +43864,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791219337905_32sho",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "19:54",
+        "trackingNo": "1644226335",
+        "receiptNo": "M-2026-10-05-19.54.01.725909",
+        "referenceCode": "",
+        "senderName": "CANER ÜSTÜNDAG",
+        "senderIban": "TR250001200153500001111936",
+        "receiverName": "NIZAMUDDIN YAKUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - CANER ÜSTÜNDAG TARAFINDAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791219337905,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A28B4BA190D7DFF6A39",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
