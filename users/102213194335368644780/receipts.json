@@ -43802,6 +43802,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791219061101_xwe17",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "19:44:24",
+        "trackingNo": "2026013946138010",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SAMET KARADAĞ",
+        "senderIban": "TR5300015001582480",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791219061101,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A56DA2CD73393C07C92AED2D4F3CA5EB",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791219242506_4qed3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "5950",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "19:50:24",
+        "trackingNo": "9817000640",
+        "receiptNo": "2026-10-05-19.50.06.648834",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791219242506,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A026D749A2EB27F874C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
