@@ -40020,6 +40020,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791185016704_2uk74",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "POLATLI/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "05/10/2026",
+        "time": "10:20:39",
+        "trackingNo": "7383371255",
+        "receiptNo": "F28943",
+        "referenceCode": "A01",
+        "senderName": "FERHAT KILIÇAY",
+        "senderIban": "TR350001000011712397545001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "5.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791185016704,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEA41F7378437405499",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
