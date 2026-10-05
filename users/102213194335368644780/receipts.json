@@ -41198,6 +41198,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791197392811_sv3gx",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ERYAMAN",
+        "amount": "4480",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "13:47:07",
+        "trackingNo": "545000316",
+        "receiptNo": "2026-10-05-13.47.04.403745",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR210006200119800006653015",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791197392811,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACFF027DA910A054F6A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
