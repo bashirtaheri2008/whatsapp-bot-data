@@ -43027,6 +43027,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791213809702_xxmnh",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "18:20:04",
+        "trackingNo": "2026013941993796",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KARAMATULLAH RAHMANI",
+        "senderIban": "TR4400015001586161",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791213809702,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC608C45121E6399D9B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
