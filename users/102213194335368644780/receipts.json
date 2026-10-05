@@ -45011,6 +45011,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791226857306_xpr86",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "3000",
+        "currency": "TRY",
+        "date": "05/10/2026",
+        "time": "21:54:56",
+        "trackingNo": "H2610162588037",
+        "receiptNo": "A032026583142975",
+        "referenceCode": "8f17e27-193d-4e9e-8399-09e9e4a31b21",
+        "senderName": "HASAN YAŞLI",
+        "senderIban": "TR270006400000145160200623",
+        "receiverName": "BO**** BA**** HA****",
+        "receiverIban": "TR650006400000145520308656",
+        "description": "HASAN YAŞLI tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791226857306,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1B28FBB6CBA61A7504",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
