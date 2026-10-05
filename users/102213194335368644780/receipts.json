@@ -45042,6 +45042,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791227625601_az53b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "YUNAK/KONYA ŞUBESİ",
+        "amount": "10500",
+        "currency": "TRY",
+        "date": "05/10/2026",
+        "time": "22:08:15",
+        "trackingNo": "7389398937",
+        "receiptNo": "",
+        "referenceCode": "F24428",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR330001000158007362279815",
+        "receiverName": "HASAN HARLAR",
+        "receiverIban": "TR950001009010447324805001",
+        "description": "10.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791227625601,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF78A457BC8A39BFB41",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
