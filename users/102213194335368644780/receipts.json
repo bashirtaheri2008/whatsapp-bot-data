@@ -40981,6 +40981,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791195481805_34fbl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "1500",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "13:15:47",
+        "trackingNo": "BL20260002132679",
+        "receiptNo": "96611068",
+        "referenceCode": "AJKWD-B-2026100571",
+        "senderName": "UMUT ISMAIL ZÜMÜT",
+        "senderIban": "TR440001500158067391459193",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Jewed summun"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791195481805,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3371712881585FC018",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
