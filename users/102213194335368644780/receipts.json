@@ -43244,6 +43244,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791215999005_f776h",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2683/HOCAÇIHAN/KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "18:58:23",
+        "trackingNo": "7388137000",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR56000100268367038435001",
+        "receiverName": "AHMET ÇAYLAK",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791215999005,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A374FB3BA6CE522C26A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
