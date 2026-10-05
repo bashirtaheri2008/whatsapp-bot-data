@@ -44949,6 +44949,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791226488303_3rq2z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1597/PLEVNE MAHALLESİ/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "21:53:37",
+        "trackingNo": "7389293933",
+        "receiptNo": "F23208",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR390001001597941160915001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Hesabınızdan 4.008,37 TL (Yalnız DÖRTBİNEKİZLOTUTUZEDİKURUŞ) 05/10/2026-21:53:40 EFTTTGİDD INTERNET INTERNET"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791226488303,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFA6B72ABE680A00BE3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
