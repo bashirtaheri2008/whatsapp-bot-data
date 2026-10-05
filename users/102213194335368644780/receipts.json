@@ -42686,6 +42686,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791210304502_e6g79",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "30000",
+        "currency": "TL",
+        "date": "10/05/2026",
+        "time": "17:22:56",
+        "trackingNo": "2026013939041598",
+        "receiptNo": "",
+        "referenceCode": "2981753103",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Vali Heydari",
+        "receiverIban": "TR240001009010968026105001",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791210304502,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A41E933B41A26649D60",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
