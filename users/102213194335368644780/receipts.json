@@ -45197,6 +45197,68 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791230736904_sn3p5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ULUS / ANKARA",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "23:02:54",
+        "trackingNo": "6713000734",
+        "receiptNo": "2026-10-05-23.02.52.645877",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR690006200071100006852078",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791230736904,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7E44C44B5F52A0CC6E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791230932705_y5254",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "23:07:31",
+        "trackingNo": "2026013953725426",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAD EROĞLU",
+        "senderIban": "TR7700015001584971",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791230932705,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A40A80473818D8C4BF7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
