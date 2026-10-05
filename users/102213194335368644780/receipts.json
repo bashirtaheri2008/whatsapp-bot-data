@@ -43492,6 +43492,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791217408406_x0th1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BOSNA HERSEK MAH.",
+        "amount": "3235",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "19:20:57",
+        "trackingNo": "8747000623",
+        "receiptNo": "2026-10-05-19.20.52.687412",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791217408406,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5A9CB7246C3ABDF613",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
