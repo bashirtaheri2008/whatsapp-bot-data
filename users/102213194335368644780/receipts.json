@@ -39834,6 +39834,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791171046604_etj9n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "02:26",
+        "trackingNo": "4872470013",
+        "receiptNo": "03663-03663-964787650",
+        "referenceCode": "202610045439573",
+        "senderName": "Emre Gökyer",
+        "senderIban": "TR37000157000000000145039315",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791171046604,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A584C5D797C0B1B90B859500D2996481",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
