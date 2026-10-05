@@ -41570,6 +41570,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791201916303_5g9gi",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "14:55:19",
+        "trackingNo": "2026013930948702",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "FERDA ÇÖL",
+        "senderIban": "TR26000150015800000032",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791201916303,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEFB2D4B8913A0175CE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
