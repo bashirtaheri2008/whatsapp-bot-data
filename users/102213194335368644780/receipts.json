@@ -45290,6 +45290,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791233285309_k5g03",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "14008.37",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "23:41:30",
+        "trackingNo": "19775568",
+        "receiptNo": "736383",
+        "referenceCode": "",
+        "senderName": "HACI AHMET TEKİN",
+        "senderIban": "TR270004601094888000044573",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791233285309,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE29BEA2C07459F8BE0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
