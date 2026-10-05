@@ -45352,6 +45352,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791234434704_o7qlj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4980.00",
+        "currency": "TRY",
+        "date": "05/10/2026",
+        "time": "23:51:30",
+        "trackingNo": "3815573900",
+        "receiptNo": "450384004235",
+        "referenceCode": "05.10.2026/447/8888/8888",
+        "senderName": "İBRAHİM CANTÜRK",
+        "senderIban": "TR270006400000145030871590",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "İBRAHİM CANTÜRK tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791234434704,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A785DF25CC8F07721EF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
