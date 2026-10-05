@@ -41353,6 +41353,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791200351411_o6df0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "14:33:06",
+        "trackingNo": "7385651522",
+        "receiptNo": "F23631",
+        "referenceCode": "A01",
+        "senderName": "ZİNAT NAZARI",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "BEDİR ÖĞÜZHAN SİVRİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "7.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791200351411,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC789001EB0CCEB223A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
