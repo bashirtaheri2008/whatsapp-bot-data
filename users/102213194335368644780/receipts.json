@@ -42159,6 +42159,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791206334154_ndx1i",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANKARA OSB",
+        "amount": "4650",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "16:18:21",
+        "trackingNo": "1804000426",
+        "receiptNo": "2026-10-05-16.18.19.650343",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR620006200068200006584920",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791206334154,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFE85761C4A12EC8E00",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
