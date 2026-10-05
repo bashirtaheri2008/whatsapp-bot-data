@@ -41043,6 +41043,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791196008505_w5fxw",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "23000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "13:00:56",
+        "trackingNo": "254795161564",
+        "receiptNo": "MOJ202600809053",
+        "referenceCode": "925-839129",
+        "senderName": "",
+        "senderIban": "TR29000670100000077516156",
+        "receiverName": "NUH GOLD KUYUMCULUK ANONIM SIRKETI",
+        "receiverIban": "TR330006701000000407224171",
+        "description": "HAVALE UCRETI/GIDEN HAVALE -NUH GOLD KUYUMCULUK ANONIM SIRKETI - 407224171"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791196008505,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "ACFE5635229ED19177F0924E50367681",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
