@@ -45166,6 +45166,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791230652501_tn3yz",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "11500",
+        "currency": "TL",
+        "date": "10/05/2026",
+        "time": "23:03:49",
+        "trackingNo": "2026013953581363",
+        "receiptNo": "",
+        "referenceCode": "2982685816",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Serhat Yılmaz",
+        "receiverIban": "TR220004600345888000123920",
+        "description": "FAST Giden Anlık Ödeme"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791230652501,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AFB5925EBEAE99517C8",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
