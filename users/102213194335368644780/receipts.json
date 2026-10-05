@@ -39927,6 +39927,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791180801403_6t9cc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "11500",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "09:08:45",
+        "trackingNo": "8824fe2c-b3bc-4272-89a8-7e13126c00b1",
+        "receiptNo": "BNV2026001328864",
+        "referenceCode": "AC8DT-B-20261005105",
+        "senderName": "ŞABAN KADİR AKYILDIZ",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: ŞABAN KADİR AKYILDIZ, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791180801403,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9E2DFCF980F7E3730C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
