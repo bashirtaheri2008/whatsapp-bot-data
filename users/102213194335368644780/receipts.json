@@ -42810,6 +42810,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791212307605_kth4a",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "17:57:10",
+        "trackingNo": "517612158872",
+        "receiptNo": "SYJ202606121020",
+        "referenceCode": "925-352765 / 2547922888713",
+        "senderName": "MUSTAFA BAŞKAYA",
+        "senderIban": "TR8400067010000005221611",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR3500015001580073622791",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791212307605,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2BDA55654B58D31AA0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791212318604_rve9i",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİTELER",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "17:55:17",
+        "trackingNo": "5053000526",
+        "receiptNo": "2026-10-05-17.54.28.824396",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791212318604,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7F7429B1093B29F072",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791212497704_bacfs",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "17:56:45",
+        "trackingNo": "2026013940982459",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "FIRAT KAYAR",
+        "senderIban": "TR2000015001589201",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791212497704,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF1BAFCB26C2FCD0E65",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
