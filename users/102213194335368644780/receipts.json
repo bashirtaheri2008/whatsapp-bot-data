@@ -42345,6 +42345,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791208365006_9br1a",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.S.",
+        "bankBranch": "TUNALI HILMI ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/03/2026",
+        "time": "16:50:43",
+        "trackingNo": "8765542423",
+        "receiptNo": "5289773",
+        "referenceCode": "0512312026-22-48220-7196",
+        "senderName": "İBRAHİM ATLI",
+        "senderIban": "TR060006400000112345678901",
+        "receiverName": "KULLANICI ADI",
+        "receiverIban": "TR14BRMB000000000000000001",
+        "description": "Gelen / FAST Sorgu No:2026030917644200750015830736501593 Türkiye Varlık Bankası T.A.O. JAKO UZMAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791208365006,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A732123BDCAEB799553",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
