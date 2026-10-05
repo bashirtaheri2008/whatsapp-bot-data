@@ -44825,6 +44825,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791225378204_k86u3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNÇAN ÇARŞI",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "21:35:41",
+        "trackingNo": "2025000704",
+        "receiptNo": "2026-10-05-21.35.00.330865",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791225378204,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACAFC93F7C486455611",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791225393900_r7axf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk Katılım Bankası A.Ş.",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "21:34:29",
+        "trackingNo": "AZCYL-B-20261005292",
+        "receiptNo": "CRJ2026001498076",
+        "referenceCode": "3ede5c90-04f1-46e0-9a74-df8e72a92be4",
+        "senderName": "DERVİŞ ÖZKARA",
+        "senderIban": "TR800001500158007392030554",
+        "receiverName": "zınant nazarı",
+        "receiverIban": "",
+        "description": "Gönderen: DERVİŞ ÖZKARA, Alıcı: zınant nazarı, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791225393900,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0D8EADA173C5EFCABB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791225866808_rsk17",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "YUNAK/KONYA ŞUBESİ",
+        "amount": "10600",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "21:42:03",
+        "trackingNo": "7389251898",
+        "receiptNo": "F24262",
+        "referenceCode": "A01",
+        "senderName": "NURULLAH YILMAZ",
+        "senderIban": "TR490001000497774825115002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "10.600,00 TRY tutarında Fast isleminin yapilmasini, Bu islem tarafima bildirilen 16,76 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791225866808,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA90560E3D26C9B396D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
