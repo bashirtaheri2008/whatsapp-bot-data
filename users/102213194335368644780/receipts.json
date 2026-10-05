@@ -45259,6 +45259,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791231472209_9dfa7",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIRECT MOBIL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "21:13:53",
+        "trackingNo": "TR2320000401543880010156082",
+        "receiptNo": "895-1543-0156082",
+        "referenceCode": "TR26 0001 5001 5960 7342 2798 15",
+        "senderName": "METİN KESEKLER",
+        "senderIban": "",
+        "receiverName": "Rahmaturrahim Halim",
+        "receiverIban": "TR260001500159607342279815",
+        "description": "KENDISI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791231472209,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A58BA28E359CC267F16",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
