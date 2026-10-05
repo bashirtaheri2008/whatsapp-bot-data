@@ -42283,6 +42283,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791207986515_f09p2",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5508.37",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "16:45:23",
+        "trackingNo": "43555364 / 972480",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "DERVİŞ ÇAYLAK",
+        "senderIban": "TR140004600040888000199260",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791207986515,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7129BB7CBF08EEA1E9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791208019006_18xaj",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "CEPTE TEB-929",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "16:41",
+        "trackingNo": "760305815",
+        "receiptNo": "00562059",
+        "referenceCode": "",
+        "senderName": "HASAN GÖÇMENOĞLU",
+        "senderIban": "TR28000320000000113239642",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "h"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791208019006,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A21E03A50DE08C73BAB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
