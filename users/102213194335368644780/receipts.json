@@ -41105,6 +41105,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791196374306_qaxqd",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "İSTANBUL ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "13:24:34",
+        "trackingNo": "1664000249",
+        "receiptNo": "2026-10-05-13.24.34.620549",
+        "referenceCode": "1664000249",
+        "senderName": "MEVLANA",
+        "senderIban": "TR770006200610100006842374",
+        "receiverName": "MUSTAFA SABRİ KÜÇÜK A.Ş.",
+        "receiverIban": "TR440001500154007391439193",
+        "description": "ALACAKLI : JAWID UMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791196374306,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD1F2FBB1899F37A134",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791196487907_b9nug",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1577/LALEGÜL/ANKARA ŞUBESİ",
+        "amount": "2700",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "13:33:55",
+        "trackingNo": "7385080793",
+        "receiptNo": "",
+        "referenceCode": "F15979",
+        "senderName": "BAYRAM DURUKAN",
+        "senderIban": "TR720001001577436152095004",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "2.700,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791196487907,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0FF86A7AA0ECAB0D08",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
