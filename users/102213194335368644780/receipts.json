@@ -45414,6 +45414,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791235247612_qsoq5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "6800",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "00:11:35",
+        "trackingNo": "7389879905",
+        "receiptNo": "F00111_4035",
+        "referenceCode": "A01",
+        "senderName": "ZIYA ARGUN",
+        "senderIban": "TR780001004035630869345002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Fast Mesaj Kodu : A01 Fast Sorgu No : 7389879905"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791235247612,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD369E40525999A0424",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
