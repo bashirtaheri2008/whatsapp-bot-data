@@ -44422,6 +44422,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791222806600_b6d2f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1597/PLEVNE MAHALLESI/ANKARA ŞUBESİ",
+        "amount": "4008.37",
+        "currency": "TRY",
+        "date": "10/05/2026",
+        "time": "20:52:29",
+        "trackingNo": "7388979382",
+        "receiptNo": "F22766",
+        "referenceCode": "1597/80105804-5001",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "BUŞRA KOCA",
+        "receiverIban": "TR850001001597801058045001",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791222806600,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8FF49E0448B60179AB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
