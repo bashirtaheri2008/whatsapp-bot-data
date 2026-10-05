@@ -42996,6 +42996,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791213452008_w9er9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KECIÖREN/ANKARA",
+        "amount": "1600",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "18:15:26",
+        "trackingNo": "2844050044",
+        "receiptNo": "2026-10-05-18.15.11.621989",
+        "referenceCode": "107714559",
+        "senderName": "HAZARDOĞAN YAGMUR",
+        "senderIban": "TR340001500150007910220257",
+        "receiverName": "BERAT ÖZDEMİR",
+        "receiverIban": "TR600006200011400006421552",
+        "description": "ALACAKLI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791213452008,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A57E3BD8B8920457B97",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
