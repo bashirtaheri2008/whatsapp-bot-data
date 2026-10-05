@@ -43709,6 +43709,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791218762704_psnx9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "6890",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "19:24:00",
+        "trackingNo": "4228000586",
+        "receiptNo": "2026-10-05-19.23.56.383292",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001580073914591",
+        "receiverName": "ERSİN UZUNER",
+        "receiverIban": "TR940006200077000006800699",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791218762704,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD2650B3CCE3B04E23A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
