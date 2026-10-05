@@ -43678,6 +43678,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791218398710_jbarg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KADINHANI/KONYA ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "19:38:41",
+        "trackingNo": "7388452250",
+        "receiptNo": "F33132",
+        "referenceCode": "A01",
+        "senderName": "RAHMATULLAH HAKİMİ",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "HACI İSMAİL ATAŞOĞLU",
+        "receiverIban": "TR930001000174773690575001",
+        "description": "7.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791218398710,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF5FA5094654E742F74",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
