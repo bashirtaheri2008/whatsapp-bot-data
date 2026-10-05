@@ -40299,6 +40299,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791190347502_0qbrh",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک ملت",
+        "bankBranch": "",
+        "amount": "1000000000",
+        "currency": "TL",
+        "date": "13/07/1405",
+        "time": "12:13:26",
+        "trackingNo": "1851079380586",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "محمدحسین امامی میدی",
+        "senderIban": "",
+        "receiverName": "محمد تیرتیه فراهانی",
+        "receiverIban": "",
+        "description": "ترانکش موفق از کسر موجودی"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791190347502,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5FD64C27EA88F4E2F387328C19C1D16",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
