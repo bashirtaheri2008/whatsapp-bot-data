@@ -40361,6 +40361,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791192253103_xc3yf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SAHRAYICEDİT",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "12:21:17",
+        "trackingNo": "3860000208",
+        "receiptNo": "2026-10-05-12.21.16.202865",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "MEHMET KARAMAN",
+        "receiverIban": "TR240006200027700006854282",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791192253103,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC0905F68B9B5A2B283",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
