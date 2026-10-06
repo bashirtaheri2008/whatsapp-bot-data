@@ -46375,6 +46375,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791273965602_jn5aa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "11:04:12",
+        "trackingNo": "3816322974",
+        "receiptNo": "427846004540",
+        "referenceCode": "A0326589912778",
+        "senderName": "TÜLAY KOÇ",
+        "senderIban": "TR110006400000142780327639",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "TÜLAY KOÇ tarafından aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791273965602,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3F3B0A8723E944F3A6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
