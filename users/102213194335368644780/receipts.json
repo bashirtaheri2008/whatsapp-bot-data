@@ -47863,6 +47863,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791283746903_rt5mw",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BEYŞEHİR",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "13:48:00",
+        "trackingNo": "8069000229",
+        "receiptNo": "2026-10-06-13.47.41.837189",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR330006200105700006683436",
+        "receiverName": "TULAY SEHREMAN KARAKAYA",
+        "receiverIban": "TR690001200122700001155073",
+        "description": "YALNIZ DörtBinYediYüzTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791283746903,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9EA41ABDA78194B1AA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
