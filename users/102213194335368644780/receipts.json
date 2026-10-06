@@ -51831,6 +51831,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791305406404_0xsre",
+      "data": {
+        "isReceipt": true,
+        "bank": "Papara",
+        "bankBranch": "",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "19:48",
+        "trackingNo": "44488188575",
+        "receiptNo": "PUA2026019168129",
+        "referenceCode": "542621605",
+        "senderName": "Ahmet Alkan",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "AltıBinBeşYüzTL"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791305406404,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A31A487F509D583B865",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791305819600_5o6pc",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "18000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "19:56:24",
+        "trackingNo": "2026013996198869",
+        "receiptNo": "",
+        "referenceCode": "2984986434",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR860001009011159048905001",
+        "receiverName": "Muhammed Mustafa Hasan Farhat",
+        "receiverIban": "",
+        "description": "FAST Giden Anlık Ödeme"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791305819600,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4A724DD9E6C412781F40",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
