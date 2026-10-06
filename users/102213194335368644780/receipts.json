@@ -53195,6 +53195,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791313508204_7x5v2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Sube",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:58",
+        "trackingNo": "202610068271531",
+        "receiptNo": "03663-03663-971366204",
+        "referenceCode": "4878236660",
+        "senderName": "MUHAMMET ALİ ŞİMŞEK",
+        "senderIban": "TR580015700000000071986848",
+        "receiverName": "NİZAMUDDİN YAŞARLI",
+        "receiverIban": "",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791313508204,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5BD1B030B22C50FD8B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
