@@ -49785,6 +49785,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791295502407_19bz1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1013/AKÖREN/KONYA ŞUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "16:55:57",
+        "trackingNo": "7393797394",
+        "receiptNo": "021778",
+        "referenceCode": "A01",
+        "senderName": "aydin",
+        "senderIban": "TR920001001013497572715001",
+        "receiverName": "LÜTFİ MUCUK",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmatullah hakım"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791295502407,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADF2EF2A1B9A79BBCC6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
