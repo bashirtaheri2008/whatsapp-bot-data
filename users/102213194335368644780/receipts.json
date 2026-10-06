@@ -49103,6 +49103,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791291720204_7rh1d",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MEVLANA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "16:00:59",
+        "trackingNo": "347000345",
+        "receiptNo": "2026-10-06-16.00.56.739183",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR330006200010100006962643",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312225752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791291720204,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A496C34775018CEA6DF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
