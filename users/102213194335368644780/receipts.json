@@ -52699,6 +52699,99 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791310794606_ojhc8",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DİREKT MOBİL CEP",
+        "amount": "500837",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:05:52",
+        "trackingNo": "TR920000460094588800059001",
+        "receiptNo": "",
+        "referenceCode": "TR920000460094588800059001",
+        "senderName": "BERAT YÜCE",
+        "senderIban": "TR520006200004400008869613",
+        "receiverName": "Mohammed Shoab Mahdom",
+        "receiverIban": "",
+        "description": "BEŞBİN SEKİZ TL OTUZYEDİ KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791310794606,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABB0FAE2D0A24B1811D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791310797408_tsw9f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2020",
+        "time": "21:11:12",
+        "trackingNo": "630512407924146176",
+        "receiptNo": "",
+        "referenceCode": "9390 - 40151102",
+        "senderName": "İSMET KAHREMAN",
+        "senderIban": "TR810013400002654379800001",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004408066865613",
+        "description": "9390 - MobilDeniz"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791310797408,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACDD8B6A3A06F528727",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791310972110_0v0p7",
+      "data": {
+        "isReceipt": true,
+        "bank": "TOM Bank",
+        "bankBranch": "Merkez Şube",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:21",
+        "trackingNo": "7755594",
+        "receiptNo": "AO9BK-B-202610 061",
+        "referenceCode": "",
+        "senderName": "SÜLEYMAN YAVUZ",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: SÜLEYMAN YAVUZ , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791310972110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4DDAD335AF8C6EB9E9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
