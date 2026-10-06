@@ -50374,6 +50374,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791299201907_6k3a6",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "BÜSAN ŞUBESİ",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:05:23",
+        "trackingNo": "202610061285397",
+        "receiptNo": "01531-1191094",
+        "referenceCode": "1706547429",
+        "senderName": "MEHMET KIYAK",
+        "senderIban": "TR180011100000000021044237",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791299201907,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF1AF7191C0F34A0B46",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
