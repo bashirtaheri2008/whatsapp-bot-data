@@ -52885,6 +52885,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791312016201_z3iwq",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "6260 MAMAK/ANKARA",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:38:09",
+        "trackingNo": "2026-10-06-21.38.07.285422",
+        "receiptNo": "",
+        "referenceCode": "30937030746",
+        "senderName": "MUHAMMED SHOAIB WARSIKHAN",
+        "senderIban": "TR520006200040400006865613",
+        "receiverName": "CEBECI",
+        "receiverIban": "TR920006200047000006899235",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791312016201,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A42F266918DC0CEF02E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791312036505_kd3ys",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TÜRKÖZÜ/ANKARA ŞUBESİ",
+        "amount": "4490.00",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:31:23",
+        "trackingNo": "7395644358",
+        "receiptNo": "F05446",
+        "referenceCode": "A01",
+        "senderName": "MUSTAFA KARATEKELİOĞLU",
+        "senderIban": "TR420001001521638928595003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Fast Mesaj Kodu: A01 Fast Sorgu No: 7395644358"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791312036505,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0956B9F70B6FC83283",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791312257910_groji",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:41",
+        "trackingNo": "4878196680",
+        "receiptNo": "202610068149577",
+        "referenceCode": "03663-03663-971336469",
+        "senderName": "Hazal Çam",
+        "senderIban": "TR6700157000000000109528305",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791312257910,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC3688459796FB0D466427B1E1D9ED77",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
