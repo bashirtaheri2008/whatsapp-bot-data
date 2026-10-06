@@ -48111,6 +48111,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791286019121_7xny7",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "NATOYOLU ŞUBESİ",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "14:20:58",
+        "trackingNo": "01327-1429887",
+        "receiptNo": "202610059134929",
+        "referenceCode": "178614705",
+        "senderName": "UGUR EMİROĞLU",
+        "senderIban": "TR0600111000000000161788640",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Diger Kira Odemesi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791286019121,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A88AEA2726A6EF28135",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
