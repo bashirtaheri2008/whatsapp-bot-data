@@ -48266,6 +48266,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791286728901_a66q8",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "0014 - POLATLI",
+        "amount": "11321.98",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "09:09:54",
+        "trackingNo": "26830735/220029",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AYAŞ AÇIK CEZA İNFAZKURUMU İŞ YURDU.MÜDÜ",
+        "senderIban": "",
+        "receiverName": "Berat ÖZTÜRK",
+        "receiverIban": "TR500004600014888000224744",
+        "description": "KAR PAYI ÖDEMELERİ(2025YILINA AİT)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791286728901,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAC32E5E975E8D025C7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
