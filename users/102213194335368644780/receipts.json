@@ -47987,6 +47987,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791285115934_5cq91",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "14:10",
+        "trackingNo": "1645416102",
+        "receiptNo": "M-2026-10-06-14.10.26.411010",
+        "referenceCode": "",
+        "senderName": "YUSUF GENÇASLAN",
+        "senderIban": "TR340001200969500001035860",
+        "receiverName": "NIZAMUDDIN YAQUI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "BIREYSEL ÖDEME"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791285115934,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACCC95679DF1070D2D0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
