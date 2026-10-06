@@ -54218,6 +54218,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791319586107_7ar0n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "PORSALAR",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "23:44:56",
+        "trackingNo": "2115000614",
+        "receiptNo": "2026-10-06-23.44.53.671174",
+        "referenceCode": "7334 0001 5001 5800 7312 2207 52",
+        "senderName": "NIZAMUDDIN YAGUBI",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "ANKARA PURSAKLAR CINANNER DOK.",
+        "receiverIban": "TR070006200106600006610471",
+        "description": "TEVFIK ILERI MAH."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791319586107,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACA879A7DE3EF815AB9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
