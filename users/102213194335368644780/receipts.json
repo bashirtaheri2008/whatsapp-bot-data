@@ -49444,6 +49444,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791294170408_l9qyv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "16:10:37",
+        "trackingNo": "517634797807",
+        "receiptNo": "SYJ202607411818",
+        "referenceCode": "925-604603 / 2548040482790",
+        "senderName": "SEFA SEMA SELVİ",
+        "senderIban": "TR45000670100000057598179",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073391459",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791294170408,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5A3A89E202B76AA2E5736E021A53B45",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
