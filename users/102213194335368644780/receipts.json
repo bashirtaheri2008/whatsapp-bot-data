@@ -48080,6 +48080,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791285644906_xkm8g",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "14:12:46",
+        "trackingNo": "630407105278185472",
+        "receiptNo": "",
+        "referenceCode": "24409764",
+        "senderName": "ADEM YILMAZ",
+        "senderIban": "TR640013400001498545600019",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Kullanicida detay bilgileri verilmeyen FAST islemi (c/n: 2160-14985456-351) hesabina toplam 4.000,00 TL. Borc kaydedilmistir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791285644906,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6F357B251F6D87D756",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
