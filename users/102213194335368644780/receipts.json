@@ -46251,6 +46251,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791273091903_k3818",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "e-Dekont",
+        "amount": "4758.37",
+        "currency": "TL",
+        "date": "06/10/2024",
+        "time": "10:10:08",
+        "trackingNo": "2548028494355",
+        "receiptNo": "11101193",
+        "referenceCode": "2548028494355",
+        "senderName": "TOKI",
+        "senderIban": "TR00000000000000000000000000",
+        "receiverName": "MEHMET CANKIZ",
+        "receiverIban": "TR84000150015801380739365953",
+        "description": "TOKİ KREDİSİ"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791273091903,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE6291393D654B434B1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791273140910_5qj1x",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "YENİMAHALLE/ANKARA",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "14:49:53",
+        "trackingNo": "1548000127",
+        "receiptNo": "2026-10-06-10.49.53.800767",
+        "referenceCode": "10189176700",
+        "senderName": "JAMID USMANI",
+        "senderIban": "TR44000150015807391459193",
+        "receiverName": "FARUKCAN KAYA ERCAN DOĞ. ÇEŞİDİ",
+        "receiverIban": "TR18000620005300000646127",
+        "description": "7,97 TL BDMO - 0,40 TL KOMİSYON TOPLAMI : 8,37 TL"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791273140910,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6D6820E10761B75B22",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791273249905_zp836",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BANAZ/USAK ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "10:51:55",
+        "trackingNo": "7391029676",
+        "receiptNo": "F01607",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR300001000537790466895001",
+        "receiverName": "RAHMETULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791273249905,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAD1D541B051309A6FD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
