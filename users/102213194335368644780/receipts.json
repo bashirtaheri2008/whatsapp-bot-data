@@ -50653,6 +50653,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791300994607_dwvmr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "YAGAR KML CD./SINCAN",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:30:45",
+        "trackingNo": "32520040434",
+        "receiptNo": "2026-10-06-18.30.42.694434",
+        "referenceCode": "11113523736",
+        "senderName": "JAMID OSMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "SEVIM MUMTAZILIK",
+        "receiverIban": "TR580006200154300006609494",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791300994607,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AED6F5BEBDB3CDDF1E6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
