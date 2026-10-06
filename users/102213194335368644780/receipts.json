@@ -47026,6 +47026,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791278501207_he966",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "12:21:00",
+        "trackingNo": "2026013974963817",
+        "receiptNo": "",
+        "referenceCode": "2983582185",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Emrah mansız",
+        "receiverIban": "TR67001570000000129979494",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791278501207,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A4A2D3DC48DB9E92B10",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791278555404_84gnj",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "EMEK",
+        "amount": "3980",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "12:20:57",
+        "trackingNo": "7946000151",
+        "receiptNo": "2026-10-06-12.20.54.404985",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001580073914591",
+        "receiverName": "HASAN HÜSEYİN UYSAL",
+        "receiverIban": "TR970006200077800006883637",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791278555404,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5561C56F21923385C9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
