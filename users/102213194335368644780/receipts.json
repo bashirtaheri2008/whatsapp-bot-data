@@ -49723,6 +49723,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791295329504_ncwdz",
+      "data": {
+        "isReceipt": true,
+        "bank": "faysalbank",
+        "bankBranch": "",
+        "amount": "1200000",
+        "currency": "PKR",
+        "date": "06/10/2026",
+        "time": "18:53:10",
+        "trackingNo": "348619",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ANMOL TRADERS",
+        "senderIban": "PK**FAYS***********0618",
+        "receiverName": "MUHAMMAD ARSHAD",
+        "receiverIban": "PK**HABB***********6903",
+        "description": "Others"
+      },
+      "sender": "17549588717728",
+      "timestamp": 1791295329504,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "2AF8DE93A66BD9B64A20",
+        "participant": "17549588717728@lid",
+        "participantAlt": "93781813112@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
