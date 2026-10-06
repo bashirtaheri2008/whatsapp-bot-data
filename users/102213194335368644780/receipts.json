@@ -46499,6 +46499,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791274590107_bhq00",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIRECT MOBIL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "11:13:27",
+        "trackingNo": "TR4400150015001580073891459193",
+        "receiptNo": "11567090/209361/",
+        "referenceCode": "TR4400150015001580073891459193",
+        "senderName": "MAHMUT ARPAÇI",
+        "senderIban": "TR4400150015001580073891459193",
+        "receiverName": "Jawid Uslmani",
+        "receiverIban": "",
+        "description": "VALINZ DORTBIN SEKIZ TL OTUZIKR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791274590107,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2A06F84EF1829B3276",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
