@@ -47677,6 +47677,130 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791282851304_h8j1m",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2320/İRİ REİS/KARAMAN ŞUBESİ",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "13:31:32",
+        "trackingNo": "7392223865",
+        "receiptNo": "FO8296",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR780001002320574851955002",
+        "receiverName": "MEHMET TOPBAŞ",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmatullah olsun"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791282851304,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD1DA690944642EBE3D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791282857902_vbv5t",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "13:31:08",
+        "trackingNo": "254808635878",
+        "receiptNo": "SYJ202607209794",
+        "referenceCode": "925-754992",
+        "senderName": "BAYRAM BERKE",
+        "senderIban": "TR91000670100000051844669",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073391459",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791282857902,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD3DEF6D38348936471",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791282870817_9ny54",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DİREKT MOBİL CEP",
+        "amount": "300837",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "13:30:04",
+        "trackingNo": "TR000004609688888000069020",
+        "receiptNo": "30348813 / 549715",
+        "referenceCode": "TR44 0001 5001 5800 7391 4591 93",
+        "senderName": "YASİN PEHLİVAN",
+        "senderIban": "",
+        "receiverName": "Jawad Uslaman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ UCBIN SEKIZ TL OTUZYEDIR KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791282870817,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4F285F2628B3543768",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791283259003_ls1y4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "3950.00",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "13:37:08",
+        "trackingNo": "3816951229",
+        "receiptNo": "252777396",
+        "referenceCode": "06.10.2026/477888888888",
+        "senderName": "ORHAN DEPELI",
+        "senderIban": "TR280006400000142171976992",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001000158007991459193",
+        "description": "ORHAN DEPELI tarafindan aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791283259003,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADFC5F51F9B48D2660D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
