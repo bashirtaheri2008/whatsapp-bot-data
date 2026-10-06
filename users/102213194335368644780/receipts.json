@@ -48576,6 +48576,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791289005708_u34vo",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "İşlemler Bankadan",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "05/10/2028",
+        "time": "14:46:56",
+        "trackingNo": "20280128617451585",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALICI AD SOYADUNVAN",
+        "senderIban": "TR00000156015600731222252",
+        "receiverName": "OSMAN DURAK",
+        "receiverIban": "TR0000015601560073127671",
+        "description": "Hesaplar Havale"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791289005708,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8074BA7E362AE71B34",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791289018301_u1ucz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1985/AYDOĞDU/KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "05:04:27",
+        "trackingNo": "166039577/1",
+        "receiptNo": "80147854",
+        "referenceCode": "7382630157",
+        "senderName": "",
+        "senderIban": "TR820001001985801478545002",
+        "receiverName": "SÜLEYMAN PINARCI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "NDOTFAST SERVICE SERVICE"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791289018301,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC53B241BF388006E02",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
