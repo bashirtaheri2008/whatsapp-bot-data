@@ -49878,6 +49878,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791296579607_qu59a",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "17:07:28",
+        "trackingNo": "5292000445",
+        "receiptNo": "2026-10-06-17.06.59.035163",
+        "referenceCode": "",
+        "senderName": "BÖRİ BAY HAMİDAR",
+        "senderIban": "TR4900015001580073210892889",
+        "receiverName": "BAYRAM ÇAKIR",
+        "receiverIban": "TR260006200041900006626847",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791296579607,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB9817495396CC3F30C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
