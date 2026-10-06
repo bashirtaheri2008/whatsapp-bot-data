@@ -54280,6 +54280,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791319908935_idpmf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2528/BUĞDAY PAZARI/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "23:42:45",
+        "trackingNo": "7396110506",
+        "receiptNo": "",
+        "referenceCode": "F14716",
+        "senderName": "",
+        "senderIban": "TR660001002528790333575003",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Hesabınızdan 5.000,00 TL (Yalnız BEŞBİN TL) Çekilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791319908935,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7911CA4B32B511F765",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791320318708_ovz49",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "23:56:54",
+        "trackingNo": "AXGZT-B-20261006258",
+        "receiptNo": "CMK2026000621012",
+        "referenceCode": "1cb59efb-b5e9-4564-9b56-77c0f4ed7eed",
+        "senderName": "MUSTAFA BEKEÇ",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: MUSTAFA BEKEÇ, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791320318708,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3DD7C66E95DDA9079C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
