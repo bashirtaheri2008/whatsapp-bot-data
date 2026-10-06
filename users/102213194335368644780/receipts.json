@@ -53474,6 +53474,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791314541805_t6vbd",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "ALTINDAG/ANKARA",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "22:13:26",
+        "trackingNo": "2026-10-06-22.13.26.551137",
+        "receiptNo": "",
+        "referenceCode": "1183/486731196",
+        "senderName": "KADIR AYLIKAN",
+        "senderIban": "TR480006200118300006673194",
+        "receiverName": "CEHBERILTAS",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791314541805,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE196979C39A1AB9CAD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
