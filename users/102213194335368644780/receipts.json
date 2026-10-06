@@ -52141,6 +52141,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791306934504_lu87w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "20:06:16",
+        "trackingNo": "CGR2026001495575",
+        "receiptNo": "AU5EG-B-20261006223",
+        "referenceCode": "2d625430-73b1-4d1d-b7b0-10da694c5ce0",
+        "senderName": "ALİ OSMAN ÇUHADAR",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: ALİ OSMAN ÇUHADAR, Alıcı: NIZAMUDDIN YAQUBI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791306934504,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A690FB459B22DFFF626",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
