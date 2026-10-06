@@ -48917,6 +48917,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791290168402_swpie",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MEVLANA",
+        "amount": "8500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "15:34:04",
+        "trackingNo": "4518000318",
+        "receiptNo": "2026-10-06-15.33.53.793670",
+        "referenceCode": "",
+        "senderName": "MEHMET ÇAYIR",
+        "senderIban": "TR120006200010100006985261",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "HESAPFAST"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791290168402,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A236943EF58EB0B372B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
