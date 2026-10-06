@@ -49661,6 +49661,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791294822503_bplnz",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "16:52:35",
+        "trackingNo": "2026013987784641",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "DOĞANAY DÜZGÜN",
+        "senderIban": "TR2300015001585257",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791294822503,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AADED1E5AAD721C8F36",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
