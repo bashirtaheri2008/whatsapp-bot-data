@@ -46530,6 +46530,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791274850901_ccvkx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4650.00",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "11:18:59",
+        "trackingNo": "3816381037",
+        "receiptNo": "425997007355",
+        "referenceCode": "06.10.2026/447/8888/8888",
+        "senderName": "ARDA HAKAN AKTEPE",
+        "senderIban": "TR330006400000142590854912",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ARDA HAKAN AKTEPE tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791274850901,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9F9DA2D084B7F4A470",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
