@@ -47801,6 +47801,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791283417504_oer26",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4508.37",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "13:32:49",
+        "trackingNo": "TR42000460000338880000466632",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "NEVZAT CELEPCI",
+        "senderIban": "TR42000460000338880000466632",
+        "receiverName": "Mohammad Shoaib Makhdorn",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791283417504,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A71088F3D76FD419057",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
