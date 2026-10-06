@@ -52420,6 +52420,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791309218809_jxwbf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SELÇUKLU/KONYA ŞUBESİ",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "20:31:32",
+        "trackingNo": "7995329640",
+        "receiptNo": "F21589",
+        "referenceCode": "3342107144",
+        "senderName": "FATİH ALAŞ",
+        "senderIban": "TR640001000158027122075201",
+        "receiverName": "NİZAMÜDDİN YAQUBİ",
+        "receiverIban": "TR640001000158027122075201",
+        "description": "Fast Mesaj Kodu: 401"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791309218809,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A47A165010C475B461D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791309222110_mrxth",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DIRECT MOBIL CEP",
+        "amount": "5008.37",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "20:32:03",
+        "trackingNo": "42169203 / 367967",
+        "receiptNo": "TR344000420018588002366458",
+        "referenceCode": "TR344000420018588002366458",
+        "senderName": "SEZAYI BOZKURT",
+        "senderIban": "TR344000420018588002366458",
+        "receiverName": "Nizamettin Yagizvalif Bank",
+        "receiverIban": "TR34500150015807312220752",
+        "description": "YALNIZ BESBIN SEKIZ TL OTUZUCCU KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791309222110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3AE0E4FC7AC1A91E24",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791309594713_7gis4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "28RAAT MOBİL",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "19:13:18",
+        "trackingNo": "7384834513",
+        "receiptNo": "",
+        "referenceCode": "TR340001500158807312220752",
+        "senderName": "VELİ AKTUĞ",
+        "senderIban": "TR2700010009120728585001",
+        "receiverName": "ALİCAN",
+        "receiverIban": "TR340001500158807312220752",
+        "description": "4.000,00 TRY tutarında Fast isleminin yapılması. Bu işlem için tarafıma bildirilen 8,37 TRY masraf alımını talep ederim."
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791309594713,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5040998F560CFFF82FFFE46ABF8CD26",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
