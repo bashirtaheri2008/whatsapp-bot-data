@@ -45662,6 +45662,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791265443608_6tiom",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.S.",
+        "bankBranch": "",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "06/10/2024",
+        "time": "08:43:07",
+        "trackingNo": "6773854",
+        "receiptNo": "870044243",
+        "referenceCode": "TR4400000000178639781678",
+        "senderName": "IBRAHIM ATLI",
+        "senderIban": "TR4400000000178639781678",
+        "receiverName": "YALINIZ DUBAI",
+        "receiverIban": "",
+        "description": "Gider - FAST Sorgu No: 2024060217 TR4400000000178639781678 Yalınzlar Türkiye Bankası T.A.Ş. 04010 JAM048"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791265443608,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A17A6DF0788853D9CB3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
