@@ -52389,6 +52389,37 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791309213002_pqfjv",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DİREKT MOBİL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "20:20:43",
+        "trackingNo": "TR9400015001580073891459193",
+        "receiptNo": "TR910004600603888002207166",
+        "referenceCode": "329953901390118/1",
+        "senderName": "EMRE YÜCEL",
+        "senderIban": "",
+        "receiverName": "Javid Uzmanı",
+        "receiverIban": "",
+        "description": "YALNIZ DÖRTBİN SEKİZ TL OTUZİKİ KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791309213002,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC773251EF0A299F929",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
