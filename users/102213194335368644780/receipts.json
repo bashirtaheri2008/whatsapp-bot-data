@@ -45507,6 +45507,130 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791259080409_o478r",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2197/LARENDE/KONYA ŞUBESİ",
+        "amount": "5500",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "00:23:38",
+        "trackingNo": "7389909645",
+        "receiptNo": "",
+        "referenceCode": "F00142",
+        "senderName": "",
+        "senderIban": "TR370001002197853805635001",
+        "receiverName": "RAHMETULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Fast Mesaj Kodu : A01 Fast Sorgu No : 7389909645"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791259080409,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AABE6F38D4953E3B76B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791259084607_d8m3z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "01:31",
+        "trackingNo": "4875782258",
+        "receiptNo": "202610058703358",
+        "referenceCode": "03663-03663-968685296",
+        "senderName": "Durmuş Orhan",
+        "senderIban": "TR2300157000000000131276691",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791259084607,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAFA55203702F3A9E3B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791259088025_38lnz",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "01:39",
+        "trackingNo": "1644628924",
+        "receiptNo": "M-2026-10-06-01.39.32.914153",
+        "referenceCode": "",
+        "senderName": "MESUT ÜNAL",
+        "senderIban": "TR480001200917900001012774",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35500158007362279815",
+        "description": "GİDEN FAST - MESUT ÜNAL TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791259088025,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A612AC2540F8459E591",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791259110803_petgx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "00:45",
+        "trackingNo": "4875741451",
+        "receiptNo": "202610057730317",
+        "referenceCode": "03663-03663-967720706",
+        "senderName": "Rabiya Nur Kurnaz",
+        "senderIban": "TR520015700000000138753123",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791259110803,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1CE6454480C60C197C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
