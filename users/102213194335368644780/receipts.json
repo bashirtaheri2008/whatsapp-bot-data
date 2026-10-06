@@ -50188,6 +50188,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791298115427_pw0ls",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0537/BANAZ/UŞAK ŞUBESİ",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "17:47:01",
+        "trackingNo": "7394283195",
+        "receiptNo": "F05151",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "MUHAMMED GÜNER",
+        "receiverIban": "TR300001000537790466895001",
+        "description": "4.100,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791298115427,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC2C29A8EFE9A6EAD82",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791298118010_kb384",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AYDINLIKEVLER",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "17:47:26",
+        "trackingNo": "9969000389",
+        "receiptNo": "2026-10-06-17.47.24.149195",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001580073914591",
+        "receiverName": "KÜRŞAT ÇELİKEL",
+        "receiverIban": "TR450006200057900006630264",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791298118010,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7CFB1509BA3D2E3E6B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791298382911_2wbv7",
+      "data": {
+        "isReceipt": true,
+        "bank": "PTT Bank",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "17:45:00",
+        "trackingNo": "641253",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KAMURAN SOLAK",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "BİREYSEL ÖDEME"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791298382911,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4F4901B48F305F2C2D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
