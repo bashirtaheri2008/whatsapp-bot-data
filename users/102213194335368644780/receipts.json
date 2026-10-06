@@ -50622,6 +50622,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791300620105_67p8b",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "SEYFI GÖNÜM",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:26",
+        "trackingNo": "109521",
+        "receiptNo": "2824755",
+        "referenceCode": "1645088984",
+        "senderName": "SEYFI GÖNÜM",
+        "senderIban": "TR640001000132400809101475",
+        "receiverName": "TÜRKİYE VAKIFLAR BANKASI A.Ş.",
+        "receiverIban": "TR040001500150007312271252",
+        "description": "V/TL YÖNDEMDENKAZ"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791300620105,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0FCBB107D96DF6EDDE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
