@@ -49258,6 +49258,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791292909604_skw0x",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "16:20:28",
+        "trackingNo": "6583000408",
+        "receiptNo": "2026-10-06-16.20.26.645542",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR820006200077000006818084",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000150015800731222207752",
+        "description": "HESAPFAST"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791292909604,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACD170E95615B346CFC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
