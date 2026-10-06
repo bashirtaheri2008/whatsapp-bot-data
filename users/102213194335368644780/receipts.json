@@ -53877,6 +53877,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791316483706_ux5w9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Çeşme Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "22:45",
+        "trackingNo": "202610068575367",
+        "receiptNo": "03663-03663-971441880",
+        "referenceCode": "4878319124",
+        "senderName": "Yusuf Söğüt",
+        "senderIban": "TR35000100000000122611756",
+        "receiverName": "MOHAMMAD SHOAIB MAHMOOD",
+        "receiverIban": "TR5200062000044000665613",
+        "description": "ACIKLAMA:Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791316483706,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A109DFB985BA25848CE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
