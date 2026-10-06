@@ -54156,6 +54156,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791318908511_egzx9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Katılım",
+        "bankBranch": "78 - KARAMAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "23:33:19",
+        "trackingNo": "10143377",
+        "receiptNo": "7677799/110704",
+        "referenceCode": "78-1247032-1",
+        "senderName": "O**** Ü*****",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791318908511,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A446BA2BAC2705B1075",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
