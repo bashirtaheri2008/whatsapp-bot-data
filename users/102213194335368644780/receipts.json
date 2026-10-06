@@ -53536,6 +53536,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791315177801_bxcq4",
+      "data": {
+        "isReceipt": true,
+        "bank": "TOM Bank",
+        "bankBranch": "Merkez Şube",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "22:24",
+        "trackingNo": "7755594",
+        "receiptNo": "AO9BK-B-202610 061",
+        "referenceCode": "",
+        "senderName": "SÜLEYMAN YAVUZ",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: SÜLEYMAN YAVUZ , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791315177801,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5DA11886A42C64CEB8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791315180803_iexw9",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4380.00",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "22:31:09",
+        "trackingNo": "26733708 / 517949",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ORHUN BURAK CAN DİDİKOĞLU",
+        "senderIban": "TR130004601190888000518138",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791315180803,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A69A6A2637C4E114B19",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791315427523_7xogr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "VELİ AKTÜTÜ",
+        "amount": "600",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "22:36:15",
+        "trackingNo": "7395867253",
+        "receiptNo": "",
+        "referenceCode": "ALTIVYUZSEKIZYÜZOTUZEDİKİ",
+        "senderName": "ALİCAN YAZICI",
+        "senderIban": "TR3400010001500158007312220752",
+        "receiverName": "VELİ AKTÜTÜ",
+        "receiverIban": "",
+        "description": "600,00 TRY tutarında Fast işleminizin yapılması. Bu işlem için taraflara bildiren 8,37 TRY masraf alınması talep edilem."
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791315427523,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5B3ED8962FD2C71DA22F0748E46C14F",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
