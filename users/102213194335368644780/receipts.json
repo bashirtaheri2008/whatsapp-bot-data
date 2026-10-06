@@ -45786,6 +45786,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791269521103_pjvjn",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.ş.",
+        "bankBranch": "BOSNA HERSEK MAH.",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "08:39:38",
+        "trackingNo": "1772000053",
+        "receiptNo": "2026-10-06-08.39.28.310947",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR510006200144800006633183",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791269521103,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADCFDF69FBD95E55920",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
