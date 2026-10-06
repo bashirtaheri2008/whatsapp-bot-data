@@ -51893,6 +51893,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791305997101_3das4",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KIZILAY ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "19:58:54",
+        "trackingNo": "1706726028",
+        "receiptNo": "202610062360593",
+        "referenceCode": "00946-1551694",
+        "senderName": "HASRET ADAK",
+        "senderIban": "TR9300111000000000167949969",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622279815",
+        "description": "Bireysel Ode"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791305997101,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7EC7146EEB9F3C4C50",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
