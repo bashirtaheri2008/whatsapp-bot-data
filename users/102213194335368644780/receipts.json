@@ -50684,6 +50684,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791301015908_q5lha",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1283/PURSAKLAR/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:35:30",
+        "trackingNo": "7394544137",
+        "receiptNo": "10819110180",
+        "referenceCode": "F14778",
+        "senderName": "YUSUF ENSARİ ÖZCAN",
+        "senderIban": "TR090001001283645042915003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791301015908,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9A4C01EEE732D66D89",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791301019002_exfmd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4680.00",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "18:34:35",
+        "trackingNo": "3818148252",
+        "receiptNo": "425956007355",
+        "referenceCode": "06.10.2026/447/8888/8888",
+        "senderName": "ARDA HAKAN AKTEPE",
+        "senderIban": "TR330006400000142590854912",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "ARDA HAKAN AKTEPE tarafından aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791301019002,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A75E76A421F4E68AF15",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791301335507_86ya1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:37:57",
+        "trackingNo": "BTQ2026001194503",
+        "receiptNo": "AQY86-B-20261006409",
+        "referenceCode": "9f5ecaab-be77-44ee-93e4-e480cd2a6a2e",
+        "senderName": "SEBAHAT ASLI DURSUN",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: SEBAHAT ASLI DURSUN, Alıcı: YAQUBI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791301335507,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5D275F7D7DACEB29AE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
