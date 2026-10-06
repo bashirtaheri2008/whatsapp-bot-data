@@ -48638,6 +48638,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791289222804_xwd8i",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4950",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "14:34:10",
+        "trackingNo": "26830735 / 673816",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BERAT ÖZTÜRK",
+        "senderIban": "TR500004600014888000224744",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791289222804,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD7EFFC166EED246276",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
