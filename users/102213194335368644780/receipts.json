@@ -54404,6 +54404,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791322800904_mayq7",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "00:39:11",
+        "trackingNo": "2985412312",
+        "receiptNo": "",
+        "referenceCode": "2026014005826998",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Mustafa Burak Acar",
+        "receiverIban": "TR700004600382888000237024",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791322800904,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4ADE37E5C484E9E319B2",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
