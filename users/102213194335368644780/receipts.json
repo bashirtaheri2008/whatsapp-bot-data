@@ -52265,6 +52265,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791308252205_3yyfq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2344/MEVLANA/KONYA ŞUBESİ",
+        "amount": "3750",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "20:33:34",
+        "trackingNo": "7395296267",
+        "receiptNo": "F23431",
+        "referenceCode": "A01",
+        "senderName": "GÜLHAN DEĞER",
+        "senderIban": "TR930001009010818474005001",
+        "receiverName": "NIZAMUDDİN YAKUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "3.750,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791308252205,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A556FBDEB66002DDEA41965ED702712A",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
