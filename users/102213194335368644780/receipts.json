@@ -52606,6 +52606,68 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791310430635_l7iu0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:12",
+        "trackingNo": "4878129512",
+        "receiptNo": "202610067901053",
+        "referenceCode": "03663-03663-971275239",
+        "senderName": "TAHİR ÖZENÇ",
+        "senderIban": "TR3900157000000000158356572",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791310430635,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A553BAD9D39C5F4E9279A5E59C1AE0E5",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791310603210_e5z4a",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYİ KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:13:28",
+        "trackingNo": "1706826279815",
+        "receiptNo": "202610062803564",
+        "referenceCode": "01532-1216087",
+        "senderName": "MUHAMMET EYÜP DÜŞÜNCELİ",
+        "senderIban": "TR2100011100000000139719512",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791310603210,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC25ACD4D494CFEBAEB1690C3573D82B",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
