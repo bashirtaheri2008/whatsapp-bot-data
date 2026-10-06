@@ -49909,6 +49909,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791296857502_2p8so",
+      "data": {
+        "isReceipt": true,
+        "bank": "TOM Bank",
+        "bankBranch": "Merkez Şube",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "17:23",
+        "trackingNo": "7790536",
+        "receiptNo": "",
+        "referenceCode": "AJV92-B-202610061",
+        "senderName": "AYDIN ÖZEN",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Gönderen: AYDIN ÖZEN , Alıcı: RAHMATULLAH HAKIMI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791296857502,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A33FCE9FFC2761542A8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
