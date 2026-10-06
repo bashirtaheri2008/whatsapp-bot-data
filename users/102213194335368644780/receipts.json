@@ -48359,6 +48359,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791287451408_3l353",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "İstanbul Cadde",
+        "amount": "459.37",
+        "currency": "TL",
+        "date": "04/10/2024",
+        "time": "14:44:51",
+        "trackingNo": "517431801138",
+        "receiptNo": "10950337",
+        "referenceCode": "7525-95522 / 2548038947828",
+        "senderName": "İSMAİL KULAK",
+        "senderIban": "TR910006701000000016141338",
+        "receiverName": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+        "receiverIban": "TR920006200044000046945613",
+        "description": "HESAPLARARASI HARCAMA MASRAFI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791287451408,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A82F98CBE60E8A5D4AB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
