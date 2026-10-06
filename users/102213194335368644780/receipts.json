@@ -50870,6 +50870,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791301609501_q7bn4",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:41:19",
+        "trackingNo": "630474688120475648",
+        "receiptNo": "",
+        "referenceCode": "06102026-9300-33271245",
+        "senderName": "RÜŞTÜ AKGÜN",
+        "senderIban": "TR650013400002560953600001",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "Talebiniz uyarınca işleminizin 549,23 tutarı KMH'tan alınmıştır."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791301609501,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A83FD2C50B891997B9B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
