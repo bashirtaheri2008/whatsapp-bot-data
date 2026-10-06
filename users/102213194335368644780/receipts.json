@@ -47832,6 +47832,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791283456703_1v2zn",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "CEPTE TEB - 929",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "13:43",
+        "trackingNo": "00382596",
+        "receiptNo": "760812903",
+        "referenceCode": "",
+        "senderName": "CAN ÖZDAŞ",
+        "senderIban": "TR15000320000000157692260",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "İşlem Tipi: Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791283456703,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8CBCA7666055AD293E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
