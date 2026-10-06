@@ -48824,6 +48824,68 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791289678408_tg1an",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Cep Şube",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "15:18",
+        "trackingNo": "4877077134",
+        "receiptNo": "202610063939842",
+        "referenceCode": "03663-03663-970397897",
+        "senderName": "MEVLÜT İŞLEK",
+        "senderIban": "TR3900157000000000153834626",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791289678408,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB79D21B0C43289F199",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791289799709_5ew8d",
+      "data": {
+        "isReceipt": true,
+        "bank": "Vakıfbank",
+        "bankBranch": "",
+        "amount": "38000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "15:29:17",
+        "trackingNo": "2026013983875445",
+        "receiptNo": "",
+        "referenceCode": "2984212126",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Oğuztürk Kıymetli Taşlar",
+        "receiverIban": "TR160021000000148233400004",
+        "description": "25174 ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791289799709,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "3AFE1B159F774441CE17",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
