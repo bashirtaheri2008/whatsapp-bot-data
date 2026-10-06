@@ -47274,6 +47274,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791280214907_tzz4z",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ISPARTA SANAYİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "12:38:32",
+        "trackingNo": "4163000201",
+        "receiptNo": "2026-10-06-12.38.32.773435",
+        "referenceCode": "",
+        "senderName": "HÜSEYİN GENÇER",
+        "senderIban": "TR430006200105800006678151",
+        "receiverName": "JAWİD USMANİ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791280214907,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A55729A0E04E530698AA67F325C6C8A4",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
