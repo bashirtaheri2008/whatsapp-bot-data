@@ -47305,6 +47305,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791280528012_ecbrm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0228/EVZİRKÖPRÜ/SAMSUN ŞUBESİ",
+        "amount": "8000",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "12:50:33",
+        "trackingNo": "7391946950",
+        "receiptNo": "F07860",
+        "referenceCode": "A01",
+        "senderName": "EMRAH İÇGİ",
+        "senderIban": "TR800001000228638541615001",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "8.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791280528012,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A77101BC12F9C5ED5F2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
