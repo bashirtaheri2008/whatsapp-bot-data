@@ -48886,6 +48886,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791289850205_bd9g0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Vakıfbank",
+        "bankBranch": "",
+        "amount": "38000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "15:29:17",
+        "trackingNo": "2026013983875445",
+        "receiptNo": "",
+        "referenceCode": "2984212126",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Oğuztürk kıymetli taşlar",
+        "receiverIban": "TR160021000000148233400004",
+        "description": "25174 ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791289850205,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC0CE2501C7AE337386A9FCE1FA19987",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
