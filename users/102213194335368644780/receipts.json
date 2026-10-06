@@ -48297,6 +48297,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791287080309_2irn9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "GİMAT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "14:42:54",
+        "trackingNo": "13270173992",
+        "receiptNo": "2026-10-06-14.42.49.127571",
+        "referenceCode": "8445000243",
+        "senderName": "JANDE UZMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "YETKİ PETROL AMACLI SÜLVARI ŞO",
+        "receiverIban": "TR980006200032500006625120",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791287080309,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF1A5F03D91ECBC2FAF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
