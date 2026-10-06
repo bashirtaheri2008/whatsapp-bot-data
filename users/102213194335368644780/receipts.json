@@ -50343,6 +50343,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791299065622_vf29v",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:00:04",
+        "trackingNo": "1706262415538249",
+        "receiptNo": "202610061231563",
+        "referenceCode": "00421-1823367",
+        "senderName": "MURAT BERBER",
+        "senderIban": "TR6500011100000000039123900",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000155001580073622279815",
+        "description": "bireysel Odemo"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791299065622,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A208FEE0CB6F41DF5D9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
