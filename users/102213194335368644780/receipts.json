@@ -52978,6 +52978,37 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791312272114_grfok",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "8258.37",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:31:48",
+        "trackingNo": "TR600004600221888000278719",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RIZA YAŞAR",
+        "senderIban": "TR600004600221888000278719",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791312272114,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A376E94C44CEDEB6464",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
