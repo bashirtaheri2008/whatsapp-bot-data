@@ -49537,6 +49537,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791294288238_mpbq6",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIRECT MOBIL CEP",
+        "amount": "449837",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "16:32:52",
+        "trackingNo": "TR44000004906983888001777924",
+        "receiptNo": "TR44000004906983888001777924",
+        "referenceCode": "TR44000004906983888001777924",
+        "senderName": "UTUBEJEL LTD STI",
+        "senderIban": "",
+        "receiverName": "Javid UZMANI",
+        "receiverIban": "TR440001500158007381459193",
+        "description": "KENDISI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791294288238,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF39FE2BBF2609BD4A3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791294291104_mil2w",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "3547537176",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "06/18/2026",
+        "time": "16:35:42",
+        "trackingNo": "3576424",
+        "receiptNo": "32068324",
+        "referenceCode": "32068324",
+        "senderName": "JAMAL SOYAD",
+        "senderIban": "TR000001200126200001111184",
+        "receiverName": "TAKVİYE VAKIFLAR BASKANI T.A.O.",
+        "receiverIban": "TR480001500158017791400193",
+        "description": "EMRE KIZILALI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791294291104,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A858EFE67D637C2C38F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791294346101_wq2x1",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank A.Ş.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "16:44:35",
+        "trackingNo": "630445312291151872",
+        "receiptNo": "",
+        "referenceCode": "06102026-9300-29546459",
+        "senderName": "GİZEM TEKBAŞ",
+        "senderIban": "TR610013400001689152600001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 5190-16891526-351 hesabınıza toplam 4.500,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791294346101,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF7C823990D7824AABC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
