@@ -53784,6 +53784,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791315701300_dddmo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Katılım",
+        "bankBranch": "KARAMAN",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "22:37:56",
+        "trackingNo": "10139971",
+        "receiptNo": "7677227/108126",
+        "referenceCode": "",
+        "senderName": "0**** Ü*****",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622798",
+        "description": "SATIN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791315701300,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9CA20EF3EFB1685DDE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791315815003_7ebo6",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "22:41:01",
+        "trackingNo": "2985288768",
+        "receiptNo": "2026014003011536",
+        "referenceCode": "",
+        "senderName": "SULTAN ECEM SAMILOĞLU",
+        "senderIban": "TR5200062000044000066865613",
+        "receiverName": "MOHAMMAD SHOAIB MAKHOOM",
+        "receiverIban": "",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791315815003,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A250FE15EFAFB44D835",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
