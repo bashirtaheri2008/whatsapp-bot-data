@@ -48731,6 +48731,99 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791289644109_4w2wq",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BANKACILIK/ANKARA",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "15:22:10",
+        "trackingNo": "13081032246",
+        "receiptNo": "2026-10-06-15.22.07.878318",
+        "referenceCode": "9378000315",
+        "senderName": "JAMID DURANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "MUTLU ANSARA CIVATA HIDROVAT A.S.",
+        "receiverIban": "TR55000620000170006622515",
+        "description": "YALNIZ DortBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791289644109,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7B54B4CD007AB20183",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791289647806_1v6nc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0116/ERZINCAN ŞUBESİ",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "15:24:47",
+        "trackingNo": "7393067083",
+        "receiptNo": "",
+        "referenceCode": "F24606",
+        "senderName": "NİZAMUDDİN YAKUBİ",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "YÜKSEL ÇALIKKILIÇ",
+        "receiverIban": "TR600001000116650195135001",
+        "description": "9.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 16,76 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791289647806,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1D2973364C7A17CA3D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791289671504_uvxvy",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "30000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "15:27:34",
+        "trackingNo": "2026013983888173",
+        "receiptNo": "",
+        "referenceCode": "2984198409",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Oğuztürk kıymetli taşlar",
+        "receiverIban": "TR160021000000148233400004",
+        "description": "25174 ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791289671504,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A8D994D6F288824F27C",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
