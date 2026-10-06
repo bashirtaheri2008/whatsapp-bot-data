@@ -50498,6 +50498,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791300248609_f8a4f",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIRECT MOBIL CEP",
+        "amount": "400837",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:19:29",
+        "trackingNo": "TR9400015001588073891499193",
+        "receiptNo": "TR91000460603888000227166",
+        "referenceCode": "0032065130",
+        "senderName": "EMRE YUCEL",
+        "senderIban": "",
+        "receiverName": "Javid Uzman",
+        "receiverIban": "",
+        "description": "DORTBIN SEKIZ TL OTUZUÇ KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791300248609,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A314604F73BBABA71DB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791300251504_1tag7",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "ATAŞEHİR BBVA AKSARAY",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:16:12",
+        "trackingNo": "8123000398",
+        "receiptNo": "2026-10-06-18.15.58.831167",
+        "referenceCode": "24560656644",
+        "senderName": "JAMID OSMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "AKSARAY ESITIM ARASTIRMA YANI",
+        "receiverIban": "TR550006200151200006619308",
+        "description": "YALNIZ SekizbinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791300251504,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB1B46B40D7AA6065E0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791300374503_8a3us",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "18:22:49",
+        "trackingNo": "517638692410",
+        "receiptNo": "925-605021",
+        "referenceCode": "2548042894287",
+        "senderName": "MAHMUT SAMİ AYDOĞAN",
+        "senderIban": "TR380006701000000319356588",
+        "receiverName": "MOHAMMAD SHOAIB MAKHOOM",
+        "receiverIban": "TR52000260758268824",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791300374503,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A031F7115ADE865867B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
