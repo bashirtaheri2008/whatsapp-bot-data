@@ -52296,6 +52296,37 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791308387909_ugsto",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "1500.00",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "20:31:07",
+        "trackingNo": "16643399 / 379746",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BİLAŁ ESKİÇORAPÇI",
+        "senderIban": "TR170004600221888000293364",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791308387909,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC5D793D6C7550D630404A3D1D36A50D",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
