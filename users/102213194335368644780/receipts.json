@@ -52358,6 +52358,37 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791309031310_buph7",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ÇAYYOLU ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "20:49:28",
+        "trackingNo": "202610062668978",
+        "receiptNo": "01335-1166226",
+        "referenceCode": "T99148",
+        "senderName": "SEDA MEHEL",
+        "senderIban": "TR8200111000000000064401212",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001550015800736222798915",
+        "description": "bireysel Odeme"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791309031310,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A549EBF8B399F72F83B7E7CA82C13F40",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
