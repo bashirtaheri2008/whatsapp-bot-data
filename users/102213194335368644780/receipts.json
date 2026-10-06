@@ -53071,6 +53071,68 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791312854707_lmh58",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SEFAKÖY",
+        "amount": "2400",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:53:02",
+        "trackingNo": "7091000575",
+        "receiptNo": "2026-10-06-21.53.01.056301",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791312854707,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD4A96286A63683CA98",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791313147505_ruywk",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "POSTA CADDESI SUBESI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "21:57:58",
+        "trackingNo": "1706877739",
+        "receiptNo": "01315-2261342",
+        "referenceCode": "202610063047630",
+        "senderName": "ÖMER CAN ÇAL",
+        "senderIban": "TR7000111000000000077461866",
+        "receiverName": "Jawin Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Odeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791313147505,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB27E75ABD32517B504",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
