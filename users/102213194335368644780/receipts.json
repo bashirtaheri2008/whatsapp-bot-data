@@ -50591,6 +50591,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791300491302_ubzlj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2603/ZAFER SANAYİ/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "17:01:33",
+        "trackingNo": "F12668",
+        "receiptNo": "",
+        "referenceCode": "2603/70276259-5004",
+        "senderName": "",
+        "senderIban": "TR260001002603702762595004",
+        "receiverName": "VEHIDULLAH HABİL",
+        "receiverIban": "TR360001009010173054605001",
+        "description": "Alacaklı Şube : 106-TEKİRDAĞ ŞUBESİ"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791300491302,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABAE98D396BA7A2B5BF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
