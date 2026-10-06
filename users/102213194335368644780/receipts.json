@@ -53319,6 +53319,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791314018508_217iy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2344/MEVLANA/KONYA ŞUBESİ",
+        "amount": "4990",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "22:11:59",
+        "trackingNo": "7395847561",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "TR34220752",
+        "receiverName": "RAMAZAN KİNGÜTMEZ",
+        "receiverIban": "TR27435004",
+        "description": "4.990,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791314018508,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB6A7A28745BA80811F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
