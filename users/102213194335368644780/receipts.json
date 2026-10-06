@@ -50901,6 +50901,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791301904405_8k4m9",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:48:48",
+        "trackingNo": "49503883/2322237",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HATİCE IŞIKTAŞ",
+        "senderIban": "TR150004600064888000359450",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791301904405,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A18D58FC9743D35287B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
