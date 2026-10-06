@@ -51986,6 +51986,130 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791306284900_ze9e0",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "1440",
+        "currency": "TL",
+        "date": "04/10/2024",
+        "time": "19:39:10",
+        "trackingNo": "15629358",
+        "receiptNo": "15629358",
+        "referenceCode": "15629358",
+        "senderName": "MEHMET YILMAZ",
+        "senderIban": "TR840001500158017392659393",
+        "receiverName": "TOLGAS TAPILAR TITIRAY",
+        "receiverIban": "TR96000060095600060056329564",
+        "description": "ACILEM-ELEKTRONIK PUN TRANSFERI 8470 TUNISI - PASTY"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791306284900,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE9C11C6F60B25949A2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791306287910_7ojm8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "19:59",
+        "trackingNo": "202610067222135",
+        "receiptNo": "03663-03663-971121060",
+        "referenceCode": "",
+        "senderName": "ILKAY SANGUL",
+        "senderIban": "TR150015700000000205914843",
+        "receiverName": "ALICI UYMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791306287911,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A830B30E735DA5D755A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791306291704_rk45a",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "20:00:09",
+        "trackingNo": "26528801/337934",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ENGİN SERCAN",
+        "senderIban": "TR180004600221888000289175",
+        "receiverName": "Muhammadsolhbmakhdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791306291704,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1DA2F3A008E0F7799E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791306727710_zn4k7",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "20:02",
+        "trackingNo": "1646145460",
+        "receiptNo": "M-2026-10-06-20.02.41.760160",
+        "referenceCode": "",
+        "senderName": "ABDURRAHMAN GÜLYİĞİT",
+        "senderIban": "TR250001200172000001102475",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "BİREYSEL ÖDEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791306727710,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC9D79CF2B4ECB4EFFB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
