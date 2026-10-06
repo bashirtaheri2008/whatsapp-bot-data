@@ -46778,6 +46778,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791276760629_ijtkz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "06/10/2026",
+        "time": "11:49:35",
+        "trackingNo": "3816503681",
+        "receiptNo": "A032026590344201",
+        "referenceCode": "06.10.2026/447/8888/8888",
+        "senderName": "MEHMET ALİ ÇELİK",
+        "senderIban": "TR070006400000151110106002",
+        "receiverName": "jawid usman",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MEHMET ALİ ÇELİK tarafından aktarilan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791276760629,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A183F458C28568ED825",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
