@@ -46964,6 +46964,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791277452403_3vanf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "DEMIRTAS",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "11:56:42",
+        "trackingNo": "9771000178",
+        "receiptNo": "2026-10-06-11.56.42.958710",
+        "referenceCode": "10189176700",
+        "senderName": "JAMID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "BASKIN DURAN",
+        "receiverIban": "TR180006200053000006646127",
+        "description": "7,97 TL BDMO - 0,40 TL KOMISYON TOPLAMI : 8,37 TL"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791277452403,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3ABC28A9CE396024AC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
