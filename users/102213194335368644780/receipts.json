@@ -50932,6 +50932,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791302004607_0n0u4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0908/DEMETEVLER/ANKARA ŞUBESİ",
+        "amount": "13800",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "18:52:31",
+        "trackingNo": "7394667516",
+        "receiptNo": "F13035",
+        "referenceCode": "A01",
+        "senderName": "FERDİ KALU",
+        "senderIban": "TR740001000908624336675002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "13.800,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791302004607,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2872070CD63D888372",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
