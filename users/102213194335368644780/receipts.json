@@ -46158,6 +46158,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791272997211_n860l",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIRECT MOBIL CEP",
+        "amount": "500837",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:48:29",
+        "trackingNo": "TR440001500158007399459193",
+        "receiptNo": "TR870004600941888000287012",
+        "referenceCode": "0053728217",
+        "senderName": "BERSAN HAKBILEN",
+        "senderIban": "TR870004600941888000287012",
+        "receiverName": "Jawid Uzmanı",
+        "receiverIban": "TR440001500158007399459193",
+        "description": "YALNIZ: BESBIN SEKIZ TL OTUZYEDI KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791272997211,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A90F665C1FC86F40429",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791273014800_3xmlz",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIRECT MOBIL CEP",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "10/06/2026",
+        "time": "10:47:58",
+        "trackingNo": "TR440015001580073891459193",
+        "receiptNo": "30346813",
+        "referenceCode": "TR6000046000999888800096920",
+        "senderName": "YASIN PEHLIVAN",
+        "senderIban": "TR440015001580073891459193",
+        "receiverName": "Jawid Uzmanı",
+        "receiverIban": "",
+        "description": "DORTBIN DORTYUZSEKIZ TL OTUZYEDI KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791273014800,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD57D9854B0C0600C9D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791273053203_71u2d",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYİ KONYA ŞUBESİ",
+        "amount": "12000",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "10:47:56",
+        "trackingNo": "202610055732374",
+        "receiptNo": "01532-1210776",
+        "referenceCode": "T99148",
+        "senderName": "MEHMET EMİN KULAÇ",
+        "senderIban": "TR310001100024000139719654",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791273053203,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3DD3CD1638CFDD03C5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
