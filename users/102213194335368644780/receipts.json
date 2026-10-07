@@ -55582,6 +55582,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791361337101_fnrxj",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.S.",
+        "bankBranch": "TURKİYE HESAP ŞUBESİ",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "11:18:40",
+        "trackingNo": "876042243",
+        "receiptNo": "85363959",
+        "referenceCode": "26340735012 TR440001500158007391459193",
+        "senderName": "BOYOK MÜNEKKELEFLEF VD",
+        "senderIban": "TR1000020020748207185276",
+        "receiverName": "ATLI İBRAHİM",
+        "receiverIban": "",
+        "description": "Giden FAST Sorgu No:26340735012 TR440001500158007391459193 Türkiye Vakıflar Bankası T.A.O. JAVİD USMANOĞLU"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791361337101,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A221B92A2815E2EDC7F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
