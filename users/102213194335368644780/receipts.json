@@ -63456,6 +63456,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791404836710_8owst",
+      "data": {
+        "isReceipt": true,
+        "bank": "Papara",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "23:23",
+        "trackingNo": "4449000735",
+        "receiptNo": "PUA2026019350266",
+        "referenceCode": "542699963",
+        "senderName": "Burak Gümüşbaş",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791404836710,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9221FC13DADBB65F4C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791405091913_5m0xi",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "23:23:40",
+        "trackingNo": "517644545818",
+        "receiptNo": "SYJ202609072834",
+        "referenceCode": "925-607724 / 2548163281910",
+        "senderName": "SALAHEDDİN ŞERİF",
+        "senderIban": "TR54000670100000015713805",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFER (EFT) UC"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791405091913,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A126D5B12082901A8EC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
