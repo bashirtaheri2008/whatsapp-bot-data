@@ -55458,6 +55458,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791361025309_9efj7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "11:08",
+        "trackingNo": "4878990221",
+        "receiptNo": "03663-03663-973520675",
+        "referenceCode": "202610072397279",
+        "senderName": "Muhammed Demirci",
+        "senderIban": "TR510015700000000204127940",
+        "receiverName": "MOHAMMAD SHOHAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791361025309,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE948BD4CAC89B8AE0E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
