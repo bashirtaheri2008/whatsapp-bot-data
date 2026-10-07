@@ -54621,6 +54621,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791353725510_qdhz7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1437/ALTINEKİN/KONYA ŞUBESİ",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "05/10/2026",
+        "time": "23:02:21",
+        "trackingNo": "7398639734",
+        "receiptNo": "F24783",
+        "referenceCode": "A01",
+        "senderName": "MEHMET KÖZOĞLU",
+        "senderIban": "TR160001009010772487305002",
+        "receiverName": "Abdullah Gülsoy",
+        "receiverIban": "TR470006200118400006608773",
+        "description": "8.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791353725511,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A67C3AE7909B33E50C1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
