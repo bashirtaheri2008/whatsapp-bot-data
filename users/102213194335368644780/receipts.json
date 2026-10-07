@@ -60511,6 +60511,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791388308718_ccmcb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ETİMESGUT",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "18:50:58",
+        "trackingNo": "6328000459",
+        "receiptNo": "2026-10-07-18.50.56.725636",
+        "referenceCode": "",
+        "senderName": "ABDULKADİR BOZKURT",
+        "senderIban": "TR120006200030200006832354",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791388308718,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEB4D34A44C48BAF39C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
