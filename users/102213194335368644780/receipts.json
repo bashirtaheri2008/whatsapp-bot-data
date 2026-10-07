@@ -58775,6 +58775,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791378706407_5xbzx",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DİREKT MOBİL CEP",
+        "amount": "380837",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "16:10:32",
+        "trackingNo": "TR4400015001588073891459193",
+        "receiptNo": "469961381",
+        "referenceCode": "469961381/163676",
+        "senderName": "BURAK KAVLAK",
+        "senderIban": "TR4400015001588073891459193",
+        "receiverName": "Jawid Uzmanı",
+        "receiverIban": "",
+        "description": "VALINCI UCBIN SEKIYIZESIKK TL OTUZYEDI KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791378706407,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A612C9235E3E97AFAC7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
