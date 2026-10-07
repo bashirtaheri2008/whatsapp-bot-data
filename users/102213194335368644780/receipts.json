@@ -59426,6 +59426,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791381319910_efhv8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "10/01/2026",
+        "time": "16:53",
+        "trackingNo": "03663-03663-974411029",
+        "receiptNo": "2026100762586884",
+        "referenceCode": "TR360015700000000110344051",
+        "senderName": "İsa Kılıçk",
+        "senderIban": "",
+        "receiverName": "ALICI IBANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ACIKLAMA:Breysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791381319910,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A51CEECF9EF954D6155",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
