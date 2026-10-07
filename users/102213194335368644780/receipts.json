@@ -58186,6 +58186,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791373959904_fn61w",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4990",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:51:19",
+        "trackingNo": "254818698970",
+        "receiptNo": "SYJ202608527815",
+        "referenceCode": "2548155949103",
+        "senderName": "EMİRHAN AYAR",
+        "senderIban": "TR34000670100000096720514",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220103",
+        "description": "FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791373959904,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A93018DC3D6179BF64F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
