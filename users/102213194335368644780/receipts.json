@@ -59364,6 +59364,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791380569100_ucht9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "16:38",
+        "trackingNo": "4879988591",
+        "receiptNo": "202610076092287",
+        "referenceCode": "03663-03663-974369873",
+        "senderName": "Fatma Nur Büyükçiçek",
+        "senderIban": "TR770015700000000204422449",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR8000015001580073392030554",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791380569100,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACBF6ADF28443438194",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
