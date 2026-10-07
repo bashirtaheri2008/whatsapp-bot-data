@@ -60232,6 +60232,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791387248003_bak3k",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5508.37",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "18:21:57",
+        "trackingNo": "TR210004600033888000438783",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HANİFE ÖĞÜZ",
+        "senderIban": "TR210004600033888000438783",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791387248003,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF693A67CD8B94F4CF9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
