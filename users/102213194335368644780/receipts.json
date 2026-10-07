@@ -58434,6 +58434,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791375320405_s15g2",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "15:08:10",
+        "trackingNo": "TR500004600382888000279191",
+        "receiptNo": "33177322 / 444443",
+        "referenceCode": "TR34 0001 5001 5800 7312 2207 52",
+        "senderName": "YUSUF ERCAN",
+        "senderIban": "TR500004600382888000279191",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791375320405,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A279152D6FB83EA2956",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
