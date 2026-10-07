@@ -62526,6 +62526,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791398486912_2c45v",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "AKŞEHİR/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "21:39:41",
+        "trackingNo": "7401723658",
+        "receiptNo": "F13017",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR030001000170571692995012",
+        "receiverName": "SEFER İLBOĞA",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791398486912,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A435C7613C5C09C760B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791398624810_nbhm3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "FEVZİ ÇAKMAK KMB, 10438, ŞÜB. N. 016",
+        "amount": "4.500,00",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "21:42:59",
+        "trackingNo": "8375000518",
+        "receiptNo": "419/6811307",
+        "referenceCode": "419/6811307",
+        "senderName": "MALCINI",
+        "senderIban": "TR350001500158027362279815",
+        "receiverName": "NEMET EMİN GÜLER",
+        "receiverIban": "TR710006000041900006811307",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791398624810,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A288DC391A7111B9185",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
