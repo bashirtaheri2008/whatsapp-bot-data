@@ -55148,6 +55148,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791358637508_jxf7b",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4620",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "10:32:45",
+        "trackingNo": "2026014022486181",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSMAİL EROĞLU",
+        "senderIban": "TR95000150015875",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791358637508,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1E03F245C3FAC9F802",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
