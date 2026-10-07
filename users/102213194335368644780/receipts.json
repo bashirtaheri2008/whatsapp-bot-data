@@ -56791,6 +56791,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791368399105_l1vl6",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:15",
+        "trackingNo": "1647141173",
+        "receiptNo": "M-2026-10-07-13.15.24.081411",
+        "referenceCode": "",
+        "senderName": "MURAT KARADAĞ",
+        "senderIban": "TR13000120095150001009784",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "BİREYSEL ÖDEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791368399105,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFA704A977C61877029",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
