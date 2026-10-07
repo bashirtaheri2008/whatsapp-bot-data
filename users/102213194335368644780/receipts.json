@@ -56605,6 +56605,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791367656310_80o9f",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "UBRET",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "13:02:18",
+        "trackingNo": "2026014029574263",
+        "receiptNo": "",
+        "referenceCode": "TR64 0001 5001 5800 7391 4391 90",
+        "senderName": "ALICI AD SOYAD/UNVAN",
+        "senderIban": "TR640001500158007391439190",
+        "receiverName": "JANID UZMAN",
+        "receiverIban": "TR93 0001 5001 58** *** *** 15",
+        "description": "Hesaplar Arası"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791367656310,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1BFC3EE950C39112A6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791367670608_sfry1",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:06:36",
+        "trackingNo": "254810849482",
+        "receiptNo": "925-501771",
+        "referenceCode": "SYJ202608407452",
+        "senderName": "MEHMET GÜNDOĞMUŞ",
+        "senderIban": "TR7000067010000004507751",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791367670608,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8C51439D9D346A0B9E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791367922511_tzkia",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BÜSAN SANAYİ/KONYA ŞUBESİ",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:03:00",
+        "trackingNo": "7398224371",
+        "receiptNo": "F01958",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "DOĞAN CANTÜRÜN",
+        "receiverIban": "TR83000100278883841615001",
+        "description": "3.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791367922511,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE515A32E889C820FD1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
