@@ -61255,6 +61255,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791391764806_2ovlp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2197/LARENDE/KONYA ŞUBESİ",
+        "amount": "5200",
+        "currency": "TRY",
+        "date": "07/10/2026",
+        "time": "19:46:53",
+        "trackingNo": "7401086414",
+        "receiptNo": "F16043",
+        "referenceCode": "A01",
+        "senderName": "DERVİŞ YALIM",
+        "senderIban": "TR380001009010941888205001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.200,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791391764806,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3D2AFB0F3E009B9B16",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
