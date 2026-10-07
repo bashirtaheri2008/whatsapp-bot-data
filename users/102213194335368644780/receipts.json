@@ -60108,6 +60108,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791385816708_i4186",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "18:02:12",
+        "trackingNo": "3821046109",
+        "receiptNo": "438452003987",
+        "referenceCode": "07.10.2026/447/88888/8888",
+        "senderName": "ÖNDER ÜLGER",
+        "senderIban": "TR070006400000143840207135",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "ÖNDER ÜLGER tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791385816708,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5F85D3128A85AD70A5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791386438213_xfglt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0461/SELÇUKLU/KONYA SUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "17:57:24",
+        "trackingNo": "7399017838",
+        "receiptNo": "",
+        "referenceCode": "TR35 0001 5001 5800 7362 2798 15",
+        "senderName": "YASİN KUM",
+        "senderIban": "TR900001000461635875305001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Hesabınızdan 5.008,37 TL (Yalnız BEŞBİNSEKİZTLÖTÜZYEDİKUR) Çekilmiştir. 07/10/2026-15:03:15 EFTGİDİ İNTERNET İNTERNET"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791386438213,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF90003C199EA7E7A2F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
