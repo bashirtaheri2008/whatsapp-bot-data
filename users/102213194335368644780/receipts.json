@@ -59550,6 +59550,130 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791381786203_oeplv",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "17:01:27",
+        "trackingNo": "2987028187",
+        "receiptNo": "",
+        "referenceCode": "2026014040635851",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Zehra Duru Bahadır",
+        "receiverIban": "TR470006200046500006825477",
+        "description": "FAST Giden Anlık Ödeme"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791381786203,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AE426D30FEF4AF13978",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791381789808_eigtt",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "OSTİM BULVAR",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "17:00:28",
+        "trackingNo": "2904000367",
+        "receiptNo": "2026-10-07-17.00.25.002130",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR580006200101900006641119",
+        "receiverName": "RAHMATULLAHHAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791381789808,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5457BAD631372B189D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791381792709_jzfct",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AYDINLIKEVLER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:40:32",
+        "trackingNo": "817000242",
+        "receiptNo": "2026-10-07-13.40.29.179680",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR280006200057900006668691",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791381792709,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB4CAF3C0F7623E6D8A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791382099805_l8m1q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ULUS / ANKARA",
+        "amount": "7997",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "17:06:25",
+        "trackingNo": "8794000339",
+        "receiptNo": "2026-10-07-17.06.22.167759",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR690006200071100006852078",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791382099805,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A90FBD9162E62D455A1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
