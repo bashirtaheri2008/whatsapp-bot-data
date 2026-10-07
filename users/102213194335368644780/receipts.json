@@ -55613,6 +55613,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791362081914_vw464",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "KIVE VAKIFLAR BANKASI T.A.O",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "11:58:02",
+        "trackingNo": "0522003487000017",
+        "receiptNo": "",
+        "referenceCode": "108******522",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "Edeniz Bu belge-dekont",
+        "receiverIban": "",
+        "description": "Kartisiz Para Yatirma"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791362081914,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A63BE6B4782F5A36165",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
