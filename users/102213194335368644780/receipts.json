@@ -58837,6 +58837,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791379264402_wd9az",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "16:09:47",
+        "trackingNo": "630798940246257664",
+        "receiptNo": "",
+        "referenceCode": "07102026-9300-28721633",
+        "senderName": "ERKAN İNCEÖZ",
+        "senderIban": "TR020013400002504658000001",
+        "receiverName": "NİZAMUDDİN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Talebiniz uyarınca işleminizin 4500,00 tutarı KMH'tan alınmıştır."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791379264402,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFE27D52E9AED87376B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
