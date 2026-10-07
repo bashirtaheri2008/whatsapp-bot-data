@@ -54528,6 +54528,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791346734606_pingj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SUPER SUBE",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "02:26:17",
+        "trackingNo": "7396371798",
+        "receiptNo": "10857511658",
+        "referenceCode": "FD1516_4013",
+        "senderName": "HUSEYIN AKSOY",
+        "senderIban": "TR120001000910216386705005",
+        "receiverName": "HUSEYIN AKSOY",
+        "receiverIban": "TR120001000910216386705005",
+        "description": "Aci Hesap"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791346734606,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A13D4369A9CABFFE1ED",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
