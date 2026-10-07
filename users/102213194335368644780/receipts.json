@@ -59519,6 +59519,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791381767819_384rf",
+      "data": {
+        "isReceipt": true,
+        "bank": "VAKIF KATILIM",
+        "bankBranch": "Büsan Şube",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "16:59:02",
+        "trackingNo": "9999897588",
+        "receiptNo": "AA-00389390",
+        "referenceCode": "B-2026100722",
+        "senderName": "RECEP DEMİRCİ",
+        "senderIban": "TR400021000000158175100001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791381767819,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5E324BC06765AA5334",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
