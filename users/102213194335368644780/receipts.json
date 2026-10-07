@@ -58589,6 +58589,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791377344912_yr4qu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Burgan Bank",
+        "bankBranch": "IBAN MERKEZ SUBESI",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "15:46",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "2000-97051404-351",
+        "senderName": "MEHMET KIYMAZ",
+        "senderIban": "TR34000150011588007312220752",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR850012502009705140400351",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791377344912,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A82896AC3D71DD40070",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
