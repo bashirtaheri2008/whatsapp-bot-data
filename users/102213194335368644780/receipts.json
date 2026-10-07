@@ -60821,6 +60821,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791390181406_iogbp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:11",
+        "trackingNo": "4880435774",
+        "receiptNo": "202610077810035",
+        "referenceCode": "03663-03663-974738175",
+        "senderName": "Yunus Ateş",
+        "senderIban": "TR9800157000000000151531463",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791390181406,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1C2D773FEA901056CB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791390185204_s5u35",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:18",
+        "trackingNo": "4880452676",
+        "receiptNo": "03663-03663-974752843",
+        "referenceCode": "202610077878643",
+        "senderName": "Mehmet Küçüktönbül",
+        "senderIban": "TR2100157000000000130161518",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791390185204,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEA86C98579F053165D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791390286012_tlflr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANADOLU SANAYİ",
+        "amount": "3980",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:17:07",
+        "trackingNo": "1371000434",
+        "receiptNo": "2026-10-07-19.17.03.630484",
+        "referenceCode": "",
+        "senderName": "SAYİN SERKAN YILMAZ",
+        "senderIban": "TR790006200105200006639412",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791390286012,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5922E4A10D28DA9D0F3830FEDEF11C9",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
