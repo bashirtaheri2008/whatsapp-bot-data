@@ -58248,6 +58248,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791374365108_h5llo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Çeşitli Şube",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:52",
+        "trackingNo": "TR660015700000000202770058",
+        "receiptNo": "03663-03663-974082518",
+        "referenceCode": "202610074813863",
+        "senderName": "MUHAMMED UMİT",
+        "senderIban": "",
+        "receiverName": "ALICI UMAMI",
+        "receiverIban": "TR440001500158007591459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791374365108,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA5C4BB90B5FEA60715",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
