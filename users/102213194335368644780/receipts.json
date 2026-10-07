@@ -62712,6 +62712,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791400280804_6nqbc",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MEVLANA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "22:09:09",
+        "trackingNo": "5679000567",
+        "receiptNo": "2026-10-07-22.08.28.504776",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR250006200010100006809651",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791400280804,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2782AF9F3E54BE22CC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
