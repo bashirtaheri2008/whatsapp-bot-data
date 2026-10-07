@@ -55737,6 +55737,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791362838909_7kaz7",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "11:45:30",
+        "trackingNo": "2026014026354385",
+        "receiptNo": "",
+        "referenceCode": "2986040071",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Amirtaha Shahnavaizi",
+        "receiverIban": "TR780001001946889742925001",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791362838909,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "AC97D15B8B9A65B423D583DDB1806F1D",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
