@@ -56047,6 +56047,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791364692008_soecb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1273/AYKURT/ANKARA ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "07/10/2026",
+        "time": "12:15:55",
+        "trackingNo": "7997883348",
+        "receiptNo": "F03259",
+        "referenceCode": "37789834088",
+        "senderName": "AYHAN ALAGOEY",
+        "senderIban": "TR440001000158007991459193",
+        "receiverName": "ZİRAAT BANKASI A.Ş.",
+        "receiverIban": "",
+        "description": "javed ustman"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791364692008,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE0E7D3D3E690D56E05",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791364724610_u9sgj",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "İnternet Şubesi",
+        "amount": "40",
+        "currency": "TL",
+        "date": "07/10/2024",
+        "time": "12:14:18",
+        "trackingNo": "204819491134",
+        "receiptNo": "190429973",
+        "referenceCode": "244915325210",
+        "senderName": "MEHMET KEMAL",
+        "senderIban": "TR4600067000000006006329504",
+        "receiverName": "TÜPRAŞ TİTANYUM TİTANYUM",
+        "receiverIban": "TR2200010001780037305959",
+        "description": "ACIKLAMA-ELEKTRONIK PBM TRANSFERI REF: 700001 - PAYM"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791364724610,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB7D0A473162EFC3C9D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791364792305_shyfm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0001/MERKEZ/ANKARA ŞUBESİ",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "12:14:23",
+        "trackingNo": "797855929",
+        "receiptNo": "F03356",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "SERCAN ARSLANTAŞ",
+        "receiverIban": "TR120001009010538731505001",
+        "description": "Hesabınızdan 4.108,37 TL (Yalnız DÖRTBİNİYZEKTÖTZYEDİKR) Çekilmiştir"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791364792305,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A10CEEA5AFEF536CAC0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
