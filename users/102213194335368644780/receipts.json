@@ -58465,6 +58465,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791375762811_nuh15",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "15:21:48",
+        "trackingNo": "2026014035742713",
+        "receiptNo": "",
+        "referenceCode": "2986706308",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "SERMET NAKLIYE HAYV PETROL ÜRÜN. SAN. TİC. LTD. ŞTİ",
+        "receiverIban": "TR76000670100000024929573",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791375762811,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A04E45E6314B6705F60",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
