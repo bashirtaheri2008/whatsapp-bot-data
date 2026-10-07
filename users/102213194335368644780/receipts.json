@@ -56884,6 +56884,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791369279510_p9svl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ANKARA SEHIR HASTANESI",
+        "amount": "8000",
+        "currency": "TRY",
+        "date": "07/10/2026",
+        "time": "13:32:48",
+        "trackingNo": "F06692",
+        "receiptNo": "2984641162",
+        "referenceCode": "T998452015",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWD USMANI",
+        "receiverIban": "TR550001002538858950565001",
+        "description": "ZIRAAT MOBIL"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791369279510,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9D5D442DF802BD8F4D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
