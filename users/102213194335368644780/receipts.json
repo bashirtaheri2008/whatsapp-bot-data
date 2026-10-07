@@ -58341,6 +58341,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791374666610_o3tdy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0461/SELÇUKLU/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "15:03:13",
+        "trackingNo": "7939017838",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "MUZAFFER UCARI",
+        "senderIban": "TR900001000461635875305001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR150001500158007362279815",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791374666610,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2CF2B5759198890237",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791374933307_og3ze",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "1000",
+        "currency": "TRY",
+        "date": "07/10/2026",
+        "time": "15:06:12",
+        "trackingNo": "7394094646",
+        "receiptNo": "",
+        "referenceCode": "F19519",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "MUSA ENES ALTUNTAŞ",
+        "receiverIban": "TR390001009010351193105001",
+        "description": "1.000,00 TRY tutarında Fast işleminin yapılması"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791374933307,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A073B253FBCAFF22EE6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
