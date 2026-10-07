@@ -60170,6 +60170,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791386443905_liudr",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "İSTANBUL",
+        "amount": "3085.38",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "18:12:03",
+        "trackingNo": "0922003497000017",
+        "receiptNo": "003941",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "KARTSIZ PARA YATIRMA"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791386443905,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0D8FBC0D8B463A6054",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791386740500_p5x6t",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ALAŞEHİR/MANİSA SUBESİ",
+        "amount": "438719",
+        "currency": "TL",
+        "date": "06/10/2026",
+        "time": "00:55:34",
+        "trackingNo": "00370",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR520001000190742592845001",
+        "receiverName": "VEHİDULLAH HABİL",
+        "receiverIban": "TR360001009010173054605001",
+        "description": "Alacaklı Şube : 106-TEKİRDAG ŞUBESİ Alacaklı Hesap : 101730546 5001 Alacaklı IBAN : TR36 0001 0090 1017 3054 6050 01 Alacaklı Adı Soyadı : VEHİDULLAH HABİL"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791386740500,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEA25A828D899E9FD9B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
