@@ -62371,6 +62371,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791398043631_zgv58",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "KONYA KARATAY",
+        "amount": "3990.00",
+        "currency": "TL",
+        "date": "21/09/2027",
+        "time": "",
+        "trackingNo": "202610073164877",
+        "receiptNo": "799148",
+        "referenceCode": "74259289",
+        "senderName": "GIDEN FAST EFT GIDEN FAST EFT",
+        "senderIban": "TR6700010000000011889926",
+        "receiverName": "ALCIM JAVDO UGMANI",
+        "receiverIban": "TR6700010000000011889926",
+        "description": "3.31 EFT Ücret"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791398043631,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A12B54AE13F23EB806A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
