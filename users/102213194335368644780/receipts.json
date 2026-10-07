@@ -58527,6 +58527,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791376450403_5ru1s",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "15:32:06",
+        "trackingNo": "2026014036324893",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET ALİ YÜZCÜ",
+        "senderIban": "TR8600015001584838",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791376450403,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB08CC47CE010A5D4D1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
