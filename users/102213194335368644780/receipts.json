@@ -58744,6 +58744,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791378205207_octih",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SEFAKÖY",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "15:54:43",
+        "trackingNo": "2730000290",
+        "receiptNo": "2026-10-07-15.54.41.421785",
+        "referenceCode": "",
+        "senderName": "OĞUZHAN DURMUŞ",
+        "senderIban": "TR880006200043200006618682",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinBeşYüzTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791378205207,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A01A5773ACCE64518E0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
