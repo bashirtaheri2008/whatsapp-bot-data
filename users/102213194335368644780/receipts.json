@@ -56512,6 +56512,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791366791107_y2str",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Subesi",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "12:50",
+        "trackingNo": "4879270731",
+        "receiptNo": "202610073455975",
+        "referenceCode": "03663-03663-973770106",
+        "senderName": "Erdal Değer",
+        "senderIban": "TR9600157000000000127396347",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791366791107,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A229F1B95E43D334405",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
