@@ -59395,6 +59395,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791381108702_uox64",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "e-Dekont",
+        "amount": "40",
+        "currency": "TL",
+        "date": "10/07/2024",
+        "time": "18:46:20",
+        "trackingNo": "107042624",
+        "receiptNo": "",
+        "referenceCode": "1784030150158017396495983",
+        "senderName": "BURAK ZILCIYAN",
+        "senderIban": "TR0000067510000000080098448156",
+        "receiverName": "TOPLAM TASLIM TITRAJ",
+        "receiverIban": "TR2200067510000000080098448156",
+        "description": "ACIKLAMA-ELEKTRONIK PUN TRANSFERI REF# 502851 - PAYIN"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791381108702,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A79096BFE5AF87C7756",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
