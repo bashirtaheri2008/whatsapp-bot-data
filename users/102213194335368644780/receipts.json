@@ -58279,6 +58279,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791374398215_e8g2y",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "YILDIZ",
+        "amount": "4490",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:59:12",
+        "trackingNo": "1589000276",
+        "receiptNo": "2026-10-07-14.59.10.600816",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622798815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791374398215,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A57AC040B960FDE1D15",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
