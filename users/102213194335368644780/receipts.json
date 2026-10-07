@@ -57070,6 +57070,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791370862213_03lxc",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4007.37",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:42:53",
+        "trackingNo": "38769809 / 288905",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İBRAHİM ÇOBAN",
+        "senderIban": "TR810004600006888000242822",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791370862213,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA1BB42E03F2C70EAFF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791370865109_2asua",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4308.37",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:44:44",
+        "trackingNo": "17737372",
+        "receiptNo": "292347",
+        "referenceCode": "",
+        "senderName": "SERKAN DOĞANER",
+        "senderIban": "TR270004600153888000185325",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791370865109,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC2867E30A63DC73812",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
