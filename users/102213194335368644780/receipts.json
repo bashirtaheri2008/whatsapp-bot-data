@@ -55210,6 +55210,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791359558706_dkeyb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2709/VEDIK/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/02/2026",
+        "time": "10:51:16",
+        "trackingNo": "7597291858",
+        "receiptNo": "2709/06900004346-5002",
+        "referenceCode": "TR44000100027596900004365002",
+        "senderName": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "senderIban": "TR4400010001500158007391459193",
+        "receiverName": "PES ENERJİ TEKNOLOJİLERİ SANAYİ MAH. DAĞYACA CD. NO: 47 / 2 06980 KAHRAMANKAZAN ANKARA",
+        "receiverIban": "TR44000100027596900004365002",
+        "description": "jawed umanni"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791359558706,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEA3E6BABF5D5F7879B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
