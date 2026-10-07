@@ -55551,6 +55551,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791361122115_giv6p",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "İSTİNYE PARK",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "11:15:25",
+        "trackingNo": "6599000141",
+        "receiptNo": "2026-10-07-11.15.20.595550",
+        "referenceCode": "32245144454",
+        "senderName": "JAMID OSMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "AKKI KARGO VE MUDERISLAR OTOMOT",
+        "receiverIban": "TR270006200065100006678728",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791361122115,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8A34C2D5054B8A4904",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
