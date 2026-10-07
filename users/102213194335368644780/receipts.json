@@ -61503,6 +61503,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791392576503_wu2o8",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNÇAN ÇARŞI",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "20:00:26",
+        "trackingNo": "3989000480",
+        "receiptNo": "2026-10-07-20.00.13.982997",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791392576503,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A26B08CF814E9F5A84B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
