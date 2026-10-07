@@ -57132,6 +57132,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791370868805_frezv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MAMAK",
+        "amount": "3880",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:49:20",
+        "trackingNo": "1902000211",
+        "receiptNo": "2026-10-07-13.49.15.951110",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR130006200118400006601043",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791370868805,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3F0C1C8F3D376FF1C0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791370872208_d7i49",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi 40/1 Ümraniye/İSTANBUL",
+        "amount": "4035.38",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:56:51",
+        "trackingNo": "01428B",
+        "receiptNo": "",
+        "referenceCode": "0822003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791370872208,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0E5397EBCA25E81B52",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791370896020_7pr71",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:53:53",
+        "trackingNo": "2026014031601362",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSMAİL YİĞİT",
+        "senderIban": "TR0800015001583824",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791370896020,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEB0FC7088110162AA2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
