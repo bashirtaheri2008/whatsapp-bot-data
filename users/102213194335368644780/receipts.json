@@ -61348,6 +61348,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791392143509_xfs8l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4977",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:51",
+        "trackingNo": "4880537104",
+        "receiptNo": "202610078212190",
+        "referenceCode": "03663-03663-974823225",
+        "senderName": "Mehmet Coşkun",
+        "senderIban": "TR2300157000000000128527808",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791392143509,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE942A88AB10C8D02D3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791392147310_bahnt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Cep Şube",
+        "amount": "3837",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:52",
+        "trackingNo": "4880539270",
+        "receiptNo": "202610078222120",
+        "referenceCode": "03663-03663-974825422",
+        "senderName": "Emrah Sağlam",
+        "senderIban": "TR8400157000000000205579436",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791392147310,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE1CB50D8A72306A4F0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791392232013_rqal9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1985/AYDİDOĞDU/KONYA ŞUBESİ",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:32:03",
+        "trackingNo": "7400984711",
+        "receiptNo": "F13502",
+        "referenceCode": "TR44",
+        "senderName": "SERHAT ÖMER DEMİREL",
+        "senderIban": "TR44525003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44559193",
+        "description": "Fast Mesaj"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791392232013,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEB73CC79D836903F4A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
