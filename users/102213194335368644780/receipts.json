@@ -58806,6 +58806,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791379132406_u7m1j",
+      "data": {
+        "isReceipt": true,
+        "bank": "PTT BANKASI",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "16:13",
+        "trackingNo": "767427",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KAMURAN SOLAK",
+        "senderIban": "",
+        "receiverName": "RA***** HA*****",
+        "receiverIban": "TR35**************9815",
+        "description": "BİREYSEL ÖDEME"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791379132406,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8D19E36D2107593DDB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
