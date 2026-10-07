@@ -62774,6 +62774,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791400519014_c4iyi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3100",
+        "currency": "TL",
+        "date": "10/01/2026",
+        "time": "22:01",
+        "trackingNo": "03663-03663-975068275",
+        "receiptNo": "202610079292861",
+        "referenceCode": "TR9200157000000000129888058",
+        "senderName": "TOLGA CAN ACAR",
+        "senderIban": "TR9200157000000000129888058",
+        "receiverName": "JAVİD USMANİ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme, EFT (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791400519014,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB83561FCE045BF8892",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
