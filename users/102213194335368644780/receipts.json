@@ -55179,6 +55179,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791359264701_nzkmm",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "1798.37",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "05:56:39",
+        "trackingNo": "35734293 / 679396",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AHMET TÜRK",
+        "senderIban": "TR530004600401888000528156",
+        "receiverName": "Rahmatuallah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791359264701,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF13F7A27375A396197",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
