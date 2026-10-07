@@ -61007,6 +61007,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791390993611_07yr3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "VELİ AKTUĞ",
+        "amount": "10000",
+        "currency": "TRY",
+        "date": "10/02/2026",
+        "time": "19:35:04",
+        "trackingNo": "7401069700",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "VELİ AKTUĞ",
+        "senderIban": "TR3400010001580158007312220752",
+        "receiverName": "NEZAMUDDIN YAOUBI",
+        "receiverIban": "TR3400010001580158007312220752",
+        "description": "Hesabınızdan 10.016,76 TL (Yalnız ONBİNALTIDOTÜYTMİLYAŞIR) Çekilmiştir."
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791390993611,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5A06FD1D07FA4B59E36473C11C9BDDC",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
