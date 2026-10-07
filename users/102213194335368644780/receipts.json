@@ -57690,6 +57690,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791372594705_z4lio",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:12",
+        "trackingNo": "4879459675",
+        "receiptNo": "202610074158095",
+        "referenceCode": "03663-03663-973930421",
+        "senderName": "Mustafa Küçükakkaş",
+        "senderIban": "TR870015700000000204787862",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791372594705,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4C34B42414AB34B603",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
