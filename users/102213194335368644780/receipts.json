@@ -57504,6 +57504,130 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791371633809_3venq",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:11:34",
+        "trackingNo": "202610069627551",
+        "receiptNo": "00421-1828050",
+        "referenceCode": "17070365630",
+        "senderName": "ERTUGRUL TEMIZ",
+        "senderIban": "TR3200111000000000116545723",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000150015807391459193",
+        "description": "Bireysel Odeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791371633809,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A64EB3C00A1EFF94EBD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791371676408_x0jhz",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:13:19",
+        "trackingNo": "8704000260",
+        "receiptNo": "2026-10-07-14.13.12.917848",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR030006200077000006982854",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791371676408,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1D0134E035C5D51B9A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791371681709_luurw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "6700",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:08",
+        "trackingNo": "4879507784",
+        "receiptNo": "202610074327382",
+        "referenceCode": "03663-03663-973970686",
+        "senderName": "Bayram Çevik",
+        "senderIban": "TR2300157000000000202440062",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791371681709,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE97EFFDE50CF331433",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791371819206_dbe4a",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "14:16:19",
+        "trackingNo": "2026014032787210",
+        "receiptNo": "",
+        "referenceCode": "2986496691",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Recep dağtaş",
+        "receiverIban": "TR080006200077000006975489",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791371819206,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A61B99E435123833499",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
