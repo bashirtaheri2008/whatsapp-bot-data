@@ -62123,6 +62123,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791396854319_ugwxv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "CEBECI",
+        "amount": "3200.08",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "21:10:36",
+        "trackingNo": "35937030746",
+        "receiptNo": "2026-10-07-21.10.34.325250",
+        "referenceCode": "6174000565",
+        "senderName": "JANDE OSMANLI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "CEBECI",
+        "receiverIban": "TR920006200047000006899235",
+        "description": "YALNIZ Ucbinkaydet..."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791396854319,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1AA708C84A9CCE6687",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
