@@ -56760,6 +56760,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791368297107_cxuqj",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "13:16:54",
+        "trackingNo": "2542000215",
+        "receiptNo": "2026-10-07-13.16.51.841651",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR820006200041900006619631",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312225752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791368297107,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A13B1FCB50225124838",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
