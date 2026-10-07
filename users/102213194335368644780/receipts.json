@@ -57721,6 +57721,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791372599005_n8y0q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:24:48",
+        "trackingNo": "3043000268",
+        "receiptNo": "2026-10-07-14.24.44.772024",
+        "referenceCode": "",
+        "senderName": "HASRET KÜLTÜR",
+        "senderIban": "TR850006200077000006972163",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312225752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791372599005,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0134E93AF2324D4860",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791372611411_3fa62",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAYSERİ OR SN MEYDAN",
+        "amount": "30000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "14:29:13",
+        "trackingNo": "555000262",
+        "receiptNo": "2026-10-07-14.29.00.089430",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID ISMANO",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID ISMANO"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791372611411,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A983DE4E5A8200FFB70",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791372616408_6belk",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "65000",
+        "currency": "TL",
+        "date": "10/07/2026",
+        "time": "14:28:50",
+        "trackingNo": "2026014033448765",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "NİZAMUDDİN YAKUBİ",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "RAHİM ERAM",
+        "receiverIban": "TR420001500158007390864134",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791372616408,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACB0DE7B5B41B7B8C25ACE9BFBB2236D",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
