@@ -61069,6 +61069,192 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791391391507_87hg2",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "NALÇACI ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:27:16",
+        "trackingNo": "202610072456212",
+        "receiptNo": "00425-1630280",
+        "referenceCode": "1708187745",
+        "senderName": "AHMET KAYA",
+        "senderIban": "TR510011100000000148164762",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Odeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791391391507,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADE33956AB12DCF7ECF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791391394706_ucpbx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KONYA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:32:24",
+        "trackingNo": "717979",
+        "receiptNo": "1916",
+        "referenceCode": "7401068808",
+        "senderName": "KENAN BATMAZ",
+        "senderIban": "TR270001001916775997695005",
+        "receiverName": "MOHAMMAD SHOAIB MAHMODOO",
+        "receiverIban": "TR520002000020408006855613",
+        "description": "HESAPINIZDAN 4.408,37 TL (YÖRÜTME DÖNEMİNDÖRTÜZSEKİZTÜLÜZDÖNEDÖRT) Çekilmiştir"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791391394706,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF6A2758A5DE81D177C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791391398625_71o5p",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4508.37",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:36:46",
+        "trackingNo": "TR590004600033888000415789",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YAKUP ÜZÜMCÜ",
+        "senderIban": "TR590004600033888000415789",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791391398625,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A984D5E9A98C234993B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791391402206_1r16o",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "İSTANBUL",
+        "amount": "14.40",
+        "currency": "TL",
+        "date": "10/07/2024",
+        "time": "19:17:31",
+        "trackingNo": "217442247798",
+        "receiptNo": "680304319",
+        "referenceCode": "248260314872",
+        "senderName": "İSLAM REY",
+        "senderIban": "TR8400061005190034054858",
+        "receiverName": "KURUMSAL HESAP NO 12840344/İBAN/TR15 0006 7010 0000 0028 4036 44",
+        "receiverIban": "TR150006701000000028403644",
+        "description": "KURUMSAL HESAP NO 12840344/İBAN/TR15 0006 7010 0000 0028 4036 44"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791391402206,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9F9A5C9797B87321E5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791391405608_lwxbq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:37",
+        "trackingNo": "4880502407",
+        "receiptNo": "202610078075781",
+        "referenceCode": "03663-03663-974793672",
+        "senderName": "Kübra Akay",
+        "senderIban": "TR5300157000000000132713400",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791391405608,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3A1BBCBCBCFC88D8F1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791391565813_wdzo2",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "11000",
+        "currency": "TL",
+        "date": "07/10/2026",
+        "time": "19:42:16",
+        "trackingNo": "630852412674310144",
+        "receiptNo": "",
+        "referenceCode": "07102026-9300-35702269",
+        "senderName": "MUSTAFA KUMCU",
+        "senderIban": "TR670013400002170899100001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi icin 4490-21708991-351 hesabınıza toplam 11.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791391565813,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8C709F109EE7EA718A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
