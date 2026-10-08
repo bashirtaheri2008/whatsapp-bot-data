@@ -70803,6 +70803,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791478776915_5bgpy",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/08/2026",
+        "time": "19:59:04",
+        "trackingNo": "2026014095783189",
+        "receiptNo": "",
+        "referenceCode": "2989844073",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Beyzanur Özkan",
+        "receiverIban": "TR030006200106600006616654",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791478776915,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A7123CD172B8A1E8D02",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
