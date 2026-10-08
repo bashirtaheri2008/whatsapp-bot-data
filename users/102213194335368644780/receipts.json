@@ -68664,6 +68664,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791468268907_y17ed",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0912/NALÇACI/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:20:08",
+        "trackingNo": "F14765",
+        "receiptNo": "740560015",
+        "referenceCode": "A01",
+        "senderName": "ENVER ÖZKAN",
+        "senderIban": "TR530001000912722995035001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Fast isleminin yapilmasini, tarafima bildirilen 0,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791468268907,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A93FA96959BFA6487E6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791468272106_cfr67",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Subesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:26",
+        "trackingNo": "4882435188",
+        "receiptNo": "03663-03663-978011363",
+        "referenceCode": "202610086765225",
+        "senderName": "Muhammed Tunç",
+        "senderIban": "TR3200157000000000203360042",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791468272106,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADC203BA50E6002D38E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
