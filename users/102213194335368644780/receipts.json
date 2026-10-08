@@ -70462,6 +70462,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791476680203_dj9eu",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNÇAN ÇARŞI",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:22:14",
+        "trackingNo": "6020000375",
+        "receiptNo": "2026-10-08-19.22.12.175257",
+        "referenceCode": "",
+        "senderName": "MİTHAT ŞAHİN",
+        "senderIban": "TR160006200109100006630748",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791476680203,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A960D5C01DD40D08DEE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
