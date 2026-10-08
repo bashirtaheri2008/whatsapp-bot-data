@@ -64293,6 +64293,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791444189511_k8zzy",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KEÇİÖREN ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "10:14:56",
+        "trackingNo": "202610078106904",
+        "receiptNo": "01310-1905171",
+        "referenceCode": "170817280",
+        "senderName": "TUĞÇE BAŞKOPARAN",
+        "senderIban": "TR750011100000000100942887",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ode"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791444189511,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF45931B611C8BAC67B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
