@@ -65936,6 +65936,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791453708112_vxx2w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "13:00:13",
+        "trackingNo": "AHT0A-B-20261008223",
+        "receiptNo": "CGR2026001510035",
+        "referenceCode": "ed6aeade-0439-499c-a7f1-d4ad98c30c92",
+        "senderName": "MEHMET DAVULCU",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791453708112,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC2A40C80867E9CAE5A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
