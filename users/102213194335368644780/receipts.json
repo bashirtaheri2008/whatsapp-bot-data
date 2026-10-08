@@ -70679,6 +70679,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791477760902_rpgol",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:37:28",
+        "trackingNo": "1709029176",
+        "receiptNo": "202610082750106",
+        "referenceCode": "00421-1836898",
+        "senderName": "TAHİR KARATAŞ",
+        "senderIban": "TR8500111000000000072440421",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ode"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791477760902,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A08D618EC16E85C88E9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
