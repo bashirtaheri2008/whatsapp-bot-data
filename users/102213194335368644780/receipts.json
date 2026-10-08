@@ -72508,6 +72508,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791489696312_944ry",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2332/ATAPARK/ANKARA ŞUBESİ",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "22:59:21",
+        "trackingNo": "7407767525",
+        "receiptNo": "F10970",
+        "referenceCode": "A01",
+        "senderName": "OĞUZHAN YİĞİTER",
+        "senderIban": "TR900001002332509297045004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.800,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791489696312,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACE702283EB4D8B03E2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
