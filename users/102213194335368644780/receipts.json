@@ -69284,6 +69284,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791471922033_eidok",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ETİMESGUT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:03:44",
+        "trackingNo": "883000373",
+        "receiptNo": "2026-10-08-18.03.41.700048",
+        "referenceCode": "",
+        "senderName": "HASAN BAŞARAN",
+        "senderIban": "TR26000620003020006839668",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791471922033,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A6CF508D36F80F8659D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
