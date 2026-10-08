@@ -65967,6 +65967,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791453925010_i18xu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0766/ALTINDAĞ/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "12:59:01",
+        "trackingNo": "7404105068",
+        "receiptNo": "F03428",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR670001000766662765435001",
+        "receiverName": "SEVİLAY ERÖNCÜL",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "elden alınan borc odemesi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791453925010,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A39177438B7C735580A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
