@@ -68044,6 +68044,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791464030604_u2l55",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "15:49:52",
+        "trackingNo": "517661882902",
+        "receiptNo": "SYJ202609875410",
+        "referenceCode": "925-632449 / 2548274118096",
+        "senderName": "ÖMER ADAM",
+        "senderIban": "TR48000670100000020308609",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFER (EFT) UC"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791464030604,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3479ED868082F09926",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791464193513_9wvux",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank",
+        "bankBranch": "",
+        "amount": "4250",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "15:55:36",
+        "trackingNo": "631157758505345024",
+        "receiptNo": "",
+        "referenceCode": "08102026-9300-29395263",
+        "senderName": "GIZEM TEKBAŞ",
+        "senderIban": "TR610013400001689152600001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 5190-16891526-351 hesabınıza toplam 4.250,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791464193513,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE18B8CA10C9CE9061B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
