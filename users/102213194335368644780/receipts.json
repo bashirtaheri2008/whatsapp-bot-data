@@ -67207,6 +67207,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791460841211_25xyl",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MEVLANA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:55:22",
+        "trackingNo": "2317000261",
+        "receiptNo": "2026-10-08-14.54.24.421287",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR250006200010100006809651",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791460841211,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A718AFD01D350609E2F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
