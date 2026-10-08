@@ -63828,6 +63828,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791439163309_gvp4x",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYI KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "08:55:45",
+        "trackingNo": "202610077487942",
+        "receiptNo": "01532-1221724",
+        "referenceCode": "17086223292",
+        "senderName": "MUSTAFA GÜL",
+        "senderIban": "TR590011100000000136447794",
+        "receiverName": "ALICI ÜNVANI: Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791439163309,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1680EA896C233F7B3F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791439166313_k43br",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "08:34:07",
+        "trackingNo": "BPN2026001013377",
+        "receiptNo": "ADECK-B-20261008113",
+        "referenceCode": "489d1258-0ddf-4908-a43b-acfbd681f8aa",
+        "senderName": "FATİH KOYUNCU",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: FATİH KOYUNCU , Alıcı: JAWID USMANI Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791439166313,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3D810202B9D0644A07",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791439168818_wj08g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Bank Manager",
+        "bankBranch": "",
+        "amount": "6000000",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "",
+        "trackingNo": "TR440001500158007391459193",
+        "receiptNo": "TR440001500158007391459193",
+        "referenceCode": "",
+        "senderName": "Bank Manager",
+        "senderIban": "",
+        "receiverName": "bekleyen ücret",
+        "receiverIban": "",
+        "description": "Wire Transfers"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791439168818,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA22ECD7F7BC32B52E9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
