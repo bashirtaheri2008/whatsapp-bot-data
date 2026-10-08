@@ -64789,6 +64789,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791446881304_4xkq7",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "11:06:53",
+        "trackingNo": "631085102810578944",
+        "receiptNo": "",
+        "referenceCode": "08102026-9300-20066668",
+        "senderName": "UKAP ŞAHİN",
+        "senderIban": "TR340013400002461825500002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791446881304,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6415797316FB2032AB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
