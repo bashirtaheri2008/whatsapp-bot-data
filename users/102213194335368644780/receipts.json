@@ -63766,6 +63766,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791438507502_y2g30",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "08:11:43",
+        "trackingNo": "35957921 / 370776",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ABDULLAH BOYALI",
+        "senderIban": "TR230004601283888000093104",
+        "receiverName": "Javid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "TERS İŞLEM YAPILDI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791438507502,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5074DF6B2614BC6840",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
