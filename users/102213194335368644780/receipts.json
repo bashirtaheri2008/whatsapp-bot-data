@@ -65440,6 +65440,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791451180700_gxn6b",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "YENİ SANAYİ",
+        "amount": "12500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "11:59:23",
+        "trackingNo": "2234000134",
+        "receiptNo": "2026-10-08-11.59.18.961462",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR110006200042000006871746",
+        "receiverName": "NUH GOLD KUYUMCULUK ANONİM ŞİRKETİ",
+        "receiverIban": "TR36000670100000040722417",
+        "description": "ELDEN ALDIM ALTIN BEDELİ"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791451180700,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "AC1F39FF45D3C22B6A68738FD219CE68",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
