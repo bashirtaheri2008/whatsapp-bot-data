@@ -66959,6 +66959,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791459124417_p5ybk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0178/CIHANBEYLI/KONYA SUBESI",
+        "amount": "10500",
+        "currency": "TL",
+        "date": "10/08/2026",
+        "time": "14:29:54",
+        "trackingNo": "7404714964",
+        "receiptNo": "",
+        "referenceCode": "F06776",
+        "senderName": "RAHMULLAH HAKIMI",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "BAHADIR GORGUN",
+        "receiverIban": "TR640001000178344038055001",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791459124417,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3F1868B15DECFD3479",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
