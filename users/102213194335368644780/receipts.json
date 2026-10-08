@@ -67114,6 +67114,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791459709215_as0cy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0461/SELÇUKLU/KONYA ŞUBESİ",
+        "amount": "12000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:36:05",
+        "trackingNo": "7404814420",
+        "receiptNo": "F10750",
+        "referenceCode": "A01",
+        "senderName": "HÜLYA ZORLUER",
+        "senderIban": "TR410001000461543630255001",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "elden alınan boç ödemesi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791459709215,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD26634E321CD858166",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
