@@ -72477,6 +72477,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791489005201_umo9t",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "22:42:50",
+        "trackingNo": "48861381/675686",
+        "receiptNo": "",
+        "referenceCode": "TR290004600005888000815138",
+        "senderName": "BURAK KAVLAK",
+        "senderIban": "TR290004600005888000815138",
+        "receiverName": "Mohammad Shoab Makdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791489005201,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3D5758CA6ED6C91451",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
