@@ -68478,6 +68478,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791466836505_ciexr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "HÜSEYİNGAZİ",
+        "amount": "3750",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:16:19",
+        "trackingNo": "2026-10-08-16.16.17.048694",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR940006200154500006604958",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "YALNIZ ÜçBinYediYüzElliTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791466836505,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE8DADAB8E6293D4CDF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791466979701_npr76",
+      "data": {
+        "isReceipt": true,
+        "bank": "Colendi Bank",
+        "bankBranch": "GM MERKEZ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "",
+        "trackingNo": "14335188",
+        "receiptNo": "",
+        "referenceCode": "1198951",
+        "senderName": "SAYIN MUHAMMED FEHMİ KILIÇ",
+        "senderIban": "TR96001580000000000280040",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914549193",
+        "description": "GİDEN FAST ALICI : JAWID USMANI IBAN : TR4400015001580073914549193 BANKA/SUBE : T. VAKIFLAR BANKASI T.A.O İŞLEM AÇIKLAMASI : ÖDEME TÜRÜ : Bireysel Ödeme FAST SORGU NUMARASI : 1198951 FAST REF NO : 14335188 FAST TUTARI : 4.000,00 TL EFT ÜCRETİ(BSMV DAHİL) : 0 TL"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791466979701,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF7EE237C195AD6B098",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
