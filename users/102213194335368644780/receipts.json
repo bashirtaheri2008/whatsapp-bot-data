@@ -68416,6 +68416,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791466609808_ql37f",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ATATÜRK BULV AKSARAY",
+        "amount": "8500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:35:33",
+        "trackingNo": "2026-10-08-16.35.28.699839",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR560006200151200006663328",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "HESAPTAN HESABA HAVALE"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791466609808,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A10F16039C79BA1FE70",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
