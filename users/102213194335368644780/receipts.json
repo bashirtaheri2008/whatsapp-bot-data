@@ -68540,6 +68540,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791467271420_lpp2p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:44:32",
+        "trackingNo": "631170076072779776",
+        "receiptNo": "",
+        "referenceCode": "08102026-9300-31297813",
+        "senderName": "FURKAN KAPLAN",
+        "senderIban": "TR740013400002058896400002",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791467271420,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A4DB49D4F5DCED759E2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
