@@ -72663,6 +72663,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791492538202_lvx45",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KONYA TOPTANCILAR ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "23:42:31",
+        "trackingNo": "202610083974390",
+        "receiptNo": "00424-1102428",
+        "referenceCode": "1709880566",
+        "senderName": "HAKAN KURUÇAY",
+        "senderIban": "TR2100011100000000058942471",
+        "receiverName": "Nizamuddin Yağcı",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ode"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791492538202,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5ED420AAA416481203018D1A5CBAF46",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
