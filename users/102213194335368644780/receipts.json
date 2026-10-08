@@ -68974,6 +68974,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791470007413_siw46",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0190/ALAŞEHİR/MANİSA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "17:31:18",
+        "trackingNo": "7406036544",
+        "receiptNo": "F15188",
+        "referenceCode": "A01",
+        "senderName": "MEHMET ÖZ",
+        "senderIban": "TR520001000190742592845001",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDON",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "ÇİĞİL MAH. 121215. SK. NO: 39 42620 ILGIN KONYA"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791470007413,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A24B26CBB882D4868C1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791470506412_8z37v",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİTELER",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "17:37:34",
+        "trackingNo": "2026-10-08-17.37.23.891687",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR290006200001600006635695",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791470506412,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFF89AAE7FC010B27D9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
