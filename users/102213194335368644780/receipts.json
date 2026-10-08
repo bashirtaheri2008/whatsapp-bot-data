@@ -63704,6 +63704,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791433290808_bqowx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "00:01:46",
+        "trackingNo": "3821781586",
+        "receiptNo": "450125004368",
+        "referenceCode": "08.10.2026/447/8888/8888",
+        "senderName": "ZEYNEP NURÇİN",
+        "senderIban": "TR260006400000145010941600",
+        "receiverName": "jawi dusmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "borc karsiligi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791433290808,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9899EA6978C439A92B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
