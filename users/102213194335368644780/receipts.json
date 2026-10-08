@@ -70276,6 +70276,161 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791475863924_pmc3k",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3508.37",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:05:29",
+        "trackingNo": "53902592",
+        "receiptNo": "433025",
+        "referenceCode": "",
+        "senderName": "MİHRİBAN ÇETİNTAŞ",
+        "senderIban": "TR190004600244888000182665",
+        "receiverName": "Mohammad Shoab Makhdorn",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791475863924,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A879B02C1CDB3B39976",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791475867715_iqma0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANADOLU SANAYİ",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:05:46",
+        "trackingNo": "2026-10-08-19.05.43.474767",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR720006200105200006691142",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR5200062000044000006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791475867715,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEF3FB351910C9A4BFA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791475888332_3qrud",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Ümraniye/İSTANBUL",
+        "amount": "200",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:03:35",
+        "trackingNo": "01428B",
+        "receiptNo": "",
+        "referenceCode": "0952003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791475888332,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A629A5F109E7BCB3FF5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791475891813_4grr5",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:06",
+        "trackingNo": "1649600367",
+        "receiptNo": "M-2026-10-08-19.06.32.017230",
+        "referenceCode": "",
+        "senderName": "ARDA HAKAN AKTEPE",
+        "senderIban": "TR350001200148000001107084",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - ARDA HAKAN AKTEPE TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791475891813,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACE6E0D9A79A823052B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791475895212_6msal",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "8500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:09",
+        "trackingNo": "4882892274",
+        "receiptNo": "202610088529933",
+        "referenceCode": "03663-03663-978385913",
+        "senderName": "Yunus Gök",
+        "senderIban": "TR4800157000000000200991014",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791475895212,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A78C6BF018BBD16ED12",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
