@@ -64076,6 +64076,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791441268308_jt1sr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİNCAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "09:33:23",
+        "trackingNo": "7402900651",
+        "receiptNo": "",
+        "referenceCode": "TR44 0001 5001 5800 7391 4591 93",
+        "senderName": "",
+        "senderIban": "TR820001001754063401135001",
+        "receiverName": "Jawid usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.000,00 TL tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 0,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791441268308,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6A1A5D5762FD0C10A7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
