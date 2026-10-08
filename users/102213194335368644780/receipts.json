@@ -72136,6 +72136,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791486147016_fo1mt",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "21:57:22",
+        "trackingNo": "2026014100152042",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YASİN ATALAY",
+        "senderIban": "TR3500001500158007362279815",
+        "receiverName": "RAİMATULLAH HAKİMİ",
+        "receiverIban": "TR560001500158007314625277",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791486147016,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0302E34E93F9B1E135",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
