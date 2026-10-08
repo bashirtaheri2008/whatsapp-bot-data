@@ -71082,6 +71082,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791479485013_v5pw9",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/02/2026",
+        "time": "20:03:25",
+        "trackingNo": "202610000274320",
+        "receiptNo": "04423-1289723",
+        "referenceCode": "79115876",
+        "senderName": "RAJMUTULLAH HAKIM",
+        "senderIban": "TR590001500155000014122208",
+        "receiverName": "CEMIL CEMALETTIN KOÇ",
+        "receiverIban": "TR260001500155000014122208",
+        "description": "3.3.1 EFT Ücreti"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791479485013,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADFBC15A91307A61709",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
