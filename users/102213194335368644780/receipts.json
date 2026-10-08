@@ -64510,6 +64510,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791445491202_6bg50",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "5004.18",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "10:35:24",
+        "trackingNo": "7403196747",
+        "receiptNo": "F05352_4026",
+        "referenceCode": "",
+        "senderName": "FATİH UYANIK",
+        "senderIban": "TR710001004026790436485010",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "5.000,00 TRY tutarında Fast işlemi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791445491202,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2B3A8B8690CC938AA7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
