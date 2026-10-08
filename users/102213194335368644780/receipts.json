@@ -67176,6 +67176,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791460350205_ubi43",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türk Ekonomi Bankası A.Ş.",
+        "bankBranch": "CEPTE TEB",
+        "amount": "8300",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:48",
+        "trackingNo": "761968701",
+        "receiptNo": "00402985",
+        "referenceCode": "",
+        "senderName": "DİLEK YASA",
+        "senderIban": "TR09000320000000146952043",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Sayın DİLEK YASA"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791460350205,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC2440C1FA79D2C9FAA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
