@@ -64758,6 +64758,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791446607516_hzby5",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3998.37",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "10:58:32",
+        "trackingNo": "26247988",
+        "receiptNo": "552109",
+        "referenceCode": "",
+        "senderName": "SEMİH BODUR",
+        "senderIban": "TR200004600014888000109757",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791446607516,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A34E1B43480B38EB847",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
