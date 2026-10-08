@@ -71795,6 +71795,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791484778604_k538j",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "21:37",
+        "trackingNo": "1649832345",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-08-21-37.54.045652",
+        "senderName": "İSMAİL UĞUR",
+        "senderIban": "TR910001200951700001020204",
+        "receiverName": "NIZAMUDDIN YAQUI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - İSMAİL UĞUR TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791484778604,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5A20D479C4F35EFF4E11C5CF1EC717A",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
