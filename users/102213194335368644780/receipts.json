@@ -65161,6 +65161,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791448958007_kyl4k",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/08/2026",
+        "time": "11:41:31",
+        "trackingNo": "2026014072706865",
+        "receiptNo": "",
+        "referenceCode": "2988476175",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Hilal pişket",
+        "receiverIban": "TR120012502005513870800351",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791448958007,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACC60F1561E372D84A3041313F995986",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
