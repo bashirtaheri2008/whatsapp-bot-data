@@ -69718,6 +69718,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791473781502_izdpn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:34:03",
+        "trackingNo": "7406408238",
+        "receiptNo": "",
+        "referenceCode": "077977",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "BEDİR ÖĞÜZHAN SİVRİ",
+        "receiverIban": "TR720001001912857220295001",
+        "description": "7.500,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791473781502,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA3D0858446E0A17058",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791473967809_6vm1t",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:25:45",
+        "trackingNo": "517668780132",
+        "receiptNo": "SY020261008066443",
+        "referenceCode": "925-799195 / 2548276777736",
+        "senderName": "BILAL KAYA",
+        "senderIban": "TR710006701000000071189836",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR52000620000440006865613",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791473967809,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB14027DB3CB4213C69",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
