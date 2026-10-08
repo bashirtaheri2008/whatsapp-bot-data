@@ -70586,6 +70586,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791477171315_9ovm1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:27:02",
+        "trackingNo": "7406768139",
+        "receiptNo": "F22078_4033",
+        "referenceCode": "A01",
+        "senderName": "ERSOY DOĞUTAŞ",
+        "senderIban": "TR480001004033808997945003",
+        "receiverName": "MOHAMMAD SHOAB",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Fast Mesaj Kodu: A01"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791477171315,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A962106BDC5C0C16963",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
