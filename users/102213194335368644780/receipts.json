@@ -68323,6 +68323,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791465831200_fh0mr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1577/ALEGÜL/ANKARA ŞUBESİ",
+        "amount": "4060",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:17:06",
+        "trackingNo": "7405595631",
+        "receiptNo": "F04457",
+        "referenceCode": "A01",
+        "senderName": "BAYRAM DURUKAN",
+        "senderIban": "TR720001001577436152095004",
+        "receiverName": "mohammad shoaib makhdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "4.060,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791465831200,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AECFAD8CEE311905ED7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
