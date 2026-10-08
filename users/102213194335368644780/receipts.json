@@ -65905,6 +65905,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791453357901_ikd46",
+      "data": {
+        "isReceipt": true,
+        "bank": "Fibabanka",
+        "bankBranch": "Bireysel Mobil Bankacılık",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "12:54:18",
+        "trackingNo": "13416342082",
+        "receiptNo": "00100-800685549",
+        "referenceCode": "T99002/T99002",
+        "senderName": "EMRE KARADEMİR",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST ALICI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791453357901,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2CC43A75404A0568CD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
