@@ -68230,6 +68230,99 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791465252146_5alfr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1437/ALTİNEKİN/KONYA ŞUBESİ",
+        "amount": "7500",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "16:06:25",
+        "trackingNo": "7405433860",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "BAYKUR ÇUHADAR",
+        "senderIban": "TR270001001437444663365001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "7.500,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791465252146,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A13A3524F1B4A2948FC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791465263309_2rxuc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "7700",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:08",
+        "trackingNo": "4882379533",
+        "receiptNo": "202610086560131",
+        "referenceCode": "03663-03663-977964437",
+        "senderName": "Yiğit Uygun",
+        "senderIban": "TR0300157000000000202502308",
+        "receiverName": "Mohammad Shoab Makhdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791465263309,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6C5489CF69CF2C8D90",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791465310020_qnxwl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Vakıfbank",
+        "bankBranch": "",
+        "amount": "40000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:13:56",
+        "trackingNo": "2026014085442061",
+        "receiptNo": "",
+        "referenceCode": "2989275549",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Oğuztürk kıymetli taşlar",
+        "receiverIban": "TR160021000000148233400004",
+        "description": "25174 ELDEN TESLIM ALDIGIM ALTIN BEDELİ"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791465310020,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC4B4724ECE98086BE358A8DC34704CE",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
