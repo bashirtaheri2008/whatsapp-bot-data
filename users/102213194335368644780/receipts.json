@@ -70121,6 +70121,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791475255511_r5857",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "3600",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:58:56",
+        "trackingNo": "7406508854",
+        "receiptNo": "F20966_4004",
+        "referenceCode": "A01",
+        "senderName": "UMUTCAN AYĞÜN",
+        "senderIban": "TR16000100400494620745004",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "HESABINIZDAN 3.604,18 TL (Yalnız ÜÇBİNLİTYÜZDÖRTLİONSEKİZKR) Cekilmistir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791475255511,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE741A63333D8ACED4D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
