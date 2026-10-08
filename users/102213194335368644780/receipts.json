@@ -71857,6 +71857,99 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791484941502_59d24",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "21:32:19",
+        "trackingNo": "BVP2026001392318",
+        "receiptNo": "AUJ9X-B-20261008156",
+        "referenceCode": "5a8f94eb-817b-42df-9747-c7ca8436ee21",
+        "senderName": "TUNAHAN ÖZKARADAYI",
+        "senderIban": "",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Gönderen: TUNAHAN ÖZKARADAYI, Alıcı: SHOAB MAKHDOM, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791484941502,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A897504EA2F42754E99",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791484946101_upaiu",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "21:33:22",
+        "trackingNo": "2026-10-08-21.33.20.941895",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAMAZAN ÇELİK",
+        "senderIban": "TR100006200125700006295861",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791484946101,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8EDD6E3CDA9596A9EB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791485149520_y142x",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÖVEÇLER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "21:43:45",
+        "trackingNo": "2026-10-08-21.43.43.737953",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR09000620012600006656025",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791485149520,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3A71A059755BE8EE1B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
