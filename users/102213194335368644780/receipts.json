@@ -72384,6 +72384,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791488521606_q6ut1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KIZILAY",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "22:21:01",
+        "trackingNo": "2026-10-08-22.17.56.269557",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR11000620000820006581854",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "YALNIZ DörtBinBeşYüzTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791488521606,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A642409E8B81D6E2A42",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791488525208_4c2ai",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİTELER/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "22:26:07",
+        "trackingNo": "7407649302",
+        "receiptNo": "F08692",
+        "referenceCode": "A01",
+        "senderName": "AYTEKİN CENGİZ",
+        "senderIban": "TR920001000627648811445003",
+        "receiverName": "mohammad shoaib makhdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "4.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791488525208,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA5EAE71586FED65B30",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791488528520_cdcpq",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "HÜSEYİNGAZİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "22:33:57",
+        "trackingNo": "2026-10-08-22.33.45.749541",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR940006200154500006604958",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791488528520,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC359284ACB61C95A78",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
