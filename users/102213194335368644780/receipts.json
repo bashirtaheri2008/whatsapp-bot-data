@@ -66990,6 +66990,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791459228012_usuz2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KURTLULUŞ",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:14:47",
+        "trackingNo": "7044596507",
+        "receiptNo": "",
+        "referenceCode": "F06133",
+        "senderName": "",
+        "senderIban": "TR770001002164710461685001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Fast Mesaj Kodu: A01"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791459228012,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A166E4351ECE5FC888E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
