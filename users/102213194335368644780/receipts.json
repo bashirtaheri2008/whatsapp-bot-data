@@ -67083,6 +67083,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791459625314_kmacz",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:39:28",
+        "trackingNo": "7837000242",
+        "receiptNo": "2026-10-08-14.39.27.226795",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR470006200146300006639582",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinAltıYüzTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791459625314,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF7AC65B7D92032BAF9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
