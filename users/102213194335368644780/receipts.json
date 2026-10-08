@@ -65223,6 +65223,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791449984310_g5qji",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4581",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "12/05/2024",
+        "time": "12:12",
+        "trackingNo": "222427",
+        "receiptNo": "222427",
+        "referenceCode": "222427",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "HAVALE"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791449984310,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "ACAC460D2AD78E37A94F3504115EE1AC",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791449987320_bfj6u",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک صادرات ایران",
+        "bankBranch": "کوتاه مدن",
+        "amount": "150000000",
+        "currency": "IRR",
+        "date": "12/05/1402",
+        "time": "12:21:42",
+        "trackingNo": "5028457",
+        "receiptNo": "6881",
+        "referenceCode": "5028457",
+        "senderName": "محمد ابراهیم",
+        "senderIban": "",
+        "receiverName": "مهری",
+        "receiverIban": "",
+        "description": "درج حساب : تسویه"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791449987320,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "AC906EC6E23A7545E7090DA7D8A8B9C5",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
