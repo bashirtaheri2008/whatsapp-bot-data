@@ -72012,6 +72012,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791485634810_40hb2",
+      "data": {
+        "isReceipt": true,
+        "bank": "KUVEYTTURK",
+        "bankBranch": "MALATYA PARA TRANSFER (Giden)",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/05/2026",
+        "time": "12:02:40",
+        "trackingNo": "8V92226001392430",
+        "receiptNo": "0000620",
+        "referenceCode": "46564-8070-7Ae1-03ec08",
+        "senderName": "KARMAŞA GRUP TEMİZLİK TİHATLAT İHRACAT SANAYİ VE TİCARET LIMITED ŞİRKETİ",
+        "senderIban": "TR56000460015001500156097362279815",
+        "receiverName": "KARMAŞA GRUP TEMİZLİK TİHATLAT İHRACAT SANAYİ VE TİCARET LIMITED ŞİRKETİ",
+        "receiverIban": "TR56000460015001500156097362279815",
+        "description": "MALATYA PARA TRANSFER (Giden)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791485634810,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC3BFE871760B7229A6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
