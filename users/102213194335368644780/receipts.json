@@ -64603,6 +64603,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791445922303_4s0ae",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ÇORLU TEKNİKERDAĞ ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/08/2026",
+        "time": "10:48:11",
+        "trackingNo": "7403311201",
+        "receiptNo": "12799002270",
+        "referenceCode": "12799002270",
+        "senderName": "OKTAY AKPNAR",
+        "senderIban": "TR640001000158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR640001000158007391459193",
+        "description": "Kampanyon TR2 TBY ESMV 0,38 TRY Mesaj Ucreti: 0,37 TRY"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791445922303,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A57713732DA25F070EC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791445925911_q1ytc",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4480.77",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "10:43:02",
+        "trackingNo": "254822096383",
+        "receiptNo": "25482693070",
+        "referenceCode": "SYJ202609519707",
+        "senderName": "İSMAİL EROĞLU",
+        "senderIban": "TR28000670100000022497677",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459",
+        "description": "FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791445925911,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC8307E83AF36B305DB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791446084811_195ny",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1577/LALEGÜL/ANKARA ŞUBESİ",
+        "amount": "3760",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "10:54:04",
+        "trackingNo": "7403318549",
+        "receiptNo": "F01626",
+        "referenceCode": "A01",
+        "senderName": "BAYRAM DURUKAN",
+        "senderIban": "TR720001001577436152095004",
+        "receiverName": "rahmatullah",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "3.760,00 TRY tutarında Fast İşleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791446084811,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A59268C552492AB3FC6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
