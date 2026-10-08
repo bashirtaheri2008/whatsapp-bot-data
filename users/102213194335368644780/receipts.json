@@ -70183,6 +70183,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791475378509_cgao9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "OSTİM BULVAR",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:01:22",
+        "trackingNo": "6215000365",
+        "receiptNo": "2026-10-08-19.01.18.764987",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR580006200101900006641119",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791475378509,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7AB163E28797993A64",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
