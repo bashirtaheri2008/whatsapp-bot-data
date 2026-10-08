@@ -68943,6 +68943,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791469930113_jnwd9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "17:05:02",
+        "trackingNo": "7405848975",
+        "receiptNo": "F16146",
+        "referenceCode": "A01",
+        "senderName": "HAZIM CEYLAN",
+        "senderIban": "TR620001000912521286265001",
+        "receiverName": "Jawid us",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "5.000,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791469930113,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADFC65EB01A1A50B7BF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
