@@ -65471,6 +65471,37 @@
         "participantAlt": "93789038151@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791451453005_omt2h",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4290",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "12:21:32",
+        "trackingNo": "631103886877605888",
+        "receiptNo": "",
+        "referenceCode": "08102026 - 9300 - 22295545",
+        "senderName": "OĞUZHAN KUŞADIR",
+        "senderIban": "TR020013400002533942300001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 3520-2533942-3-351 hesabınıza toplam 4.290,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791451453005,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF4C4CE2BE8FDF5EDA7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
