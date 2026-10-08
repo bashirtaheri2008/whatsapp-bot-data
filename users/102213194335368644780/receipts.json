@@ -67269,6 +67269,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791461737410_isnld",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2528/BUĞDAY PAZARI/KONYA ŞUBESİ",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:48:55",
+        "trackingNo": "7404867041",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "TANER KAYA",
+        "senderIban": "TR220001002528648151965001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Fast Mesaj Kodu : A01 Fast Sorgu No : 7404867041"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791461737410,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9B2E01C6F2627FEE70",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791461740807_hkjtv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ZAFER",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "10/08/2026",
+        "time": "14:52:47",
+        "trackingNo": "6884006236",
+        "receiptNo": "2026-10-08-14.52.445791",
+        "referenceCode": "31289450798",
+        "senderName": "JAMID USMANI",
+        "senderIban": "TR640001000158007391459193",
+        "receiverName": "AYMEL MARBAT",
+        "receiverIban": "TR40000620007700006591306",
+        "description": "YALNIZ DörtBinDokuzyüTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791461740807,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A41574EE53FAFE1EA7F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791461744301_4mcv4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BATIKENT",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:52:07",
+        "trackingNo": "2026-10-08-14.52.04.089771",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR100006200132500006597288",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791461744301,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFBD5B8B806D387E5C0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
