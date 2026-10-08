@@ -70555,6 +70555,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791476938407_lq88d",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:27",
+        "trackingNo": "1649634213",
+        "receiptNo": "M-2026-10-08-19.27.10.174141",
+        "referenceCode": "",
+        "senderName": "MEHMET CAN DAMAR",
+        "senderIban": "TR090001200958900001062836",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "BIREYSEL ÖDEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791476938407,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABE30DC05F7BED303A5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
