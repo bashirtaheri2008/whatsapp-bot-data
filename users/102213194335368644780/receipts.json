@@ -67796,6 +67796,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791463044808_o7uzl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "15:34:55",
+        "trackingNo": "BPZ2026000602334",
+        "receiptNo": "AL40A-B-20261008428",
+        "referenceCode": "8bf6c5cf-ea87-4f33-9510-18106736588e",
+        "senderName": "YASIN YAĞCI",
+        "senderIban": "",
+        "receiverName": "mohammad shoaib makhdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Gönderen: YASIN YAGCI, Alıcı: mohammad shoaib makhdom, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791463044808,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A488ED824479E77A5BE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
