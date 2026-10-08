@@ -68447,6 +68447,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791466781216_qhroj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KAHRAMANKAZAN/ANKARA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "08/10/2026",
+        "time": "15:57:38",
+        "trackingNo": "7405362715",
+        "receiptNo": "",
+        "referenceCode": "7405362715",
+        "senderName": "HAKAN AKTAŞ",
+        "senderIban": "TR590001001187160623005001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "4.500,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791466781216,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A73DACC1C2498726C3B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
