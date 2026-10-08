@@ -69067,6 +69067,99 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791470614510_36pg2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "17:28",
+        "trackingNo": "4882617854",
+        "receiptNo": "03663-03663-978162208",
+        "referenceCode": "202610087448374",
+        "senderName": "Safure Gün",
+        "senderIban": "TR2800157000000000202769481",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791470614510,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4650FA5DFEAECB090A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791470618508_fedqf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "VAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "17:29:12",
+        "trackingNo": "8464000323",
+        "receiptNo": "2026-10-08-17.29.10.407664",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR690006200046400006824019",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791470618508,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0EEDC32256C9F33895",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791470680608_ws20u",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYİ KONYA ŞUBESİ",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "17:35:07",
+        "trackingNo": "7721110010994927",
+        "receiptNo": "902232-779559",
+        "referenceCode": "T02238 /T37608",
+        "senderName": "MUHAMMET ALİ BÜYÜKDEMİRCİ",
+        "senderIban": "TR9100011088000007387192370",
+        "receiverName": "NIZAMUDDIN YAKUBI",
+        "receiverIban": "TR48000100219777398515001",
+        "description": "Alici : NIZAMUDDIN YAKUBI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791470680608,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0A8F8C07676BF1D694",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
