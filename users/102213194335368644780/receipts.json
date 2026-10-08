@@ -68168,6 +68168,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791464747006_4ssll",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AYDINLIKEVLER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:04:02",
+        "trackingNo": "2026-10-08-16.03.58.525287",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KADİR AKDOĞAN",
+        "senderIban": "TR470006200057900006656127",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "HESAPTAN HESABA HAVALE"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791464747006,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8B5B62E4AED121CC9E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
