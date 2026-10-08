@@ -68912,6 +68912,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791469834223_0qcag",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "17:28:14",
+        "trackingNo": "ANJ3T-B-20261008223",
+        "receiptNo": "CGR2026001513318",
+        "referenceCode": "47f90fdd-9786-46a8-ac26-dadada8075b7",
+        "senderName": "MEHMET DAVULCU",
+        "senderIban": "",
+        "receiverName": "mohammad shoab makhdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Gönderen: MEHMET DAVULCU, Alıcı: mohammad shoab makhdom, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791469834223,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF3B2464A3F3AA284FD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
