@@ -66835,6 +66835,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791458585008_wmy89",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ÇANKAYA ŞUBESİ",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "14:08:42",
+        "trackingNo": "202610079965364",
+        "receiptNo": "00976-1561316",
+        "referenceCode": "1709090093",
+        "senderName": "GULCAN YAVUZ",
+        "senderIban": "TR750011100000000129584950",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "TR52000620000440000000000000",
+        "description": "Bireysel Odeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791458585008,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3B9AB6C830FAEB47CF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
