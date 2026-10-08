@@ -69160,6 +69160,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791471527401_1yj5g",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "17:56:56",
+        "trackingNo": "517660681438",
+        "receiptNo": "SYJ2026100284772",
+        "referenceCode": "925-1641246 / 2548276440720",
+        "senderName": "LEYLA GÜLTEKİN",
+        "senderIban": "TR89000670100000015410438",
+        "receiverName": "Mohammad Shoab Makhdomi",
+        "receiverIban": "TR52000620000440000686513",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791471527401,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA03C393812139EE229",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
