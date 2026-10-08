@@ -68571,6 +68571,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791467286212_vs3od",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0071/ILGAZ/ÇANKIRI ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:45:50",
+        "trackingNo": "7405750087",
+        "receiptNo": "",
+        "referenceCode": "F02949",
+        "senderName": "ÖMER BEKCİ",
+        "senderIban": "TR180001000071660540395005",
+        "receiverName": "MOHAMMAD SHAOAB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "7.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791467286212,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A943992F2145A50894F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791467339002_vto5q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "ETİMESGUT",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:47:20",
+        "trackingNo": "1907000334",
+        "receiptNo": "2026-10-08-16.47.19.341061",
+        "referenceCode": "",
+        "senderName": "HASAN BAŞARAN",
+        "senderIban": "TR260006200030200006839668",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791467339002,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A47F77EAB149F34430C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791467469411_4g5k9",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "16:39:40",
+        "trackingNo": "202610081217739",
+        "receiptNo": "00421-1836555",
+        "referenceCode": "170935",
+        "senderName": "AYŞE DURAN",
+        "senderIban": "TR6400111000000000167009591",
+        "receiverName": "Mohammad Shaib Makhdom",
+        "receiverIban": "TR5200062000044000068685613",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791467469411,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A663DD98DF6388B2DC5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
