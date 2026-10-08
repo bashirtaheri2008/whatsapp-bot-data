@@ -69780,6 +69780,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791473972819_ozrmt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:05:54",
+        "trackingNo": "7406261423",
+        "receiptNo": "",
+        "referenceCode": "F18016",
+        "senderName": "ÜMİT YAŞAR KÖROĞLU",
+        "senderIban": "TR400001000912561862775001",
+        "receiverName": "MOHAMMAD SHOHAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "5.000,00 TRY tutarında Fast isleminin yapilmasini. Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791473972819,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A33F5333B769DC7957C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791473977515_ebuau",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:32:26",
+        "trackingNo": "36793507 / 387153",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "EMRAH KARABIYIK",
+        "senderIban": "TR870004600603888000181339",
+        "receiverName": "Mohammad Shoab Makhdom",
+        "receiverIban": "TR520006200004400006865613",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791473977515,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0DE0FD972E165115CC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791474096605_xi0t0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:37",
+        "trackingNo": "4882806995",
+        "receiptNo": "202610088186162",
+        "referenceCode": "03663-03663-978314996",
+        "senderName": "Riza Yaşar",
+        "senderIban": "TR870015700000000204989331",
+        "receiverName": "Mohammad Shoab",
+        "receiverIban": "TR5200062000040006865613",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791474096605,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9598883601677A1CFF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
