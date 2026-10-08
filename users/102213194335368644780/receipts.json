@@ -71113,6 +71113,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791479552107_dlg6c",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "20:02",
+        "trackingNo": "4883021935",
+        "receiptNo": "202610089048121",
+        "referenceCode": "03663-03663-978495128",
+        "senderName": "Tolga Can Acar",
+        "senderIban": "TR5200015700000000129888058",
+        "receiverName": "MOHAMMAD SHOAIB MAKHDOM",
+        "receiverIban": "TR520006200004400006865613",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791479552107,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A13989B2A1A56CB4F23",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
