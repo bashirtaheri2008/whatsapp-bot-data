@@ -71020,6 +71020,68 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791479131220_2zey7",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "POSTA CADDESI ŞUBESİ",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "20:00:17",
+        "trackingNo": "01315-2276071",
+        "receiptNo": "202610082896204",
+        "referenceCode": "170966",
+        "senderName": "MURTAZA ERTAŞ",
+        "senderIban": "TR150011100000000136809717",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791479131220,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3053A927FA405C8800",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791479241212_0c0ft",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TÜRKÖZÜ/ANKARA ŞUBESİ",
+        "amount": "4290",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "20:03:35",
+        "trackingNo": "7406987068",
+        "receiptNo": "046470",
+        "referenceCode": "",
+        "senderName": "MUSTAFA KARATEKELİOĞLU",
+        "senderIban": "TR420001001521638928595003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.290,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791479241212,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD9274F6DC982ACA226",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
