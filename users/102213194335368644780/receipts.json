@@ -69532,6 +69532,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791473053020_98wrr",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4108.37",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:21:11",
+        "trackingNo": "32665130",
+        "receiptNo": "371184",
+        "referenceCode": "",
+        "senderName": "EMRE YÜCEL",
+        "senderIban": "TR910004600603888000207166",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791473053020,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7059258DE603040F0C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791473067803_oe5pk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0177/KARAMAN ŞUBESİ",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:18:40",
+        "trackingNo": "7406432362",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "EMRE GÜLEN",
+        "senderIban": "TR840001000177626184195003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791473067803,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A87AB980FBE7FE4F114",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791473157610_cgqaj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "12000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "18:18:22",
+        "trackingNo": "7406270253",
+        "receiptNo": "",
+        "referenceCode": "F21997_4017",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "MEHMET GEÇİT",
+        "receiverIban": "TR320001009010224880705003",
+        "description": "12.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,38 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791473157610,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A50214E28FBF054B030",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
