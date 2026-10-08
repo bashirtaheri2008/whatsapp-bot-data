@@ -65874,6 +65874,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791453200501_hfew1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0620/ELMADAĞ/ANKARA ŞUBESİ",
+        "amount": "30000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "12:51:31",
+        "trackingNo": "74049093800",
+        "receiptNo": "0620/7738294/4002",
+        "referenceCode": "F05253",
+        "senderName": "MEVLÜT BARIŞ",
+        "senderIban": "TR400001000620773526745002",
+        "receiverName": "JAWAD USMANI",
+        "receiverIban": "TR44000150015800739140919034",
+        "description": "İSMETPAŞA MAH. KONUR SK. NO: 1 / 16 ELMADAĞ ANKARA"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791453200501,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3C86F825D15407739E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
