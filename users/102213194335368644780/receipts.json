@@ -71206,6 +71206,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791480498712_306ho",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "1000.00",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "20:26:47",
+        "trackingNo": "52330653/537838",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SELİN ÖZTÜRK ÇİHAN",
+        "senderIban": "TR8801790203732",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791480498712,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0A095A2BE55A4405A1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791480615212_4q9el",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TÜRKÖZÜ/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "20:28:51",
+        "trackingNo": "7407135924",
+        "receiptNo": "",
+        "referenceCode": "F04822",
+        "senderName": "MEHMET ŞAHİNER",
+        "senderIban": "TR730001001521686552275008",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOM",
+        "receiverIban": "",
+        "description": "4.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791480615212,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1BE041A999AE0EE016",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
