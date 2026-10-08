@@ -71175,6 +71175,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791480437214_kg8y2",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "20:19:02",
+        "trackingNo": "517668297835",
+        "receiptNo": "SYJ202610202186",
+        "referenceCode": "925-388121 / 2548278640972",
+        "senderName": "AYŞEGÜL KEPÇELİOĞLU",
+        "senderIban": "TR78000670100000056329504",
+        "receiverName": "MOHAMMAD SHOAB MAKHDOOM",
+        "receiverIban": "TR520006200004400000686513",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791480437214,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A48367159E563FE5DC8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
