@@ -70493,6 +70493,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791476698007_z7k0y",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:23:42",
+        "trackingNo": "1709669639",
+        "receiptNo": "09005-1909135",
+        "referenceCode": "202610082659729",
+        "senderName": "SAMİ BEKAR",
+        "senderIban": "TR55001100000000122943041",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392289967",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791476698007,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A1BD2E5D96597E2AA4D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791476885619_qlhka",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNÇAN ÇARŞI",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "19:24:53",
+        "trackingNo": "6461000392",
+        "receiptNo": "2026-10-08-19.24.50.915610",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR160006200109100006630748",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791476885619,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A11320864AF32F20A9C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
