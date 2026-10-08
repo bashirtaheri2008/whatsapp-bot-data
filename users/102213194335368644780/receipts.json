@@ -72229,6 +72229,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791486752813_0a098",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "70000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "22:11:01",
+        "trackingNo": "2026014100475630",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "NIZAMUDDIN YAOUBI",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "ERFAN ALAMHOULOUSHEYKHLLAR",
+        "receiverIban": "TR910001500158007359825774",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791486752813,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACDB6F0A5B2B7527087BBFE644F78DED",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
