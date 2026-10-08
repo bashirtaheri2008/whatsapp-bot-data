@@ -64820,6 +64820,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791447487515_tmsg6",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "08/10/2026",
+        "time": "11:15",
+        "trackingNo": "M-2026-10-08-11.15.23.517583",
+        "receiptNo": "1648663255",
+        "referenceCode": "",
+        "senderName": "HATİCE YAYLACI",
+        "senderIban": "TR090001200952500001121065",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - HATİCE YAYLACI TARAFINDAN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791447487515,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9E10DEDD0FF3F73078",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
