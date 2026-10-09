@@ -80630,6 +80630,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791567609205_0axn9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SEFAKÖY",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "20:29:17",
+        "trackingNo": "9156000488",
+        "receiptNo": "2026-10-09-20.29.10.888362",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR880006200043200006618682",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791567609205,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A78793002B2EE741BFE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
