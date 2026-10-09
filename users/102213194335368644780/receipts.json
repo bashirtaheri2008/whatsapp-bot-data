@@ -73779,6 +73779,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791534625822_tsmw3",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "11:09:41",
+        "trackingNo": "254838958738",
+        "receiptNo": "SYJ202610750264",
+        "referenceCode": "925-0 / 254838958738",
+        "senderName": "EMRAH KILINÇ",
+        "senderIban": "TR12000670100000011378176",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459",
+        "description": "FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791534625822,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0C4B33EB10505E1AE1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791534636103_hf4e5",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "10/09/2026",
+        "time": "11:27:57",
+        "trackingNo": "2026014125620586",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ERDAL ILTER",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791534636103,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4874D6C4BF6B369D3B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791534647115_0nh2d",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "11:24",
+        "trackingNo": "4884020669",
+        "receiptNo": "03663-03663-980856893",
+        "referenceCode": "202610094101780",
+        "senderName": "Salih Bir",
+        "senderIban": "TR8800157000000000202501748",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791534647115,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD40B2D619924203FF3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
