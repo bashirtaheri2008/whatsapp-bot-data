@@ -75081,6 +75081,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791543012104_r86g5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "POLATLI",
+        "amount": "6995",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:46:51",
+        "trackingNo": "3815000242",
+        "receiptNo": "2026-10-09-13.46.40.692757",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791543012104,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7E3693441D0C377353",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791543066211_myo7c",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:42:59",
+        "trackingNo": "1650746863",
+        "receiptNo": "M-2026-10-09-13.42.59.550456",
+        "referenceCode": "",
+        "senderName": "MEHMET AK",
+        "senderIban": "TR820001200125500001112407",
+        "receiverName": "NIZAMUDDIN YAGUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "BIREYSEL ODEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791543066211,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9AE9AA2031474106A9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791543240307_08kwv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "4050",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "13:48:39",
+        "trackingNo": "3825739987",
+        "receiptNo": "4510620032227",
+        "referenceCode": "09.10.2026/447/8888/8888",
+        "senderName": "SÜLEYMAN YAŞKIR",
+        "senderIban": "TR850006400000145100090134",
+        "receiverName": "jawid usman",
+        "receiverIban": "TR44000158007391459193",
+        "description": "SÜLEYMAN YAŞKIR tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791543240307,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2C02A5ED90FFCAC454",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
