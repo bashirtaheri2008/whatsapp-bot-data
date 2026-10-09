@@ -81157,6 +81157,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791570522305_hzdov",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "21:14:48",
+        "trackingNo": "7413753659",
+        "receiptNo": "423804",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "HIKMET ERTAŞ",
+        "receiverIban": "TR670001000912546683675001",
+        "description": "6.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791570522305,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAE96CB9D6D6749A3D9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
