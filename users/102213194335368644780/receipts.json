@@ -77995,6 +77995,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791557342908_94ym3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4059",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:47",
+        "trackingNo": "4885280459",
+        "receiptNo": "03663-03663-981879343",
+        "referenceCode": "202610098619589",
+        "senderName": "KÜBRA AKAY",
+        "senderIban": "TR5300157000000000132713400",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791557342908,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A51CE2A81C8B268D728",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791557354504_plb8q",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "GÖLYAKA/DÜZCE ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:47:19",
+        "trackingNo": "7412315034",
+        "receiptNo": "F05934",
+        "referenceCode": "A01",
+        "senderName": "ENES ORHAN",
+        "senderIban": "TR8300010008057521763502",
+        "receiverName": "HUSAN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791557354504,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A5E662469FDC3B1AAFB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791557586813_ci6pm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türk Ekonomi Bankası A.Ş.",
+        "bankBranch": "İvedik-167",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:49",
+        "trackingNo": "762642433",
+        "receiptNo": "00003479",
+        "referenceCode": "15422593",
+        "senderName": "ALI KARABULUT",
+        "senderIban": "TR60000320000000131373507",
+        "receiverName": "NIZAMUDDIN YACOBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791557586813,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3E848CD479A1DB6EF6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
