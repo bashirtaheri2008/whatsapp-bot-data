@@ -74616,6 +74616,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791540547310_p06ro",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "GİMAT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:04:21",
+        "trackingNo": "4448000186",
+        "receiptNo": "2026-10-09-13.04.18.533725",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR830006200032500006864620",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791540547310,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB663ED7ED45E11C5C4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791540550815_8kimv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türk Ekonomi Bankası A.Ş.",
+        "bankBranch": "CEPTETEB Mobil Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:05",
+        "trackingNo": "00344768",
+        "receiptNo": "5518929",
+        "referenceCode": "",
+        "senderName": "ONUR KARAEIMIR",
+        "senderIban": "TR51000320000000157220095",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "borc"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791540550815,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A1D3D70C54CFDEC0F8D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791540902812_cpnjd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0118/BİLECİK ŞUBESİ",
+        "amount": "4750",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:11:56",
+        "trackingNo": "7409956188",
+        "receiptNo": "F11783",
+        "referenceCode": "A01",
+        "senderName": "REFİK AKTAŞ",
+        "senderIban": "TR710001000118920222865001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Fast Mesaj Kodu: A01 Fast Sorgu No: 7409956188"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791540902812,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A084FDCD8E23F542F07",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
