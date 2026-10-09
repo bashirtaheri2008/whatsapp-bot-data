@@ -81126,6 +81126,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791570393911_jbtn5",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "21:23:44",
+        "trackingNo": "2026014151984966",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSMAİL EROĞLU",
+        "senderIban": "TR9500015001589875",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791570393912,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAFD54EFD05377E1900",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
