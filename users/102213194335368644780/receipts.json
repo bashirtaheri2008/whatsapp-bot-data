@@ -73097,6 +73097,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791528527412_jfz4a",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ŞAŞMAZ SANAYİ SİTESİ ŞUBESİ",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "09:47:20",
+        "trackingNo": "01309-1164398",
+        "receiptNo": "202610087964290",
+        "referenceCode": "TR340001500158007312220752",
+        "senderName": "MENDERES ESAT GÜNTEKİN",
+        "senderIban": "TR91000111000000000164951444",
+        "receiverName": "Nizamuddin YAQUBI Türkiye Vakıflar",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791528527412,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A60B208B0169E52FBF2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
