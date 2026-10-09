@@ -82521,6 +82521,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791578346802_gx467",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "23:34",
+        "trackingNo": "1653936335",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-09-23.34.20.855208",
+        "senderName": "NIZAMUDDIN YAGDIR",
+        "senderIban": "TR3400015001580073122220752",
+        "receiverName": "EMRE KIRAZLI",
+        "receiverIban": "TR000001200126200001113184",
+        "description": "GIDEN FAST - EMRE KIRAZLI TARAFINDAN GONDERILEN"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791578346802,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6A2203599A6604BD2D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
