@@ -81033,6 +81033,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791570057305_btmf0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÇUBUK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "21:20:08",
+        "trackingNo": "6082000533",
+        "receiptNo": "2026-10-09-21.20.04.985243",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR360006200111400000649091",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791570057305,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A146B868B5EFC1237E8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
