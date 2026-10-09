@@ -76197,6 +76197,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791548296413_svv7y",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "15:14:53",
+        "trackingNo": "2026014135659762",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUNUS CAN",
+        "senderIban": "TR6500015001580000000774",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791548296413,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A270BE24DB08AED0B97",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791548782803_absre",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "OSTİM AHİ EVRAN",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "15:23:52",
+        "trackingNo": "218000275",
+        "receiptNo": "2026-10-09-15.23.48.919438",
+        "referenceCode": "",
+        "senderName": "OSTİM AHİ EVRAN",
+        "senderIban": "TR440006200048100006621751",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "JAWID USMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791548782803,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5C9C3017F36A162FC6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
