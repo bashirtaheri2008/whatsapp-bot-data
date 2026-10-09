@@ -73438,6 +73438,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791531321700_oswdr",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "e-Dekont",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "10/09/2024",
+        "time": "10:24:52",
+        "trackingNo": "254038024190",
+        "receiptNo": "15802073",
+        "referenceCode": "254038024190",
+        "senderName": "ALPEREN KORKMAZ",
+        "senderIban": "TR8400010001380073649815",
+        "receiverName": "TÜLAYE TUGAYLI TUGAY",
+        "receiverIban": "TR220001000177",
+        "description": "İşlem Açıklaması"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791531321700,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFB0F2EF5B63A422BDD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
