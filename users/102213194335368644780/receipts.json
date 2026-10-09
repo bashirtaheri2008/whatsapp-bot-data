@@ -76910,6 +76910,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791554007404_vp7an",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:45:17",
+        "trackingNo": "2352000354",
+        "receiptNo": "2026-10-09-16.45.10.251213",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR240006200146300006672006",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791554007404,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1C7207ADC2A894707F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
