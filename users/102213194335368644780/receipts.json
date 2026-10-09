@@ -79917,6 +79917,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791563853208_n0y81",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1395/BALGAT/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "19:35:52",
+        "trackingNo": "7413029418",
+        "receiptNo": "F12084",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR510001001395783870005010",
+        "receiverName": "SONGÜL YURT",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafımdan bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791563853208,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AAC79E34C4EC7146CA3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791563893326_oo3g4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİNCAN/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:36:56",
+        "trackingNo": "F19123",
+        "receiptNo": "7413117106",
+        "referenceCode": "A01",
+        "senderName": "İBRAHİM YÜREKLİ",
+        "senderIban": "TR030001000731877874455004",
+        "receiverName": "HÜSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "Fast"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791563893326,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A2F3B486086C66042F2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791563957105_23ffg",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:37:14",
+        "trackingNo": "2026014147895294",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUSUF AYTEKİN",
+        "senderIban": "TR3500015001585671",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392088967",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791563957105,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A64A401AF524A945D64",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
