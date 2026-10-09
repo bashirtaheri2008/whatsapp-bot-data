@@ -81405,6 +81405,37 @@
         "participantAlt": "93789038151@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791571645000_kh4g5",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.Ş.",
+        "bankBranch": "TUNALI HİLMİ ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "21:38:55",
+        "trackingNo": "26350392691",
+        "receiptNo": "8427302",
+        "referenceCode": "TR440001500158007391459193",
+        "senderName": "ATLI İBRAHİM",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Giden FAST Sorgu No:26350392691 TR440001500158007391459193 Türkiye Vakıflar Bankası T.A.O. JAWID USMANI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791571645000,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A725F99DDAE85230B02",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
