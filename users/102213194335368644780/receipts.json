@@ -74771,6 +74771,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791541719311_gq177",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "EMEK",
+        "amount": "4990",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:25:43",
+        "trackingNo": "9943000217",
+        "receiptNo": "2026-10-09-13.25.41.819220",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR970006200077800006883637",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ DörtBinDokuzYüzDoksanTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791541719311,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A84331435395EC64E60",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
