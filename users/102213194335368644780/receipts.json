@@ -76383,6 +76383,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791551276925_htpdg",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "8500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "15:58",
+        "trackingNo": "1651091474",
+        "receiptNo": "M-2026-10-09-15.58.11.727119",
+        "referenceCode": "",
+        "senderName": "MEHMET AK",
+        "senderIban": "TR820001200125500001112407",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "BIREYSEL ODEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791551276925,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1C89952552E85ADF52",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
