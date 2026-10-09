@@ -75391,6 +75391,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791544552600_kbhry",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4890.00",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "14:08:30",
+        "trackingNo": "423979007391",
+        "receiptNo": "3823952698",
+        "referenceCode": "09.10.2026/447/8888/8888",
+        "senderName": "RIDVAN SARIKAYA",
+        "senderIban": "TR270006400000142391829644",
+        "receiverName": "husain ahmad samado",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "RIDVAN SARIKAYA tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791544552600,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A8D9D0150CC6F5614AE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
