@@ -77716,6 +77716,192 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791556784811_p7ngh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:34:20",
+        "trackingNo": "7412090526",
+        "receiptNo": "F22071_4028",
+        "referenceCode": "A01",
+        "senderName": "YUSUF KOZACI",
+        "senderIban": "TR090001004028969236965005",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "5.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlemi tarafıma bildirdiren 4,18 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791556784811,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA3A0F8C7555BCA7E18",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791556788006_e63mu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Finans",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:35:00",
+        "trackingNo": "20261009-99-XLW3F",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET EMİN KARATAŞ",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791556788006,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABA50702BC0CC72146D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791556792106_jy4u3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MEVLANA",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:35:25",
+        "trackingNo": "7662000390",
+        "receiptNo": "2026-10-09-17.35.15.576744",
+        "referenceCode": "",
+        "senderName": "MEHMET ÇAYIR",
+        "senderIban": "TR120006200010100006985261",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791556792106,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADECA317D5BAB007C27",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791556804824_ldoy6",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:32:55",
+        "trackingNo": "517687750081",
+        "receiptNo": "SYJ202611207763",
+        "referenceCode": "925-924881 / 2548392691850",
+        "senderName": "ÖMER CAN ÇAL",
+        "senderIban": "TR52000670100000047322164",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791556804824,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABDA8225035CB21AC38",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791556816516_euen5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0006/ÇUBUK/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:36:35",
+        "trackingNo": "7412206929",
+        "receiptNo": "F14382",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR050001000006830488155008",
+        "receiverName": "SEMIH İÇLİ",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmatullah hakımı"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791556816516,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF9D089621A4BAE0973",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791556876602_qxrkx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Albaraka Türk Katılım Bankası A.Ş.",
+        "bankBranch": "6 - KONYA",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:39:37",
+        "trackingNo": "4072705",
+        "receiptNo": "1173395/122725",
+        "referenceCode": "",
+        "senderName": "RIFAT ABDULLAH HATAY",
+        "senderIban": "TR750020300000723459000009",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001580058007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791556876602,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE2363E0A4F3BB85817",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
