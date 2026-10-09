@@ -78646,6 +78646,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791559662103_0ws4f",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Ümraniye/İSTANBUL",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "10/09/2026",
+        "time": "18:23:26",
+        "trackingNo": "00663G",
+        "receiptNo": "",
+        "referenceCode": "0922003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diğer"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791559662103,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD913DD34C7E548DC31",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791559732112_pqxfj",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4320",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "18:23:12",
+        "trackingNo": "1651442109",
+        "receiptNo": "M-2026-10-09-18.23.12.954515",
+        "referenceCode": "",
+        "senderName": "ARDA HAKAN AKTEPE",
+        "senderIban": "TR350001200148000001107084",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - ARDA HAKAN AKTEPE TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791559732112,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A597C4742321B6853F9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
