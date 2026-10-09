@@ -76507,6 +76507,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791551940115_8w07z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:51:57",
+        "trackingNo": "BCV2026000395984",
+        "receiptNo": "AT58X-B-20261009483",
+        "referenceCode": "383e5197-62df-4416-9006-dabe0284390c",
+        "senderName": "KEREM KARAGÖZ",
+        "senderIban": "",
+        "receiverName": "Jawid usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: KEREM KARAGÖZ, Alıcı: Jawid usmani, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791551940115,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD5C85D2399C87349B8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791552230815_d8ck6",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "LEVENT ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:21:58",
+        "trackingNo": "1710818816",
+        "receiptNo": "202610091319024",
+        "referenceCode": "00905-1915032",
+        "senderName": "SAMI BEKAR",
+        "senderIban": "TR550011100000000122943041",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR46000150015800739220896",
+        "description": "Bireysel Odeeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791552230815,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AB7845CC84E4267CFD7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
