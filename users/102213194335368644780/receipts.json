@@ -80909,6 +80909,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791568568714_yniur",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2083/BOSNA HERSEK MAHALLESI/KONYA ŞUBESİ",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "20:53:30",
+        "trackingNo": "7413610294",
+        "receiptNo": "F23760",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR790001002083971171105001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.800,00 TRY tutarında Fast işlemi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791568568714,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A61031A2E3A3E9A1523",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
