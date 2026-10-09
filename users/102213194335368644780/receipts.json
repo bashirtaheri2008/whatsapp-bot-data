@@ -78367,6 +78367,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791558317116_l9g9z",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5750",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:42:03",
+        "trackingNo": "2026014143054472",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAD EROĞLU",
+        "senderIban": "TR7700015001584971",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791558317116,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE53D3F470EE104F6B8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
