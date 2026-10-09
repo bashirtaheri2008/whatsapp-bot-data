@@ -77344,6 +77344,161 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791555218618_28axr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:00:44",
+        "trackingNo": "3426000367",
+        "receiptNo": "2026-10-09-17.00.42.562658",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR720006200077000006818167",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinAltıYüzTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791555218618,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE59C49476E9FBEF42D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791555222407_x1ojb",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:02:03",
+        "trackingNo": "2026014140876170",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET SEDAKATLI",
+        "senderIban": "TR51000150015845",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791555222407,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A52BE6E13FB1D62D852",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791555226304_tm2u4",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Umraniye/ISTANBUL",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:10:40",
+        "trackingNo": "0922003497000017",
+        "receiptNo": "",
+        "referenceCode": "005221",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791555226304,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A755C66E344BF16E392",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791555230101_4d6yx",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "4450",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:11:22",
+        "trackingNo": "4895000378",
+        "receiptNo": "2026-10-09-17.11.19.734009",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791555230101,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB0B3C8ACA5A769EBB8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791555273911_4wsts",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0265/İLGİN/KONYA ŞUBESİ",
+        "amount": "14000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "17:11:01",
+        "trackingNo": "F06593",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ZİNAT NAZARİ",
+        "senderIban": "TR800001500158007392030554",
+        "receiverName": "ENSAR BATUHAN ERSÖZ",
+        "receiverIban": "",
+        "description": "Alacaklı Şube: 265-ÇUMRA/KONYA ŞUBESİ Alacaklı Hesap: 47869072 5002 Alacaklı IBAN: TR80 0001 5001 5800 7392 0305 54 Alacaklı Adı Soyadı: ZİNAT NAZARİ Alacaklı Vergi No: Komisyon : 0,00 TRY Havale Tutarı : 14.000,00 TRY"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791555273911,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD2C5C3B17709365574",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
