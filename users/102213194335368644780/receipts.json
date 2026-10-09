@@ -74058,6 +74058,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791536501717_54kx7",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "11:30:31",
+        "trackingNo": "50290392",
+        "receiptNo": "175039",
+        "referenceCode": "",
+        "senderName": "HABİB ERYİĞİT",
+        "senderIban": "TR240004601283888000050212",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791536501717,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5852975AAF9C37FF548320AB21D36F9",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
