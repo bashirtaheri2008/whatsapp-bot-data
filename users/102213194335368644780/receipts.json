@@ -76042,6 +76042,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791547531514_x1abh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SARAYÖNÜ/KONYA ŞUBESİ",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "15:02:13",
+        "trackingNo": "7410837367",
+        "receiptNo": "TR55 0001 0006 5004 7989 7050 05",
+        "referenceCode": "TR54 0001 5601 5809 7133 2297 52",
+        "senderName": "SELMAN ÇİĞER",
+        "senderIban": "TR540001560158097133229752",
+        "receiverName": "Türkiye Vakıflar Bankası T.A.O.",
+        "receiverIban": "TR550001000650047989705005",
+        "description": "Konteyner - 1,50 TRY HESAP - 0,38 TRY Mesaj Ücreti - 0,37 TRY"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791547531514,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE78E7756D89B2C2617",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
