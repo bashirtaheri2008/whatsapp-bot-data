@@ -76724,6 +76724,161 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791552982811_ehfm2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:14:58",
+        "trackingNo": "BVP2026001400189",
+        "receiptNo": "AX5XG-B-20261009156",
+        "referenceCode": "",
+        "senderName": "AHMET SARICI",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: AHMET SARICI , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791552982811,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE92FDB6F7F2012F4D6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791552987805_a54l0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:13:25",
+        "trackingNo": "517689047540",
+        "receiptNo": "SYJ202611109266",
+        "referenceCode": "925-763490 / 2548391531823",
+        "senderName": "BAYRAM BERKE",
+        "senderIban": "TR91000670100000051844669",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073391459",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791552987805,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC71EB8141ED8133C5C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791552992302_4ymb6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1345/ESKİL/AKSARAY ŞUBESİ",
+        "amount": "13000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "16:34:46",
+        "trackingNo": "F10135",
+        "receiptNo": "",
+        "referenceCode": "74******25",
+        "senderName": "MERT ÇEÇEN",
+        "senderIban": "TR36************405001",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR44************459193",
+        "description": "13.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791552992302,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8FD7CAB7BFBA1EBC5B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791553025706_o62q1",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4870",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:22:37",
+        "trackingNo": "517685263917",
+        "receiptNo": "SYJ202611125053",
+        "referenceCode": "925-738927 / 2548391399076",
+        "senderName": "EMİRHAN AYAR",
+        "senderIban": "TR34000670100000096720514",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591193",
+        "description": "ELEKTRONİK FON TRANSFER (EFT) UCBE - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791553025706,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACFB3F9C40ACC4893D6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791553408704_gc13i",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "İVEDİK ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:40:45",
+        "trackingNo": "202610091507349",
+        "receiptNo": "00975-1736616",
+        "referenceCode": "T99148",
+        "senderName": "TALHA AŞKAN",
+        "senderIban": "TR590011100000000159089146",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791553408704,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A9470E209E84842B5AA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
