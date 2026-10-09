@@ -80103,6 +80103,161 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791564282110_i08su",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:36",
+        "trackingNo": "4885627872",
+        "receiptNo": "03663-03663-982152528",
+        "referenceCode": "202610099931711",
+        "senderName": "İsmail Taşdöven",
+        "senderIban": "TR360015700000000154008407",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791564282110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A269B56DD44DFBA39E2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791564286307_zjkjt",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARATAY ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:42:48",
+        "trackingNo": "202610093271573",
+        "receiptNo": "00422-1290729",
+        "referenceCode": "171119",
+        "senderName": "FERDİ KILIÇ",
+        "senderIban": "TR040011100000000168052354",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007381459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791564286307,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7B9830D1BDA64AAEAF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791564355802_l07ea",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "19:40:55",
+        "trackingNo": "3827151452",
+        "receiptNo": "450066027653",
+        "referenceCode": "09.10.2026/447/8888/8888",
+        "senderName": "MESUT UĞURLU",
+        "senderIban": "TR800006400000145004080885",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MESUT UĞURLU tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791564355802,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3E4E99E8D2657CA776",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791564359203_7pfug",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ATATÜRK BULV AKSARAY",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:43:58",
+        "trackingNo": "7336000459",
+        "receiptNo": "2026-10-09-19.43.54.586318",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791564359203,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1D4D84FD041BEC207D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791564432703_w304w",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5508.37",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:45:36",
+        "trackingNo": "52979076",
+        "receiptNo": "175364",
+        "referenceCode": "",
+        "senderName": "AZİZ YALÇIN",
+        "senderIban": "TR390004600040888000257689",
+        "receiverName": "",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "*TERS İŞLEM YAPILDI*"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791564432703,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A50FA91C29A5EA2C689",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
