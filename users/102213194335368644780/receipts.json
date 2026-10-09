@@ -73066,6 +73066,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791528342214_t2pz0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0877/ETİMESGUT/ANKARA ŞUBESİ",
+        "amount": "8000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "09:38:49",
+        "trackingNo": "F03851",
+        "receiptNo": "7408559086",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR480001000877700529185001",
+        "receiverName": "ABDULSELAM DEMİROĞLU",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "8.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791528342214,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6BC057F71686B3B922",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
