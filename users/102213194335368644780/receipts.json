@@ -80258,6 +80258,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791564808804_krqt4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Albaraka Türk Katılım Bankası A.S.",
+        "bankBranch": "İstanbul Ticaret Şubesi",
+        "amount": "15500",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:50:45",
+        "trackingNo": "11735017",
+        "receiptNo": "09102026-9300-149965",
+        "referenceCode": "117390665/141060",
+        "senderName": "MUSTAFA ERSOY",
+        "senderIban": "",
+        "receiverName": "TÜRKİYE VAKIFLAR BANKASI T.A.Ş.O",
+        "receiverIban": "TR350001500358007362279815",
+        "description": "HESAPLAR ARASI - Rizeli Para Transferi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791564808804,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEBB30FB57F6E8BA81E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
