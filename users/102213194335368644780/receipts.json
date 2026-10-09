@@ -79576,6 +79576,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791562657210_3v9oz",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:16:02",
+        "trackingNo": "517680296472",
+        "receiptNo": "SYJ202611336250",
+        "referenceCode": "925-925369 / 294394536090",
+        "senderName": "ÖMER CAN ÇAL",
+        "senderIban": "TR52000670100000047322164",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791562657210,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEF501A79E9CF1F5C22",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791562867203_2ibfr",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "10/09/2026",
+        "time": "19:20:49",
+        "trackingNo": "2026014147271164",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "MUSTAFA AKTEPE",
+        "receiverIban": "TR290001500158007309501641",
+        "description": "Taksi parasi."
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791562867203,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A3D2D00FFE166661D2C",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
