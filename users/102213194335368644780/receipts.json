@@ -82273,6 +82273,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791576938207_9pbvh",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "23:03:13",
+        "trackingNo": "851000580",
+        "receiptNo": "2026-10-09-23.03.11.229780",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914593",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791576938207,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD281BA3C37373BA45D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
