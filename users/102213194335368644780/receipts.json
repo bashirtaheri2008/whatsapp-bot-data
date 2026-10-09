@@ -82583,6 +82583,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791578825707_vy0qt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1671/ÜMİTKÖY/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "23:45:28",
+        "trackingNo": "7414259302",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "YUNUS EMRE ÖZER",
+        "senderIban": "TR570001001671700110365002",
+        "receiverName": "nizamettin",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "4.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 0,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791578825707,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7FA4E631945346E3FC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
