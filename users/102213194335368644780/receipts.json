@@ -72694,6 +72694,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791516778709_go018",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "İş Bankası",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "08/10/2028",
+        "time": "23:53:45",
+        "trackingNo": "2028014103545596",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSLAM AÇILMAZ",
+        "senderIban": "TR620001500158011000760771",
+        "receiverName": "OSMAN DURAK",
+        "receiverIban": "TR0400015001580110007312220182",
+        "description": "Hesaplar Havale"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791516778709,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD96CE657B22CFC6ADC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
