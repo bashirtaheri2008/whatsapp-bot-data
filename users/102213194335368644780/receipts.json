@@ -76693,6 +76693,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791552975710_jcccf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:32",
+        "trackingNo": "4764925939",
+        "receiptNo": "202608237193998",
+        "referenceCode": "03663-03663-809507829",
+        "senderName": "Ahmet Mert",
+        "senderIban": "TR3500157000000000132217181",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR46000158007392208967",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791552975710,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AC1DF7CDC610C7A4B6F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
