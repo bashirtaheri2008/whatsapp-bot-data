@@ -78088,6 +78088,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791557592111_7wbkx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "17:50:54",
+        "trackingNo": "3826602954",
+        "receiptNo": "450735004910",
+        "referenceCode": "09.10.2026/447/8888/8888",
+        "senderName": "ŞERİFE İGERTAŞ",
+        "senderIban": "TR790006400000145070417554",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "ŞERİFE İGERTAŞ tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791557592111,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A807FC93CE07F134787",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791557667909_lp74o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0363/DERİK/MARDİN ŞUBESİ",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:52:57",
+        "trackingNo": "7412437364",
+        "receiptNo": "F15972",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "SINAN KORKMAZ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "8.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791557667909,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE6542CB9571781927D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791557735808_r6p26",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:53:12",
+        "trackingNo": "631549743884394496",
+        "receiptNo": "",
+        "referenceCode": "2160-25767441-351",
+        "senderName": "BURAK AYDOĞDU",
+        "senderIban": "TR930013400002576744100002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791557735808,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A829479FDBC9C32DE82",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
