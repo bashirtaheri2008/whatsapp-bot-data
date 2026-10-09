@@ -74399,6 +74399,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791539777907_zsw20",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "12:53:15",
+        "trackingNo": "254835593249",
+        "receiptNo": "SYJ202610854511",
+        "referenceCode": "eac7584e-ffb4-49ec8-96a0-5545ee391dac",
+        "senderName": "EMRAH KILINÇ",
+        "senderIban": "TR12000670100000011378176",
+        "receiverName": "Jawid usmani",
+        "receiverIban": "TR440001500158007391459",
+        "description": "FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791539777907,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A319C7D34610240B048",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
