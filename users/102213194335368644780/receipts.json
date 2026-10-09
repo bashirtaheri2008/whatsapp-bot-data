@@ -78584,6 +78584,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791559299803_eivkn",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5008.37",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "18:12:04",
+        "trackingNo": "TR350004600727888000305279",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "TAHİR GÖKCE",
+        "senderIban": "TR350004600727888000305279",
+        "receiverName": "Husan Ahmad Samadi",
+        "receiverIban": "TR460001500158007392208967",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791559299803,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A79E89F7317CC35C54A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
