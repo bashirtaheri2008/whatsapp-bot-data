@@ -74151,6 +74151,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791537874409_su9ha",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DİREKT MOBİL CEP",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "11:51:31",
+        "trackingNo": "TR24000150015880731222752",
+        "receiptNo": "28642682",
+        "referenceCode": "1343888000136082",
+        "senderName": "METİN KEŞEKLER",
+        "senderIban": "TR24000150015880731222752",
+        "receiverName": "Nazımuddin Yaşar",
+        "receiverIban": "",
+        "description": "OTUZYEDI KR"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791537874409,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC00DDAA0C0666E85DD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
