@@ -74120,6 +74120,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791537548412_9ua0b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0537/BANAZ/UŞAK ŞUBESİ",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "12:15:45",
+        "trackingNo": "7409573125",
+        "receiptNo": "F01951",
+        "referenceCode": "A01",
+        "senderName": "MUHAMMED GÜNER",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMETULLAH HAKIMI",
+        "receiverIban": "TR300001000537790466895001",
+        "description": "4.400,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791537548412,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB2F4F99C09D4E15F49",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
