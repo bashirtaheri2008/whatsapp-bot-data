@@ -75949,6 +75949,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791547190909_tyga3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NECATİBEY",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "14:55:11",
+        "trackingNo": "3369000265",
+        "receiptNo": "2026-10-09-14.55.04.632591",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR700006200013000006881252",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791547190909,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAA1AD9233B5F30EFE8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791547205602_ck7u7",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "2697.78",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "14:51:44",
+        "trackingNo": "38769809",
+        "receiptNo": "529308",
+        "referenceCode": "TR810004600006888000242822",
+        "senderName": "İBRAHİM ÇOBAN",
+        "senderIban": "TR810004600006888000242822",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791547205602,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADA92DCD7B9A4B208D7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791547314502_w5oey",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "15:00:05",
+        "trackingNo": "420938004016",
+        "receiptNo": "A032026624924122",
+        "referenceCode": "3826051485",
+        "senderName": "BURAK BAŞAR",
+        "senderIban": "TR800006400040012091121318",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "BURAK BAŞAR tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791547314502,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A519ED29666FB77C6FE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
