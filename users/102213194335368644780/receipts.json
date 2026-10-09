@@ -80878,6 +80878,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791568399002_oxr9s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Cep Şube",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:34",
+        "trackingNo": "4885622230",
+        "receiptNo": "03663-03663-982147459",
+        "referenceCode": "202610099911440",
+        "senderName": "Muharremet Ali Şimşek",
+        "senderIban": "TR5800157000000000071986848",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791568399002,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9BA070E8E8356E08AD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
