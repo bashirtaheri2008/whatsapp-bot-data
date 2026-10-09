@@ -77499,6 +77499,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791555518002_5pr0p",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:13",
+        "trackingNo": "1651280100",
+        "receiptNo": "M-2026-10-09-17.13.16.285820",
+        "referenceCode": "",
+        "senderName": "ERSİN ÖZKAN",
+        "senderIban": "TR350001200138700001126728",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "BİREYSEL ÖDEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791555518002,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A95D44480D8309AD192",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
