@@ -74740,6 +74740,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791541224214_x1z51",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:17:56",
+        "trackingNo": "254830763127",
+        "receiptNo": "64987751",
+        "referenceCode": "SYJ202610876631",
+        "senderName": "OĞUZ KONUK",
+        "senderIban": "TR47000670100000052529796",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791541224214,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A366770CD6B9E0309DC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
