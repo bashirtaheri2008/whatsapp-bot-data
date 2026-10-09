@@ -74957,6 +74957,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791542451104_rse3m",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:37:13",
+        "trackingNo": "254837911241",
+        "receiptNo": "SYJ2026108964839",
+        "referenceCode": "925-0 / 2548388249039",
+        "senderName": "BEKİR KOCAER",
+        "senderIban": "TR540006701000000033618550",
+        "receiverName": "NIZAMUDDIN YAGUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791542451104,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACBAF89B885B8C7532B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791542625614_l11m2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "13:41:54",
+        "trackingNo": "428212006189",
+        "receiptNo": "A032026624211360",
+        "referenceCode": "09.10.2026/447/8888/8888",
+        "senderName": "MAZLUM SIĞINÇ",
+        "senderIban": "TR500006400000142821672993",
+        "receiverName": "HÜSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "MAZLUM SIĞINÇ tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791542625614,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A8248D46285C68A00AE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
