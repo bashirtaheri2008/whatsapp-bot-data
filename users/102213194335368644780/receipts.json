@@ -79762,6 +79762,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791563559111_jndj8",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4250",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:26:16",
+        "trackingNo": "517681303303",
+        "receiptNo": "SYJ202611360645",
+        "referenceCode": "925-1647763 / 2548394585604",
+        "senderName": "HACI GÜNEŞ",
+        "senderIban": "TR380006701000000011989390",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791563559111,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF8F9DF36D8B2B8CAF2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791563622713_l7h60",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:31:49",
+        "trackingNo": "631574559238270976",
+        "receiptNo": "",
+        "referenceCode": "09102026 - 9300 - 36903346",
+        "senderName": "GIZEM TEKBAŞ",
+        "senderIban": "TR610013400001689152600001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 5190-16891526-351 hesabınıza toplam 4.000,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791563622713,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A181B76FB11F60EB539",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791563662812_b1kxa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2488/ZAFER/KONYA SUBESİ",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:17:42",
+        "trackingNo": "7413036692",
+        "receiptNo": "F12404",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "REYYAN SILA ERDİM",
+        "receiverIban": "TR260001009010989853005001",
+        "description": "4.700,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791563662812,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA83DC03D7469BDF860",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
