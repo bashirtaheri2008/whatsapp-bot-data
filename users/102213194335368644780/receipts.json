@@ -78181,6 +78181,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791557742018_c0gav",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4100",
+        "currency": "TRY",
+        "date": "09/10/2026",
+        "time": "17:52:49",
+        "trackingNo": "3826810046",
+        "receiptNo": "423504003949",
+        "referenceCode": "09.10.2026/447/8888/8888",
+        "senderName": "ERCAN AZAT",
+        "senderIban": "TR660006400000142350948486",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000158007312220752",
+        "description": "ERCAN AZAT tarafindan aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791557742018,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A36D352319B68145738",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791557746310_2zd7f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4900",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:53:45",
+        "trackingNo": "AZS1O-B-20261009156",
+        "receiptNo": "BVP2026001402068",
+        "referenceCode": "a9c3e56c-9ff7-41f2-994f-fa49947e4a1d",
+        "senderName": "AHMET SARICI",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: AHMET SARICI , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791557746310,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF1604580798458ED51",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791557844412_cj49a",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "İSTİNYE PARK",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "17:56:35",
+        "trackingNo": "9157000387",
+        "receiptNo": "2026-10-09-17.56.27.318324",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791557844412,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB7248F3FC4E78A5878",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
