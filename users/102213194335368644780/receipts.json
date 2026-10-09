@@ -80351,6 +80351,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791565531911_2dp71",
+      "data": {
+        "isReceipt": true,
+        "bank": "Papara",
+        "bankBranch": "",
+        "amount": "3490",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "20:02",
+        "trackingNo": "4449272580",
+        "receiptNo": "542815692",
+        "referenceCode": "198106",
+        "senderName": "Tahsin Küçük kara",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791565531911,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A418DC6C0269640ED77",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791565540803_4f7df",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "HÜSEYİNGAZİ",
+        "amount": "3850",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:49:43",
+        "trackingNo": "8638000504",
+        "receiptNo": "2026-10-09-19.49.40.837706",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR940006200154500006604958",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "HEZİMETİN VAQZI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791565540803,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AED1E1E0D6FE354E091",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791565544310_5ab27",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "19:50:45",
+        "trackingNo": "7317000453",
+        "receiptNo": "2026-10-09-19.50.43.476482",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR100006200125700006295861",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791565544310,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF07A77ECB16CEBE9D9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
