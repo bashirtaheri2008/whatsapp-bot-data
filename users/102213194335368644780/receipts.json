@@ -73531,6 +73531,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791532011409_a1a9i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Cep Şube",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "10:43",
+        "trackingNo": "4883918937",
+        "receiptNo": "03663-03663-980767365",
+        "referenceCode": "202610093725790",
+        "senderName": "Tolga Can Acar",
+        "senderIban": "TR9200157000000000129888058",
+        "receiverName": "JaWiD Uzman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791532011409,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A133F80430DADD3AAE0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
