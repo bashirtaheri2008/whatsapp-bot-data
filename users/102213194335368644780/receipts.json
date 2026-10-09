@@ -74306,6 +74306,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791538382423_gu1sh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2173/MERAM/KONYA ŞUBESİ",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "11:55:39",
+        "trackingNo": "7409276203",
+        "receiptNo": "F06715",
+        "referenceCode": "A01",
+        "senderName": "DENİZ GEZMİŞ",
+        "senderIban": "TR150001002173639538825003",
+        "receiverName": "volkan çanlidağ",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmetullah hakimi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791538382423,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8D9983E4FC00E4A7F9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
