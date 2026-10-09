@@ -73872,6 +73872,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791534989505_qtc39",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "11:27:37",
+        "trackingNo": "254834049563",
+        "receiptNo": "SYJ202610759098",
+        "referenceCode": "2548386175161",
+        "senderName": "HACI GÜNEŞ",
+        "senderIban": "TR38000670100000011989390",
+        "receiverName": "Sinan gece",
+        "receiverIban": "TR310006200135700006604704",
+        "description": "FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791534989505,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADB97B0C2DB500B3F5C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
