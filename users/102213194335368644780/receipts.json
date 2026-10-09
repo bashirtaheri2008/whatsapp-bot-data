@@ -75918,6 +75918,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791547185908_1uo3g",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "NALÇACI ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "14:56:35",
+        "trackingNo": "202610090465812",
+        "receiptNo": "00425-1641871",
+        "referenceCode": "170106277800",
+        "senderName": "DAVUT YAZAR",
+        "senderIban": "TR4800111000000000112296641",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791547185908,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A626B915CC71C859B74",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
