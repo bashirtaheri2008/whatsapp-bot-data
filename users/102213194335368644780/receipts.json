@@ -75019,6 +75019,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791542776307_hf7dr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1995/TAŞPAZAR MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "13:42:22",
+        "trackingNo": "7410192632",
+        "receiptNo": "F08043",
+        "referenceCode": "A01",
+        "senderName": "MEHMET ALİ SOLAK",
+        "senderIban": "TR290001001995894124935002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Fast Mesaj Kodu: A01 Fast Sorgu No: 7410192632"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791542776307,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A19015ABDA5D5D0E1BC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
