@@ -78739,6 +78739,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791560218600_xg45k",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AYDINLIKEVLER",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "18:33:26",
+        "trackingNo": "328000383",
+        "receiptNo": "2026-10-09-18.33.21.549466",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR450006200057900006630264",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791560218600,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A97E582A32DEB57CF2F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
