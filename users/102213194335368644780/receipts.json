@@ -76941,6 +76941,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791554246727_ceoe0",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Umranıye/İSTANBUL",
+        "amount": "20970.76",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:39:19",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "Z2240034",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "KARTSIZ PARA YATIRMA"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791554246727,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF46E44D0A78E45378B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791554250209_pgbam",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "09/10/2026",
+        "time": "16:40:17",
+        "trackingNo": "AXWVE-B-20261009121",
+        "receiptNo": "BRH2026002088005",
+        "referenceCode": "",
+        "senderName": "ALİ KEMAL BULDUK",
+        "senderIban": "",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: ALİ KEMAL BULDUK , Alıcı: Jawid Usmani, Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791554250209,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4080AF7825FB40BFC3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
