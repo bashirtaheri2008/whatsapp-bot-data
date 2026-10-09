@@ -75546,6 +75546,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791545489110_2phbz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1395/BALGAT/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/09/2026",
+        "time": "14:30:01",
+        "trackingNo": "7410538597",
+        "receiptNo": "F06498",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR510001001395783870005010",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "Fast Mesaj Kodu: A01 Fast Sorgu No: 7410538597"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791545489110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AB3A0E69812EF9AA5EE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
