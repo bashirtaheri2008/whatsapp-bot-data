@@ -90953,6 +90953,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791663841539_eh7ve",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2320/ PİRİ REİS/KARAMAN ŞUBESİ",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "23:20:20",
+        "trackingNo": "7419871741",
+        "receiptNo": "",
+        "referenceCode": "F16728",
+        "senderName": "",
+        "senderIban": "TR250001002320625728325006",
+        "receiverName": "TUGAY SAY",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmatullah hakımı"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791663841539,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A06F6FB8D7FF9F66AC3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
