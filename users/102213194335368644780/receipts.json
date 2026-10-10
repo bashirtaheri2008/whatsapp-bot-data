@@ -86582,6 +86582,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791641185451_lvutl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0171/ILGIN/KONYA SUBESİ",
+        "amount": "6500",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "16:59:21",
+        "trackingNo": "7417677182",
+        "receiptNo": "",
+        "referenceCode": "F09867",
+        "senderName": "MEHMET FATİH EREN",
+        "senderIban": "TR530001000171578481305001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "6.500,00 TRY tutarında Fast işlemi"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791641185451,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A99D6D4CB32595CAFB5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
