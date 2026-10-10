@@ -84970,6 +84970,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791626571800_igeez",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "13:01:41",
+        "trackingNo": "ATJT8-B-2026101066",
+        "receiptNo": "BKR2026001091311",
+        "referenceCode": "1193f281-c30a-431a-897b-fa00aa750aad",
+        "senderName": "AYHAN TAŞDELEN",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: AYHAN TAŞDELEN - , Alıcı: RAHMATULLAH HAKIMI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791626571800,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD407450CBFAC7A03C2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791626586601_l8rs4",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5008.37",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "13:01:56",
+        "trackingNo": "38662029",
+        "receiptNo": "868890",
+        "referenceCode": "",
+        "senderName": "EMRE GARİPÖZ",
+        "senderIban": "TR750004600375888000254259",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791626586601,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD9FC3606606B91EF2E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791626847901_3s63n",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "13:03:21",
+        "trackingNo": "254847278786",
+        "receiptNo": "SYJ202611978899",
+        "referenceCode": "925-390385 / 2548403025355",
+        "senderName": "AYŞEGÜL KEPÇELİOĞLU",
+        "senderIban": "TR78000670100000056329504",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791626847901,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4ECAE479173FE20418",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
