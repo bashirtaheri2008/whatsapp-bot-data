@@ -83048,6 +83048,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791613501201_mi387",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0011/POLATLI/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "09:23:53",
+        "trackingNo": "7414965749",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "İHSAN KARABALAK",
+        "receiverIban": "TR720001000011736296095002",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791613501201,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB2C2363CE3674EEA28",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
