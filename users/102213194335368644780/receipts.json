@@ -88039,6 +88039,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791648926130_ldrkz",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:13:05",
+        "trackingNo": "517698064128",
+        "receiptNo": "SYJ202612338486",
+        "referenceCode": "925-808631 / 2540408188915",
+        "senderName": "ELİF AYRANCI",
+        "senderIban": "TR15000670100000037352297",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791648926130,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0BAAC0A66189A2F2C6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791648953538_wckdw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:14:03",
+        "trackingNo": "B23PS-B-20261010145",
+        "receiptNo": "BTL2026000708754",
+        "referenceCode": "dbae777e-12f2-4039-8629-391c2d868b1c",
+        "senderName": "ÇAĞLA YILMAZ",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: ÇAĞLA YILMAZ, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791648953538,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A940CFB771B327596A5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
