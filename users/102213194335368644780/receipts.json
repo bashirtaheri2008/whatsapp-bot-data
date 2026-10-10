@@ -89000,6 +89000,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791653215439_9byry",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN",
+        "amount": "4950",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:24:38",
+        "trackingNo": "6778000414",
+        "receiptNo": "2026-10-10-20.24.36.306016",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791653215439,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A03AB0EF23C9B15985F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
