@@ -83730,6 +83730,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791619488500_sg09v",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0620/ELMADAĞ/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "11:01:40",
+        "trackingNo": "7415332657",
+        "receiptNo": "F02415",
+        "referenceCode": "",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "MEVLÜT BARIŞ",
+        "receiverIban": "TR400001000620773526745002",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791619488500,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF91DDF568328A65C9D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
