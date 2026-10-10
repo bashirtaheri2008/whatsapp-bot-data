@@ -86830,6 +86830,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791644170639_16i50",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "17:52:17",
+        "trackingNo": "517691701",
+        "receiptNo": "925-337942 / 2548407132365",
+        "referenceCode": "SYJ2026122",
+        "senderName": "ENES CÜZDANCI",
+        "senderIban": "TR640006701000000053150484",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791644170639,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3ADC514AE21E3298D77F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
