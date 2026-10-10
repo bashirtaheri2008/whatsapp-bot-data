@@ -82831,6 +82831,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791605131409_1v0d8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2533/ANKARA ŞEHİR HASTANESİ ŞUBESİ",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "01:17:51",
+        "trackingNo": "7414513930",
+        "receiptNo": "F00198",
+        "referenceCode": "A01",
+        "senderName": "CEVRIYE EKICI",
+        "senderIban": "TR550001002533858950565001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "2.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791605131409,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A711863D0486EE94C71",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
