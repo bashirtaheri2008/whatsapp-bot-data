@@ -85125,6 +85125,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791627691209_v44mi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2603/ZAFER SANAYİ/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "13:12:57",
+        "trackingNo": "7416184352",
+        "receiptNo": "",
+        "referenceCode": "F05992",
+        "senderName": "HÜSEYİN EMRE KOYUNCU",
+        "senderIban": "TR520001002603865972985001",
+        "receiverName": "jawid usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.500,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791627691209,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A447421C12FDC172CD8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
