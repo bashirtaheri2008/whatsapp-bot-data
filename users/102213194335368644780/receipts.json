@@ -84629,6 +84629,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791625368807_c3hpi",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "İSTANBUL",
+        "amount": "1000000",
+        "currency": "USD",
+        "date": "10/10/2024",
+        "time": "12:15:03",
+        "trackingNo": "2540420022704",
+        "receiptNo": "58900773",
+        "referenceCode": "TR940000800123456789012345",
+        "senderName": "ACME GLOBAL TRADING A.S.",
+        "senderIban": "TR940000800123456789012345",
+        "receiverName": "DENIZLI BANKACILIK",
+        "receiverIban": "TR340000600156789012345678",
+        "description": "ACIKLAMALAR/EXPLANATION FOR TRANSFER: AUTO EXPORT - PAYMENT"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791625368807,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF28A446B5E81B0BADE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
