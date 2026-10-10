@@ -85187,6 +85187,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791629022006_rhtk6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "13:36:24",
+        "trackingNo": "6838000175",
+        "receiptNo": "2026-10-10-13.36.20.856076",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "HAMİT DÖNMEZ",
+        "receiverIban": "TR660006200125700006883158",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791629022007,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4CC7DE64667ED89074",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
