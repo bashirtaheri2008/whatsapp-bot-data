@@ -89682,6 +89682,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791656547132_77s70",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "21:17:46",
+        "trackingNo": "3829788714",
+        "receiptNo": "428078003025",
+        "referenceCode": "10.10.2026/447/8888/8888",
+        "senderName": "EMİNE KÖSE",
+        "senderIban": "TR710006400000142800372773",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000158007312220752",
+        "description": "EMİNE KÖSE tarafından aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791656547132,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A513C267F2E39BA1121",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
