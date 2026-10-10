@@ -83079,6 +83079,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791614360500_o5q14",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0513/ARHAVI/ARTVİN ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "09:37:11",
+        "trackingNo": "7414947654",
+        "receiptNo": "F01107",
+        "referenceCode": "A01",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "MERVE KUTLUÇIHAN",
+        "receiverIban": "TR210001000513816989715003",
+        "description": "4.500,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 0,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791614360500,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0E2B7306380E4E2939",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
