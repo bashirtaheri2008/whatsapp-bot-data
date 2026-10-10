@@ -91046,6 +91046,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791664469941_sujkq",
+      "data": {
+        "isReceipt": true,
+        "bank": "BBVA",
+        "bankBranch": "SELÇUKLU/KONYA",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "23:32:14",
+        "trackingNo": "72900000477",
+        "receiptNo": "256562",
+        "referenceCode": "19676423020",
+        "senderName": "JAMID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "SELÇUKLU",
+        "receiverIban": "TR950006200146400006828833",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791664469941,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC392BE0E6BA6FAD9C7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
