@@ -88101,6 +88101,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791648972851_6j951",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:56:35",
+        "trackingNo": "3829479870",
+        "receiptNo": "425922007365",
+        "referenceCode": "10.10.2026/447/88888/8888",
+        "senderName": "EMRE AKBABA",
+        "senderIban": "TR970006400000142590856476",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000158007312220752",
+        "description": "EMRE AKBABA tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791648972851,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4CE3BEBEDE12B8EA43",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
