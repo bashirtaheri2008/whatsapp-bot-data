@@ -84133,6 +84133,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791622238214_0bzng",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "200",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "11:48",
+        "trackingNo": "4886774108",
+        "receiptNo": "03663-03663-984559378",
+        "referenceCode": "202610105303142",
+        "senderName": "Ömer Baysal",
+        "senderIban": "TR5100157000000000204899769",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791622238214,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AACA838CA88C343A2DE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
