@@ -87760,6 +87760,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791647939957_h1u3w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:51",
+        "trackingNo": "4888017307",
+        "receiptNo": "202610109826960",
+        "referenceCode": "03663-03663-985517114",
+        "senderName": "Kübra Akay",
+        "senderIban": "TR5300157000000000132713400",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791647939957,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7A8CEE615656C33B33",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791647943929_on2co",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:58:02",
+        "trackingNo": "B1GRR-B-202610107",
+        "receiptNo": "BDM2026002359044",
+        "referenceCode": "4635d344-431f-414c-b82b-3ac9de736ab6",
+        "senderName": "AHMET ÜÇLER",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: AHMET ÜÇLER , Alıcı: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791647943929,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9A0D865E6C5C7F5ABA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791648161840_hbywx",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3608.37",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:58:39",
+        "trackingNo": "26832085/5268662",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İREM SANSAR",
+        "senderIban": "TR270004600402888000285589",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791648161840,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA657CC268D2A9B6F31",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
