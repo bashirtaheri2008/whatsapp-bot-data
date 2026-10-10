@@ -85497,6 +85497,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791630519706_c6itd",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "İVEDİK ORG. SAN.",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "14:06:26",
+        "trackingNo": "2469000192",
+        "receiptNo": "2026-10-10-14.06.22.791539",
+        "referenceCode": "",
+        "senderName": "HUSAIN AHMAD SAMADI",
+        "senderIban": "TR640006200053300006624526",
+        "receiverName": "HAKAN GÜNEY",
+        "receiverIban": "TR460001500158007392208967",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791630519706,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A05F9649B2E2EB714DA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
