@@ -5,5 +5,10 @@
   "picture": "https://lh3.googleusercontent.com/a/ACg8ocIyeVGz5Ux1kvQz3aQ2wSEtNwVY-cCuWWHiXRq5AV7GqJES93A=s96-c",
   "createdAt": 1791480910788,
   "lastSeen": 1791480910788,
-  "slot": 1
+  "slot": 1,
+  "plan": {
+    "type": "free",
+    "at": 1791648703212,
+    "expires": 1792253503212
+  }
 }
