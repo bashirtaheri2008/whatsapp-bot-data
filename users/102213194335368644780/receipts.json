@@ -83420,6 +83420,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791617084714_6er5c",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:22:22",
+        "trackingNo": "631798672935956480",
+        "receiptNo": "",
+        "referenceCode": "10102026-9300-13719985",
+        "senderName": "UĞUR ÖZEN",
+        "senderIban": "TR740013400002653262500001",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791617084714,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7999881E38EC846C8C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
