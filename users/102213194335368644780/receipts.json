@@ -88442,6 +88442,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791650430231_2k2e4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "YENİ SANAYİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:38:09",
+        "trackingNo": "1050000404",
+        "receiptNo": "2026-10-10-19.38.06.750148",
+        "referenceCode": "",
+        "senderName": "VOLKAN ASARKAYA",
+        "senderIban": "TR510006200042000006621639",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791650430231,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AF61FD55C531BF4A994",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791650567938_dk1nb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1997/HUSEYINGEVSI/ANKARA SUBESI",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:40:23",
+        "trackingNo": "7418728007",
+        "receiptNo": "1997/3477715/5001",
+        "referenceCode": "F13558",
+        "senderName": "AYSEL YILMAZ",
+        "senderIban": "TR640001000197347771155001",
+        "receiverName": "NIZAMUDDIN YAGUBI",
+        "receiverIban": "TR34000150013800731220275202",
+        "description": "A01 Fast Mesaj Kodu: 7418728007"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791650567938,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7488D221FBD745FC3A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
