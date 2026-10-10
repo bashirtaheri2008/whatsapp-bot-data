@@ -87915,6 +87915,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791648575740_z6bte",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "19:07:30",
+        "trackingNo": "3829508447",
+        "receiptNo": "422857003269",
+        "referenceCode": "10.10.2026/447/8888/8888",
+        "senderName": "AKIN BACAKSIZ",
+        "senderIban": "TR620006400000142281067721",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000158007312220752",
+        "description": "AKIN BACAKSIZ tarafindan aktarilan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791648575740,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE9455D12195D4F12CB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
