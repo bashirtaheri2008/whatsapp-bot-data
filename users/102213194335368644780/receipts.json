@@ -85404,6 +85404,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791629989930_zplp1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ÇUBUK/ANKARA ŞUBESİ",
+        "amount": "4990.00",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "13:48:15",
+        "trackingNo": "7416344718",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "SEMİH İÇLİ",
+        "senderIban": "TR050001000006830488155008",
+        "receiverName": "Rahmatullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.990,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791629989930,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6C9EE69DBA848B103A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
