@@ -91077,6 +91077,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791664621933_qi428",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "23:33",
+        "trackingNo": "4888615645",
+        "receiptNo": "202610112109448",
+        "referenceCode": "03663-03663-986006188",
+        "senderName": "GÖKHAN BAY",
+        "senderIban": "TR05001570000000002044097777",
+        "receiverName": "RAHMATULLAH Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791664621933,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AF2A0B63D98668D9C3D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
