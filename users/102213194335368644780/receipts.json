@@ -89899,6 +89899,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791657658138_oaq2m",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "DİKMEN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "21:36:59",
+        "trackingNo": "9053000474",
+        "receiptNo": "2026-10-10-21.36.53.488328",
+        "referenceCode": "",
+        "senderName": "NİZAMUDDİN YAQUBİ",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "HASAN KÖKSAL",
+        "receiverIban": "TR710006200050600006625796",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791657658138,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A350CB4C09DA34A3A0C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791657662441_qp32x",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3898.37",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "21:39:34",
+        "trackingNo": "TR810004600005888000788788",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUHAMMED ÜMİT",
+        "senderIban": "TR810004600005888000788788",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791657662441,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD5787EC091AA976F11",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791657739729_hcns8",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "6508.37",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "21:40:37",
+        "trackingNo": "12514301/724492",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İLKER BADEM",
+        "senderIban": "TR150004600221888000271478",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791657739729,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC15A864EFC90599236",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
