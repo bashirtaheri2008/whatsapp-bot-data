@@ -90705,6 +90705,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791661781736_frx2k",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "20000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "22:48:39",
+        "trackingNo": "2994826123",
+        "receiptNo": "",
+        "referenceCode": "2026014195315968",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "nezamuddin noori",
+        "receiverIban": "TR520021000000117553200001",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791661781736,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "4AF28F4E22CB411220EF",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
