@@ -87853,6 +87853,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791648326235_o1j90",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:57:18",
+        "trackingNo": "517695985887",
+        "receiptNo": "925-532620 / 2548408124545",
+        "referenceCode": "SYJ2026123327157",
+        "senderName": "RABİA İLERİ",
+        "senderIban": "TR13000670100000039060503",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) UCreti - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791648326235,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A2404C4682595D9E7DB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
