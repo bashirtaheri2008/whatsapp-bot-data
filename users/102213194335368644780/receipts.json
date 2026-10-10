@@ -83141,6 +83141,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791615612104_0gpur",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "19000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "09:49:14",
+        "trackingNo": "254841504626",
+        "receiptNo": "SYJ202611843383",
+        "referenceCode": "925-853916 / 2548400791650",
+        "senderName": "ÖZER GENCER",
+        "senderIban": "TR56000670100000024498768",
+        "receiverName": "Erhan Dede",
+        "receiverIban": "TR6700203000108412580001",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/Elde alınan borç"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791615612104,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "AC8F463CF05E6632F8A0A75AB92E4484",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
