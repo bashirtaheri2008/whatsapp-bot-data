@@ -89248,6 +89248,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791654532037_dinum",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "MESIR/MANISA SUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "20:45:52",
+        "trackingNo": "7419213472",
+        "receiptNo": "F25166",
+        "referenceCode": "A01",
+        "senderName": "YUSUF KAYA",
+        "senderIban": "TR350001001256757127505001",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "5,000,00 TRY tutarında Fast işleminin yapılması, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791654532037,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A37BE8D595133D59CF7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
