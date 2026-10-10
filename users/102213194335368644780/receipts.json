@@ -87946,6 +87946,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791648588135_u16bb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2721/SARAY/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:06:48",
+        "trackingNo": "7418598988",
+        "receiptNo": "F05905",
+        "referenceCode": "A01",
+        "senderName": "HUSAIN AHMAD SAMADI",
+        "senderIban": "TR460001500158007392208967",
+        "receiverName": "HASAN GÖBÜTOĞLU",
+        "receiverIban": "TR380001002721861311245004",
+        "description": "5.000,00 TRY tutarında Fast işlemi yapılmıştır. Bu işlem için tarafınıza bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791648588135,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AB41ACAE4D790254B09",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791648752052_ctpvv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:09:55",
+        "trackingNo": "BPN2026001029123",
+        "receiptNo": "",
+        "referenceCode": "B1X4Y-B-20261010113",
+        "senderName": "FATİH KOYUNCU",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: FATİH KOYUNCU , Alıcı: NIZAMUDDIN YAQUBI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791648752052,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5FC04B74CE3902340A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
