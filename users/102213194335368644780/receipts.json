@@ -82986,6 +82986,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791609712504_anevo",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "2008.37",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "08:11:25",
+        "trackingNo": "53797600 / 579885",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İREM TUNCER",
+        "senderIban": "TR260004600482888000139599",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791609712504,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1677D525F0B8484F09",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
