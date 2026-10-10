@@ -87729,6 +87729,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791647933441_fkkpc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Cep Şube",
+        "amount": "25000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:57",
+        "trackingNo": "4888035354",
+        "receiptNo": "03663-03663-985531428",
+        "referenceCode": "202610109898820",
+        "senderName": "Orhan Tekin",
+        "senderIban": "TR8300157000000000201250926",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158002798279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791647933441,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE89488A93F02BF6F27",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
