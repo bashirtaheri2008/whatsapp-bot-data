@@ -90736,6 +90736,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791661983242_cm80y",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "22:51:49",
+        "trackingNo": "M-2026-10-10-22.51.49.785087",
+        "receiptNo": "1653513519",
+        "referenceCode": "",
+        "senderName": "EMRE KIRAZLI",
+        "senderIban": "TR800001200126200001113184",
+        "receiverName": "NIZAMUDDIN YAGUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - EMRE KIRAZLI TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791661983242,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6BEC3B0ADB7135A4A3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
