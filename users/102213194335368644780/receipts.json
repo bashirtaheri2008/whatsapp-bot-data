@@ -88783,6 +88783,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791652331931_xk6j3",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Ümraniye/İSTANBUL",
+        "amount": "4985.38",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:08:57",
+        "trackingNo": "Z1748452",
+        "receiptNo": "",
+        "referenceCode": "0922003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "KARTSIZ PARA YATIRMA"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791652331931,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AEDA89506B11433A277",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
