@@ -88721,6 +88721,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791651898231_sthuv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4190",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "19:51",
+        "trackingNo": "4888175795",
+        "receiptNo": "202610110454988",
+        "referenceCode": "03663-03663-985643467",
+        "senderName": "Emre Deniz",
+        "senderIban": "TR8600157000000000204671577",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791651898231,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A83CF80DFDA330494CF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791652149138_zfkxn",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:06:22",
+        "trackingNo": "517692282702",
+        "receiptNo": "925-83876 / 2548408787924",
+        "referenceCode": "SYJ2026123963619",
+        "senderName": "YAĞIZ DOĞRUYOĞLU",
+        "senderIban": "TR73000670100000016141330",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791652149138,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A93DD3A0CCD1CDF12AA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
