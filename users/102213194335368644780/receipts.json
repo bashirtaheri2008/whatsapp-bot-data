@@ -83482,6 +83482,161 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791618736302_4788p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:39:29",
+        "trackingNo": "BDM2026002351483",
+        "receiptNo": "ARDPD-B-202610107",
+        "referenceCode": "82be7523-b016-484e-83dc-74362b621a05",
+        "senderName": "AHMET ÜÇLER",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: AHMET ÜÇLER , Alıcı: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791618736302,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5F780EB7BC9D30D1E2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791618739706_72npy",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:45:25",
+        "trackingNo": "28640652 / 689264",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "METİN KESEKLER",
+        "senderIban": "TR230004601343888000136082",
+        "receiverName": "Nizamuddin Yağubı",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791618739706,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF94F8F857233B6C3AE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791618742907_mi2q0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "GİMAT",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:46:27",
+        "trackingNo": "1711000108",
+        "receiptNo": "2026-10-10-10.46.23.440946",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "REİSMÜDÜR VAQFISI"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791618742907,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8090BAF115502D39D6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791618760412_yvwt3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SAHRAYICEDİT",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:51:31",
+        "trackingNo": "6351000083",
+        "receiptNo": "2026-10-10-10.51.30.125567",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "MEHMET KARAMAN",
+        "receiverIban": "TR240006200027700006854282",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791618760412,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9A84AED987E8D103A5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791618881213_3frrn",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "SERVİS ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "10:52:01",
+        "trackingNo": "1171747",
+        "receiptNo": "202610098494330",
+        "referenceCode": "01164-6249069",
+        "senderName": "YUNUS EMRE SAK",
+        "senderIban": "TR390011100000000147094583",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015000158007391459193",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791618881213,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A41B07661CF40BBB85C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
