@@ -87481,6 +87481,37 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791647242042_9t12x",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SANATORYUM/KEÇİÖREN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:37:07",
+        "trackingNo": "6104000239",
+        "receiptNo": "2026-10-10-18.37.32.405248",
+        "referenceCode": "",
+        "senderName": "HAYATİ TOPRAK",
+        "senderIban": "TR140006200122900006630870",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791647242042,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABAA8C4DCA1886882A5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
