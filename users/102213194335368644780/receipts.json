@@ -86489,6 +86489,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791640034532_5hpl7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "16:43:01",
+        "trackingNo": "TL2026000708210",
+        "receiptNo": "",
+        "referenceCode": "AXHDR-B-20261010145",
+        "senderName": "ÇAĞLA YILMAZ",
+        "senderIban": "",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "Gönderen: ÇAĞLA YILMAZ, Alıcı: HUSAIN AHMAD SAMADI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791640034532,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AA063135E12F90BC950",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
