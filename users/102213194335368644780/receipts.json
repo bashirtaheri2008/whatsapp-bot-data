@@ -82955,6 +82955,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791608901314_sr4ja",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "TOKAT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "08:05:07",
+        "trackingNo": "3807000044",
+        "receiptNo": "2026-10-10-08.05.04.302964",
+        "referenceCode": "",
+        "senderName": "YUSUF ÖZTÜRK",
+        "senderIban": "TR710006200087700006653332",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "TEŞEKKÜR YAGIZI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791608901314,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0585C549CAF96824A4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
