@@ -88845,6 +88845,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791652804552_3x7rc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TATVAN/TATVAN ŞUBESİ",
+        "amount": "450000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:18:53",
+        "trackingNo": "7419097722",
+        "receiptNo": "",
+        "referenceCode": "F25995",
+        "senderName": "CAHİT CAN",
+        "senderIban": "TR6400010004494997015001",
+        "receiverName": "KARADURMAK 308 KÖY SOKAĞI NO: 40/1 06006 ANKARA",
+        "receiverIban": "TR340001000158007812220052",
+        "description": "NİZAMUDDİN YAKUPT"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791652804552,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFADE7966D4876DEECA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
