@@ -85528,6 +85528,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791631120310_z4bz5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "TOPTANCILAR ST/KONYA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "14:14:41",
+        "trackingNo": "2636000183",
+        "receiptNo": "2026-10-10-14.14.38.961699",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR590006200121300006650898",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791631120310,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE75F53F93269A9694B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
