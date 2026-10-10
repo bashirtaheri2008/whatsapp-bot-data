@@ -90178,6 +90178,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791659381836_58vka",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiiz Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "22:08:43",
+        "trackingNo": "2026014194250485",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSMAİL YILMAZ",
+        "senderIban": "TR680001500158****2925",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791659381836,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A469746E16051F7D8A2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
