@@ -82862,6 +82862,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791605136316_dubem",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Çep Şube",
+        "amount": "9400",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "01:26",
+        "trackingNo": "TR890015700000000126309200",
+        "receiptNo": "202610102096021",
+        "referenceCode": "03663-03663-983164697",
+        "senderName": "UKUK BODUR",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN VAQUIEL",
+        "receiverIban": "TR340001500150017312220752",
+        "description": "Bireysel Odeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791605136316,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8862B44DA3C0932B43",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791606319710_40k73",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "00:47:27",
+        "trackingNo": "517689993375",
+        "receiptNo": "SYJ202611573611",
+        "referenceCode": "925-377063 / 2548497727187",
+        "senderName": "ÖMER İVGEN",
+        "senderIban": "TR16000670100000079613918",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791606319710,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A98485C4CA370EA8276",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
