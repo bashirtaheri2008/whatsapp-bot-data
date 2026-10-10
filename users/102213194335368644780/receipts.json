@@ -84908,6 +84908,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791626453316_ss9j2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "5504.18",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "12:58:58",
+        "trackingNo": "7416122279",
+        "receiptNo": "F085554013",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "HÜSEYİN AKSOY",
+        "receiverIban": "TR120001009010216386705005",
+        "description": "5.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 4,18 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791626453316,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA8A45F01D4033D77A3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791626557422_p003o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2333/YÜKSELTEPE/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "12:58:30",
+        "trackingNo": "7416016434",
+        "receiptNo": "F02741",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "BARİŞ BERKCAN",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791626557422,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB77850F1B7D606D0D5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
