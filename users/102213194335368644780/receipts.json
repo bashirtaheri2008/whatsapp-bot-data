@@ -90798,6 +90798,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791662107232_i2koe",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "22:52:12",
+        "trackingNo": "517694104307",
+        "receiptNo": "SYJ202612500302",
+        "referenceCode": "925-789695 / 2548410388083",
+        "senderName": "KADİR YILMAZ",
+        "senderIban": "TR22000670100000079108149",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791662107232,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB4EB1C4B7ED05706E9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791662520339_awwzl",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SANATORYUM/KEÇİÖREN",
+        "amount": "3900",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "23:00:26",
+        "trackingNo": "467000490",
+        "receiptNo": "2026-10-10-23.00.24.939585",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791662520339,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD6E2531274288E4BE5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
