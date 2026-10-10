@@ -89093,6 +89093,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791653528537_7fa57",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "İSTANBUL",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:09:58",
+        "trackingNo": "005742",
+        "receiptNo": "",
+        "referenceCode": "0922003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Konut Kirası"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791653528537,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A247CC018FBCE065F4C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791653595839_hag4e",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ŞAŞMAZ SANAYİ SİTESİ ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:24:52",
+        "trackingNo": "01309-1170619",
+        "receiptNo": "202610102390403",
+        "referenceCode": "1712584",
+        "senderName": "EMRE YAZICI",
+        "senderIban": "TR300011100000000131223799",
+        "receiverName": "NIZAMUDDIN YAKUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Odeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791653595839,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAC121C5E459117210A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791653599632_428nl",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NEVŞEHİR",
+        "amount": "16000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:09:59",
+        "trackingNo": "932000404",
+        "receiptNo": "2026-10-10-20.09.33.269962",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "YALNIZ OnAltıBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791653599632,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7527B216793931C359",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
