@@ -89434,6 +89434,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791655246829_24obs",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2760/SELÇUKLUK MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "20:40:00",
+        "trackingNo": "7418994660",
+        "receiptNo": "",
+        "referenceCode": "F07031",
+        "senderName": "",
+        "senderIban": "TR440001002760635845285003",
+        "receiverName": "SEZER AKHUY",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "jawid usman"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791655246829,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF7F5F0615586A45AC9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791655271633_x5v24",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "ETİMEŞGUT",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:58:34",
+        "trackingNo": "6861000434",
+        "receiptNo": "2026-10-10-20.58.32.546157",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR260006200030200006839668",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791655271633,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AB82F9EA97E4BCC931B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791655274531_owcvw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "20:59:24",
+        "trackingNo": "21aa2600-10d0-44b6-9f05-0894c91d2635",
+        "receiptNo": "B4MBK-B-20261010303",
+        "referenceCode": "CNV/2026000695183",
+        "senderName": "İBRAHİM BOYNUUZUN",
+        "senderIban": "TR460001500158007392208967",
+        "receiverName": "husan ahmad samadi",
+        "receiverIban": "",
+        "description": "Gönderen: İBRAHİM BOYNUUZUN , Alıcı: husan ahmad samadi , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791655274531,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A05B1C7C21F8B6EA2D2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
