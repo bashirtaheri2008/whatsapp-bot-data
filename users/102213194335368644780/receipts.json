@@ -89217,6 +89217,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791654402334_h7oqn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2101/ESERTEPE/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "20:42:33",
+        "trackingNo": "7419144506",
+        "receiptNo": "F09433",
+        "referenceCode": "A01",
+        "senderName": "YAKUP BAYRAM",
+        "senderIban": "TR190001002101613989065003",
+        "receiverName": "HUSAN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791654402334,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A3980B1E3933388C552",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
