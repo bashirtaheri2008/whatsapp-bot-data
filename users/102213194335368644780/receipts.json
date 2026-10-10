@@ -83172,6 +83172,37 @@
         "participantAlt": "93789038151@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791615730011_ak1li",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "09:53:30",
+        "trackingNo": "BFP2026001639280",
+        "receiptNo": "AQVXE-B-2026101021",
+        "referenceCode": "38b9c3f4-7c03-4ae1-ad66-98a31369032d",
+        "senderName": "EMRE AĞIRBAŞ",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: EMRE AĞIRBAŞ, Alıcı: NIZAMUDDIN YAQUBI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791615730011,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2F0A33FEEF30A10920",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
