@@ -86861,6 +86861,130 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791644203242_brv2j",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "17:53:37",
+        "trackingNo": "1575000327",
+        "receiptNo": "2026-10-10-17.53.34.820813",
+        "referenceCode": "",
+        "senderName": "HAMİT DÖNMEZ",
+        "senderIban": "TR660006200125700006883158",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ BinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791644203242,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2802902B69FBE18E2E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791644207333_olnk7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1527/BADEMLİK/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "17:55:14",
+        "trackingNo": "7418115544",
+        "receiptNo": "F04546",
+        "referenceCode": "A01",
+        "senderName": "RESUL GÖKBAYIR",
+        "senderIban": "TR730001001527814537945008",
+        "receiverName": "Türkiye Vakıflar Bankası T.A.O.",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "4.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791644207333,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A82FEE2249EC78E2DEB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791644210836_e13lb",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "17:54",
+        "trackingNo": "1653071216",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-10-17.54.33.684907",
+        "senderName": "ORCAN OSMAN ERSÖZ",
+        "senderIban": "TR020001200921400001063576",
+        "receiverName": "NIZAMUDDIN YAOUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "BIREYSEL ÖDEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791644210836,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA9B4FFF3DFEC1CF1E8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791644365138_rb131",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0649/ŞEMDİNLİ/HAKKÂRİ ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "17:57:01",
+        "trackingNo": "7418152904",
+        "receiptNo": "F21022",
+        "referenceCode": "A01",
+        "senderName": "OĞUZHAN MUTLU",
+        "senderIban": "TR130001000649897502555006",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791644365138,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A741DAE43A3C48A8D2A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
