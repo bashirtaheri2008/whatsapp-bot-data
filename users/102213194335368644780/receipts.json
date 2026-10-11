@@ -99044,6 +99044,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791748424939_vsag6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ŞUBESİZ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "22:49:54",
+        "trackingNo": "74238685538",
+        "receiptNo": "",
+        "referenceCode": "11102026-22-49-54 EFTTİDGİD İNTERNET",
+        "senderName": "VELİ AKTUĞ",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "ALİCAN BAYRAK",
+        "receiverIban": "TR3400010001202726509501",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılması"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791748424939,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A543CFCE7D4253144C240E34DF100756",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
