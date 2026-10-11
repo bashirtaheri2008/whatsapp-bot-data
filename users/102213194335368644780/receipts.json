@@ -97835,6 +97835,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791737658431_8wvsp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:52",
+        "trackingNo": "4890053572",
+        "receiptNo": "202610119203203",
+        "referenceCode": "03663-03663-988692260",
+        "senderName": "YAĞIZHAN OKKALI",
+        "senderIban": "TR450015700000000104778514",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001580058007392208967",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791737658431,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AC3192E25D82956832C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
