@@ -97680,6 +97680,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791737298541_7y60q",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5008.37",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:33:20",
+        "trackingNo": "27525541 / 665586",
+        "receiptNo": "",
+        "referenceCode": "TR410004600945888000103860",
+        "senderName": "BATUHAN GÜLTEKİN",
+        "senderIban": "TR410004600945888000103860",
+        "receiverName": "Husan Ahmad Samadi",
+        "receiverIban": "TR460001500158007392208967",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791737298541,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A910E9021027DBF913A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
