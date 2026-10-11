@@ -91263,6 +91263,37 @@
         "participantAlt": "93789038151@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791689649838_skqid",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4443.37",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "23:54:24",
+        "trackingNo": "43581472",
+        "receiptNo": "836285",
+        "referenceCode": "",
+        "senderName": "BAYRAM ENES ER",
+        "senderIban": "TR740004600014888000163687",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791689649838,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3DF4EC7CC8B3FFB12A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
