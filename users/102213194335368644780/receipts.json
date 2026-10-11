@@ -95665,6 +95665,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791729981733_iso42",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4990.00",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "17:41:45",
+        "trackingNo": "427417004659",
+        "receiptNo": "3831066701",
+        "referenceCode": "447/8888/8888",
+        "senderName": "İBRAHİM ANDERİMAN",
+        "senderIban": "TR730006400000142740328379",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "İBRAHİM ANDERİMAN tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791729981734,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A1B07323EEA1E4C2B39",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791729988648_ialtp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:39",
+        "trackingNo": "4889782478",
+        "receiptNo": "202610118015963",
+        "referenceCode": "03663-03663-988466504",
+        "senderName": "Emre Sönmez",
+        "senderIban": "TR4700157000000000127118063",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791729988648,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE3083685D2A63457AB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791730111332_j1s3m",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ETİMESGUT",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:45:48",
+        "trackingNo": "1679000270",
+        "receiptNo": "2026-10-11-17.45.42.390809",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR48000620003020006868469",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208867",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791730111332,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A7ECDF5F279CFCC5151",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
