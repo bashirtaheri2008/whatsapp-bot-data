@@ -98889,6 +98889,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791746029137_ujrh9",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Ümraniye/İSTANBUL",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "22:10:03",
+        "trackingNo": "",
+        "receiptNo": "0922003497000017",
+        "referenceCode": "001348",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791746029137,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A20C6F0FA5FB2E587E0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791746290440_20r2b",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "İşletici Bankacılık",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "21:38:12",
+        "trackingNo": "20260142219535109",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALICI AD SOYADUNVAN",
+        "senderIban": "TR000001500158007312222152",
+        "receiverName": "OSMAN DURAK",
+        "receiverIban": "TR00000150015801100071",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791746290440,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5B24CD14ED6FF6B627",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
