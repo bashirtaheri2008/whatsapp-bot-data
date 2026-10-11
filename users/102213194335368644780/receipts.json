@@ -98672,6 +98672,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791744232445_j8ukk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BEŞEVLER/ANKARA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "21:41:47",
+        "trackingNo": "7423627446",
+        "receiptNo": "",
+        "referenceCode": "F13468",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR620001000799722390585002",
+        "receiverName": "FARUK YEŞİL",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.500,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 0,00 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791744232445,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A7675C3C5F13740A916",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
