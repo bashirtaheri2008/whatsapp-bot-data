@@ -92348,6 +92348,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791710769636_1u0ml",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "12:25:34",
+        "trackingNo": "2026014214256370",
+        "receiptNo": "",
+        "referenceCode": "2995308272",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Abdul Mutalib Amini",
+        "receiverIban": "TR94001570000000113614817",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791710769636,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "4A352996F1FD91DDFF6B",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791711340269_9hruz",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4590",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "12:34",
+        "trackingNo": "1653965717",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-11-12.34.35.967648",
+        "senderName": "ÜNSAL DURUM",
+        "senderIban": "TR640001200938500009007457",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - ÜNSAL DURUM TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791711340269,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AE82C8E0FF7D6C9122F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
