@@ -91294,6 +91294,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791689682537_ya00i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "42000 SELÇUKLU/KONYA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/11/2026",
+        "time": "02:31:45",
+        "trackingNo": "944000027",
+        "receiptNo": "2026-10-11-02-31-42.880226",
+        "referenceCode": "31289450798",
+        "senderName": "ZAFER",
+        "senderIban": "TR400006200077000006591306",
+        "receiverName": "AHMET HAKSARAT",
+        "receiverIban": "TR400006200077000006591306",
+        "description": "YALNIZ BesBinTL."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791689682537,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9D63A04246D8F2F4B4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
