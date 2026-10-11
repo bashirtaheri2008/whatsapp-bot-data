@@ -93991,6 +93991,130 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791721519837_6xx1b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ESKIL/AKSARAY ŞUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "15:12:09",
+        "trackingNo": "7421794729",
+        "receiptNo": "F18966",
+        "referenceCode": "A01",
+        "senderName": "MUSTAFA ÖKSÜN",
+        "senderIban": "TR420001001345729900015003",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "6.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791721519837,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE164E12AB7E9A8C4EE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791721523738_8qu6k",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "15:11:56",
+        "trackingNo": "254850930121",
+        "receiptNo": "SYJ202613020452",
+        "referenceCode": "925-811204 / 25",
+        "senderName": "MEVLÜT GÜLEÇ",
+        "senderIban": "TR32000670100000095732702",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791721523738,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD4329B43563EB3B700",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791721528240_7jj5d",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "10/11/2026",
+        "time": "15:13:00",
+        "trackingNo": "1654171599",
+        "receiptNo": "M-2026-10-11-15.13.13.451327",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR100001200136500001103647",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "BIREYSEL ÖDEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791721528241,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0E5CFA64567E4B9359",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791722040741_ybmjy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "15:31",
+        "trackingNo": "4889517556",
+        "receiptNo": "03663-03663-988246422",
+        "referenceCode": "202610116876984",
+        "senderName": "Ali Dinç",
+        "senderIban": "TR6500157000000000206014726",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580027962279815",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791722040741,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE108B815F41A524AA0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
