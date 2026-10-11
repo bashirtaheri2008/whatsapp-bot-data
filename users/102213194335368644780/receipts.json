@@ -99695,6 +99695,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791753340340_n12x8",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "00:12:40",
+        "trackingNo": "TR800004600179888000203732",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SELİN ÖZTÜRK CİHAN",
+        "senderIban": "TR800004600179888000203732",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791753340340,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3ACE0FD06D9EAE24FA07",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
