@@ -92751,6 +92751,161 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791713935729_j2f9j",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:16:48",
+        "trackingNo": "254850539304",
+        "receiptNo": "SYJ202612927672",
+        "referenceCode": "925-363939 / 2548515694517",
+        "senderName": "MAHİP ERKAN KOÇ",
+        "senderIban": "TR52000670100000052624184",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791713935729,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A71885D102D04A7AA8D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791713990831_kruvi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:09:25",
+        "trackingNo": "CGR2026001534387",
+        "receiptNo": "AF2E6-B-20261011223",
+        "referenceCode": "3202e2b8-db0f-488e-8fc7-5cce4647036d",
+        "senderName": "MEHMET DAVULCU",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791713990831,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2C21E18FA21A11F0E3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791713995432_mn8lk",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:07:39",
+        "trackingNo": "2026012445856118",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Mükremin korkmaz",
+        "senderIban": "TR8200015001582737",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791713995432,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD7CC847C839729399D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791713999433_3n2oe",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2760/SELÇUKLU MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "13:11:43",
+        "trackingNo": "7421251210",
+        "receiptNo": "F10414",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "ERCAN GÖKKAYA",
+        "receiverIban": "TR860001002760930730375001",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılması, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791713999433,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC9880EC9535036ACAA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791714222639_37g49",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "33000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:23:23",
+        "trackingNo": "2026014216097783",
+        "receiptNo": "",
+        "referenceCode": "2995411824",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "MOHAMMAD ABEDINI",
+        "receiverIban": "TR890001009011086723705001",
+        "description": ""
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791714222639,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A5A2EC1978CBAEAB1BA",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
