@@ -95479,6 +95479,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791729222737_cklpa",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NECATİBEY",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "10/11/2026",
+        "time": "17:28:04",
+        "trackingNo": "6314000241",
+        "receiptNo": "2026-10-11-17.28.02.205574",
+        "referenceCode": "",
+        "senderName": "HİDAYET TANRISEVEN",
+        "senderIban": "TR700006200013000006881252",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791729222737,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A33F878E02157AE4902",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
