@@ -95014,6 +95014,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791726409138_2xo2q",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3300",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:46:00",
+        "trackingNo": "2026014222627010",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MELİH AVCI",
+        "senderIban": "TR1400015001581007",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791726409138,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC9A863D90A2C6C520F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
