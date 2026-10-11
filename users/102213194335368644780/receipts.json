@@ -94890,6 +94890,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791726020935_898tx",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4440",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:38:00",
+        "trackingNo": "M-2026-10-11-16.38.00.060319",
+        "receiptNo": "1654283060",
+        "referenceCode": "",
+        "senderName": "KADİR SÜSLÜ",
+        "senderIban": "TR430001200144600001120399",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - KADİR SÜSLÜ TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791726020935,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD65D44DC0214963CE9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
