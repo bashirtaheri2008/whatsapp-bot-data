@@ -94456,6 +94456,130 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791724395357_ac3p0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1395/BALGAT/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "16:09:43",
+        "trackingNo": "7422043919",
+        "receiptNo": "F14971",
+        "referenceCode": "",
+        "senderName": "HUSAIN AHMAD SAMADI",
+        "senderIban": "TR460001500158007392208967",
+        "receiverName": "SONGÜL YURT",
+        "receiverIban": "TR510001001395783870005010",
+        "description": "5.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafımdan bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791724395357,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A6B136160E7EB0E9154",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791724429932_xrued",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5008.37",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:09:09",
+        "trackingNo": "41591649/439817",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "METİN PEKERŞEN",
+        "senderIban": "TR760004601283888000095739",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791724429932,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF4F2B0F8A207039249",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791724434343_8vueu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:11:55",
+        "trackingNo": "BVR2026001732328",
+        "receiptNo": "AH18I-B-20261011157",
+        "referenceCode": "272c9ff4-935c-441b-9f2f-cebbc0258f89",
+        "senderName": "CEM TEKİN CEM TEKİN",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Borc veriyorum"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791724434343,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB342F1FFEA8DFD5D3B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791724579147_a7qcq",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:14:47",
+        "trackingNo": "254852187849",
+        "receiptNo": "SYJ202613058954",
+        "referenceCode": "925-614862 / 2548517677932",
+        "senderName": "RAMAZAN DİĞRAK",
+        "senderIban": "TR57000670100000023539711",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791724579147,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3D89CA02477DFE3C99",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
