@@ -96099,6 +96099,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791731286135_ew567",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0058/BURDUR ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:05:55",
+        "trackingNo": "7422633329",
+        "receiptNo": "736642",
+        "referenceCode": "A01",
+        "senderName": "MUSA DAĞ",
+        "senderIban": "TR370001000058746168785001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791731286135,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A07F9909CC32B7085E2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
