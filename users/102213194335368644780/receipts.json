@@ -92906,6 +92906,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791714473638_yod3d",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:26:54",
+        "trackingNo": "AF85Z-B-2026101166",
+        "receiptNo": "BKR2026001095308",
+        "referenceCode": "ae5cba22-a409-4ebf-96db-6e7730274612",
+        "senderName": "AYHAN TAŞDELEN",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: AYHAN TAŞDELEN - , Alıcı: RAHMATULLAH HAKIMI , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791714473638,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A8D12A7EA88D8ED1B02",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
