@@ -95851,6 +95851,99 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791730481935_7vw6x",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank",
+        "bankBranch": "",
+        "amount": "4390",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:52:08",
+        "trackingNo": "632274249382219776",
+        "receiptNo": "",
+        "referenceCode": "11102026-9300-26359920",
+        "senderName": "SAMİ KOZAN",
+        "senderIban": "TR130013400002663278000001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 9092-26632780-351 hesabınıza toplam 4.390,00 TL Borç kaydedilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791730481935,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A645A5EF5A16783EDFB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791730496836_gigqx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:50",
+        "trackingNo": "4889806151",
+        "receiptNo": "202610118118833",
+        "referenceCode": "03663-03663-988485464",
+        "senderName": "Mehmet Batuhan Yıldıran",
+        "senderIban": "TR660015700000000206013156",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR46000158007392208967",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791730496836,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AA69E27CE4AE8F0BAC6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791730599640_ib3us",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0620/ELMADAĞ/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:54:22",
+        "trackingNo": "F19621",
+        "receiptNo": "7422530919",
+        "referenceCode": "A01",
+        "senderName": "MUHAMMED UDDIN YAQUBI",
+        "senderIban": "TR400001000620773526745002",
+        "receiverName": "MEVLÜT BARİŞ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "FAST"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791730599640,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6C7C1F3AE4E5BD1239",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
