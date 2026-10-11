@@ -93650,6 +93650,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791718874143_3sj3k",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "POSTA CADDESI SUBESI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "14:35:47",
+        "trackingNo": "01315-2294991",
+        "receiptNo": "202610107848630",
+        "referenceCode": "1731318866",
+        "senderName": "OMER CAN CAL",
+        "senderIban": "TR70001110000000000774618666",
+        "receiverName": "ALICI UNVANI: Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Odeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791718874143,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AF26FB32BB4A94E107A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
