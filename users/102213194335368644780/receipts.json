@@ -96409,6 +96409,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791732003741_bcq7n",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "PURSAKLAR",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:17:59",
+        "trackingNo": "8165000255",
+        "receiptNo": "2026-10-11-18.17.56.137432",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR760006200106600006876076",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ OnBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791732003741,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A4D4A1A78A64D810D3A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
