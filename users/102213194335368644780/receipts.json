@@ -95572,6 +95572,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791729890238_0r5iy",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "16000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:26:04",
+        "trackingNo": "632267688231374848",
+        "receiptNo": "",
+        "referenceCode": "2310-26554942-351",
+        "senderName": "İSMAİL KAHRAMAN",
+        "senderIban": "TR390013400002655494200001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "hayır işi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791729890238,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4D2860B74B20B013B9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791729894443_ee9an",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:43:12",
+        "trackingNo": "7802000225",
+        "receiptNo": "2026-10-11-17.43.09.737043",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791729894443,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFD1CF0FEBAC96749BC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791729975935_lbngr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ETİMESGUT",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:42:03",
+        "trackingNo": "1608000218",
+        "receiptNo": "2026-10-11-17.42.01.470843",
+        "referenceCode": "",
+        "senderName": "HASAN BAŞARAN",
+        "senderIban": "TR260006200030200006839668",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208987",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791729975935,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AD1F41253B03EFAA4D0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
