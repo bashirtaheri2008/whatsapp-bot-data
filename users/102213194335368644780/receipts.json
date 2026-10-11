@@ -94239,6 +94239,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791723083745_wyja2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1437/ALTİNEKİN/KONYA ŞUBESİ",
+        "amount": "14000",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "15:45:35",
+        "trackingNo": "7421879410",
+        "receiptNo": "",
+        "referenceCode": "F11137",
+        "senderName": "BAYKUR ÇUHADAR",
+        "senderIban": "TR270001001437444663365001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "14.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791723083745,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A20646EE11DB98D9895",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
