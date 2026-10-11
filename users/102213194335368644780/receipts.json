@@ -92565,6 +92565,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791712659035_4xjcx",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "12:53:39",
+        "trackingNo": "2026012445856118",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Mükremin korkmaz",
+        "senderIban": "TR8200015001582737",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791712659035,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A568C3CEC00F48C1DB0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791713104438_2cr6z",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "40/1 Umraniye/ISTANBUL",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:02:05",
+        "trackingNo": "01428B",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791713104438,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A12CACA00DB74D9072C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
