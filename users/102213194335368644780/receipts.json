@@ -98238,6 +98238,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791740849033_jx7te",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "20:45:21",
+        "trackingNo": "632317840075046912",
+        "receiptNo": "31580347",
+        "referenceCode": "3945-26369097-351",
+        "senderName": "ADEM KAHRİMAN",
+        "senderIban": "TR040013400002636909700001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791740849033,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF5E54B30703D197537",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
