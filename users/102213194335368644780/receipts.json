@@ -96006,6 +96006,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791730952837_9dg42",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4450",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:57:22",
+        "trackingNo": "A16GF-B-202610117",
+        "receiptNo": "BDM2026002365767",
+        "referenceCode": "a23c2831-36ff-4c8f-8b14-b8f3370a283d",
+        "senderName": "AHMET ÜÇLER",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YaqUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: AHMET ÜÇLER , Alıcı: NIZAMUDDIN YaqUBI, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791730952837,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFE2F80CE751769654E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791730957139_zm1rf",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "9016.76",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:00:00",
+        "trackingNo": "TR700004600185888000374429",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AYDIN ŞAKAR",
+        "senderIban": "TR700004600185888000374429",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791730957139,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A16D3ABB110BC9DF95B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791731098030_imka2",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:01:56",
+        "trackingNo": "2026014224762757",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "OKTAY BAYRAM",
+        "senderIban": "TR0700015001586047",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791731098030,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4ADA22A0582BAE2DAC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
