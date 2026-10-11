@@ -92441,6 +92441,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791712022040_kq26a",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1935/EMNİYET CADDESİ/ŞANLIURFA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "12:45:48",
+        "trackingNo": "7421029006",
+        "receiptNo": "F32844",
+        "referenceCode": "1935/87046469-5002",
+        "senderName": "BÜŞRA ESİN",
+        "senderIban": "TR340001001935870464695002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Fast Mesaj Kodu : A01 Fast Sorgu No : 7421029006"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791712022040,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AABBC8645244541FE4B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
