@@ -95417,6 +95417,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791728801250_cs5zp",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "Merkez Odeme",
+        "amount": "360837",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:23:51",
+        "trackingNo": "2540564698125",
+        "receiptNo": "471012268",
+        "referenceCode": "13859158",
+        "senderName": "TÜLAY YAVUZ",
+        "senderIban": "TR33000670100000054859169",
+        "receiverName": "Rahşan T.A.Ö.",
+        "receiverIban": "TR940001000580739169519",
+        "description": "TOPLAM TARAFLAR TUTARI"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791728801250,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2A98393EC0AF6534FE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
