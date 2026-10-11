@@ -99602,6 +99602,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791752521739_qcv3p",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "6216100",
+        "amount": "2500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "00:00",
+        "trackingNo": "365510",
+        "receiptNo": "31114024",
+        "referenceCode": "1654799922",
+        "senderName": "ALİ AKGÜN",
+        "senderIban": "TR2300012001280028005881112575",
+        "receiverName": "ALİ AKGÜN",
+        "receiverIban": "TR590001500173607362279875",
+        "description": "ALİ AKGÜN TARAFINDAN ÖDENECEK"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791752521739,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4D037533AC96B1C897",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
