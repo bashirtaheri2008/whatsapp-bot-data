@@ -99385,6 +99385,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791750190733_koqr3",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "14008.37",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "22:47:23",
+        "trackingNo": "19775568 / 639674",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MİTHAT FİKİRLİ",
+        "senderIban": "TR270004601094888000044573",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791750190733,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A813434D0AF258F7D12",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
