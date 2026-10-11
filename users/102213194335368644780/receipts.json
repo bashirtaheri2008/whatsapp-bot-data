@@ -94828,6 +94828,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791725519139_2be2r",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:29:24",
+        "trackingNo": "428240006318",
+        "receiptNo": "A032026640037029",
+        "referenceCode": "11.10.2026/447/8888/8888",
+        "senderName": "MAZLUM SIĞINÇ",
+        "senderIban": "TR500006400000142821672993",
+        "receiverName": "HÜSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "MAZLUM SIĞINÇ tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791725519139,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A8825F0B184B137CF37",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
