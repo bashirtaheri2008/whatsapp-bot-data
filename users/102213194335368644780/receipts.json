@@ -99726,6 +99726,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791754836839_hghyp",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "68000 MERKEZ/AGAKOY",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "23:45:24",
+        "trackingNo": "120600063129",
+        "receiptNo": "2026-10-11-23.45.21.670395",
+        "referenceCode": "TR44 0001 5001 5800 7391 4591 93",
+        "senderName": "ATATÜRK BÜLY AKINARAY",
+        "senderIban": "TR330006200151200006611952",
+        "receiverName": "YALMIZ DörtBinaşeyYurt.",
+        "receiverIban": "TR440001500158007391459193",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791754836839,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9BB629DE30FBED5C6D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
