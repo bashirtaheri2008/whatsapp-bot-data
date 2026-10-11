@@ -99447,6 +99447,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791751117836_bafv3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "23:37",
+        "trackingNo": "4890426199",
+        "receiptNo": "03663-03663-989020143",
+        "referenceCode": "202610120666320",
+        "senderName": "Serhat Türk",
+        "senderIban": "TR2900157000000000205105999",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Aidat ödemesi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791751117836,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AF0FD63B2F693228E1F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
