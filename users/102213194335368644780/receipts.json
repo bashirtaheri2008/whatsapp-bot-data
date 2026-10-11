@@ -99757,6 +99757,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791754842736_m0ts1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "28RAAT MOBİL",
+        "amount": "5990",
+        "currency": "TL",
+        "date": "11/02/2026",
+        "time": "00:11:27",
+        "trackingNo": "7424078691",
+        "receiptNo": "126496390224505",
+        "referenceCode": "126496390224505",
+        "senderName": "OĞUZHAN SALUR",
+        "senderIban": "TR340001000158007312220752",
+        "receiverName": "NEZAMUDDIN YAGUBI",
+        "receiverIban": "TR340001000158007312220752",
+        "description": "5.990,00 TRY tutarında Fast işleminin yapılmışması. Bu işlem için tarafa bildirilen 8,37 TRY masraf alımımasi talep ederm."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791754842736,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A165696107CB847F9F6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791754846942_gqvgv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "",
+        "trackingNo": "AXWVE-B-20261009121",
+        "receiptNo": "BRH2026002088005",
+        "referenceCode": "",
+        "senderName": "ALİ KEMAL BULDUK",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "",
+        "description": "Gönderen: ALİ KEMAL BULDUK , Alıcı: Jawid Usmani , IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791754846942,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A648C29B43029CCCF8E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791754850630_gu2wc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ALAŞEHİR/MANİSA ŞUBESİ",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "23:54:51",
+        "trackingNo": "7424008770",
+        "receiptNo": "F37237",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR520001000190742592845001",
+        "receiverName": "MEHMET ÖZ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "3.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791754850630,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6142E494964F04CA47",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
