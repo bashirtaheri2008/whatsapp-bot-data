@@ -98517,6 +98517,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791742994933_x99x5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANKARA OSB",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:07:15",
+        "trackingNo": "4388000270",
+        "receiptNo": "2026-10-11-19.07.13.763512",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR230006200068200006899029",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208967",
+        "description": "YALNIZ BeşBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791742994933,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A798C9F122217EF4F96",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
