@@ -97432,6 +97432,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791735497036_a5m3s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0309/KARAPINAR/KONYA ŞUBESİ",
+        "amount": "18000",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "19:16:43",
+        "trackingNo": "7422947132",
+        "receiptNo": "",
+        "referenceCode": "F40111",
+        "senderName": "EREN DEMİREL",
+        "senderIban": "TR980001000309807365255001",
+        "receiverName": "ZİNAZ NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "18.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791735497036,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5438C726C16CF4CF2B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
