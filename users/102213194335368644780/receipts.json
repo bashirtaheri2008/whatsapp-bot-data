@@ -94115,6 +94115,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791722273835_3uarv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "15:28:26",
+        "trackingNo": "BNV2026001387830",
+        "receiptNo": "AK0U-B-20261011105",
+        "referenceCode": "fd2159c0-2ea9-4d68-9792-a26af6998f8e",
+        "senderName": "ERCAN DOĞRU",
+        "senderIban": "",
+        "receiverName": "jawid usmanı",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: ERCAN DOĞRU, Alıcı: jawid usmanı, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791722273835,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A27B90C4CCF223DA370",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
