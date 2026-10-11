@@ -97897,6 +97897,99 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791737923141_orfyf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARAMAN",
+        "amount": "4850",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:50:07",
+        "trackingNo": "254000291",
+        "receiptNo": "2026-10-11-19.50.05.989440",
+        "referenceCode": "",
+        "senderName": "EMRE DEMİR",
+        "senderIban": "TR640006200059400006624221",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791737923141,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0C189825D4FA658E6E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791737927830_5awot",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.Ş.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:55",
+        "trackingNo": "4890059496",
+        "receiptNo": "202610119230410",
+        "referenceCode": "03663-03663-988698057",
+        "senderName": "Ali Altay",
+        "senderIban": "TR5100157000000000158434053",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791737927830,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9762F572AE907A8B98",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791738037262_thqyq",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "VAN",
+        "amount": "1800",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:54:16",
+        "trackingNo": "5163000315",
+        "receiptNo": "2026-10-11-19.54.11.304484",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791738037262,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB6A72B02FDE57FEB15",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
