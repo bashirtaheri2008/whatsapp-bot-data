@@ -95138,6 +95138,130 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791727835433_4ysg8",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4008.37",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:07:14",
+        "trackingNo": "TR040004600151888000166536",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RECEP BAŞBUĞ",
+        "senderIban": "",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791727835433,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2CB17CFCCBA3DFF179",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791727839431_pbsu3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:50:11",
+        "trackingNo": "4888000213",
+        "receiptNo": "2026-10-11-16.50.08.724114",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791727839431,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADC65DEFBAE550DD73D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791727843541_cjzd7",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:57:31",
+        "trackingNo": "632260503651561472",
+        "receiptNo": "",
+        "referenceCode": "11102026-9300-24737949",
+        "senderName": "ERKAN İNCEÖZ",
+        "senderIban": "TR020013400002504658000001",
+        "receiverName": "NİZAMUDDİN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Talebiniz uyarınca işleminizin 9000,00 tutarı KMH'tan alınmıştır."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791727843541,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5FF339B683AFB45918",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791727847931_mmx0s",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:56:53",
+        "trackingNo": "2026014223022721",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ZÜBEYİR BAYRAK",
+        "senderIban": "TR7400015001581520",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791727847931,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB38BDFC5FE9EEC2978",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
