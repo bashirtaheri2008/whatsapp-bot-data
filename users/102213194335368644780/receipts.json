@@ -91418,6 +91418,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791693997633_uu2n0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "07:45:16",
+        "trackingNo": "254855598618",
+        "receiptNo": "SYJ202612793715",
+        "referenceCode": "925-851290 / 2548513712549",
+        "senderName": "ALEYNA ŞİMŞEK",
+        "senderIban": "TR61000670100000020879608",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST -"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791693997633,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABDEA8FCC5A0F74D87A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
