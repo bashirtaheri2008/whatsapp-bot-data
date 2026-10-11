@@ -93960,6 +93960,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791721438448_om5cj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "12000",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "15:22:06",
+        "trackingNo": "3830789608",
+        "receiptNo": "651148007047",
+        "referenceCode": "11.10.2026/447/8888/8888",
+        "senderName": "KÜBRA ÇELİK",
+        "senderIban": "TR560006400000165110328520",
+        "receiverName": "Jawid usman",
+        "receiverIban": "TR44000158007391459193",
+        "description": "KÜBRA ÇELİK tarafından aktarilan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791721438448,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A54E357B5ECAFEC125F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
