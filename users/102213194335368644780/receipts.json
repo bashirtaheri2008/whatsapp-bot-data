@@ -97246,6 +97246,130 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791735023234_ow47q",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4158.37",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:04:37",
+        "trackingNo": "26733708",
+        "receiptNo": "635165",
+        "referenceCode": "",
+        "senderName": "ORHUN BURAK CAN DİDİKOĞLU",
+        "senderIban": "TR130004601190888000518138",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791735023234,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A0090381FF58486C86B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791735027237_dufiu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BİRLEŞİK MAHALLESİ/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:08:17",
+        "trackingNo": "7422891345",
+        "receiptNo": "",
+        "referenceCode": "F06880",
+        "senderName": "",
+        "senderIban": "TR810001001952727634725006",
+        "receiverName": "MUHAMMET TAHA EVİN",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmatullah hakimi"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791735027237,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A63CEDA68E29B98DC47",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791735032238_hnji9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:00:40",
+        "trackingNo": "292000265",
+        "receiptNo": "2026-10-11-19.00.28.789452",
+        "referenceCode": "",
+        "senderName": "HÜSEYİN YILMAZ",
+        "senderIban": "TR240006200132600006677250",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791735032238,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB7AE82CF749F2CE242",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791735111736_1v3mg",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "HÜSEYİNGAZİ",
+        "amount": "4750",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:07:14",
+        "trackingNo": "6112000273",
+        "receiptNo": "2026-10-11-19.07.11.975378",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR350006200154500006621540",
+        "receiverName": "FERHAT ADIGÜZEL",
+        "receiverIban": "TR0500010006817813801950001",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791735111736,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A48E2C6101C500C91E1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
