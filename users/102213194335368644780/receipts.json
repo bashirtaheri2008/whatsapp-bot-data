@@ -92007,6 +92007,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791706977140_tm7vy",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "11:20:04",
+        "trackingNo": "4973000075",
+        "receiptNo": "2026-10-11-11.20.01.424152",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791706977140,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A045EE7498A43A6BAA7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791707058647_1wjow",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.VAKIFLAR BANKASI T.A.O.",
+        "bankBranch": "DİYALOG MERKEZİ/İSTANBUL",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "",
+        "time": "",
+        "trackingNo": "3829395722",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SERKAN ÇAĞLAR",
+        "senderIban": "TR320006400000119001256053",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "SERKAN ÇAĞLAR tarafından aktarılan"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791707058647,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A391B60109786DAA1AC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
