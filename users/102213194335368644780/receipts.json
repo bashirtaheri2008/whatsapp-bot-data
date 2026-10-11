@@ -94766,6 +94766,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791725354740_hecez",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0168/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:27:01",
+        "trackingNo": "7422151784",
+        "receiptNo": "F38307",
+        "referenceCode": "A01",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "TR340001009010844879405001",
+        "receiverName": "SUDENAZ AY",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "5.000,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791725354740,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A38117309256137B4D2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791725367637_yew75",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ETİMESGUT",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:26:13",
+        "trackingNo": "4113000203",
+        "receiptNo": "2026-10-11-16.26.12.393322",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR260006200030200006839668",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR460001500158007392208567",
+        "description": "YALNIZ BesBinTL."
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791725367637,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A2CBA8B2EE95E2232CF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
