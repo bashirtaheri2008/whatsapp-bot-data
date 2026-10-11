@@ -98951,6 +98951,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791746630229_1nr6f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "22:21:47",
+        "trackingNo": "3831555715",
+        "receiptNo": "190006014521",
+        "referenceCode": "11.10.2026/447/88888/8888",
+        "senderName": "TURAN BÖYÜKKILIÇ",
+        "senderIban": "TR16000640000019004155186",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "TURAN BÖYÜKKILIÇ tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791746630229,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3EDD5E4249BA17B3E3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
