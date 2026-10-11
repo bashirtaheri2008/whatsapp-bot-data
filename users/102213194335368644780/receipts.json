@@ -97184,6 +97184,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791734891347_dc2tk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİNCAN/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "10/10/2026",
+        "time": "19:04:53",
+        "trackingNo": "7422887772",
+        "receiptNo": "",
+        "referenceCode": "F12265",
+        "senderName": "SONGÜL AYKAÇ",
+        "senderIban": "TR460001500158007392208967",
+        "receiverName": "HUSAN AHMAD SAMADI",
+        "receiverIban": "TR800001001754697678355001",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791734891347,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A3A80486D505159C491",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
