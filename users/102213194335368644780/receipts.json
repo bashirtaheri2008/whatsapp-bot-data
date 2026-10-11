@@ -95355,6 +95355,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791728662429_yn6s9",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "00204A",
+        "amount": "4005.38",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:22:15",
+        "trackingNo": "00204A",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diğer"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791728662429,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A2FA51A40795DB4FAAC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791728667241_xhq8l",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "17:22:14",
+        "trackingNo": "2026014223622078",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "OKTAY BAYRAM",
+        "senderIban": "TR0700015001586047",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791728667241,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A46D763FCC8F47EC53D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
