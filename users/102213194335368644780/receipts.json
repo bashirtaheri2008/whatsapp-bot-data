@@ -92689,6 +92689,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791713497836_jyoxo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Aktifbank",
+        "bankBranch": "444 - Bireysel Bankacilik Subesi",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "",
+        "trackingNo": "4603903208",
+        "receiptNo": "",
+        "referenceCode": "591420",
+        "senderName": "AHMET MERT",
+        "senderIban": "TR110014300000000295363700",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791713497836,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADB31E6B3A5CC03AFAE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
