@@ -92720,6 +92720,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791713930937_55qzq",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:11:15",
+        "trackingNo": "254857508789",
+        "receiptNo": "925-930625 / 2548515677153",
+        "referenceCode": "SYJ202612926143",
+        "senderName": "YUNUS EMRE BERCİN",
+        "senderIban": "TR28000670100000097403405",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRE"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791713930937,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AF39D7FD6465A218281",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
