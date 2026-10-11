@@ -96812,6 +96812,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791733629041_kt4l1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Fibabanka",
+        "bankBranch": "Bireysel Mobil Bankacilik",
+        "amount": "4495",
+        "currency": "TRY",
+        "date": "11/10/2026",
+        "time": "18:43:53",
+        "trackingNo": "13434352833",
+        "receiptNo": "00100-809252616",
+        "referenceCode": "T99002/T99002",
+        "senderName": "RAMAZAN KARATEKIN",
+        "senderIban": "",
+        "receiverName": "BANKAADI:T.VAKIFLAR BANKASI T.A.O.",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GIDEN FAST ALICI: Javit usmani - BANKAADI:T.VAKIFLAR BANKASI T.A.O. - KAYNAK :MOBIL - ALICI IBAN:TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791733629041,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFE7E39EEFA5C2E2942",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
