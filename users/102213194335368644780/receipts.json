@@ -96874,6 +96874,68 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791733913334_8f7g5",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:48",
+        "trackingNo": "1654456686",
+        "receiptNo": "M-2026-10-11-18.48.10.383588",
+        "referenceCode": "",
+        "senderName": "EMRE TEMBEL",
+        "senderIban": "TR890001200132400001122412",
+        "receiverName": "NIZAMUDDIN YAGUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "BIREYSEL ODEME"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791733913334,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6C35E2452B20D940FD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791733916835_n48zw",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "4690",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:48:52",
+        "trackingNo": "2026014226686076",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAMAZAN KIVRAK",
+        "senderIban": "TR870001500158000000000065",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Hesaptan Havale"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791733916835,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB5967221B36801E387",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
