@@ -93402,6 +93402,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791718050436_5pb1l",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "4240",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "14:17:37",
+        "trackingNo": "2026014217561878",
+        "receiptNo": "",
+        "referenceCode": "2995497874",
+        "senderName": "İSMAİL EROĞLU",
+        "senderIban": "",
+        "receiverName": "SAKHİDULLAH MURADİ",
+        "receiverIban": "TR800006400000145004097181",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791718050436,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF070F23F57E8DD073C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
