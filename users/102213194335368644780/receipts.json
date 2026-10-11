@@ -99478,6 +99478,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791751481640_n6f5i",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4250",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "23:38:46",
+        "trackingNo": "517703826470",
+        "receiptNo": "3396084420",
+        "referenceCode": "SYJ2026133821338",
+        "senderName": "HACI GÜNEŞ",
+        "senderIban": "TR38000670100000011989390",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622798",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791751481640,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A7E1FE1E5697FDDEC8B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
