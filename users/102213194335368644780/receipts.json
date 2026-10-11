@@ -97494,6 +97494,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791736241942_u5nkz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "19:28:24",
+        "trackingNo": "3831273990",
+        "receiptNo": "425176007078",
+        "referenceCode": "6da50898-0f48-4431-8792-5c4a4ab928c7",
+        "senderName": "MUHAMMET ERGÜN",
+        "senderIban": "TR450006400000142511235350",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR44000158007391459193",
+        "description": "MUHAMMET ERGÜN tarafından aktarılan"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791736241942,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A48206BC1D258528557",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
