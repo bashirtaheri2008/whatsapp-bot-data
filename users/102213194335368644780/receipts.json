@@ -93154,6 +93154,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791715890835_khnsv",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4508.37",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:41:34",
+        "trackingNo": "45465804 / 276007",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YAKUP ÜZÜMCÜ",
+        "senderIban": "TR590004600033888000415789",
+        "receiverName": "Sakhidullah Muradi",
+        "receiverIban": "TR800006400000145004097181",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791715890835,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A280DBAC9BB8D2CFDB1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791715894429_lsayb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "13:41:25",
+        "trackingNo": "AFEDO-B-20261011334",
+        "receiptNo": "CKR2026000830780",
+        "referenceCode": "7ca6662f-f04d-4335-beba-b44a6de3cd3b",
+        "senderName": "SACIT YILDIZ",
+        "senderIban": "",
+        "receiverName": "Sahkhdullah Muradi",
+        "receiverIban": "TR800006400000145004097181",
+        "description": "Gönderen: SACIT YILDIZ, Alıcı: Sahkhdullah Muradi, IBAN'a Para Transferi (FAST)"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791715894429,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A40BE9754271238C818",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
