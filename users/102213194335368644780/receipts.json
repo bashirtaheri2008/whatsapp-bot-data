@@ -92534,6 +92534,37 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791712653032_j8mnr",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "12:52:27",
+        "trackingNo": "37943191/224539",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEVLÜT AKBOSTAN",
+        "senderIban": "TR580004600922888000103443",
+        "receiverName": "Nizamuddin Yağbui",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "*TERS İŞLEM YAPILDI*"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791712653032,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A65D37A96D619EDBD1F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
