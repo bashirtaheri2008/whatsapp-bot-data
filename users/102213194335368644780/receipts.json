@@ -96130,6 +96130,130 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791731310936_f8ipm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Merkez Şube",
+        "amount": "13500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:06:26",
+        "trackingNo": "BNV2026001382666",
+        "receiptNo": "991965",
+        "referenceCode": "A7V9C-B-20261011105",
+        "senderName": "ALİ MERCAN",
+        "senderIban": "",
+        "receiverName": "Servet kahveci",
+        "receiverIban": "",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791731310936,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8681E76430A447E7B3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791731327844_tuua2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "NALÇACI/KONYA ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:08:04",
+        "trackingNo": "7422635571",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "HIKMET ERTAŞ",
+        "receiverIban": "TR670001000912546683675001",
+        "description": "6.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim."
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791731327844,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A83F34BDA9CED745FFF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791731334532_rfwu8",
+      "data": {
+        "isReceipt": true,
+        "bank": "PtBank",
+        "bankBranch": "PtBank İNTERNET BANKACILIĞI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:02",
+        "trackingNo": "915195",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "KAMURAN SOLAK",
+        "receiverIban": "TR340752",
+        "description": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791731334532,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB1A1348889CF3B32AC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791731359230_drz7g",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "18:08",
+        "trackingNo": "1654403138",
+        "receiptNo": "M-2026-10-11-18.08.06.998225",
+        "referenceCode": "",
+        "senderName": "MÜNEVVER DALKILIÇ",
+        "senderIban": "TR720001200940400001029356",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "GİDEN FAST - MÜNEVVER DALKILIÇ TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791731359230,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5A5314622570AB694D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
