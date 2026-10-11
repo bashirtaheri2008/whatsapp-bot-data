@@ -94425,6 +94425,37 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791724377433_b08ux",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BİLKENT",
+        "amount": "4040",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "16:08:57",
+        "trackingNo": "250000202",
+        "receiptNo": "2026-10-11-16.08.55.129562",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR120006200039300006837913",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791724377433,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD339286209AE534839",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
