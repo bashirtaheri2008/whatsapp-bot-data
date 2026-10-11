@@ -98796,6 +98796,68 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791745592641_95es6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "42020 KARATAY/KONYA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "22:04:05",
+        "trackingNo": "419/6811307",
+        "receiptNo": "10438",
+        "referenceCode": "971600379",
+        "senderName": "MALCINI",
+        "senderIban": "TR71000620004190006811307",
+        "receiverName": "HAMMURTEKIN MAKINA",
+        "receiverIban": "TR350001500158007362279815",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791745592641,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB8E3DFB137A08360FC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791745714738_c5rn7",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5900",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "22:04",
+        "trackingNo": "1654698564",
+        "receiptNo": "M-2026-10-11-22.04.47.230818",
+        "referenceCode": "",
+        "senderName": "AHMET KOÇAK",
+        "senderIban": "TR520001200951700001028375",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - AHMET KOÇAK TARAFINDAN GÖNDERİLEN"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791745714738,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A10DFAA6E589E55BFFD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
