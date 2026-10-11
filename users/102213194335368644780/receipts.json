@@ -91914,6 +91914,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791706552947_zqvbl",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NECATİBEY",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "11/10/2026",
+        "time": "11:14:31",
+        "trackingNo": "6283000099",
+        "receiptNo": "2026-10-11-11.14.29.695616",
+        "referenceCode": "",
+        "senderName": "HİDAYET TANRISEVEN",
+        "senderIban": "TR700006200013000006881252",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791706552947,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB6A4918EE5AB76057C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
