@@ -105995,6 +105995,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791819506308_emaki",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:15:20",
+        "trackingNo": "2026014276298343",
+        "receiptNo": "",
+        "referenceCode": "776444",
+        "senderName": "RABIA ÇİBİKCİ",
+        "senderIban": "TR3000015001586935",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261012|18:15:20|2000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819506308,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC9FB8BBA50575E189F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791819521210_rzst5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Katılım",
+        "bankBranch": "43 - MEVLANA",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:32:46",
+        "trackingNo": "10113939",
+        "receiptNo": "7825267/92246",
+        "referenceCode": "43-1569443-1",
+        "senderName": "H**** K******",
+        "senderIban": "",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 26,
+        "fingerprint": "ZB|20261012|18:32:46|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819521210,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A70B5C34C163E09E7CE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791819533006_hwefs",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:35:22",
+        "trackingNo": "9464000414",
+        "receiptNo": "2026-10-12-18.35.20.438696",
+        "referenceCode": "",
+        "senderName": "SERVET KIRDI",
+        "senderIban": "TR450006200146300006680261",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261012|18:35:22|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819533006,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A32AA4CA0ADCD613BB9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791819619210_t1an2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "4000/ZIRAAT SUPER SUBE",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:38:31",
+        "trackingNo": "7428787035",
+        "receiptNo": "F79267_4017",
+        "referenceCode": "A01",
+        "senderName": "MEHMET GEGIT",
+        "senderIban": "TR320001009010224880705003",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340007500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261012|18:38:31|4800|TR340007500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819619210,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A49B6268D0943604527",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
