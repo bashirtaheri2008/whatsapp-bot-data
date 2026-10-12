@@ -99943,6 +99943,40 @@
         "participantAlt": "93789038151@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791779289152_un9yh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "",
+        "amount": "4991",
+        "currency": "TL",
+        "date": "16/09/2026",
+        "time": "18:27:56",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YASAR DOGAN",
+        "senderIban": "",
+        "receiverName": "MIR SAYED ALI SADAT",
+        "receiverIban": "TR82 0001 0090 1107 1904 5050 04",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 64,
+        "fingerprint": "AK|20260916|18:27:56|4991|TR820001009011071904505004"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1791779289152,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "AC0B484DA517E3FD70DABE1FA33AF3FF",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
