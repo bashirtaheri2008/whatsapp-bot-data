@@ -100249,6 +100249,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791786219664_ravmn",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "BILKENT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:17:50",
+        "trackingNo": "6227000065",
+        "receiptNo": "2026-10-12-09.17.40.035360",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR230006200039300006854690",
+        "receiverName": "RAMAZAN KAPLAN",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 52,
+        "fingerprint": "GN|20261012|09:17:50|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791786219664,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A89D5E26A7779D725A7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
