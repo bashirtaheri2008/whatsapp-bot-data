@@ -100623,6 +100623,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791787856463_2kbo0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:22:22",
+        "trackingNo": "301000066",
+        "receiptNo": "2026-10-12-09.22.20.809362",
+        "referenceCode": "",
+        "senderName": "OSMAN SOYLER",
+        "senderIban": "TR460006200010100006984940",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "TEŞEKKÜR VAÇISI",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261012|09:22:22|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791787856463,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACF0372C4A30EF5DAED",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
