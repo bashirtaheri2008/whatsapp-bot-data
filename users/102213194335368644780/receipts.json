@@ -100997,6 +100997,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791791646457_4nrk4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Fibabanka",
+        "bankBranch": "Bireysel Mobil Bankacilik",
+        "amount": "5008.23",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "10:51:56",
+        "trackingNo": "13439858993",
+        "receiptNo": "00100-812037197",
+        "referenceCode": "T99002",
+        "senderName": "EMRE KARADEMIR",
+        "senderIban": "TR47001030000000034473863",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000150007312220752",
+        "description": "GIDEN FAST TALEP",
+        "bankKey": "",
+        "ocrConfidence": 37,
+        "fingerprint": "GN|20261012|10:51:56|5008.23|TR34000150007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791791646457,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A58A80B67D52A365DF3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
