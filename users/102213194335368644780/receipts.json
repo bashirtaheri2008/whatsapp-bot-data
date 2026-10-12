@@ -100045,6 +100045,40 @@
         "participantAlt": "93776400086@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791780658558_xnf5d",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4900.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "00:44:35",
+        "trackingNo": "632378045645283328",
+        "receiptNo": "",
+        "referenceCode": "12102026-9300-103235",
+        "senderName": "AHMET YILDIRIM",
+        "senderIban": "TR170013400000638891800001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261012|00:44:35|4900|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791780658558,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5DC0ABCF0E45604502",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
