@@ -108137,6 +108137,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791834220245_fplm8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2401/MEDYAN-BATIMENT/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:03:37",
+        "trackingNo": "7426522387",
+        "receiptNo": "F16052",
+        "referenceCode": "A01",
+        "senderName": "BAYRAM YARADAN",
+        "senderIban": "TR050001002401468809775003",
+        "receiverName": "HUSAIN AHMAD SAMAD",
+        "receiverIban": "TR000001500158007392208967",
+        "description": "HESAPLARARASI HAVALE",
+        "bankKey": "ziraat",
+        "ocrConfidence": 36,
+        "fingerprint": "ZB|20261012|14:03:37|5000|TR000001500158007392208967"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791834220245,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AF337277B68B1251D79",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
