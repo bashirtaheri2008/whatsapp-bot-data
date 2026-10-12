@@ -105621,6 +105621,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791817944608_75jz1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "1500.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:06:58",
+        "trackingNo": "632640369221926912",
+        "receiptNo": "",
+        "referenceCode": "12102026-9300-33187093",
+        "senderName": "BURAK AYDOĞDU",
+        "senderIban": "TR930013400002576744100002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261012|18:06:58|1500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791817944608,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB2E2BF5035155D97B5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791817988619_cfflt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "7000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:03:53",
+        "trackingNo": "632639595550945280",
+        "receiptNo": "",
+        "referenceCode": "12102026-9300-33158934",
+        "senderName": "BURAK AYDOĞDU",
+        "senderIban": "TR930013400002576744100002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261012|18:03:53|7000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791817988619,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A71239F9B1D3AC23B94",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
