@@ -101473,6 +101473,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791796072554_zv77w",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1118/KAHRAMANKAZAN/ANKARA SUBESI",
+        "amount": "4050",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:05:54",
+        "trackingNo": "7425643980",
+        "receiptNo": "F23002",
+        "referenceCode": "A01",
+        "senderName": "HESAP NUMARAS",
+        "senderIban": "TR590001001118716062305001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 66,
+        "fingerprint": "ZB|20261012|12:05:54|4050|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796072554,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A688D81419ECD6BCC6A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791796079379_i2hq0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Vakıflar Bankası T.A.O",
+        "bankBranch": "Umraniye/ISTANBUL",
+        "amount": "3985.38",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:05:53",
+        "trackingNo": "22748133",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "BORG",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261012|12:05:53|3985.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796079379,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1E78583EA9418467B7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
