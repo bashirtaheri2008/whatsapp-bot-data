@@ -103921,6 +103921,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791810698417_gmh0e",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "11990.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:09:43",
+        "trackingNo": "6624000326",
+        "receiptNo": "2026-10-12-16.09.38.635637",
+        "referenceCode": "",
+        "senderName": "ADIL KAR SAYIN",
+        "senderIban": "TR200006200010100006825649",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261012|16:09:43|11990|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791810698417,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6965C7472EA669D4CB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791810783913_yd36q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:07:35",
+        "trackingNo": "5317000331",
+        "receiptNo": "2026-10-12-16.07.30.784572",
+        "referenceCode": "",
+        "senderName": "OMER KOCAK",
+        "senderIban": "TR840006200010100006832160",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261012|16:07:35|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791810783913,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4C9A5E5E76537512BC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791810800111_rzu19",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2488/ZAFER/KONYA SUBESİ",
+        "amount": "4350.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:07:14",
+        "trackingNo": "7427642639",
+        "receiptNo": "F35182",
+        "referenceCode": "A01",
+        "senderName": "REYYAN SILA ERDIM",
+        "senderIban": "TR260001009010989853005001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261012|16:07:14|4350|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791810800111,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF08D847F48976CF1E9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
