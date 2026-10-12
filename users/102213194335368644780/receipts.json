@@ -103615,6 +103615,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791809378614_sgwta",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.S.",
+        "bankBranch": "NATOYOLU SUBESI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "15:44:57",
+        "trackingNo": "1714614423",
+        "receiptNo": "202610118533939",
+        "referenceCode": "01327-1463148",
+        "senderName": "MUAMMER KAAN MUTLU",
+        "senderIban": "TR860011100000000139382043",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 63,
+        "fingerprint": "GN|20261012|15:44:57|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791809378614,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF4DC81E1E5B97E6DEF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
