@@ -108273,6 +108273,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791835654942_fipx3",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "23:06:53",
+        "trackingNo": "2998998887",
+        "receiptNo": "",
+        "referenceCode": "2026014287727534",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Ali Ormankaya",
+        "receiverIban": "TR030006701000000199137843",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261012|23:06:53|5000|TR030006701000000199137843"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791835654942,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AD896FCFA2448F94718",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
