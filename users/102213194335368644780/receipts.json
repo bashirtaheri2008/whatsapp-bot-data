@@ -108035,6 +108035,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791833284046_sl1jg",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN - GAZINO",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "22:23:14",
+        "trackingNo": "592000511",
+        "receiptNo": "2026-10-12-22.23.09.969719",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR460006200106100006650146",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261012|22:23:14|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791833284046,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A8B52D7433832EEEC11",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791833403342_pdvnk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "6350",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "22:28",
+        "trackingNo": "4893018216",
+        "receiptNo": "03663-03663-992879601",
+        "referenceCode": "",
+        "senderName": "BURAK TASPINAR",
+        "senderIban": "TR500015700000000159225688",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4893018216"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791833403342,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A320AF2952EFA7A9F95",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
