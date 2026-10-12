@@ -102901,6 +102901,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791802899263_24iva",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1754/ATATÜRK CADDESİ- SINCAN/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:51:17",
+        "trackingNo": "7426032991",
+        "receiptNo": "F17365",
+        "referenceCode": "F17365",
+        "senderName": "ISLER TUTARI",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500758007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261012|13:51:17|5000|TR340001500758007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791802899263,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE812B4C85FD6F642F4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
