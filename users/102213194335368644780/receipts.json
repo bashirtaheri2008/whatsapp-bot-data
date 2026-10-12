@@ -99912,6 +99912,37 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791775987032_6dlu4",
+      "data": {
+        "isReceipt": true,
+        "bank": "بانک ملی ایران",
+        "bankBranch": "",
+        "amount": "113049500",
+        "currency": "IRR",
+        "date": "20/07/1402",
+        "time": "06:20",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "انتقال"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791775987032,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "AC8A170619F25A39E6C1205F05896EB4",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
