@@ -101405,6 +101405,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791794997758_rmiyo",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1754/ATATÜRK CADDESI-SINCAN/ANKARA SUBESI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "11:43:46",
+        "trackingNo": "7422742156",
+        "receiptNo": "F12058",
+        "referenceCode": "F12058",
+        "senderName": "HESAP NUMARAS",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "RAHMATULLAH HAKIMISAMADI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261012|11:43:46|5000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791794997758,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A5B3222678B1810716B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
