@@ -100827,6 +100827,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791790172661_rrx8x",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "10:27:29",
+        "trackingNo": "49301377 / 264125",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALI DEMIREL",
+        "senderIban": "TR280004600139888000342177",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 53,
+        "fingerprint": "AK|20261012|10:27:29|8000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791790172661,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADFA5EFB2A0335F133D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
