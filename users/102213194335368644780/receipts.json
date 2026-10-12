@@ -99977,6 +99977,74 @@
         "participantAlt": "93776400086@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791779308556_ke1rm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "16/09/2026",
+        "time": "13:55",
+        "trackingNo": "4826651265",
+        "receiptNo": "03663-03663-897535669",
+        "referenceCode": "",
+        "senderName": "ILHAN DEVEBOYNU",
+        "senderIban": "TR340015700000000149658575",
+        "receiverName": "MIR SAYED ALI SADAT",
+        "receiverIban": "TR82 0001 0090 1107 1904 5050 04",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 78,
+        "fingerprint": "EP|4826651265"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1791779308556,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "AC6C70A8B7AB91D2A158C7922A2D6637",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791779320651_2igvf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1443/nilufer/bursa",
+        "amount": "80000",
+        "currency": "TL",
+        "date": "16/09/2026",
+        "time": "14:30:19",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "FO4104",
+        "senderName": "MIR SAYED ALI SADAT",
+        "senderIban": "TR820001009011071904505004",
+        "receiverName": "BURHAN BALA",
+        "receiverIban": "TR48 0001 0090 1111 9689 0050 01",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 73,
+        "fingerprint": "ZB|20260916|14:30:19|80000|TR480001009011119689005001"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1791779320651,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "ACCAC4CEB4EBAA2581FB43594F5B05BF",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
