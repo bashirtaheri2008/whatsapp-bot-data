@@ -105485,6 +105485,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791817630112_e3m3m",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "4750.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:04:58",
+        "trackingNo": "244000395",
+        "receiptNo": "2026-10-12-18.04.57.139466",
+        "referenceCode": "",
+        "senderName": "MEHMET CAYIR",
+        "senderIban": "TR120006200010100006985261",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "KOVANAAGZI",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261012|18:04:58|4750|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791817630112,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACF55FC4DF32A310E78",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
