@@ -106471,6 +106471,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791821434136_h7grz",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KARATAY SANAYI",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "19:08:05",
+        "trackingNo": "5825000478",
+        "receiptNo": "2026-10-12-19.07.58.774775",
+        "referenceCode": "",
+        "senderName": "MEHMET YEL",
+        "senderIban": "TR190006200051900006645776",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261012|19:08:05|4700|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791821434136,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB0D5E444005E336C5E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
