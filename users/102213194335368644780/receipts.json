@@ -108103,6 +108103,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791833576340_j6xxm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "22:26",
+        "trackingNo": "4893013964",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4893013964"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791833576340,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4D4C28F0B60DF134C6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
