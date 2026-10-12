@@ -101541,6 +101541,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791796669731_u4t0l",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2528/BUĞDAY PAZARI/KONYA ŞUBESİ",
+        "amount": "2900.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:08:32",
+        "trackingNo": "7425680683",
+        "receiptNo": "F25523",
+        "referenceCode": "A01",
+        "senderName": "FO SEYH SAMIL MAH. MILAS SK.",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 66,
+        "fingerprint": "ZB|20261012|12:08:32|2900|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796669731,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0F110C00730E1103E4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
