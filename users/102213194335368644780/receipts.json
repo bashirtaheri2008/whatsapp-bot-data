@@ -100453,6 +100453,176 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791787609971_0u5d9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapi Kredi",
+        "bankBranch": "",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:29:42",
+        "trackingNo": "254861755794",
+        "receiptNo": "SYJ2026137221076",
+        "referenceCode": "925-432047 / 2548626275186",
+        "senderName": "TAHIR ÖZDEMİR",
+        "senderIban": "TR980006701000000065595748",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261012|09:29:42|4800|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791787609971,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A08962E97E4286A972C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791787623055_u0mpz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:32:24",
+        "trackingNo": "ACG0F-B-202610127",
+        "receiptNo": "BDM2026002371031",
+        "referenceCode": "566227b6-12e3-4891-ba2a-a726c7a7ee64",
+        "senderName": "AHMET ÜÇLER",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: AHMET ÜÇLER , Alıcı: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 55,
+        "fingerprint": "GN|20261012|09:32:24|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791787623055,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA4ECE5781A22CA3D8A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791787633397_6h5hs",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:34:35",
+        "trackingNo": "3214000086",
+        "receiptNo": "2026-10-12-09.34.33.782403",
+        "referenceCode": "",
+        "senderName": "BURAK YILMAZ",
+        "senderIban": "TR470006200146300006639582",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261012|09:34:35|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791787633397,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2CD345F37DA9C96FD9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791787645256_9mhyv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "BİLKENT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:45:18",
+        "trackingNo": "2228000070",
+        "receiptNo": "2026-10-12-09.45.12.261508",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "REZERVASYON YAPILDI",
+        "bankKey": "",
+        "ocrConfidence": 43,
+        "fingerprint": "GN|20261012|09:45:18|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791787645256,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4EE7E7856E97027014",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791787659659_rh19l",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:34:54",
+        "trackingNo": "254861802476",
+        "receiptNo": "SYJ2026137242501",
+        "referenceCode": "925-680026 / 2548626401757",
+        "senderName": "MUSTAFA GÜLBeyAZ",
+        "senderIban": "TR120006701000000048383773",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261012|09:34:54|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791787659659,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB0BB423377B0D55C47",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
