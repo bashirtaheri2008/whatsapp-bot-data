@@ -106845,6 +106845,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791822798443_saowx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Hesab",
+        "bankBranch": "",
+        "amount": "170.00",
+        "currency": "AFN",
+        "date": "01/10/2026",
+        "time": "13:51:00",
+        "trackingNo": "023499100179084650039483",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "+93 745 872 028",
+        "senderIban": "",
+        "receiverName": "+93 774 028 417",
+        "receiverIban": "",
+        "description": "افزاید کريدیت",
+        "bankKey": "",
+        "ocrConfidence": 36,
+        "fingerprint": "GN|20261001|13:51:00|170"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1791822798443,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "AC16EC0B9BC3AE8E3C4F8220199B95FC",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
