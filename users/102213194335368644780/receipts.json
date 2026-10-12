@@ -106675,6 +106675,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791822173138_i7z0z",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "GİMAT",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "19:17:24",
+        "trackingNo": "5102000453",
+        "receiptNo": "2026-10-12-19.17.21.954376",
+        "referenceCode": "00325 / 6621104",
+        "senderName": "İSMAİL BABAYİĞİT",
+        "senderIban": "TR640006200032500006621104",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "REMENDEMİN VAQZI",
+        "bankKey": "",
+        "ocrConfidence": 45,
+        "fingerprint": "GN|20261012|19:17:24|2000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791822173138,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A84701AB578972045E2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791822182044_s4c38",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Vakıflar Bankası T.A.O.",
+        "bankBranch": "2002 Eren Köş. Tek. Şubesi - Nallıhan",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:54",
+        "trackingNo": "492514609",
+        "receiptNo": "4889214609",
+        "referenceCode": "TR58000150007000000001462081",
+        "senderName": "Nizamuddin YAQUBI",
+        "senderIban": "TR58000150007000000001462081",
+        "receiverName": "Anıl Yücel",
+        "receiverIban": "TR58000150007000000001462081",
+        "description": "AÇIKLAMA:Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261012|18:54|4000|TR58000150007000000001462081"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791822182044,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A81A73001EB0F040428",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791822198335_l7y6l",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1",
+        "amount": "4453.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "19:20:59",
+        "trackingNo": "7420087231",
+        "receiptNo": "F59548",
+        "referenceCode": "A01",
+        "senderName": "MEHMET ÖZ",
+        "senderIban": "TR520001000190742592845001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261012|19:20:59|4453|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791822198335,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE0556253CA7213A972",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791822531237_4v1cu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "19:14:16",
+        "trackingNo": "AWK20-B-20261012156",
+        "receiptNo": "BVP2026001424436",
+        "referenceCode": "4a1bb978-04fa-49d5-87fc-10de265714db",
+        "senderName": "AHMET SARICI",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: AHMET SARICI , Alici: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261012|19:14:16|7500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791822531237,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADCDD277AE06FF32EE0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
