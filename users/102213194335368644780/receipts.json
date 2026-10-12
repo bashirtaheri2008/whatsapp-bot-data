@@ -105893,6 +105893,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791818726006_r3li1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:21:06",
+        "trackingNo": "632643928663511040",
+        "receiptNo": "",
+        "referenceCode": "12102026 - 9300 - 33297906",
+        "senderName": "HANIFI KAYALI",
+        "senderIban": "TR590013400002244621200001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "-",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261012|18:21:06|4700|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791818726006,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9A0D8EB8DAE9A83EF7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
