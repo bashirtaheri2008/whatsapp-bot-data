@@ -101575,6 +101575,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791796683756_4cgh6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4950",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:16:01",
+        "trackingNo": "49503883 / 450161",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HATICE ISIKTAS",
+        "senderIban": "TR150004600064888000359450",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 56,
+        "fingerprint": "AK|20261012|12:16:01|4950|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796683756,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A329713F50695B58169",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791796695728_1ghbv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:16:27",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BERSAN HAKBILEN",
+        "senderIban": "TR870004600641888000287012",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 54,
+        "fingerprint": "AK|20261012|12:16:27|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796695728,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA5A4A608FCD483E453",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791796782457_bpind",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:18:46",
+        "trackingNo": "25810361 / 455263",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SINAN PINAR",
+        "senderIban": "TR2600046003458880000223758",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 56,
+        "fingerprint": "AK|20261012|12:18:46|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796782457,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7773ABC46370698D46",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
