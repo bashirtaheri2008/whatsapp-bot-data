@@ -101337,6 +101337,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791794613364_32vld",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0461/SELÇUKLU/KONYA ŞUBESİ",
+        "amount": "4100.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "11:41:36",
+        "trackingNo": "7425479841",
+        "receiptNo": "F42476",
+        "referenceCode": "F42476",
+        "senderName": "MERVE ALTUNTAŞ",
+        "senderIban": "TRY560001000461618924155003",
+        "receiverName": "NZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 61,
+        "fingerprint": "ZB|20261012|11:41:36|4100|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791794613364,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5282AF7E3EAFFAB25F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
