@@ -104363,6 +104363,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791812641611_itoh2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "16:39:26",
+        "trackingNo": "3833646630",
+        "receiptNo": "A03202650119311",
+        "referenceCode": "12.10.2026/447/8888/8888",
+        "senderName": "MESUT UĞURLU",
+        "senderIban": "TR800006400000145004080885",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "MESUT UĞURLU tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": "GN|20261012|16:39:26|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791812641611,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC2F8197E1605810BCB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
