@@ -104907,6 +104907,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791815035705_g5z67",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0099/ÇORLU/TEKİRDAĞ ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "17:20:56",
+        "trackingNo": "7426168208",
+        "receiptNo": "F44254",
+        "referenceCode": "A01",
+        "senderName": "OKTAY AKPINAR",
+        "senderIban": "TR380001009010805012905002",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261012|17:20:56|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791815035705,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6DB2CB6A0F9672EB64",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
