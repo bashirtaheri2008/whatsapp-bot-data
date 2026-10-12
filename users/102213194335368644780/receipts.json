@@ -103207,6 +103207,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791803662159_33hrq",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARATAY ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:10:47",
+        "trackingNo": "1714419572",
+        "receiptNo": "202610117644247",
+        "referenceCode": "00422-1304387",
+        "senderName": "HAKKI ERTAN",
+        "senderIban": "TR400011100000000034347488",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261012|14:10:47|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803662159,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3948EB854F64F3764C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
