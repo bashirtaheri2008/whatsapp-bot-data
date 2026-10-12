@@ -105791,6 +105791,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791818615407_qz0it",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:10:01",
+        "trackingNo": "ATE4Y-B-20261008121",
+        "receiptNo": "BRH2026002077813",
+        "referenceCode": "61d1ea9a-a3d9-44b4-98d0-60068ea9b0a0",
+        "senderName": "ALI KEMAL BULDUK",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gonderen: ALI KEMAL BULDUK , Alci: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "ziraat",
+        "ocrConfidence": 57,
+        "fingerprint": "ZB|20261012|18:10:01|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791818615407,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A44FC36B7BA04FCF5B1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
