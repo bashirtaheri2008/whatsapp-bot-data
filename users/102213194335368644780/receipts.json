@@ -100113,6 +100113,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791783794052_34cv4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "08:36:05",
+        "trackingNo": "ABOQQ-B-20261012113",
+        "receiptNo": "BPN2026001034762",
+        "referenceCode": "07fcaae8-cc71-47cd-99db-0376b9adf418",
+        "senderName": "FATİH KOYUNCU",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "",
+        "description": "Gönderen: FATİH KOYUNCU , Alıcı: NIZAMUDDIN YAQUBI , IBAN'a Para Transfer (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 43,
+        "fingerprint": "GN|20261012|08:36:05|4500"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791783794052,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A18CF2436907C010891",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
