@@ -104975,6 +104975,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791815535520_mw307",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "17:28:46",
+        "trackingNo": "632630758797606912",
+        "receiptNo": "22000456",
+        "referenceCode": "12102026-9300-31522960",
+        "senderName": "BURAK ŞANLIER",
+        "senderIban": "TR240013400002679259500001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261012|17:28:46|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791815535520,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB60519CDC013CC25CC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
