@@ -102391,6 +102391,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791798948656_ow3mm",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAHRAMANMARAŞ SANAYİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:51:37",
+        "trackingNo": "9886000201",
+        "receiptNo": "2026-10-12-12.51.28.409171",
+        "referenceCode": "TR25 0006 2000 2470 0006 8173 60",
+        "senderName": "HAZAR COLAK",
+        "senderIban": "TR110006200119900006653384",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 49,
+        "fingerprint": "GN|20261012|12:51:37|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791798948656,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE7D50829D9EFFCCC1F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
