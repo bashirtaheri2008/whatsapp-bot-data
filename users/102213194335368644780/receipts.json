@@ -107763,6 +107763,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791830023048_2kclc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "21:14:41",
+        "trackingNo": "7429555465",
+        "receiptNo": "F97613_4012",
+        "referenceCode": "",
+        "senderName": "RAMAZAN ÜNAL",
+        "senderIban": "TR430001004012731959765002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "5.000,00 TRY tutarında Fast işlemi yapılımasın, Bu işlem için tarafıma bilinen 4,18 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 58,
+        "fingerprint": "ZB|20261012|21:14:41|5000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791830023048,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A096E7009F3C6435613",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
