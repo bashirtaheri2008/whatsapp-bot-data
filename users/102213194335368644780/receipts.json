@@ -100793,6 +100793,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791789989553_lr013",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1256/MESİR/MANİSA ŞUBESİ",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "10:20:47",
+        "trackingNo": "7424955043",
+        "receiptNo": "F61067",
+        "referenceCode": "A01",
+        "senderName": "YUSUF KAYA.",
+        "senderIban": "TR350001001256757127505001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261012|10:20:47|4200|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791789989553,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AA6CE53FDC2BAAAB08C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
