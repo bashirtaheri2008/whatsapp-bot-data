@@ -106335,6 +106335,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791820715112_clybf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKSARAY",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:55:47",
+        "trackingNo": "6409000436",
+        "receiptNo": "2026-10-12-18.55.44.435507",
+        "referenceCode": "",
+        "senderName": "MUSTAFA ALAER",
+        "senderIban": "TR400006200059100006636405",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "EMİN SARI KURTULUŞ PİDE",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261012|18:55:47|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791820715112,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD2BE4FDC3CC17965C2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
