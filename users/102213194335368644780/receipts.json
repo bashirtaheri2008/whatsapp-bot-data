@@ -104533,6 +104533,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791813244810_o9km7",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:44:21",
+        "trackingNo": "5014000331",
+        "receiptNo": "2026-10-12-16.44.17.743868",
+        "referenceCode": "",
+        "senderName": "MUHAMMET BARUT",
+        "senderIban": "TR580006200010100006826032",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "DALAMAN SAN. SIT. ESKI VIZE IS TASYONU",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261012|16:44:21|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791813244810,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE559E760F511B55C05",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
