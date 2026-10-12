@@ -105111,6 +105111,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791816065411_dmbaj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "GÜNGÖREN / İSTANBUL",
+        "amount": "11.00",
+        "currency": "TL",
+        "date": "23/02/2021",
+        "time": "",
+        "trackingNo": "2021-02-231254109.780248",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR430006200074400006886708",
+        "receiverName": "GARANTI BBVA",
+        "receiverIban": "TR930006200074400006886708",
+        "description": "ÖDEMESİDİR",
+        "bankKey": "",
+        "ocrConfidence": 38,
+        "fingerprint": "GN|20210223|11|TR930006200074400006886708"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791816065411,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD5933DE8BD7A4C996E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
