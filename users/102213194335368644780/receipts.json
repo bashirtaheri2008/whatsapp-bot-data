@@ -108409,6 +108409,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791837668249_ssjse",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANADOLU SANAYİ",
+        "amount": "14000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "23:39:35",
+        "trackingNo": "6265000559",
+        "receiptNo": "2026-10-12-23.39.33.725575",
+        "referenceCode": "",
+        "senderName": "SERKAN YILMAZ",
+        "senderIban": "TR790006200105200006639412",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261012|23:39:35|14000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791837668249,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5EC163EEA09617172628B00469C1F74",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
