@@ -107015,6 +107015,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791824325441_pnfm4",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.Ş.",
+        "bankBranch": "TUNALI HİLMİ ŞUBESİ",
+        "amount": "3700.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "19:56:53",
+        "trackingNo": "26351042555",
+        "receiptNo": "8500236",
+        "referenceCode": "12/10/2026-207-48207-6722",
+        "senderName": "ATLI İBRAHİM",
+        "senderIban": "",
+        "receiverName": "TA.O. JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Giden FAST Sorgu No:26351042555 TR440001500158007391459193 Türkiye Vakıflar Bankası T.A.O. JAWID USMANI",
+        "bankKey": "",
+        "ocrConfidence": 41,
+        "fingerprint": "GN|20261012|19:56:53|3700|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791824325441,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACEA616C12173FFABDC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791824492138_tdglo",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "10000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:00:46",
+        "trackingNo": "2098669106",
+        "receiptNo": "",
+        "referenceCode": "2026014280777123",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Zehra Duru Bahadir",
+        "receiverIban": "TR470006200046500006825477",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261012|20:00:46|10000|TR470006200046500006825477"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791824492138,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A2312B539DEB657A21F",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
