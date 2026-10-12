@@ -101677,6 +101677,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791796863456_a1tef",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "440",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:17:17",
+        "trackingNo": "254868863856",
+        "receiptNo": "SYJ2026139471080",
+        "referenceCode": "2548629506623",
+        "senderName": "MEHMET AKPINAR",
+        "senderIban": "TR470006701000000054586002",
+        "receiverName": "Nazamedin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 50,
+        "fingerprint": "GN|20261012|12:17:17|440|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796863456,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4B53DC1B7FD58CDBEC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791796880950_hzatm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:18:09",
+        "trackingNo": "254864879365",
+        "receiptNo": "SYJ2026139475783",
+        "referenceCode": "925-746271 / 2548629512225",
+        "senderName": "MEHMET AKPINAR",
+        "senderIban": "TR470006701000000054586002",
+        "receiverName": "Nazamedin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 50,
+        "fingerprint": "GN|20261012|12:18:09|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791796880950,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2CC5993F080ACE44A0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
