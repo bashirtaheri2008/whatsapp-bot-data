@@ -107593,6 +107593,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791829723548_b1b1j",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "4,000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "21:26:43",
+        "trackingNo": "26733708 / 476088",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ORHUN BURAK CAN DIDIKOGLU",
+        "senderIban": "TR130004601190888000518138",
+        "receiverName": "ORHUN BURAK CAN DIDIKOGLU",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 54,
+        "fingerprint": "AK|20261012|21:26:43|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791829723548,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AF8CA7DC0A2F7CD6861",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
