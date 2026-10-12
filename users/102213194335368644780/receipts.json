@@ -102867,6 +102867,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791802737108_fspj3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "İSTİNYE PARK",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:56:38",
+        "trackingNo": "6221000215",
+        "receiptNo": "2026-10-12-13.56.36.955109",
+        "referenceCode": "",
+        "senderName": "EJDER SARI",
+        "senderIban": "TR270006200065100006678728",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR34000150015800731222072252",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 51,
+        "fingerprint": "GN|20261012|13:56:38|2000|TR34000150015800731222072252"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791802737108,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACFA6B1F811237C60FE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
