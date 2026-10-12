@@ -102731,6 +102731,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791801803657_eq5wg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "6500.00",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "13:29:19",
+        "trackingNo": "3832873817",
+        "receiptNo": "A032026647693028",
+        "referenceCode": "12.10.2026/447/8888/8888",
+        "senderName": "MEHMET ŞİMŞEK",
+        "senderIban": "TR350006400000145020965418",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "MEHMET ŞİMŞEK tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261012|13:29:19|6500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791801803657,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2131F13327A6E31FA3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
