@@ -101031,6 +101031,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791791897152_oafq1",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "10:56",
+        "trackingNo": "M-2026-10-12-10.56.03.483648",
+        "receiptNo": "1655226087",
+        "referenceCode": "",
+        "senderName": "AHMET BURAK ÖZTÜRK",
+        "senderIban": "TR790001200135900001104472",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - AHMET BURAK ÖZTÜRK TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261012|10:56|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791791897152,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8F80AB46599E32BE24",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
