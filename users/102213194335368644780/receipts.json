@@ -108341,6 +108341,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791836450134_l36kg",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0413/persembe/ordu",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "23:13:30",
+        "trackingNo": "7430120723",
+        "receiptNo": "F19010",
+        "referenceCode": "A01",
+        "senderName": "RABIA GOKALP",
+        "senderIban": "TR260001000413740847155001",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261012|23:13:30|4800|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791836450134,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AF7227B72BE4A918827",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
