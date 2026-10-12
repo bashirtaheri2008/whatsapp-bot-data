@@ -105519,6 +105519,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791817645906_n3cx2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ZAFER",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:03:40",
+        "trackingNo": "7749000388",
+        "receiptNo": "2026-10-12-18.03.35.127051",
+        "referenceCode": "",
+        "senderName": "HASRET KULTUR",
+        "senderIban": "TR850006200077000006972163",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261012|18:03:40|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791817645906,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4787D1231CCA8B4A0C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791817712808_thi0h",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:05",
+        "trackingNo": "4892370193",
+        "receiptNo": "03663-03663-992308552",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 78,
+        "fingerprint": "EP|4892370193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791817712808,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A809E06A37A2E17D6A1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791817870314_thkyk",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "3000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:06",
+        "trackingNo": "1656193255",
+        "receiptNo": "M-2026-10-12-18.06.56.457862",
+        "referenceCode": "",
+        "senderName": "EMRE KIRAZLI",
+        "senderIban": "TR800001200126200001113184",
+        "receiverName": "NIZAMUDDIN YAQUB",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - EMRE KIRAZLI TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 60,
+        "fingerprint": "GN|20261012|18:06|3000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791817870314,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2F69DCAA5C101B55CB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
