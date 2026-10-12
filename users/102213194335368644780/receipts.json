@@ -106131,6 +106131,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791819675319_qpxo3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "SINCAN/ANKARA SUBESI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:37:18",
+        "trackingNo": "7428711372",
+        "receiptNo": "F21369",
+        "referenceCode": "F21369",
+        "senderName": "MERT AYHAN",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261012|18:37:18|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819675319,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A5650FA2D7289680249",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791819680511_lx0r4",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Umraniye/İSTANBUL",
+        "amount": "3985.38",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "18:39:21",
+        "trackingNo": "Z1748452",
+        "receiptNo": "",
+        "referenceCode": "0922003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diğer",
+        "bankKey": "",
+        "ocrConfidence": 44,
+        "fingerprint": "GN|20261010|18:39:21|3985.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819680511,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A5CE2E5A09B34DB682E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
