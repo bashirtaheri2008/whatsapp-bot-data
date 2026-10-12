@@ -100419,6 +100419,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791787561053_7lmc7",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1395/BALGAT/ANKARA ŞUBESİ",
+        "amount": "4350",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:41:58",
+        "trackingNo": "7424748445",
+        "receiptNo": "F22600",
+        "referenceCode": "A01",
+        "senderName": "SONGUL YURT",
+        "senderIban": "TR510001001395783870005010",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261012|09:41:58|4350|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791787561053,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE7F1704ED6AC741FF6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
