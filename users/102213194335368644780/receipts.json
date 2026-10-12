@@ -106573,6 +106573,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791821718038_1tkoy",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi AS",
+        "bankBranch": "NALGACI",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "",
+        "trackingNo": "3990000015",
+        "receiptNo": "2026-10-12-19.00.38.473120",
+        "referenceCode": "",
+        "senderName": "ECEVIT YILMAZ",
+        "senderIban": "TR200001500158007351531224",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 79,
+        "fingerprint": "GN|20261012|15000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791821718038,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A41B09F4B7F9D46E301",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791821789943_92zew",
+      "data": {
+        "isReceipt": true,
+        "bank": "Hesab",
+        "bankBranch": "",
+        "amount": "6000",
+        "currency": "AFN",
+        "date": "01/10/2026",
+        "time": "11:54",
+        "trackingNo": "039659300179083944739483",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Bashir Tahiri",
+        "senderIban": "",
+        "receiverName": "Amrullah Ahmadi",
+        "receiverIban": "",
+        "description": "انتقال پول",
+        "bankKey": "",
+        "ocrConfidence": 39,
+        "fingerprint": "GN|20261001|11:54|6000"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1791821789943,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "AC178555A728C0DC6E2DBED156211BFE",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
