@@ -104601,6 +104601,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791813511505_e3w4n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIRECT MOBIL CEP",
+        "amount": "415837",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:52:23",
+        "trackingNo": "TR27000040000055885005626201",
+        "receiptNo": "165226264134",
+        "referenceCode": "",
+        "senderName": "MERT PARLAK",
+        "senderIban": "TR27000040000055885005626201",
+        "receiverName": "Zinat Nazan",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 30,
+        "fingerprint": "AK|20261012|16:52:23|415837|TR800001500158007392030554"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791813511505,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A42695617B9AE84F85E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791813628309_gphf0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1345/ESKIL/AKSARAY SUBESI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:63:37",
+        "trackingNo": "7427998028",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "RABIA UNLD",
+        "senderIban": "TR810001001345907020375001",
+        "receiverName": "nizamuddin yaQubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261012|16:63:37|4000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791813628309,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A59AC4C0C74369A7739E0572DEBD5EB8",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
