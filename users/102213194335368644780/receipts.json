@@ -106233,6 +106233,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791819933961_ii8z2",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Ümraniye/İSTANBUL",
+        "amount": "5985.38",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:38:34",
+        "trackingNo": "001776",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger",
+        "bankKey": "",
+        "ocrConfidence": 52,
+        "fingerprint": "GN|20261012|18:38:34|5985.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819933961,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF0D2EF03625785DA95",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791820124316_g85xm",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ZAFER",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:18:58",
+        "trackingNo": "8786000433",
+        "receiptNo": "2026-10-12-18.18.56.288031",
+        "referenceCode": "",
+        "senderName": "ERHAN SERT",
+        "senderIban": "TR820006200077000006995594",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261012|18:18:58|7000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791820124316,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A555A390485AB08C3FF606BDE6BFF550",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
