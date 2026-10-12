@@ -106369,6 +106369,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791820736004_93nmo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapi Kredi Bankasi A.S.",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:52:28",
+        "trackingNo": "517716747660",
+        "receiptNo": "SYJ2026145364760",
+        "referenceCode": "925-617125 / 2548637465527",
+        "senderName": "DAVUT TEMUR",
+        "senderIban": "TR550006701000000070172788",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFER (EFT) UC...",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261012|18:52:28|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791820736004,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5F17ED4CD017F68A72",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791820885766_twoer",
+      "data": {
+        "isReceipt": true,
+        "bank": "Albaraka Türk Katılım Bankası A.Ş.",
+        "bankBranch": "6 - KONYA",
+        "amount": "7000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:58:16",
+        "trackingNo": "4079536",
+        "receiptNo": "11840454",
+        "referenceCode": "144216",
+        "senderName": "RIFAT ABDULLAH HATAY",
+        "senderIban": "TR750020300000723459000009",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261012|18:58:16|7000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791820885766,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A297B8A81C760B61105",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
