@@ -107423,6 +107423,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791827151738_2qkgy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:34",
+        "trackingNo": "4892781921",
+        "receiptNo": "03663-03663-992661121",
+        "referenceCode": "",
+        "senderName": "ENVER CANBOLAT",
+        "senderIban": "TR120015700000000110142238",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 71,
+        "fingerprint": "EP|4892781921"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791827151738,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3AD923A0B7646D8F67CE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
