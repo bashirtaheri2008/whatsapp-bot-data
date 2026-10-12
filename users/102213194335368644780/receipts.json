@@ -104329,6 +104329,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791812232006_5f8d4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:35:49",
+        "trackingNo": "517714768660",
+        "receiptNo": "SYJ2026143306585",
+        "referenceCode": "925-1046804 / 2548634706750",
+        "senderName": "HALİL İBRAHİM ERTUNA",
+        "senderIban": "TR640006701000000052007727",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261012|16:35:49|4200|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791812232006,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A53ACACC0CB3161553A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
