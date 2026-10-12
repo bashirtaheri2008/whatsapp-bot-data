@@ -102289,6 +102289,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791798823562_bhe8j",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAHRAMANMARAŞ SANAYİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:50:13",
+        "trackingNo": "2623000193",
+        "receiptNo": "2026-10-12-12.50.00.801826",
+        "referenceCode": "TR25 0006 2000 2470 0006 8173 60",
+        "senderName": "HAZAR COLAK",
+        "senderIban": "TR110006200119900006653384",
+        "receiverName": "NIZAMUDDIN YOQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 49,
+        "fingerprint": "GN|20261012|12:50:13|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791798823562,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA38F61B1BDA068006D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791798838468_5u3hc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Odea Bank",
+        "bankBranch": "9300-INTERNET",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:47",
+        "trackingNo": "12102026-9300-21504",
+        "receiptNo": "",
+        "referenceCode": "6325599061760277824",
+        "senderName": "RECEP SIĞIRCI",
+        "senderIban": "TR530014600000227178600001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 64,
+        "fingerprint": "GN|20261012|12:47|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791798838468,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5C86882DE84D74F545",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791798852098_owc4u",
+      "data": {
+        "isReceipt": true,
+        "bank": "Odea Bank",
+        "bankBranch": "9300-INTERNET",
+        "amount": "4450.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:49",
+        "trackingNo": "12102026-9300-21811",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RECEP SIĞIRCI",
+        "senderIban": "TR530014600000227178600001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 64,
+        "fingerprint": "GN|20261012|12:49|4450|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791798852098,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA957E6D8E2F2096313",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
