@@ -102697,6 +102697,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791801710652_jiuqk",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankas A.S.",
+        "bankBranch": "YENİMAHALLE",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:39:01",
+        "trackingNo": "4090000220",
+        "receiptNo": "2026-10-12-13.38.58.863254",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR560006200059700006655778",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261012|13:39:01|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791801710652,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A59CEC4334CE4646857",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
