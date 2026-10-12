@@ -106641,6 +106641,40 @@
         "participantAlt": "93776400086@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791822158235_rwdje",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "450000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "19:12:49",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET CAN BOLAT",
+        "senderIban": "TR630004600033888000445787",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261012|19:12:49|450000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791822158235,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9A4E0D6EEEC28864E9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
