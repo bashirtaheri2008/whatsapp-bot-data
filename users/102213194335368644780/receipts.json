@@ -103173,6 +103173,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791803498455_whn3l",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "",
+        "time": "",
+        "trackingNo": "2026014262737997",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR580001500158******6980",
+        "receiverName": "",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803498455,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA32F4604929EEF0F59",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
