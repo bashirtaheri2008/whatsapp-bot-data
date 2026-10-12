@@ -103003,6 +103003,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791803107851_4zs6h",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "CEBECİ ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:00:47",
+        "trackingNo": "1734400345",
+        "receiptNo": "202610117542740",
+        "referenceCode": "01319-1196822",
+        "senderName": "BILAL TOK",
+        "senderIban": "TR440011100000000097581522",
+        "receiverName": "HUSAIN AHMAD SAMADI",
+        "receiverIban": "TR46000150015800739220896",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 37,
+        "fingerprint": "GN|20261012|14:00:47|5000|TR46000150015800739220896"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803107851,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3AA48E86AC2B20C3E007",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791803287851_21fnx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:01",
+        "trackingNo": "4891551666",
+        "receiptNo": "03663-03663-991606996",
+        "referenceCode": "",
+        "senderName": "IBRAHIM ATLICI",
+        "senderIban": "TR280015700000000204745274",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4891551666"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803287851,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC3435E071C07ECEB23",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
