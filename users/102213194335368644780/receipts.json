@@ -104397,6 +104397,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791813025411_mzemm",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "4800",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:48:03",
+        "trackingNo": "243000349",
+        "receiptNo": "2026-10-12-16.48.02.129325",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR100006200125700006295861",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinSekizYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261012|16:48:03|4800|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791813025411,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A337B5909D3DA9E0DF2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
