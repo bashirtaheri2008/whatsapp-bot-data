@@ -106301,6 +106301,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791820185206_wd6st",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKSARAY",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:39:03",
+        "trackingNo": "8982000443",
+        "receiptNo": "2026-10-12-18.39.00.908193",
+        "referenceCode": "",
+        "senderName": "FATİH KOYUNCU",
+        "senderIban": "TR270006200059100006650510",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261012|18:39:03|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791820185206,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABCFF47518B027C015E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
