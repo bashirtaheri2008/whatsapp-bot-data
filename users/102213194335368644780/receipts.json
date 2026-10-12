@@ -104669,6 +104669,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791813929915_zsby8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "Müşteri İlişkileri Merkezi",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:38:50",
+        "trackingNo": "22240013",
+        "receiptNo": "20",
+        "referenceCode": "475225-5",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "SA** AK**",
+        "receiverIban": "TR82000100901000004605001",
+        "description": "KARTSIZ HESABA PARA YATIR",
+        "bankKey": "",
+        "ocrConfidence": 56,
+        "fingerprint": "GN|20261012|16:38:50|4500|TR82000100901000004605001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791813929915,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8B2B4C2CC535850C05",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
