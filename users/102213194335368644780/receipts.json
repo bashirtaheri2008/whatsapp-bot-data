@@ -103071,6 +103071,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791803305357_pvpjk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "435000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:59:20",
+        "trackingNo": "33177322 / 6435993",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUSUF ERCAN",
+        "senderIban": "TR500004600382888000279191",
+        "receiverName": "NIZAMUDDIN YAGQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 58,
+        "fingerprint": "AK|20261012|13:59:20|435000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803305357,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A42F93D28429A892994",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791803322669_qa0f2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4750",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:03",
+        "trackingNo": "4891558093",
+        "receiptNo": "03663-03663-991614025",
+        "referenceCode": "",
+        "senderName": "MEVLUT ISLEK",
+        "senderIban": "TR390015700000000153834626",
+        "receiverName": "",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4891558093"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803322669,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9FD623D5CC2DF65C3D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791803340056_jgpac",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KEÇİÖREN ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:06:04",
+        "trackingNo": "202610117598619",
+        "receiptNo": "01310-1934764",
+        "referenceCode": "T99148",
+        "senderName": "TUĞÇE BAŞKOPARAN",
+        "senderIban": "TR750011100000000100942887",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR3400015001580073122220752",
+        "description": "Bireysel Ode",
+        "bankKey": "",
+        "ocrConfidence": 32,
+        "fingerprint": "GN|20261012|14:06:04|4000|TR3400015001580073122220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803340056,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEC5D9081AB3D19BB4B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
