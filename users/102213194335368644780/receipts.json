@@ -107253,6 +107253,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791825750834_j8y6i",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ANADOLU SANAYI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:16:34",
+        "trackingNo": "5366000501",
+        "receiptNo": "2026-10-12-20.16.26.844512",
+        "referenceCode": "",
+        "senderName": "UMIT YILMAZ",
+        "senderIban": "TR640006200105200006682556",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261012|20:16:34|4000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791825750834,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5638D1E2AA42378CC1C596B5D24FE62",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791825777635_ag6zy",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:11:07",
+        "trackingNo": "517716393331",
+        "receiptNo": "925-1665508",
+        "referenceCode": "SYJ2026146521103",
+        "senderName": "HACI GÜNEŞ",
+        "senderIban": "TR380006701000000011989380",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR3500015001580073622793",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261012|20:11:07|4000|TR3500015001580073622793"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791825777635,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0B15EF80AE933B1C97",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791825801934_ikhck",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "38000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:22:12",
+        "trackingNo": "2998721070",
+        "receiptNo": "",
+        "referenceCode": "2026014281586061",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Saadatullah Azhar Amini",
+        "receiverIban": "TR260006400000111530856451",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261012|20:22:12|38000|TR260006400000111530856451"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791825801934,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AD98D96242E02FDCE31",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
