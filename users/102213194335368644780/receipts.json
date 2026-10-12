@@ -103275,6 +103275,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791803937154_fuibm",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:07:31",
+        "trackingNo": "2026014262679222",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AHMET AYDOĞAN",
+        "senderIban": "TR4500015001584437",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261012|14:07:31|3500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803937154,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A28F1149A8006488DB6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791803999556_5g4j5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4750.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "14:16:56",
+        "trackingNo": "632582482438815744",
+        "receiptNo": "",
+        "referenceCode": "12102026-9300-25437323",
+        "senderName": "NEZIHA TEKKURT",
+        "senderIban": "TR680013400001285429500014",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarida detay bilgileri verilen FAST islemi icin 2290-12854295-351 hesabiniza toplam 4.750,00 TL Borc kaydedilmistir.",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261012|14:16:56|4750|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791803999556,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF8356B2829B70DD828",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
