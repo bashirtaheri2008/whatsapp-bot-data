@@ -107151,6 +107151,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791824896935_6ioo5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "NALCACI",
+        "amount": "7990.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:01:26",
+        "trackingNo": "6841000428",
+        "receiptNo": "2026-10-12-20.01.16.395662",
+        "referenceCode": "",
+        "senderName": "MEHMET ŞİMŞEK",
+        "senderIban": "TR160006200041900006877287",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "VAKIF BANK",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261012|20:01:26|7990|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791824896935,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEAE977EB87C602CF53",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
