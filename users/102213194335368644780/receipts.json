@@ -100283,6 +100283,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791786366560_oju7q",
+      "data": {
+        "isReceipt": true,
+        "bank": "TÜRKİYE VAKIFLAR BANKASI T.A.Ö",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Omraniye/ISTANBUL",
+        "amount": "3785.38",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "09:23:09",
+        "trackingNo": "22728001",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diğer",
+        "bankKey": "",
+        "ocrConfidence": 34,
+        "fingerprint": "GN|20261012|09:23:09|3785.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791786366561,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8D2ACBD684CCA4A45D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
