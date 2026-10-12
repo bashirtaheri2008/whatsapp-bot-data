@@ -102765,6 +102765,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791801849454_xrn1f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türk Ekonomi Bankası A.Ş.",
+        "bankBranch": "CEPTETEB-929",
+        "amount": "3850",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:42",
+        "trackingNo": "00384198",
+        "receiptNo": "763841096",
+        "referenceCode": "30845534",
+        "senderName": "MAHMUT CEVİZLİ",
+        "senderIban": "TR250003200000000118649968",
+        "receiverName": "Javid usmani",
+        "receiverIban": "TR440001500156007351459193",
+        "description": "y",
+        "bankKey": "",
+        "ocrConfidence": 49,
+        "fingerprint": "GN|20261012|13:42|3850|TR440001500156007351459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791801849454,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4EBC26CD7895C5CCDF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791802035683_nq2py",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2729/NİŞCİLET MAHALLESİ/ANKARA GÜMÜŞ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "10:28:07",
+        "trackingNo": "7424817556",
+        "receiptNo": "106872",
+        "referenceCode": "21205469158",
+        "senderName": "KAZIM KATIKCI",
+        "senderIban": "TR550001500158007367279815",
+        "receiverName": "RAHMATULLAH MAHMUD",
+        "receiverIban": "TR350001500158007367279815",
+        "description": "4.000,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafimiza bildirilen 41,87 TRY masraf alinmasini talep ediyorum.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 45,
+        "fingerprint": "ZB|20261017|10:28:07|4000|TR350001500158007367279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791802035683,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3ACE3F85E26B42E9864B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
