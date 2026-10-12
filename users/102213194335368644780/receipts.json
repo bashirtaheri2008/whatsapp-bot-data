@@ -104431,6 +104431,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791813054908_9s7ff",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1330/TUZLUÇAYIR/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:34:35",
+        "trackingNo": "7427856699",
+        "receiptNo": "F19636",
+        "referenceCode": "A01",
+        "senderName": "AYŞE ARSLAN",
+        "senderIban": "TR540015005AA0757530752A1C",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "4.000,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 57,
+        "fingerprint": "ZB|20261012|16:34:35|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791813054908,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE0DA9418103694DCAE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791813072812_50tsy",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "2950.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "00:00:00",
+        "trackingNo": "517717793862",
+        "receiptNo": "",
+        "referenceCode": "17521803",
+        "senderName": "DAVUT TEMUR",
+        "senderIban": "TR550006701000000070172788",
+        "receiverName": "52NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRE",
+        "bankKey": "",
+        "ocrConfidence": 55,
+        "fingerprint": "GN|20261012|00:00:00|2950|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791813072812,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE7A522E2C4C21D0803",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791813137206_n7dly",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "CEBECİ",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:50:29",
+        "trackingNo": "448000355",
+        "receiptNo": "2026-10-12-16.50.27.259566",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR130006200047000006650300",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 33,
+        "fingerprint": "GN|20261012|16:50:29|4300|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791813137206,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A7C4DB20A3043E2FD46",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
