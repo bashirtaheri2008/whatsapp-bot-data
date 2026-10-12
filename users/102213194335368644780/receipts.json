@@ -107627,6 +107627,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791829765035_mqmi5",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "21:24:06",
+        "trackingNo": "2026014284287089",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET AKDEMİR",
+        "senderIban": "TR820001500158",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 70,
+        "fingerprint": "GN|20261012|21:24:06|3000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791829765035,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFFF41057E6125FE1F2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791829783536_vq9hx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "470000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "19:46:17",
+        "trackingNo": "9760476",
+        "receiptNo": "350896",
+        "referenceCode": "",
+        "senderName": "MEHMET KESKEK",
+        "senderIban": "TR260004600567888000302480",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 63,
+        "fingerprint": "AK|20261012|19:46:17|470000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791829783536,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A82CACDEEFEC36EC060",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791829803341_vqu12",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "LEVENT ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "21:11:52",
+        "trackingNo": "1715165715",
+        "receiptNo": "202610121401541",
+        "referenceCode": "00905-1939230",
+        "senderName": "SAMI BEKAR",
+        "senderIban": "TR550011100000000122943041",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR80001500158007392030554",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261012|21:11:52|5000|TR80001500158007392030554"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791829803341,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA703BF450C48AA558E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791829829633_ks4kj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "2500",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "21:05:57",
+        "trackingNo": "B08K9-B-20261012334",
+        "receiptNo": "CKR2026000838314",
+        "referenceCode": "81c44228-7110-4899-942e-ddfca3797fdc",
+        "senderName": "ALI AYDOĞDU",
+        "senderIban": "",
+        "receiverName": "BORİ BAY HAMDArd",
+        "receiverIban": "TR490001500158007321089289",
+        "description": "Gönderen: ALI AYDOĞDU , Alıcı: BORİ BAY HAMDArd , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261012|21:05:57|2500|TR490001500158007321089289"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791829829633,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC63EEACE36C7F355A0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
