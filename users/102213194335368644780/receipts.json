@@ -107219,6 +107219,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791825732636_0ebdy",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:20:10",
+        "trackingNo": "7429310941",
+        "receiptNo": "F85614_4015",
+        "referenceCode": "A01",
+        "senderName": "MASIDE KOYUNCU",
+        "senderIban": "TR930001004015746915245001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261012|20:20:10|8000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791825732636,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0F031058BAA5F0C9F5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
