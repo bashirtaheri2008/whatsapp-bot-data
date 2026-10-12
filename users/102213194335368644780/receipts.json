@@ -105757,6 +105757,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791818309310_kow7l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "400000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:12:11",
+        "trackingNo": "50688369 / 208506",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "FATİH DÖĞER",
+        "senderIban": "TR960004600005888000717708",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 51,
+        "fingerprint": "AK|20261012|18:12:11|400000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791818309310,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1079837FAE88234469",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
