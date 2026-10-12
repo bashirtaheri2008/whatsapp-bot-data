@@ -108307,6 +108307,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791836256037_rlvuq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "4500.00",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "23:02:21",
+        "trackingNo": "3834601401",
+        "receiptNo": "450733005044",
+        "referenceCode": "12.10.2026/447/8888/8888",
+        "senderName": "ÖZGÜR ARTIK",
+        "senderIban": "TR740006400000145070302893",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ÖZGÜR ARTIK tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261012|23:02:21|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791836256037,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9179EAA4A8AA415ED8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
