@@ -108171,6 +108171,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791834300635_ol1dd",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "ZIRAAAT MOBIL",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "22:36:27",
+        "trackingNo": "7430003726",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "VELI AKTUG",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "4.000,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima biden 8,37 TRY masraf alinmasin talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 59,
+        "fingerprint": "ZB|20261012|22:36:27|4000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791834300635,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5E617D00F1297B43D1086041B3D7698",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791834415838_n47d0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "22:39:34",
+        "trackingNo": "5898000539",
+        "receiptNo": "2026-10-12-22.39.30.075097",
+        "referenceCode": "",
+        "senderName": "MUSTAFA BUYUKSEN",
+        "senderIban": "TR240006200146300006672006",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261012|22:39:34|13000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791834415838,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A59EB0854C2AAA42F70",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
