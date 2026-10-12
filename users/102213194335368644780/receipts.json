@@ -102459,6 +102459,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791800005154_wd8oh",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0847/TOPRAKLIK/ANKARA ŞUBESİ",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:43:27",
+        "trackingNo": "7425996060",
+        "receiptNo": "F12486",
+        "referenceCode": "AQ1",
+        "senderName": "GOZDENUR ENGEZ",
+        "senderIban": "TR290001000847605249315003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 75,
+        "fingerprint": "ZB|20261012|12:43:27|4200|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791800005154,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A3507122B6D402BE490",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
