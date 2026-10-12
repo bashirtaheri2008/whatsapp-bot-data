@@ -102425,6 +102425,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791799668456_shm8l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5500.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:02:36",
+        "trackingNo": "AMK84-B-20261012486",
+        "receiptNo": "BCR2026000168354",
+        "referenceCode": "b63a6e2a-1d4b-498c-ab38-280d1520617b",
+        "senderName": "FEYZULLAH YILMAZ",
+        "senderIban": "",
+        "receiverName": "Rahmanutullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Gönderen: FEYZULLAH YILMAZ , Alici: Rahmanutullah hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261012|13:02:36|5500|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791799668456,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3610B0D25C46EA7A8F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
