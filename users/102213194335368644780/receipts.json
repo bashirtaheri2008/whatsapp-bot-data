@@ -102595,6 +102595,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791801161853_6bpm3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "10000.00",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "13:24:50",
+        "trackingNo": "3832856448",
+        "receiptNo": "423160002756",
+        "referenceCode": "12.10.2026/447/8888/8888",
+        "senderName": "MEHMET GÜNER",
+        "senderIban": "TR710006400000142310802036",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "MEHMET GÜNER tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261012|13:24:50|10000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791801161853,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5A76BC0FD270D5D2E8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
