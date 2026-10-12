@@ -101881,6 +101881,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791797693155_xn9v6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "İSTİNYE PARK",
+        "amount": "4400.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:24:18",
+        "trackingNo": "7900000151",
+        "receiptNo": "2026-10-12-12.24.15.227031",
+        "referenceCode": "",
+        "senderName": "EJDER SARI",
+        "senderIban": "TR270006200065100006678728",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 50,
+        "fingerprint": "GN|20261012|12:24:18|4400|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791797693155,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7278BCFE1CD3E55722",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791797723362_vromc",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "01:22",
+        "trackingNo": "1654854374",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-12-01.22.50.866812",
+        "senderName": "IRFAN DAĞLIOĞLU",
+        "senderIban": "TR090001200125500001114400",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - İRFAN DAĞLIOĞLU TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 45,
+        "fingerprint": "GN|20261012|01:22|4000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791797723362,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9C3261E5E3FD799BCC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791797921766_9di7m",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1256/MESİR/MANİSA ŞUBESİ",
+        "amount": "4100.00",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "12:37:02",
+        "trackingNo": "7425933359",
+        "receiptNo": "F65917",
+        "referenceCode": "7425933359",
+        "senderName": "YUSUF KAYA",
+        "senderIban": "TR350001001256757127505001",
+        "receiverName": "RAHMATULLAH HAYRAMIR",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 45,
+        "fingerprint": "ZB|20261012|12:37:02|4100|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791797921766,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363414620844113@g.us",
+        "fromMe": false,
+        "id": "3A88FADBBE38D51FB4E6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
