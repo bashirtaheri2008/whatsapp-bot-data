@@ -102629,6 +102629,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791801202558_3zdei",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:32",
+        "trackingNo": "4891457941",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4891457941"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791801202558,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A36EB4696BCC5D43255",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791801421154_hk5g8",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:34:46",
+        "trackingNo": "517718463148",
+        "receiptNo": "SYJ202614091005",
+        "referenceCode": "3397529775",
+        "senderName": "MEHMET KÜÇÜKAVUN / TIRSAN TİCARET",
+        "senderIban": "TR380006701000000088687678",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261012|13:34:46|5000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791801421154,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABA26233409A4B2E950",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
