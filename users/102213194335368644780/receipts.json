@@ -104193,6 +104193,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791811691607_yg1pj",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0116/ERZINCAN ŞUBESİ",
+        "amount": "9000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "16:21:45",
+        "trackingNo": "7427682678",
+        "receiptNo": "",
+        "referenceCode": "FADE99",
+        "senderName": "YUKSEL GALIKKILIG",
+        "senderIban": "TR600001000116650195135001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "9.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261012|16:21:45|9000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791811691607,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADCADC9ECCCAADAC937",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
