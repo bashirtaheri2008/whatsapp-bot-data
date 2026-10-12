@@ -105961,6 +105961,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791819492705_63m4t",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1345/ESKIL/AKSARAY SUBESI",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "18:27:59",
+        "trackingNo": "7428683657",
+        "receiptNo": "F38764",
+        "referenceCode": "A01",
+        "senderName": "MUSTAFA OKSUN",
+        "senderIban": "TR420001001345729900015003",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261012|18:27:59|6000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791819492705,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6FFFE41C183973DB50",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
