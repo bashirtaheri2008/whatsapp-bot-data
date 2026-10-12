@@ -101779,6 +101779,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791797567356_f4pmb",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "4840.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "12:31:00",
+        "trackingNo": "789100",
+        "receiptNo": "44027108",
+        "referenceCode": "789100/789100",
+        "senderName": "BUKAK CANOGLU",
+        "senderIban": "TR620006200021000000157387",
+        "receiverName": "MOBIL BANKACILIK",
+        "receiverIban": "",
+        "description": "Ara. NAKDIYEN YAGDIR Turkiye transfer",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261012|12:31:00|4840"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791797567356,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A61A39FC9FC44B08F20",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
