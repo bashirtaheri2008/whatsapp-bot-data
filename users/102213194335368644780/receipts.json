@@ -107117,6 +107117,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791824678034_5kw7a",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "30000.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "20:03:44",
+        "trackingNo": "2026014280787993",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR350001500158889815",
+        "receiverName": "NEBIT SEYYID",
+        "receiverIban": "TR210001500158007351023314",
+        "description": "Yukarida Detay Bilgileri Verilen Havale Islemi Gerceklestirilmistir.",
+        "bankKey": "",
+        "ocrConfidence": 68,
+        "fingerprint": "GN|20261012|20:03:44|30000|TR210001500158007351023314"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791824678034,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4ADDEFED210F85F41092",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
