@@ -108239,6 +108239,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791835247974_88b2o",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0568/ORTAKÖY/AKSARAY SUBESİ",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "22:47:21",
+        "trackingNo": "F23258",
+        "receiptNo": "7430026628",
+        "referenceCode": "A01",
+        "senderName": "BATUHAN SÜS",
+        "senderIban": "TR450001009010532423905001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 61,
+        "fingerprint": "ZB|20261012|22:47:21|9000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791835247974,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0DAC5BA956ED7D6A13",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
