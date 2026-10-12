@@ -101065,6 +101065,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791791964557_z8761",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "10:55:48",
+        "trackingNo": "254869294101",
+        "receiptNo": "SYJ202613862681",
+        "referenceCode": "925-793861 / 2548628071700",
+        "senderName": "OĞULCAN ORTAÇ",
+        "senderIban": "TR340006701000000023136217",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261012|10:55:48|3800|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791791964557,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF86D772B3C0FC77729",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791792346855_7a3ly",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Vakıflar Bankası T.A.O.",
+        "bankBranch": "KARŞIYAKA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "12/10/2026",
+        "time": "10:27:50",
+        "trackingNo": "7424012556",
+        "receiptNo": "104873",
+        "referenceCode": "2720/41045794-5074",
+        "senderName": "YALIN YÜKSEK",
+        "senderIban": "TR200001000277004104579450",
+        "receiverName": "RAHMETULLAH HÜSEYİN",
+        "receiverIban": "TR850001500150012667279815",
+        "description": "4.000,00 TRY tutarinda Fast iglencleri yapilmasini, BU iglencler icin tarafima bildirilen 41,87 TRY masraf alinmasini talep ederim.",
+        "bankKey": "",
+        "ocrConfidence": 33,
+        "fingerprint": "GN|20261012|10:27:50|4000|TR850001500150012667279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791792346855,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3651B6891EAB41AE8C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
