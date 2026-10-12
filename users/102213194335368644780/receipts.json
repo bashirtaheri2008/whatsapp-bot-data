@@ -103445,6 +103445,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791804659565_viup3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ANADOLU SANAYI",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "13:03:54",
+        "trackingNo": "2026-10-12-13.03.47.279786",
+        "receiptNo": "",
+        "referenceCode": "9860061",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "KREDI KARTINDAN EFT",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261012|13:03:54|4300|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791804659565,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A96641A88B9A963DFF2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
