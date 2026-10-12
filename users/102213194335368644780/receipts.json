@@ -107967,6 +107967,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791832386539_2jj60",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "399000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "22:08:54",
+        "trackingNo": "16643399",
+        "receiptNo": "518518",
+        "referenceCode": "",
+        "senderName": "BILAL ESKIGORAPGI",
+        "senderIban": "TR170004600221888000293364",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261012|22:08:54|399000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791832386539,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A570C979815B10B66DE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
