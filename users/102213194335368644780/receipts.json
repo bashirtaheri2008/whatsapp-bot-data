@@ -109871,6 +109871,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791880726747_77yis",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1916/BINKONUTLAR/KONYA SUBESI",
+        "amount": "4990",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:12:37",
+        "trackingNo": "7431489829",
+        "receiptNo": "F05382",
+        "referenceCode": "A01",
+        "senderName": "EBUBEKIR FURKAN SARI",
+        "senderIban": "TR880001001916548768695004",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261013|11:12:37|4990|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791880726747,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9A8231C9A3C2B90E9A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
