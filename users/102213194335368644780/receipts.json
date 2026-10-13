@@ -117045,6 +117045,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791916084141_tlgv4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0497/YUNAK/KONYA SUBESI",
+        "amount": "1000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "21:24:39",
+        "trackingNo": "7435564464",
+        "receiptNo": "F08927",
+        "referenceCode": "A01",
+        "senderName": "HASAN HARLAR",
+        "senderIban": "TR950001009010447324805001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261013|21:24:39|1000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791916084141,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC5DB209F2ED79A088E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
