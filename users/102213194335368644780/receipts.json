@@ -112727,6 +112727,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791895271814_g4stb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NECATİBEY",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:39:09",
+        "trackingNo": "1649000253",
+        "receiptNo": "2026-10-13-15.39.06.470797",
+        "referenceCode": "",
+        "senderName": "PEHLÜL ARSLAN",
+        "senderIban": "TR770006200013000006614279",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 51,
+        "fingerprint": "GN|20261013|15:39:09|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791895271814,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A75B9FAC7EC49A5329D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
