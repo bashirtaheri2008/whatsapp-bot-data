@@ -112455,6 +112455,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791893554465_33oky",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1928/MECIDIYE/ANKARA SUBESI",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:10:27",
+        "trackingNo": "F07592",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ABDURREZAK HAJJAR",
+        "senderIban": "TR460001001928898099175001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 61,
+        "fingerprint": "ZB|20261013|15:10:27|4200|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791893554465,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A731A037490B3551C5A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
