@@ -116773,6 +116773,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791914069242_7ktvw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1256/MESİR/MANİSA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "13/10/2026",
+        "time": "20:39:17",
+        "trackingNo": "7435324218",
+        "receiptNo": "",
+        "referenceCode": "F28337",
+        "senderName": "YUSUF KAYA",
+        "senderIban": "TR350001001256757127505001",
+        "receiverName": "RAHMATULLAH HAM",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 43,
+        "fingerprint": "ZB|20261013|20:39:17|4000|TR350001500158007362279815"
+      },
+      "sender": "104265364299835",
+      "timestamp": 1791914069242,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430527359654@g.us",
+        "fromMe": false,
+        "id": "A5172DE872A66C08059922C4D40D02B8",
+        "participant": "104265364299835@lid",
+        "participantAlt": "93772256909@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
