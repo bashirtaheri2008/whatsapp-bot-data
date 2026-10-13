@@ -108647,6 +108647,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791865865937_6znh2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "TOPTANCILAR ST/KONYA",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "23:32:20",
+        "trackingNo": "8398000524",
+        "receiptNo": "2026-10-12-23.32.16.657562",
+        "referenceCode": "",
+        "senderName": "ISMAIL YILDIZ",
+        "senderIban": "TR030006200121300006296207",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinBegYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261012|23:32:20|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791865865937,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A072A746C732DAC49A2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791865878639_dvsz6",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "00:19:41",
+        "trackingNo": "2026014289237899",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSMAİL EROĞLU",
+        "senderIban": "TR9500015001589875",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261013|00:19:41|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791865878639,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1FACD8B3D4849A9102",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
