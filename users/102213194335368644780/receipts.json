@@ -116671,6 +116671,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791912740174_z0vyt",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "20:29:41",
+        "trackingNo": "2026014331389248",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUSUF KARADÖL",
+        "senderIban": "TR7000015001585702",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 28,
+        "fingerprint": "GN|20261013|20:29:41|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791912740174,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB57CCD0DD04B2CD3E1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
