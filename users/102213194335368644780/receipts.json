@@ -113475,6 +113475,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791899627289_eyjp1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN",
+        "amount": "3980.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:52:45",
+        "trackingNo": "9025000314",
+        "receiptNo": "2026-10-13-16.52.42.801759",
+        "referenceCode": "",
+        "senderName": "ENES MANTAR",
+        "senderIban": "TR090006200059600006863530",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261013|16:52:45|3980|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791899627289,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB85EF72560F41A2A89",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
