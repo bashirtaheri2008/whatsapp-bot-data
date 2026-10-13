@@ -115073,6 +115073,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791906310583_fm736",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "415000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:41:23",
+        "trackingNo": "15364438",
+        "receiptNo": "713876",
+        "referenceCode": "",
+        "senderName": "MUSTAFA ULUSOY",
+        "senderIban": "TR860004600033888000371847",
+        "receiverName": "MUSTAFA ULUSOY",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 53,
+        "fingerprint": "AK|20261013|18:41:23|415000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791906310583,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5202BEDAB5427A3F48",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
