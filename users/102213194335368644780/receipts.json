@@ -115821,6 +115821,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791908114190_v7s9v",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİTELER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:14:13",
+        "trackingNo": "177000403",
+        "receiptNo": "2026-10-13-19.14.10.449240",
+        "referenceCode": "KARPUZLU 1 CAD. NO:19",
+        "senderName": "",
+        "senderIban": "TR290006200001600006635695",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "VEYIS ATES",
+        "bankKey": "",
+        "ocrConfidence": 44,
+        "fingerprint": "GN|20261013|19:14:13|4000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791908114190,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A18567AD75EE6BADF6A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
