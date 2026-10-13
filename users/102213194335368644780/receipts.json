@@ -117011,6 +117011,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791915542643_qcwy4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "18/10/2026",
+        "time": "21:10:22",
+        "trackingNo": "7435451430",
+        "receiptNo": "F27903_4034",
+        "referenceCode": "A01",
+        "senderName": "MAHMUT EMİN HARPUTLUOĞLU",
+        "senderIban": "TR350001500158007862279815",
+        "receiverName": "RAHİMATULLAH HAKİNL",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261018|21:10:22|8000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791915542643,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAADF952628363F297A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
