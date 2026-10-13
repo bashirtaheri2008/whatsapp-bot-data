@@ -112183,6 +112183,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791892203012_96tnf",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ÇUKURAMBAR ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:44:22",
+        "trackingNo": "01311-1655994",
+        "receiptNo": "202610128641423",
+        "referenceCode": "T99148",
+        "senderName": "BÜĞRA CAN KORKMAZ",
+        "senderIban": "TR550011100000000160689154",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yatirim",
+        "bankKey": "",
+        "ocrConfidence": 33,
+        "fingerprint": "GN|20261013|14:44:22|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791892203012,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE02F1B1C33423BDA0C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791892221215_jwgft",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:45:54",
+        "trackingNo": "254877339960",
+        "receiptNo": "SYJ2026153793594",
+        "referenceCode": "925-394436 / 2548748892081",
+        "senderName": "AYŞEGÜL KEPÇELİOĞLU",
+        "senderIban": "TR780006701000000056329504",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261013|14:45:54|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791892221215,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A92B09FC3BCF00CC458",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791892235710_dqsov",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "MEVLANA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:47:09",
+        "trackingNo": "202610128662080",
+        "receiptNo": "00421-1869219",
+        "referenceCode": "17159922214",
+        "senderName": "AYŞE DURAN",
+        "senderIban": "TR640011100000000167009591",
+        "receiverName": "Nizamuddin YaQubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 33,
+        "fingerprint": "GN|20261013|14:47:09|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791892235710,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A38A17036878BAC2012",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791892849823_yzmif",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:58:12",
+        "trackingNo": "254873401261",
+        "receiptNo": "2548749166710",
+        "referenceCode": "SYJ2026153957278",
+        "senderName": "HACI GÜNEŞ",
+        "senderIban": "TR380006701000000011989390",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "FAST/",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261013|14:58:12|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791892849823,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABA8A13AD34451F7E55",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
