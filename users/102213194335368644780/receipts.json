@@ -113101,6 +113101,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791896883691_11nib",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2783/hudavent",
+        "amount": "45000.00",
+        "currency": "TL",
+        "date": "13/11/2026",
+        "time": "16:06:55",
+        "trackingNo": "7433394958",
+        "receiptNo": "F09070",
+        "referenceCode": "F03070",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Cengiz Silver kuyumculuk iç ve dış tic san ltd şti",
+        "receiverIban": "TR570013400002295505500001",
+        "description": "ALTIN BEDELİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 80,
+        "fingerprint": "ZB|20261113|16:06:55|45000|TR570013400002295505500001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791896883691,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4A2FB1DB9CE5DC3B4092",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
