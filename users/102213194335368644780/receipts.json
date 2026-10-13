@@ -112387,6 +112387,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791893181911_soloc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "430837",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:01:53",
+        "trackingNo": "51645736 / 367255",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET CAN BOLAT",
+        "senderIban": "TR630004600033888000445787",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 53,
+        "fingerprint": "AK|20261013|15:01:53|430837|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791893181911,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAC42BB86A90927EDA0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791893272511_o6im6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:04:05",
+        "trackingNo": "5294000270",
+        "receiptNo": "2026-10-13-15.03.53.984392",
+        "referenceCode": "",
+        "senderName": "MUSTAFA MERMER",
+        "senderIban": "TR250006200010100006809651",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261013|15:04:05|4200|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791893272511,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A32F8FBA1331989EF80",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
