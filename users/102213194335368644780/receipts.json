@@ -115379,6 +115379,108 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791906991984_6bfn8",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:54",
+        "trackingNo": "1657969660",
+        "receiptNo": "M-2026-10-13-18.54.02.919572",
+        "referenceCode": "",
+        "senderName": "UMMET KEÇECİ",
+        "senderIban": "TR100001200136500001103647",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "GİDEN FAST - ÜMMET KEÇECİ TARAFINDAN GÖNDERİLEN",
+        "bankKey": "ziraat",
+        "ocrConfidence": 60,
+        "fingerprint": "ZB|20261013|18:54|4700|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791906991984,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AABFB2A6E60257ED047",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791907005804_h0k0v",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:54:38",
+        "trackingNo": "B40B0-B-20261013223",
+        "receiptNo": "CGR2026001556299",
+        "referenceCode": "5b287561-b407-4ddb-9af2-c1e4508070aa",
+        "senderName": "CAN AHMED KIYAK",
+        "senderIban": "",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Gönderen: CAN AHMED KIYAK , Alıcı: rahmatullah hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "ziraat",
+        "ocrConfidence": 58,
+        "fingerprint": "ZB|20261013|18:54:38|4700|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791907005804,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A544C95AF64510D81A6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791907105489_4sij4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Albaraka Türk Katılım Bankası A.Ş.",
+        "bankBranch": "89 - ULUS",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:55:25",
+        "trackingNo": "4066253",
+        "receiptNo": "11883697",
+        "referenceCode": "112347",
+        "senderName": "ÖMER ELMASOĞLU",
+        "senderIban": "TR6700203000102628470000001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261013|18:55:25|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791907105489,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A514E8735538D0CA35F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
