@@ -113509,6 +113509,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791900364885_2t4d3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "MAHALLEŞİ/AKSARAY ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:15:19",
+        "trackingNo": "7433548960",
+        "receiptNo": "F12976",
+        "referenceCode": "A01",
+        "senderName": "ISMAILAGATOLU KUME EVLERII NO",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 74,
+        "fingerprint": "ZB|20261013|16:15:19|4000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791900364885,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB8180415F183969ED6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
