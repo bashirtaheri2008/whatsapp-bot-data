@@ -113067,6 +113067,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791896606894_v1xeb",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "44500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:02:45",
+        "trackingNo": "3000371520",
+        "receiptNo": "",
+        "referenceCode": "2026014319741769",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Cengiz Silver kuyumculuk iç ve dış tic san ltd şti",
+        "receiverIban": "TR570013400002295505500001",
+        "description": "ALTIN BEDELİ",
+        "bankKey": "",
+        "ocrConfidence": 70,
+        "fingerprint": "GN|20261013|16:02:45|44500|TR570013400002295505500001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791896606894,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4AEA6B1A146EED1B1CA6",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
