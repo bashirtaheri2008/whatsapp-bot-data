@@ -110041,6 +110041,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791880872316_sd1zh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:37:59",
+        "trackingNo": "632904867019632640",
+        "receiptNo": "",
+        "referenceCode": "13102026-9300-20568893",
+        "senderName": "TAYİP ESKİCİ",
+        "senderIban": "TR620013400002389411100001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261013|11:37:59|6000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791880872316,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A28F259DA34D035A31B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791881078421_ovd9q",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "1956.60",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:42",
+        "trackingNo": "1657115878",
+        "receiptNo": "M-2026-10-13-11.42.28.035106",
+        "referenceCode": "",
+        "senderName": "ERSİN ÖZKAN",
+        "senderIban": "TR850001200138700001126728",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001560158007362279815",
+        "description": "GİDEN FAST - ERSİN ÖZKAN TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261013|11:42|1956.60|TR350001560158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791881078421,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF2720AEFBF5D5F2608",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
