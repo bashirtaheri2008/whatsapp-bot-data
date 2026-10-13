@@ -113543,6 +113543,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791900382885_ed43q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2528/BÜYÜKDAY PAZARI/KONYA SUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:57:05",
+        "trackingNo": "F08173",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUHAMMET YILDIZ",
+        "senderIban": "TR410001002528669772105024",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 70,
+        "fingerprint": "ZB|20261013|16:57:05|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791900382885,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A521D60A3F8E4CBD9D0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791900419783_jqspd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "410000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:00:50",
+        "trackingNo": "31537646 / 565978",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUTLU GAYBASAN",
+        "senderIban": "TR640004600176888000197865",
+        "receiverName": "REHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261013|17:00:50|410000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791900419783,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0A5BA72F8F1BDB0F1F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791900520888_v7qn0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "500000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:07:23",
+        "trackingNo": "53908231",
+        "receiptNo": "576179",
+        "referenceCode": "",
+        "senderName": "ARSEL SAGLIK",
+        "senderIban": "TR880004600221888000294511",
+        "receiverName": "REHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261013|17:07:23|500000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791900520888,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2CDB5B3E0183A47AA3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
