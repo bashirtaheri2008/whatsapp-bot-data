@@ -109769,6 +109769,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791879436114_k51sj",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No 40/1 Ümraniye/İSTANBUL",
+        "amount": "2585.38",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:09:35",
+        "trackingNo": "00283J",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger",
+        "bankKey": "",
+        "ocrConfidence": 43,
+        "fingerprint": "GN|20261013|11:09:35|2585.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791879436114,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A410FC7AF44048B2403",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
