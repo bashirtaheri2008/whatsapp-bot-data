@@ -110653,6 +110653,108 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791885169863_xc5tm",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapiKredi",
+        "bankBranch": "",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:38:43",
+        "trackingNo": "254878556137",
+        "receiptNo": "SYJ2026152600808",
+        "referenceCode": "925-936430 / 2548746991832",
+        "senderName": "YUNUS EMRE BERCIN",
+        "senderIban": "TR280006701000000097403405",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UCBE - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261013|12:38:43|4100|TR350001500158007362279"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791885169863,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABDDFA4C6E03D874935",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791885187519_vd7vh",
+      "data": {
+        "isReceipt": true,
+        "bank": "PTT BANKASI",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4600.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:46:36",
+        "trackingNo": "979563",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KAMURAN SOLAK",
+        "senderIban": "",
+        "receiverName": "NI***** YA****",
+        "receiverIban": "TR34***************0752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 49,
+        "fingerprint": "GN|20261013|12:46:36|4600|TR340752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791885187519,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A97EA9708FF75EF637D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791885325014_3f3o5",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "96000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:54:04",
+        "trackingNo": "2026014311429835",
+        "receiptNo": "",
+        "referenceCode": "2999818718",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Cengiz Silver kuyumculuk iç ve dış tic san ltd şti",
+        "receiverIban": "TR570013400002295505500001",
+        "description": "ALTIN BEDELİ",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": "GN|20261013|12:54:04|96000|TR570013400002295505500001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791885325014,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "AC77BE684FC16DBA721223F2CC3BCC40",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
