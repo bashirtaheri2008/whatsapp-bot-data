@@ -114359,6 +114359,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791903150089_t78m4",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "BÜSAN ŞUBESİ",
+        "amount": "4960.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:50:26",
+        "trackingNo": "1716308413",
+        "receiptNo": "202610130137842",
+        "referenceCode": "01531-1228429",
+        "senderName": "MEHMET KIYAK",
+        "senderIban": "TR180011100000000021044237",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010303422205003",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261013|17:50:26|4960|TR230001009010303422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791903150089,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD9C1030E52C1B1B998",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791903193886_47ab6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NALÇACI",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:49:36",
+        "trackingNo": "7429000358",
+        "receiptNo": "2026-10-13-17.49.07.086586",
+        "referenceCode": "",
+        "senderName": "YUSUF FURKAN VESEK",
+        "senderIban": "TR670006200041900006862886",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261013|17:49:36|5500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791903193886,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A50F29573EFCD82CDBA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791903508383_ts76o",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0316/KIRIKKALE ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:56:58",
+        "trackingNo": "7434337994",
+        "receiptNo": "F21799",
+        "referenceCode": "F21799",
+        "senderName": "BARANCAN KARALOK",
+        "senderIban": "TR640001009010124223705002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261013|17:56:58|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791903508383,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A83342FB34FA492AE16",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
