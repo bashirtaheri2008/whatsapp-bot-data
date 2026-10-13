@@ -110449,6 +110449,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791883754511_7qija",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:24:03",
+        "trackingNo": "632916462461255680",
+        "receiptNo": "",
+        "referenceCode": "13102026-9300-21677884",
+        "senderName": "MEHMET İGERTAŞ",
+        "senderIban": "TR750013400001554365000001",
+        "receiverName": "NIZAMUDDINYAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi için 3905-1554365-351 hesabiniza toplam 4.500,00 TL Borç kaydedilmiştir",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261013|12:24:03|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791883754511,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACA8161E3DB3742A89A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
