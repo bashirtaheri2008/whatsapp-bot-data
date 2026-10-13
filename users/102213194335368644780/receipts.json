@@ -115311,6 +115311,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791906823493_sjouf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÖVECLER",
+        "amount": "3990.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:51:19",
+        "trackingNo": "210000404",
+        "receiptNo": "2026-10-13-18.51.18.249435",
+        "referenceCode": "14305048730",
+        "senderName": "YUSUF BURAK CEMEKCI",
+        "senderIban": "TR090006200126000006656025",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 50,
+        "fingerprint": "GN|20261013|18:51:19|3990|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791906823493,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0F3C751DFBA5DF2E9E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791906975092_5z60e",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:52",
+        "trackingNo": "4894997035",
+        "receiptNo": "03663-03663-996087297",
+        "referenceCode": "03663-03663-996087297",
+        "senderName": "MELIHA DIGRAK",
+        "senderIban": "TR0S0015700000000084239315",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4894997035"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791906975092,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "A5782AA6AB415BDF534E2A2C68374FCE",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
