@@ -114291,6 +114291,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791902991386_ll4xd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:47",
+        "trackingNo": "4894815094",
+        "receiptNo": "03663-03663-995939211",
+        "referenceCode": "",
+        "senderName": "MEHMET KUCUKTONBUL",
+        "senderIban": "TR210015700000000130161518",
+        "receiverName": "",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 78,
+        "fingerprint": "EP|4894815094"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791902991386,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8B4A92A25993AE6EBC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
