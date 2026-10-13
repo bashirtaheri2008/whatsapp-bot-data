@@ -111435,6 +111435,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791889364212_20je4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "400000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:00:15",
+        "trackingNo": "27555302 / 265743",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUHAMMED FEHMI KLIG",
+        "senderIban": "TR950004600005888000768651",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 51,
+        "fingerprint": "AK|20261013|14:00:15|400000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791889364212,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3DB97CD0D640F89320",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791889420311_1v4a5",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:00:22",
+        "trackingNo": "254873977556",
+        "receiptNo": "SYJ2026153373611",
+        "referenceCode": "2548748328305",
+        "senderName": "MUHAMMET FETHULLAH ECE",
+        "senderIban": "TR020006701000000026356320",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "FAST/",
+        "bankKey": "",
+        "ocrConfidence": 54,
+        "fingerprint": "GN|20261013|14:00:22|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791889420311,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC0A61088C34B06C82A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791889578011_ntlpl",
+      "data": {
+        "isReceipt": true,
+        "bank": "ALICI IBAN TR34 0001 0001 6800 7312 2207 52",
+        "bankBranch": "Çağrı Sube",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:54",
+        "trackingNo": "4894717150",
+        "receiptNo": "260636363-99530196",
+        "referenceCode": "261010137617583",
+        "senderName": "Nizamuddin Yaqubi",
+        "senderIban": "TR700015700000000606546328",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR700015700000000606546328",
+        "description": "Bireysel Odeme EFT (FAST) sorgu no: 4894717150",
+        "bankKey": "",
+        "ocrConfidence": 56,
+        "fingerprint": "GN|20261013|13:54|4000|TR700015700000000606546328"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791889578011,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A636FAD4C4A23786317",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
