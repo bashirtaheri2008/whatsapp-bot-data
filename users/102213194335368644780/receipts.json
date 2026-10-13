@@ -111061,6 +111061,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791887671113_k6wt1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "3450",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:33",
+        "trackingNo": "4894057653",
+        "receiptNo": "03663-03663-995310895",
+        "referenceCode": "",
+        "senderName": "EGEMEN FIRAT BATU",
+        "senderIban": "TR860015700000000140272792",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4894057653"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791887671113,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABE1D6BDF5ADB66123A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791887899712_8daw2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0116/ERZINCAN ŞUBESİ",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:28:57",
+        "trackingNo": "7432279265",
+        "receiptNo": "F20195",
+        "referenceCode": "A01",
+        "senderName": "YUKSEL GALIKKILIG",
+        "senderIban": "TR600001000116650195135001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "9.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261013|13:28:57|9000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791887899712,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA1A6013708E0492BBB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
