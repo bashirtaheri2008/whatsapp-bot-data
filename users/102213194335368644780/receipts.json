@@ -110109,6 +110109,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791881187918_rbahl",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:41:51",
+        "trackingNo": "3592000124",
+        "receiptNo": "2026-10-13-11.41.21.742685",
+        "referenceCode": "",
+        "senderName": "MUSTAFA AYGUN",
+        "senderIban": "TR940006200132600006666969",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261013|11:41:51|4200|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791881187918,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6BE6F88DC173CECED6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
