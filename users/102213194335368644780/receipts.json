@@ -113135,6 +113135,142 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791896933291_0tvq3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "400000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:02:30",
+        "trackingNo": "27525541",
+        "receiptNo": "470137",
+        "referenceCode": "",
+        "senderName": "BATUHAN GULTEKIN",
+        "senderIban": "TR410004600945888000103860",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 49,
+        "fingerprint": "AK|20261013|16:02:30|400000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791896933291,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A254A08C19D5C5C55A6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791896948784_y4sm1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türk Ekonomi Bankası A.Ş.",
+        "bankBranch": "CEPTETEB-929",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:04",
+        "trackingNo": "764466222",
+        "receiptNo": "33477973",
+        "referenceCode": "00420746",
+        "senderName": "ALİ BİLGİ",
+        "senderIban": "TR5700030000000145869144",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500156007312220752",
+        "description": "Sayın ALİ BİLGİ",
+        "bankKey": "",
+        "ocrConfidence": 23,
+        "fingerprint": "GN|20261013|16:04|4200|TR340001500156007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791896948784,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A47FA9CC475DD405579",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791896961488_t003r",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ATATÜRK BULV AKSARAY",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:03:47",
+        "trackingNo": "9095000290",
+        "receiptNo": "2026-10-13-16.03.26.048230",
+        "referenceCode": "01512/6621751",
+        "senderName": "ZELİHA BAŞ",
+        "senderIban": "TR540006200151200006621751",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261013|16:03:47|5000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791896961488,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABD4C01BDE9498165DC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791897254082_bp0g7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "500000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:12:30",
+        "trackingNo": "38662029",
+        "receiptNo": "486771",
+        "referenceCode": "",
+        "senderName": "EMRE GARİPÖZ",
+        "senderIban": "TR750004600375888000254259",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 52,
+        "fingerprint": "AK|20261013|16:12:30|500000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791897254082,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8DCE037B39768B6A19",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
