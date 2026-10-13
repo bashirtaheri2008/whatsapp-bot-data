@@ -112523,6 +112523,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791894215812_qnqlg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:20",
+        "trackingNo": "4894370240",
+        "receiptNo": "03663-03663-995576345",
+        "referenceCode": "",
+        "senderName": "ILHAN DEVEBOYNU",
+        "senderIban": "TR340015700000000149658575",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4894370240"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791894215812,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A19D772B8FDEF8C604F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
