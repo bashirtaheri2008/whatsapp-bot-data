@@ -110755,6 +110755,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791885396709_99yi6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "3450",
+        "currency": "TL",
+        "date": "29/09/2026",
+        "time": "12:48",
+        "trackingNo": "4857938855",
+        "receiptNo": "03663-03663-942775871",
+        "referenceCode": "03663-03663-942775871",
+        "senderName": "EGEMEN FIRAT BATU",
+        "senderIban": "TR860015700000000140272792",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR80 0001 5001 5800 7392 0305 54",
+        "description": "Bireysel Odeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4857938855"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791885396709,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7B94C1AB5405F80421",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
