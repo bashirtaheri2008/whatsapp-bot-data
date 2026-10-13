@@ -114835,6 +114835,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791905399782_ov02s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "İSTANBUL",
+        "amount": "5508.37",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:26:56",
+        "trackingNo": "383680355",
+        "receiptNo": "540086806468",
+        "referenceCode": "TR6300064004504011229234",
+        "senderName": "EMRE COLAK",
+        "senderIban": "TR170006400040154011229234",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR8200010001030142200603",
+        "description": "GENI ODEME",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261013|18:26:56|5508.37|TR8200010001030142200603"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791905399782,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7F6643AC111BF01FB8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
