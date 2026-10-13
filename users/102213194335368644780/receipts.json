@@ -108545,6 +108545,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791857730344_6j6qu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "11000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "00:59:06",
+        "trackingNo": "517720804653",
+        "receiptNo": "SYJ2026148126719",
+        "referenceCode": "925-856335 / 2548741056537",
+        "senderName": "OSMAN ETİ",
+        "senderIban": "TR580006701000000020683043",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261013|00:59:06|11000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791857730344,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC772B7A7E756244F54",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791857744646_csu3c",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "02:03:54",
+        "trackingNo": "A20US-B-20261013156",
+        "receiptNo": "BVP2026001426151",
+        "referenceCode": "f4fc7aa1-dbb3-4a7f-83b3-944ba8417e35",
+        "senderName": "AHMET SARICI",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: AHMET SARICI , Alici: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 60,
+        "fingerprint": "GN|20261013|02:03:54|6000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791857744646,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A933EB250DA7CC78DC3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
