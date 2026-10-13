@@ -109837,6 +109837,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791880355716_6pwo0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "7",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:30:41",
+        "trackingNo": "27341372 / 928352",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SERVET KAHVECI",
+        "senderIban": "TR740004600922888000152431",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261013|11:30:41|7|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791880355716,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB36B582C83283B2A59",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
