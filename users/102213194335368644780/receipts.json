@@ -116705,6 +116705,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791912755878_k58kg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "4,600",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "20:30:45",
+        "trackingNo": "20579927 / 860450",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SADIK ASLAN",
+        "senderIban": "TR460004600179888000202113",
+        "receiverName": "SADIK ASLAN",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 57,
+        "fingerprint": "AK|20261013|20:30:45|4600|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791912755878,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE6FFBEE07537CC0F44",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791912858574_lgiey",
+      "data": {
+        "isReceipt": true,
+        "bank": "Papara Elektronik Para Kuruluşu",
+        "bankBranch": "",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "20:29",
+        "trackingNo": "4449892985",
+        "receiptNo": "PUA2026020202449",
+        "referenceCode": "539458",
+        "senderName": "Ümit Yılmaz",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "TR340001500158007312220752",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261013|20:29|3000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791912858574,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5995B871D0C04AB8627BB285917D835",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
