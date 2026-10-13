@@ -112625,6 +112625,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791894463409_x3ucu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk Katılım Bankası A.Ş.",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "25000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:25:45",
+        "trackingNo": "AYFY4-B-2026101379",
+        "receiptNo": "BLS2026001796505",
+        "referenceCode": "1412b258-3911-4414-afb8-aab30114b144",
+        "senderName": "ABDULMUCIB AHMETOĞLU",
+        "senderIban": "",
+        "receiverName": "Karimullah Arifi",
+        "receiverIban": "TR140006400000110951019379",
+        "description": "Gönderen: ABDULMUCIB AHMETOĞLU , Alıcı: Karimullah Arifi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261013|15:25:45|25000|TR140006400000110951019379"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791894463409,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "AC4E2DB48A7DDA3CB0F6ABC9FF4C4C77",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
