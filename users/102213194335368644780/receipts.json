@@ -110789,6 +110789,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791886267199_k7diq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "ANKARA ETIMESGUT",
+        "amount": "3050",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:48",
+        "trackingNo": "4893932194",
+        "receiptNo": "202610136927147",
+        "referenceCode": "03663-03663-995202233",
+        "senderName": "EGEMEN FIRAT BATU",
+        "senderIban": "TR860015700000000140272792",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR860015000000000140272792",
+        "description": "Bireysel Odeme, EFT (FAST)",
+        "bankKey": "enpara",
+        "ocrConfidence": 43,
+        "fingerprint": "EP|4893932194"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791886267199,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A74632EC7BC8360E9FF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
