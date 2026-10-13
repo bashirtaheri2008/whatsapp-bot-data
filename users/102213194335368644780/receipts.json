@@ -109565,6 +109565,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791877962417_8zwoq",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1985/AYDOĞDU/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "10:47:31",
+        "trackingNo": "7431145597",
+        "receiptNo": "F03831",
+        "referenceCode": "A01",
+        "senderName": "SAMET DİĞRAK",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 78,
+        "fingerprint": "ZB|20261013|10:47:31|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791877962417,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A08A4711D833CAFD4DE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
