@@ -110483,6 +110483,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791884462810_9hrhg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk Katılım Bankası A.Ş.",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "47000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:24:19",
+        "trackingNo": "AZQN3-B-20260904428",
+        "receiptNo": "BPZ2026000480068",
+        "referenceCode": "",
+        "senderName": "GAMZE DEMİR",
+        "senderIban": "",
+        "receiverName": "Kerimullah Arifi",
+        "receiverIban": "TR140006400000110951019379",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261013|12:24:19|47000|TR140006400000110951019379"
+      },
+      "sender": "252861938147483",
+      "timestamp": 1791884462810,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "AC807817F477D0460ED203223C534B12",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
