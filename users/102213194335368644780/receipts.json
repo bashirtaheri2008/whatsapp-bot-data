@@ -115175,6 +115175,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791906470083_a0k4r",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:44:38",
+        "trackingNo": "B3KN6-B-20261013334",
+        "receiptNo": "CKR2026000842655",
+        "referenceCode": "9cf8bf5b-67cb-497c-b4b0-00a6ed37b10b",
+        "senderName": "SACIT YILDIZ",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gonderen: SACIT YILDIZ , Alici: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 51,
+        "fingerprint": "GN|20261013|18:44:38|4500"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791906470083,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6DCC5C4EDBB1E42FDD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791906482095_7satz",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:42:55",
+        "trackingNo": "2026014327446966",
+        "receiptNo": "",
+        "referenceCode": "3000835489",
+        "senderName": "MEHMET AKDEMİR",
+        "senderIban": "",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 52,
+        "fingerprint": "GN|20261013|18:42:55|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791906482095,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB768A9EA95910FC7B5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791906545283_rkmi0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "6350",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:43",
+        "trackingNo": "4894971361",
+        "receiptNo": "03663-03663-996066411",
+        "referenceCode": "03663-03663-996066411",
+        "senderName": "BURAK TASPINAR",
+        "senderIban": "TR500015700000000159225688",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4894971361"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791906545283,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2BC22858BE55FD6CB1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
