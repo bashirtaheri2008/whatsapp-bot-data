@@ -114053,6 +114053,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791902319081_x3zm0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2783/hudavent",
+        "amount": "40000",
+        "currency": "TL",
+        "date": "13/11/2026",
+        "time": "17:37:51",
+        "trackingNo": "7434129449",
+        "receiptNo": "F11358",
+        "referenceCode": "F11358",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "FATEMEH FAGHIRZADEH",
+        "receiverIban": "TR340001500158007352071650",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 79,
+        "fingerprint": "ZB|20261113|17:37:51|40000|TR340001500158007352071650"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791902319081,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4A1A09B1D1DD07C988E9",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
