@@ -117555,6 +117555,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791928171171_yul4e",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "ZİRAAT MOBİL",
+        "amount": "15000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "00:47:38",
+        "trackingNo": "7436256795",
+        "receiptNo": "1410/2026-00-47-20 - F00319",
+        "referenceCode": "A01",
+        "senderName": "GULHAN DEGER",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ONBESBINONALTITLYETMISBESKR",
+        "bankKey": "ziraat",
+        "ocrConfidence": 58,
+        "fingerprint": "ZB|20261014|00:47:38|15000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791928171171,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5146334ACC3FF9506F1913AD32C8502",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
