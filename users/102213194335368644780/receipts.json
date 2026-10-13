@@ -110143,6 +110143,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791881331816_25hvv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "3980",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:46:09",
+        "trackingNo": "254877295991",
+        "receiptNo": "SYJ2026152060477",
+        "referenceCode": "925-959886 / 2548746407110",
+        "senderName": "SATILMIS UCAR",
+        "senderIban": "TR800006701000000042271840",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UCBE - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261013|11:46:09|3980|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791881331816,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFBD9FF90E725251F2D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
