@@ -114665,6 +114665,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791904373886_4i8ev",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0497/YUNAK/KONYA SUBESI",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:07:37",
+        "trackingNo": "7434329427",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "FURKAN COSGUN",
+        "senderIban": "TR520001009010563553005001",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 77,
+        "fingerprint": "ZB|20261013|18:07:37|9000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791904373886,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6FE1EDB8BDAA2BBBC2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
