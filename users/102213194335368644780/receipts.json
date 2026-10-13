@@ -111333,6 +111333,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791889256812_gda04",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4280.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:59",
+        "trackingNo": "1657386869",
+        "receiptNo": "M-2026-10-13-13.59.34.152153",
+        "referenceCode": "",
+        "senderName": "ARDA HAKAN AKTEPE",
+        "senderIban": "TR350001200148000001107084",
+        "receiverName": "RAHMATULLAH HAKIM",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GIDEN FAST - ARDA HAKAN AKTEPE TARAFINDAN GONDERILEN",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261013|13:59|4280|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791889256812,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A37064E4F32F8467A0A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
