@@ -109089,6 +109089,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791873775322_ya308",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapi Kredi",
+        "bankBranch": "",
+        "amount": "4730",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "09:36:47",
+        "trackingNo": "254876555344",
+        "receiptNo": "SYJ2026151023563",
+        "referenceCode": "925-433604 / 2548744652325",
+        "senderName": "TAHIR ÖZDEMİR",
+        "senderIban": "TR980006701000000065595748",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261013|09:36:47|4730|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791873775322,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7BE80395FC516BEB63",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
