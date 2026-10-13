@@ -111367,6 +111367,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791889338249_wjaj2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2659/SULTANHANI/AKSARAY SUBESI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:57:48",
+        "trackingNo": "7432595897",
+        "receiptNo": "F03225",
+        "referenceCode": "A01",
+        "senderName": "MURAT BAŞGAN",
+        "senderIban": "TR480001002659607222985008",
+        "receiverName": "jawid usmans",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 61,
+        "fingerprint": "ZB|20261013|13:57:48|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791889338249,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A22D6FE0066E33D8766",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791889349393_viybh",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ATATÜRK BULV AKSARAY",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:59:02",
+        "trackingNo": "6820000199",
+        "receiptNo": "2026-10-13-13.58.59.905965",
+        "referenceCode": "1512/6625563",
+        "senderName": "ERHAN KILIÇ",
+        "senderIban": "TR470006200151200006625563",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 49,
+        "fingerprint": "GN|20261013|13:59:02|5000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791889349393,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A66CC7F9F9433C6663D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
