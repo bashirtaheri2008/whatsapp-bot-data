@@ -109429,6 +109429,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791876726321_2xwct",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2603/ZAFER SANAYİ KONYA ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "13/10/2028",
+        "time": "10:22:49",
+        "trackingNo": "7431197099",
+        "receiptNo": "F05167",
+        "referenceCode": "0015",
+        "senderName": "AHMET ÜÇLER",
+        "senderIban": "TR8400010002555010",
+        "receiverName": "NIZAMUDDIN YAKUBI",
+        "receiverIban": "TR3400066001220752",
+        "description": "EFTTGIDD INTERNET INTERNET INTERNET",
+        "bankKey": "ziraat",
+        "ocrConfidence": 49,
+        "fingerprint": "ZB|20281013|10:22:49|4500|TR3400066001220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791876726321,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A346708E8D00C285AE2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
