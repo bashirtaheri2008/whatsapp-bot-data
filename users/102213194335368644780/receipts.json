@@ -117351,6 +117351,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791922066747_vyvum",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "7250.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "23:04:48",
+        "trackingNo": "B8USV-B-20261013156",
+        "receiptNo": "BVP2026001433831",
+        "referenceCode": "53814af7-9eca-4d14-ad75-c9d7e89d5936",
+        "senderName": "AHMET SARICI",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: AHMET SARICI , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261013|23:04:48|7250|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791922066747,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A808D385CDC9FBE0E85",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791922083943_a68it",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0006/ÇUBUK/ANKARA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "22:45:16",
+        "trackingNo": "7435875972",
+        "receiptNo": "F24699",
+        "referenceCode": "F24699",
+        "senderName": "SEMIH IGLI",
+        "senderIban": "TR050001000006830488155008",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 73,
+        "fingerprint": "ZB|20261013|22:45:16|5000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791922083943,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9C0F13AD0720447756",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791922099543_nker5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0006/ÇUBUK/ANKARA ŞUBESİ",
+        "amount": "285.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "22:59:59",
+        "trackingNo": "7435888734",
+        "receiptNo": "F24843",
+        "referenceCode": "F24843",
+        "senderName": "SEMIH IGLI",
+        "senderIban": "TR050001000006830488155008",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261013|22:59:59|285|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791922099543,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEA14724D1A764D6A0F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
