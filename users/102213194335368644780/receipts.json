@@ -114767,6 +114767,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791904885989_ykes1",
+      "data": {
+        "isReceipt": true,
+        "bank": "TÜRKİYE İŞ BANKASI",
+        "bankBranch": "MCBİL BANKACILIK",
+        "amount": "4908.37",
+        "currency": "TRY",
+        "date": "13/10/2026",
+        "time": "18:18:19",
+        "trackingNo": "515038007923",
+        "receiptNo": "429313665",
+        "referenceCode": "13.10.2026/447888888888",
+        "senderName": "CANSU KIRAN",
+        "senderIban": "TR150006400000151001895260",
+        "receiverName": "RAHMATULLAH HAKIM",
+        "receiverIban": "TR32000100901035942205003",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261013|18:18:19|4908.37|TR32000100901035942205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791904885989,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC47DAF7E36CBFD4306",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
