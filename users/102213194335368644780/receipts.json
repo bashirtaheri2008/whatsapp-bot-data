@@ -109905,6 +109905,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791880742110_pnqui",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:21:04",
+        "trackingNo": "ATJOL-B-20261013246",
+        "receiptNo": "CKD2026001836263",
+        "referenceCode": "6d9b02f5-b914-4a14-9265-a293af477a80",
+        "senderName": "AYŞEGÜL KURT",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: AYŞEGÜL KURT , Alıcı: NIZAMUDDIN YAQUBI, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 55,
+        "fingerprint": "GN|20261013|11:21:04|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791880742110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A556581F4C313B35B7F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791880756420_ozbqn",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2333/YÜKSELTEPE/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:35:06",
+        "trackingNo": "7431583115",
+        "receiptNo": "F02451",
+        "referenceCode": "A01",
+        "senderName": "BARİŞ BERKCAN",
+        "senderIban": "TR050001009010163039005001",
+        "receiverName": "nizamuddinyaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 57,
+        "fingerprint": "ZB|20261013|11:35:06|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791880756420,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2AF6F4BA5A2C3F1FF8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791880773312_w4e9a",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "3750",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:36",
+        "trackingNo": "4893741685",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4893741685"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791880773312,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADF81E0A94ED032F7A8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791880851610_8fgvl",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "NATOYOLU ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:28:11",
+        "trackingNo": "1715062700",
+        "receiptNo": "01327-1468375",
+        "referenceCode": "202610127116049",
+        "senderName": "UGUR EMİROĞLU",
+        "senderIban": "TR060011100000000161788640",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500159007362276815",
+        "description": "Diger Kira Odemesi",
+        "bankKey": "",
+        "ocrConfidence": 31,
+        "fingerprint": "GN|20261013|11:28:11|4000|TR350001500159007362276815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791880851610,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD13ADE50E70CE206E5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
