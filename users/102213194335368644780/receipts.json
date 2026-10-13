@@ -115855,6 +115855,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791908818482_567ts",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:19:48",
+        "trackingNo": "4836000356",
+        "receiptNo": "2026-10-13-19.19.45.913955",
+        "referenceCode": "",
+        "senderName": "MUSTAFA AYGUN",
+        "senderIban": "TR940006200132600006666969",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261013|19:19:48|4000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791908818482,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9477C791BD8EDF390F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
