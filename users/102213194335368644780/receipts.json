@@ -109225,6 +109225,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791875477812_941iq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "4485.00",
+        "currency": "TRY",
+        "date": "13/10/2026",
+        "time": "00:25:45",
+        "trackingNo": "3834690480",
+        "receiptNo": "560089007840",
+        "referenceCode": "13.10.2026/447/8888/8888",
+        "senderName": "HATICE NUR CERAN",
+        "senderIban": "TR950006400000156002122781",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "HATICE NUR CERAN tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261013|00:25:45|4485|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791875477812,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2BDEE46B221A8ECD30",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
