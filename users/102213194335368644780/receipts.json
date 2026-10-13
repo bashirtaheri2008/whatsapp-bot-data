@@ -116909,6 +116909,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791914630544_ruj0y",
+      "data": {
+        "isReceipt": true,
+        "bank": "Albaraka Türk Katılım Bankası A.Ş.",
+        "bankBranch": "6 - KONYA",
+        "amount": "3000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "21:00:47",
+        "trackingNo": "4074894",
+        "receiptNo": "11887424",
+        "referenceCode": "124525",
+        "senderName": "RIFAT ABDULLAH HATAY",
+        "senderIban": "TR750020300000723459000009",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261013|21:00:47|3000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791914630544,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A50E3D7F1DE0A40B5A7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
