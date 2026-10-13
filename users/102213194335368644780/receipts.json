@@ -115889,6 +115889,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791908839982_jtxi2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:19",
+        "trackingNo": "4895068391",
+        "receiptNo": "03663-03663-996145661",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4895068391"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791908839982,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2FC64BD769E0148B7A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791908856183_4dktn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "2600",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:14:17",
+        "trackingNo": "517737774031",
+        "receiptNo": "SYJ2026156587268",
+        "referenceCode": "925-381767 / 2548752974202",
+        "senderName": "BÜSRA KARAKUŞ",
+        "senderIban": "TR450006701000000013049280",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261013|19:14:17|2600|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791908856183,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A59F6EEF9AFBCD0BED3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791908870086_ka0jc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "460000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:19:36",
+        "trackingNo": "25179101 / 767393",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RIZAKAYA",
+        "senderIban": "TR5800046009222888000078708",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 59,
+        "fingerprint": "AK|20261013|19:19:36|460000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791908870087,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE04104BBDB9FA24E0F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791908926884_cbjvc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:16",
+        "trackingNo": "4895062483",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4895062483"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791908926884,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB3C8F0DA3DF102DB66",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
