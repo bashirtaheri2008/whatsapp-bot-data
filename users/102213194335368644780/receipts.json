@@ -109293,6 +109293,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791876069412_th34p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Katılım",
+        "bankBranch": "78 - KARATAY",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "10:19:59",
+        "trackingNo": "10018582",
+        "receiptNo": "7834576/15010",
+        "referenceCode": "78-1247032-1",
+        "senderName": "Ü****",
+        "senderIban": "000000000000000000001",
+        "receiverName": "RAHMATULLAHI HAKIMI",
+        "receiverIban": "TR35000150018007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 23,
+        "fingerprint": "ZB|20261013|10:19:59|5000|TR35000150018007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791876069412,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A885DCD20F41D4F0341",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
