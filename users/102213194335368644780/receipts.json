@@ -111605,6 +111605,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791890486012_h2mmn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4750",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:09",
+        "trackingNo": "4894157896",
+        "receiptNo": "03663-03663-995397430",
+        "referenceCode": "",
+        "senderName": "IBRAHIM ATLICI",
+        "senderIban": "TR280015700000000204745274",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4894157896"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791890486012,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6EA1BB06BDE5264129",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
