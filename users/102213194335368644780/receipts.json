@@ -116637,6 +116637,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791912552086_ytt9v",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "20:28:10",
+        "trackingNo": "517736087877",
+        "receiptNo": "SYJ2026157333958",
+        "referenceCode": "925-884170 / 2548753853740",
+        "senderName": "CANSU AKBABA",
+        "senderIban": "TR710006701000000048996527",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261013|20:28:10|3500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791912552086,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF10105E5F7A0E060C8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
