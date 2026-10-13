@@ -111911,6 +111911,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791891270722_ii58k",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Ümraniye/İSTANBUL",
+        "amount": "3985.38",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:32:54",
+        "trackingNo": "014288",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diğer",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261013|14:32:54|3985.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791891270722,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACEADF5E0AE92F2581D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791891298818_7o3jy",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2603/ZAFER SANAYI/KONYA SUBESI",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:30:44",
+        "trackingNo": "7432819630",
+        "receiptNo": "F11876",
+        "referenceCode": "A01",
+        "senderName": "YUSUF PARMAKSIZ",
+        "senderIban": "TR720001009010015282305003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 78,
+        "fingerprint": "ZB|20261013|14:30:44|7500|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791891298818,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A966623CC146988E32C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791891340220_j1nlb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÇUKURAMBAR",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:20:21",
+        "trackingNo": "123000206",
+        "receiptNo": "2026-10-13-14.20.17.099214",
+        "referenceCode": "",
+        "senderName": "AHMET BARAN DAŞPINAR",
+        "senderIban": "TR060006200118300006625812",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 54,
+        "fingerprint": "GN|20261013|14:20:21|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791891340220,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A675C12EAE53C76A3B8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791891726307_yavdh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:41:01",
+        "trackingNo": "254872239847",
+        "receiptNo": "SYJ2026153770738",
+        "referenceCode": "925-936753 / 2548748864772",
+        "senderName": "YUNUS EMRE BERCIN",
+        "senderIban": "TR280006701000000097403405",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UCBEI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 41,
+        "fingerprint": "GN|20261013|14:41:01|4100|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791891726307,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE0390ED0455D621D17",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
