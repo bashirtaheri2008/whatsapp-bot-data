@@ -110993,6 +110993,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791887466309_53bs4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "3450",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:30:39",
+        "trackingNo": "2999919170",
+        "receiptNo": "",
+        "referenceCode": "2026014312959485",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Egemen Firat Batu",
+        "receiverIban": "TR860015700000000140272792",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 72,
+        "fingerprint": "EP|2999919170"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791887466309,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A7AB83EB8C0E31CA401",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
