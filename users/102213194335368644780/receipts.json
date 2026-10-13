@@ -115685,6 +115685,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791907855487_n3c1w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:06",
+        "trackingNo": "4895034732",
+        "receiptNo": "03663-03663-996118622",
+        "referenceCode": "",
+        "senderName": "ADEM ALTAY",
+        "senderIban": "TR850015700000000081435326",
+        "receiverName": "",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4895034732"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791907855487,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABCAB3705E05F7989BD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791907875287_uebbo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:07",
+        "trackingNo": "4895036977",
+        "receiptNo": "03663-03663-996120287",
+        "referenceCode": "",
+        "senderName": "MUHAMMED TUNG",
+        "senderIban": "TR320015700000000203360042",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4895036977"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791907875287,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE1A475984057BD516A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791907958583_5esmm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:11:29",
+        "trackingNo": "BAR77-B-20261013409",
+        "receiptNo": "BTK2026001244834",
+        "referenceCode": "431e5c55-c86c-4c93-83af-49677ffe27d1",
+        "senderName": "EMRE DOĞDU",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Gönderen: EMRE DOĞDU , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261013|19:11:29|5000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791907958583,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A55D683EF0F3F76FC07",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
