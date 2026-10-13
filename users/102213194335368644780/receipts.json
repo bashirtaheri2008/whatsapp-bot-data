@@ -117487,6 +117487,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791924913439_qwiey",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "23:45",
+        "trackingNo": "4895617422",
+        "receiptNo": "03663-03663-996613476",
+        "referenceCode": "03663-03663-996613476",
+        "senderName": "SUPHAN GOZGER",
+        "senderIban": "TR790015700000000204309796",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "Bireysel Odeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4895617422"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791924913439,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A868153D192B48CCF3E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
