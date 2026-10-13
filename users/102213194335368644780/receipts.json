@@ -113951,6 +113951,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791901625284_mgstg",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "NATOLYOLU / ANKARA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:25:54",
+        "trackingNo": "6567000385",
+        "receiptNo": "2026-10-13-17.25.49.115845",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR600006200125700006650078",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ BeşBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261013|17:25:54|5000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791901625284,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A702408839595C789FC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791901789388_75vkl",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Finanskent Mahallesi Finans No:40/1 Umraniye/ISTANBUL",
+        "amount": "4005.38",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:26:22",
+        "trackingNo": "20767004",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "KARTSIZ PARA YATIRMA",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261013|17:26:22|4005.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791901789388,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A23575DCD687AF82A97",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
