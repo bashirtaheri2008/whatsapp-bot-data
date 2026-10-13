@@ -113815,6 +113815,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791901258986_4euq1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0627/SİTELER/ANKARA ŞUBESİ",
+        "amount": "490000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:20:02",
+        "trackingNo": "F05892",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MARZİYE ELEKÇİ",
+        "senderIban": "TR540001000627965312645001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "kira",
+        "bankKey": "ziraat",
+        "ocrConfidence": 56,
+        "fingerprint": "ZB|20261013|17:20:02|490000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791901258986,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A26C66DC7D655DB9BCA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
