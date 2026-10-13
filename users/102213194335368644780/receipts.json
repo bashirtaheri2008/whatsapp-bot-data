@@ -116841,6 +116841,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791914218946_4wr5m",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "20:50:00",
+        "trackingNo": "517737195950",
+        "receiptNo": "SYJ2026157500359",
+        "referenceCode": "925-434600 / 2548754129260",
+        "senderName": "YUNUS EMRE KAVUNCU",
+        "senderIban": "TR740006701000000047664857",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261013|20:50:00|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791914218946,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4C383635886222351C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791914561240_vi9hp",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYİ KONYA ŞUBESİ",
+        "amount": "10000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "21:00:39",
+        "trackingNo": "1716573097",
+        "receiptNo": "01532-1250945",
+        "referenceCode": "202610131588484",
+        "senderName": "MUHAMMET EYUP DÜŞÜNCELİ",
+        "senderIban": "TR210011100000000139719512",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261013|21:00:39|10000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791914561240,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A144288A0E741A0CF16",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
