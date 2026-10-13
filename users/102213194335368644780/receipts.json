@@ -112353,6 +112353,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791893166019_cfjnc",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1695/AKDERE/ANKARA SUBESI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "12/10/2026",
+        "time": "15:37:35",
+        "trackingNo": "7427331078",
+        "receiptNo": "F22356",
+        "referenceCode": "A01",
+        "senderName": "IREM SAHAN",
+        "senderIban": "TR370001009010097498805002",
+        "receiverName": "RAHMARULLAH HAKIMI",
+        "receiverIban": "TR350007500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261012|15:37:35|4000|TR350007500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791893166019,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA03FE2688C5EF08A93",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
