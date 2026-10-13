@@ -113305,6 +113305,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791897630294_yxwz5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "HÜSEYİNGAZİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:18:55",
+        "trackingNo": "4227000303",
+        "receiptNo": "2026-10-13-16.18.51.373327",
+        "referenceCode": "",
+        "senderName": "YASİN YAĞCI",
+        "senderIban": "TR940006200154500006604958",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 44,
+        "fingerprint": "GN|20261013|16:18:55|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791897630294,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3D799D1AF612B2D1B3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
