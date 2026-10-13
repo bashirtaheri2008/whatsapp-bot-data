@@ -112319,6 +112319,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791892868712_xq6dk",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2612/KALEALTI/AKSARAY SUBESİ",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:58:35",
+        "trackingNo": "7433071157",
+        "receiptNo": "F11062",
+        "referenceCode": "A01",
+        "senderName": "ALE KOGAK",
+        "senderIban": "TRA40001002612601111875007",
+        "receiverName": "JAWID USMAN",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 59,
+        "fingerprint": "ZB|20261013|14:58:35|6000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791892868712,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA7221D8A1461454214",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
