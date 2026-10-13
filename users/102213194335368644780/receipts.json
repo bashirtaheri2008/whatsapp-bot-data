@@ -109497,6 +109497,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791876950921_0n659",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "S2112902",
+        "amount": "4986.38",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "10:32:47",
+        "trackingNo": "S2112902",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger",
+        "bankKey": "",
+        "ocrConfidence": 40,
+        "fingerprint": "GN|20261013|10:32:47|4986.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791876950921,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAA4D8F4E4510C1A1AE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791877007410_ww17n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "10:31:37",
+        "trackingNo": "20947004",
+        "receiptNo": "846083",
+        "referenceCode": "",
+        "senderName": "AHMET UNOVAR",
+        "senderIban": "TR920004600176888000157979",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 61,
+        "fingerprint": "AK|20261013|10:31:37|15000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791877007410,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD31660C25CD8C8E99D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
