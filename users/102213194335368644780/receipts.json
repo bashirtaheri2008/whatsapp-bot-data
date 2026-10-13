@@ -111129,6 +111129,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791887917611_r5qwd",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0026/AKSARAY ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:24:41",
+        "trackingNo": "7432337025",
+        "receiptNo": "F14490",
+        "referenceCode": "A01",
+        "senderName": "BILAL GEKIG",
+        "senderIban": "TR020001009010188619905001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 62,
+        "fingerprint": "ZB|20261013|13:24:41|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791887917611,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE599A6472174D9E279",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791887937413_plhlz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:36",
+        "trackingNo": "4894063835",
+        "receiptNo": "03663-03663-995316319",
+        "referenceCode": "202610137422995",
+        "senderName": "MESUT ÖZSOY",
+        "senderIban": "TR600015700000000204766620",
+        "receiverName": "Nizamuddin YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 71,
+        "fingerprint": "EP|4894063835"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791887937413,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA821125AE84415F3B9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791887952210_tid5k",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0620/elmadag/ankara",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:37:07",
+        "trackingNo": "7432445245",
+        "receiptNo": "F05947",
+        "referenceCode": "A01",
+        "senderName": "MEVLUT BARIS",
+        "senderIban": "TR400001000620773526745002",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261013|13:37:07|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791887952210,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A16EE5C07C63C60BF60",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791887988016_1cgle",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:37:27",
+        "trackingNo": "2026014313158394",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AHMET MUHAMMED YAYLA",
+        "senderIban": "TR8000015001585286",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261013|13:37:27|5500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791887988016,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE5439F7D62065D91A4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
