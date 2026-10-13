@@ -112081,6 +112081,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791892037214_2ivms",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Çep Şube",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "16/09/2026",
+        "time": "13:55",
+        "trackingNo": "03663-03663-897535669",
+        "receiptNo": "202609174340949",
+        "referenceCode": "2451265",
+        "senderName": "İlhan Devboyun",
+        "senderIban": "TR340015700000000149658575",
+        "receiverName": "Mr Sayed Ali Sadat, Bireysel Odeme",
+        "receiverIban": "TR82000100901107110940505004",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 28,
+        "fingerprint": "GN|20260916|13:55|5000|TR82000100901107110940505004"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1791892037214,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "AC973C4952FE5B8897226F792DC479E4",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
