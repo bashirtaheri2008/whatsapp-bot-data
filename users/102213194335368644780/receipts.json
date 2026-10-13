@@ -113441,6 +113441,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791899420596_f47k4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "SİNCAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "16:46:38",
+        "trackingNo": "F05324",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HESAP NUMARAS",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 53,
+        "fingerprint": "ZB|20261013|16:46:38|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791899420596,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7649FD34F94CC2B278",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
