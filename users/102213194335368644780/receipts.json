@@ -111639,6 +111639,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791890504409_x9n1y",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0265/CUMRA/KONYA SUBESI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:14:27",
+        "trackingNo": "7432675662",
+        "receiptNo": "F10523",
+        "referenceCode": "A01",
+        "senderName": "DUROYE COSKUN",
+        "senderIban": "TR260001000265473209205001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340007500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 70,
+        "fingerprint": "ZB|20261013|14:14:27|5000|TR340007500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791890504409,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB096F94F5492CEEB50",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791890518110_1qmbh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:11:03",
+        "trackingNo": "AWTNZ-B-20261013121",
+        "receiptNo": "BRH2026002131730",
+        "referenceCode": "21f08828-7e3c-4664-b2cc-81e29992c2fa",
+        "senderName": "ALI KEMAL BULDUK",
+        "senderIban": "",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: ALI KEMAL BULDUK , Alıcı: Nizamuddin Yaqubi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 56,
+        "fingerprint": "GN|20261013|14:11:03|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791890518110,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA0D7C7A3FDE7C65B96",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791890532736_cvtqi",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0168/KONYA SUBESI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:17:51",
+        "trackingNo": "7432680727",
+        "receiptNo": "F13199",
+        "referenceCode": "A01",
+        "senderName": "IBRAHIM DOLDUR",
+        "senderIban": "TR670001000168515347765007",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261013|14:17:51|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791890532736,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A491721FDAD78BE37C8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791890672913_3oluy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:22:27",
+        "trackingNo": "632946257881243648",
+        "receiptNo": "",
+        "referenceCode": "13102026-9300-25408817",
+        "senderName": "MUAMMER KARAKOÇ",
+        "senderIban": "TR840013400001748533600001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi icin 3110-17485336-351 hesabiniza toplam 4.500,00 TL Borç kaydedilmiştir",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261013|14:22:27|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791890672913,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A55926F6691704A8A3F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
