@@ -110959,6 +110959,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791887245014_zc3zv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "YAŞAR KML CD./SİNCAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:25:06",
+        "trackingNo": "3248000193",
+        "receiptNo": "2026-10-13-13.25.03.732445",
+        "referenceCode": "",
+        "senderName": "MUHAMMED ARSLAN",
+        "senderIban": "TR560006200154300006673261",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261013|13:25:06|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791887245014,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF79B024637AB9825C8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
