@@ -110891,6 +110891,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791886750614_w8d95",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKSARAY",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "13:16:08",
+        "trackingNo": "3739000183",
+        "receiptNo": "2026-10-13-13.15.45.452912",
+        "referenceCode": "",
+        "senderName": "AHMET GEZGİNCİ",
+        "senderIban": "TR900006200059100006882079",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261013|13:16:08|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791886750614,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A39C5801B843976944A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
