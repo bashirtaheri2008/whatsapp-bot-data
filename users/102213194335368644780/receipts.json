@@ -111537,6 +111537,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791889916416_x8x4l",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MEVLANA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "14:07:15",
+        "trackingNo": "2026-10-13-14.06.43.627739",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUSTAFA MERMER",
+        "senderIban": "TR250006200010100006809651",
+        "receiverName": "MUZAFFER HELVACIOĞLU",
+        "receiverIban": "TR150006200010100006982103",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261013|14:07:15|5000|TR150006200010100006982103"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791889916416,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF9EA0F6C64F21A2FBE",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
