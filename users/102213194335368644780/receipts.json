@@ -112999,6 +112999,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791896312189_7e18w",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "31000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:56:44",
+        "trackingNo": "3000375289",
+        "receiptNo": "",
+        "referenceCode": "2026014319480757",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Cengiz Silver kuyumculuk iç ve dış tic san ltd şti",
+        "receiverIban": "TR57001340000229550500001",
+        "description": "ALTIN BEDELİ",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261013|15:56:44|31000|TR57001340000229550500001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791896312189,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4AC9716322D3FFD7996D",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791896582783_y51f7",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARATAY ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "15:53:39",
+        "trackingNo": "1736103657",
+        "receiptNo": "00422-1311904",
+        "referenceCode": "202610129191593",
+        "senderName": "FERDİ KILIÇ",
+        "senderIban": "TR040011100000000168052354",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007381459193",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 36,
+        "fingerprint": "GN|20261013|15:53:39|4500|TR440001500158007381459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791896582783,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9A0BA08E25DD8C2ED9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
