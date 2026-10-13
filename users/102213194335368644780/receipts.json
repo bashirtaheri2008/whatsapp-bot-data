@@ -117147,6 +117147,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791918773740_s5u3k",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0497/YUNAK/KONYA SUBESI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "22:06:40",
+        "trackingNo": "7435759085",
+        "receiptNo": "F09137",
+        "referenceCode": "A01",
+        "senderName": "SAMET KOYUNCU",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 75,
+        "fingerprint": "ZB|20261013|22:06:40|5000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791918773740,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1B282E783E13F02E2E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
