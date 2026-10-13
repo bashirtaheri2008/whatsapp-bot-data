@@ -108817,6 +108817,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791871222207_uw8bk",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "İVEDİK",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "08:59:14",
+        "trackingNo": "3575000061",
+        "receiptNo": "2026-10-13-08.59.10.562662",
+        "referenceCode": "",
+        "senderName": "ABDULKADIR AYDIN",
+        "senderIban": "TR900006200149500006678127",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 70,
+        "fingerprint": "GN|20261013|08:59:14|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791871222207,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD2472B295EA17DDB01",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
