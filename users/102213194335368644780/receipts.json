@@ -114461,6 +114461,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791903535490_l7am9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "13/10/2026",
+        "time": "17:56:18",
+        "trackingNo": "3836596170",
+        "receiptNo": "453594003538",
+        "referenceCode": "13.10.2026/447/8888/8888",
+        "senderName": "SÜLEYMAN SEVEN",
+        "senderIban": "TR370006400000145350236150",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "SÜLEYMAN SEVEN tarafindan aktarilan",
+        "bankKey": "ziraat",
+        "ocrConfidence": 68,
+        "fingerprint": "ZB|20261013|17:56:18|5000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791903535490,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD919F9C1DADAC2E168",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791903575982_3snei",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ZAFER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:57:19",
+        "trackingNo": "284000375",
+        "receiptNo": "2026-10-13-17.57.17.959513",
+        "referenceCode": "",
+        "senderName": "RECEP DAĞTAŞ",
+        "senderIban": "TR080006200077000006975489",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261013|17:57:19|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791903575982,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACAF3F1C75530CF68FA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791903652082_i4mzf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AYDINLIKEVLER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:58:42",
+        "trackingNo": "166000373",
+        "receiptNo": "2026-10-13-17.58.39.409337",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR450006200057900006630264",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261013|17:58:42|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791903652082,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2E8D61BEE92D94A70F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
