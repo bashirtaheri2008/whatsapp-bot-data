@@ -109123,6 +109123,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791874077616_9d2u9",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "09:45:58",
+        "trackingNo": "2026014303262038",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AHMET HAKAN ŞAHİN",
+        "senderIban": "TR880001500158****4916",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261013|09:45:58|4200|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791874077616,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8DEEBD9221F6B10EE1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791874495216_1a0w7",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "100000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "09:54:19",
+        "trackingNo": "2999375332",
+        "receiptNo": "",
+        "referenceCode": "2026014303361574",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Oğuztürk kıymetli taşlar",
+        "receiverIban": "TR160021000000148233400004",
+        "description": "25174 ELDEN TESLİM ALDIĞIM ALTIN BEDELİ",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261013|09:54:19|100000|TR160021000000148233400004"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791874495216,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AB9F3F9366182A24827",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
