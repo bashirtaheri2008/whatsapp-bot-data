@@ -116365,6 +116365,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791910280687_b6u2g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0168/KONYA SUBESI",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "13/10/2026",
+        "time": "19:42:22",
+        "trackingNo": "7435026819",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AYSE KUGOK",
+        "senderIban": "TR440001000165729184995001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR00000150015803791459193",
+        "description": "76277 BSW",
+        "bankKey": "ziraat",
+        "ocrConfidence": 43,
+        "fingerprint": "ZB|20261013|19:42:22|5000|TR00000150015803791459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791910280687,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB2F0D59655D482DCAA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
