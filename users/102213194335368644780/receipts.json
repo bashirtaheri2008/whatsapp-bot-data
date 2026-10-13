@@ -114121,6 +114121,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791902794982_xxnvt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "8800",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:45",
+        "trackingNo": "4894810095",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4894810095"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791902794982,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF8555071191CA74CD9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791902813782_yxtdn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:44",
+        "trackingNo": "4894807109",
+        "receiptNo": "03663-03663-995933244",
+        "referenceCode": "202610140162341",
+        "senderName": "YIGIT UYGUN",
+        "senderIban": "TR030015700000000202502308",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4894807109"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791902813782,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD414EA3A85931FD56A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791902874765_bxa5w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "110",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:16:03",
+        "trackingNo": "517736255264",
+        "receiptNo": "SYJ2026155430080",
+        "referenceCode": "925-583539 / 2548751254910",
+        "senderName": "BEKIR KOCAER",
+        "senderIban": "TR540006701000000033618550",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UC...",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261013|17:16:03|110|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791902874765,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A78684DB7FB348C83FC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
