@@ -116977,6 +116977,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791915022941_t2pvx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "20:59:22",
+        "trackingNo": "517730279822",
+        "receiptNo": "925-584179 / 2548754160914",
+        "referenceCode": "SYJ2026157528208",
+        "senderName": "BEKIR KOCAER",
+        "senderIban": "TR540006701000000033618550",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UC...",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261013|20:59:22|3000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791915022941,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A617CDC7CB19030455D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
