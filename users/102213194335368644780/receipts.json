@@ -117521,6 +117521,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791925154539_lkjm7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "11000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "23:58",
+        "trackingNo": "4895631710",
+        "receiptNo": "03663-03663-996624840",
+        "referenceCode": "",
+        "senderName": "ONUR BOZKURT",
+        "senderIban": "TR580015700000000204392430",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4895631710"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791925154539,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8533CF892A4BAFD7E8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
