@@ -113883,6 +113883,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791901495695_2x0r9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0030/AMASYA ŞUBESİ",
+        "amount": "5500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:23:18",
+        "trackingNo": "F23948",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "GOKHAN KARA",
+        "senderIban": "TR060001000030757027955001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "Alacaklı Şube : 2783-HÜDAVENT HATUN/NİĞDE ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 60,
+        "fingerprint": "ZB|20261013|17:23:18|5500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791901495695,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC238D520DAA4703DE3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
