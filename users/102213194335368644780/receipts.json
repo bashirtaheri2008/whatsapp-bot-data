@@ -116603,6 +116603,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791912175090_5liro",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "20:16:31",
+        "trackingNo": "73477491",
+        "receiptNo": "",
+        "referenceCode": "6339535276422608",
+        "senderName": "ADIM KAHKIMAN",
+        "senderIban": "TR040013400602638999700001",
+        "receiverName": "JAVID USMANI",
+        "receiverIban": "TR440001500159007991459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 50,
+        "fingerprint": "GN|20261013|20:16:31|5000|TR440001500159007991459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791912175090,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A49DC37EC46B38ED2F8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
