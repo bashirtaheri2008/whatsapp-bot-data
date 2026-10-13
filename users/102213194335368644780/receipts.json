@@ -110177,6 +110177,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791881363419_t6w84",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "11:45:06",
+        "trackingNo": "ATZCT-B-20261013287",
+        "receiptNo": "CRF2026000620906",
+        "referenceCode": "72f5390c-6944-48dd-b93b-52ebf83fbf81",
+        "senderName": "YAKUP TUFAN",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Gönderen: YAKUP TUFAN , Alıcı: RAHMATULLAH HAKIMI IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 32,
+        "fingerprint": "GN|20261013|11:45:06|5000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791881363419,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADEFC7B7E3F75C04D0F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791882024518_e0gdq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT MOBİL",
+        "amount": "4500.00",
+        "currency": "TRY",
+        "date": "13/10/2026",
+        "time": "11:49:49",
+        "trackingNo": "7431752414",
+        "receiptNo": "",
+        "referenceCode": "0030/AMASYA SUBESİ",
+        "senderName": "GOHAN KARA",
+        "senderIban": "TR060001000030757027955001",
+        "receiverName": "GOHAN KARA",
+        "receiverIban": "TR060001000030757027955001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 39,
+        "fingerprint": "ZB|20261013|11:49:49|4500|TR060001000030757027955001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791882024518,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5AE40E4F66FBE85188",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
