@@ -110551,6 +110551,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791884829516_r2s8p",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "GİMAT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:45:37",
+        "trackingNo": "2196000165",
+        "receiptNo": "2026-10-13-12.45.31.401393",
+        "referenceCode": "00325 / 6853707",
+        "senderName": "DOĞAN YAŞAR",
+        "senderIban": "TR480006200032500006853707",
+        "receiverName": "NİZAMMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "HESEAPTAN FAST",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261013|12:45:37|4000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791884829516,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEF8DC5C44CC57F6511",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791884897414_6lhhh",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "1500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:30",
+        "trackingNo": "1657211659",
+        "receiptNo": "M-2026-10-13-12.30.39.501374",
+        "referenceCode": "",
+        "senderName": "ERSİN ÖZKAN",
+        "senderIban": "TR850001200138700001126728",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - ERSİN ÖZKAN TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 60,
+        "fingerprint": "GN|20261013|12:30|1500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791884897414,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC8F20ACD92EC8AD947",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791885157415_nn01y",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "48500.00",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "12:51:46",
+        "trackingNo": "2999816759",
+        "receiptNo": "",
+        "referenceCode": "2026014311416860",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Cengiz Silver kuyumculuk iç ve dış tic san ltd şti",
+        "receiverIban": "TR570013400002295505500001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261013|12:51:46|48500|TR570013400002295505500001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791885157415,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4A5E9B96BDB2ECAE6B65",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
