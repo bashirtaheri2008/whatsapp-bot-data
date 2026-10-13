@@ -116331,6 +116331,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791910130800_h3om2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "BOSNA HERSEK MAH.",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "19:47:46",
+        "trackingNo": "5564000403",
+        "receiptNo": "2026-10-13-19.47.40.584847",
+        "referenceCode": "",
+        "senderName": "ADEM YÜKLÜ",
+        "senderIban": "TR590006200144800006657968",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261013|19:47:46|5000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791910130800,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A57700FD551AF6DE123D59C000E25905",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
