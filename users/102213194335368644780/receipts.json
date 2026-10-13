@@ -114903,6 +114903,176 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791905722991_97oew",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:31",
+        "trackingNo": "4894939993",
+        "receiptNo": "03663-03663-996041033",
+        "referenceCode": "03663-03663-996041033",
+        "senderName": "SERHAT TÜRK",
+        "senderIban": "TR290015700000000205105999",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "Aidat ödemesi",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4894939993"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791905722991,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0F47E6B2962F6F9171",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791905747289_631wq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:34",
+        "trackingNo": "4894946763",
+        "receiptNo": "03663-03663-996046371",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4894946763"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791905747289,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB41BDF57186CBA8714",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791905793086_6561p",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "900",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "17:57:06",
+        "trackingNo": "517739420099",
+        "receiptNo": "SYJ2026155795702",
+        "referenceCode": "3401873060",
+        "senderName": "BEKIR KOCAER",
+        "senderIban": "TR540006701000000033618550",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UC...",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261013|17:57:06|900|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791905793086,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0D569D2736B07E6FF5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791905811782_m63lc",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:28:42",
+        "trackingNo": "517732558037",
+        "receiptNo": "SYJ2026156317963",
+        "referenceCode": "925-583748 / 2548752283924",
+        "senderName": "BEKIR KOCAER",
+        "senderIban": "TR540006701000000033618550",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261013|18:28:42|2000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791905811782,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFC9E18760DB7F204C2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791906041588_s04dc",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0919/YILDIZEVLER/ANKARA SUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "13/10/2026",
+        "time": "18:39:35",
+        "trackingNo": "7434446033",
+        "receiptNo": "F04931",
+        "referenceCode": "A01",
+        "senderName": "ERDİ AVŞAR",
+        "senderIban": "TR940001000919622787545001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261013|18:39:35|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791906041588,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB8F1BA808E7DFA75C6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
