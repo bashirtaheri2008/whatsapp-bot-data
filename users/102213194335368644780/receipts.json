@@ -120921,6 +120921,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791994032894_j0kiy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "17:45",
+        "trackingNo": "4897267951",
+        "receiptNo": "03663-03663-999508185",
+        "referenceCode": "",
+        "senderName": "RIZA YASAR",
+        "senderIban": "TR870015700000000204989331",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4897267951"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791994032894,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACA4E503DED51F1CD4B5460A5A3269AF",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
