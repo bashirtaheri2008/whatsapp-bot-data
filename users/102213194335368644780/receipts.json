@@ -121465,6 +121465,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792000375642_4eg7f",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0317/TORBALI/IZMIR SUBESI",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:35:41",
+        "trackingNo": "7441200433",
+        "receiptNo": "F15515",
+        "referenceCode": "A01",
+        "senderName": "IBRAHIM BASAK",
+        "senderIban": "TR410001000317791460645001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261014|20:35:41|13000|TR440001500158007391459193"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1792000375642,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5F9A8CC60E72B1953F35FAEA39FB5EF",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
