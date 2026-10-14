@@ -119017,6 +119017,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791976875298_f13p6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4.000,00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "14:16:08",
+        "trackingNo": "63387056150032384",
+        "receiptNo": "",
+        "referenceCode": "24896622",
+        "senderName": "ABDULKADIR TURKOGLU",
+        "senderIban": "TR800013400002247026700004",
+        "receiverName": "NIZAMUDDIN VAQUBI",
+        "receiverIban": "TR34000150015800731222752",
+        "description": "Yukarıdaki detay bilgileri verilm FAST islemi icin 3905-22470267-353 numarabina ozgulen 4.000,00 TL borc kaydedilmistir.",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261014|14:16:08|4000|TR34000150015800731222752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791976875298,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7507940328AE97D56E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
