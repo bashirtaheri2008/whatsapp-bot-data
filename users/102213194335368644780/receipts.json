@@ -119527,6 +119527,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791982711100_4nt8w",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti Bankasi A.S.",
+        "bankBranch": "SINCAN SAYIN",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "15:57:32",
+        "trackingNo": "6476000242",
+        "receiptNo": "2026-10-14-15.57.31.235738",
+        "referenceCode": "",
+        "senderName": "ENGİN SARGIN",
+        "senderIban": "TR260006200046500006608963",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 77,
+        "fingerprint": "GN|20261014|15:57:32|4200|TR340001500158007312220752"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791982711100,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5946C51607B9D26DD86737D474AC46D",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
