@@ -122383,6 +122383,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792009502247_ymyej",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "DEMETEVLER",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "23:08:14",
+        "trackingNo": "9900000475",
+        "receiptNo": "2026-10-14-23.07.51.699257",
+        "referenceCode": "",
+        "senderName": "CANSU AYLUCTARHAN",
+        "senderIban": "TR950006200053000006879481",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261014|23:08:14|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792009502247,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A79B3242E3E72622A24",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
