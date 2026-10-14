@@ -122349,6 +122349,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792009027040_bdadr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0919/YILDIZEVLER/ANKARA SUBESI",
+        "amount": "3450.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "23:04:42",
+        "trackingNo": "7441765958",
+        "receiptNo": "F05943",
+        "referenceCode": "A01",
+        "senderName": "EP AVSAR",
+        "senderIban": "TR940001000919622787545001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 62,
+        "fingerprint": "ZB|20261014|23:04:42|3450|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792009027040,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A684634129B5FA6E8DF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
