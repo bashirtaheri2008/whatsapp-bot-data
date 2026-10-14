@@ -118065,6 +118065,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791967456895_h0200",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "420837",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "11:43:24",
+        "trackingNo": "43547193",
+        "receiptNo": "495786",
+        "referenceCode": "",
+        "senderName": "YUSUF SEFA UNAÇ",
+        "senderIban": "TR910004600128888000432385",
+        "receiverName": "YUSUF SEFA UNAG",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 58,
+        "fingerprint": "AK|20261014|11:43:24|420837|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791967456895,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA49CB712AD790529D1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
