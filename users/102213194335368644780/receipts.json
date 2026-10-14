@@ -120649,6 +120649,108 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791993218307_0fzvt",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:46",
+        "trackingNo": "4897429876",
+        "receiptNo": "03663-03663-999638799",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4897429876"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791993218307,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5B2202680BF6828D4AAC5E6544E0E55",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791993234600_7gp8l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "17:50",
+        "trackingNo": "4897280873",
+        "receiptNo": "03663-03663-999518923",
+        "referenceCode": "",
+        "senderName": "MUSA KOYUNCU",
+        "senderIban": "TR330015700000000205927808",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4897280873"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791993234600,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5403D93E030093EF2B61B6A2CAFEDFF",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791993369797_zfzfu",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "20000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:55:21",
+        "trackingNo": "2026014377571585",
+        "receiptNo": "",
+        "referenceCode": "3003294839",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Muhammed Mustafa Hasan Farhat",
+        "receiverIban": "TR860001009011159048905001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261014|18:55:21|20000|TR860001009011159048905001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791993369797,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4A86D4ED13D1F8FF8C4D",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
