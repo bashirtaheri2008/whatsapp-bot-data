@@ -121091,6 +121091,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791995284938_6ymhq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "19:17",
+        "trackingNo": "4897507927",
+        "receiptNo": "03663-03663-999702165",
+        "referenceCode": "",
+        "senderName": "GIZEM BAYKAL",
+        "senderIban": "TR860015700000000089127505",
+        "receiverName": "RAHMETULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4897507927"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791995284938,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE37D0FC0477EB4A1BC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
