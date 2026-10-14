@@ -120411,6 +120411,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791992480896_xx23x",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:36",
+        "trackingNo": "4897402777",
+        "receiptNo": "03663-03663-999616800",
+        "referenceCode": "",
+        "senderName": "ONUR BOZKURT",
+        "senderIban": "TR580015700000000204392430",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4897402777"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791992480896,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5C792C34F053BE1A68B70A7B0980D62",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791992815697_jylq6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:36",
+        "trackingNo": "4897405205",
+        "receiptNo": "03663-03663-999618492",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4897405205"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791992815697,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5A5ED9661B6DB58150185EE48B4C943",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
