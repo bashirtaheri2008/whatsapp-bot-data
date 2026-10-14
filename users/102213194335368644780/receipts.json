@@ -117929,6 +117929,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791967283493_nmvfv",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "11:30:38",
+        "trackingNo": "254887615683",
+        "receiptNo": "925-604218 / 2548861074130",
+        "referenceCode": "SYJ2026162791777",
+        "senderName": "TAHSİN YİĞİT ÇÖMEZ",
+        "senderIban": "TR200006701000000031128299",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 43,
+        "fingerprint": "GN|20261014|11:30:38|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791967283493,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA44567D01154BDD443",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791967297887_pjt8f",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0627/SİTELER/ANKARA ŞUBESİ",
+        "amount": "4250.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "11:38:31",
+        "trackingNo": "7437585353",
+        "receiptNo": "F02232",
+        "referenceCode": "A01",
+        "senderName": "AYTEKIN CENGIZ",
+        "senderIban": "TR920001000627648811445003",
+        "receiverName": "rahmatuilah hakimy",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 58,
+        "fingerprint": "ZB|20261014|11:38:31|4250|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791967297887,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A23893B7A772FF861ED",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791967349493_a65he",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1521/TÜRKOZU/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "11:38:26",
+        "trackingNo": "7437609163",
+        "receiptNo": "F01248",
+        "referenceCode": "A01",
+        "senderName": "MEHMET SAHINER",
+        "senderIban": "TR730001001521686552275008",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 70,
+        "fingerprint": "ZB|20261014|11:38:26|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791967349493,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A19D470129E7B15F90F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791967395096_p8cs5",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ŞAŞMAZ SANAYİ SİTESİ ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "11:41:54",
+        "trackingNo": "1717106761",
+        "receiptNo": "202610137086543",
+        "referenceCode": "01309-1192051",
+        "senderName": "MENDERES ESAT GÜNTÜKİN",
+        "senderIban": "TR910011100000000164951444",
+        "receiverName": "Nizamuddin YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261014|11:41:54|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791967395096,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A15BB6E05D8CB0A2DBF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
