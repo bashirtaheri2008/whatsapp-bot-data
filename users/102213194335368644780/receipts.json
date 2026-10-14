@@ -121567,6 +121567,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792000933845_hvhp7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:53",
+        "trackingNo": "4897730655",
+        "receiptNo": "03663-03663-999886613",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 79,
+        "fingerprint": "EP|4897730655"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792000933845,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC74DE979184829BCF19CA74984605A0",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
