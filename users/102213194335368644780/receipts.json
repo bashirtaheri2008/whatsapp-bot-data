@@ -118813,6 +118813,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791975806594_kwwl8",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "VAN",
+        "amount": "5400.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "14:01:27",
+        "trackingNo": "1997000195",
+        "receiptNo": "2026-10-14-14.01.19.890670",
+        "referenceCode": "",
+        "senderName": "ALPAY ALTAY",
+        "senderIban": "TR690006200046400006824019",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261014|14:01:27|5400|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791975806594,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFC639E231EC02AEB8D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
