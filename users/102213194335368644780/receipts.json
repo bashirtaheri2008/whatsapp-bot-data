@@ -119901,6 +119901,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791988085925_9qxbu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankasi",
+        "bankBranch": "0011/POLATLI/ANKARA SUBESI",
+        "amount": "7600.00",
+        "currency": "TRY",
+        "date": "14/10/2026",
+        "time": "17:24:17",
+        "trackingNo": "7439996411",
+        "receiptNo": "F11538",
+        "referenceCode": "A01",
+        "senderName": "IHSAN KARABALAK",
+        "senderIban": "TR720001000011736296095002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261014|17:24:17|7600|TR440001500158007391459193"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791988085925,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A598E6C6832955928FF322BE3BBEA465",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
