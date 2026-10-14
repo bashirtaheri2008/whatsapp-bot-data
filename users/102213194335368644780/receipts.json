@@ -119051,6 +119051,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791976992799_w3inf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapi ve Kredi Bankasi A.S.",
+        "bankBranch": "",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "14:21:52",
+        "trackingNo": "254881678779",
+        "receiptNo": "925-533317 / 2548863386168",
+        "referenceCode": "SYJ202616447089",
+        "senderName": "BERITAN GOKTEPE",
+        "senderIban": "TR750006701000000309946728",
+        "receiverName": "NIZAMUDDIN YAQUBL",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261014|14:21:52|6000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791976992799,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF1E433610A53C7F072",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
