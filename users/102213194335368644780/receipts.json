@@ -121227,6 +121227,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791997466047_e0bpb",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Finanskent Mahallesi Finans Caddesi No:40/1 Umraniye/İSTANBUL",
+        "amount": "4785.38",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:02:23",
+        "trackingNo": "S2112902",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Diger",
+        "bankKey": "",
+        "ocrConfidence": 70,
+        "fingerprint": "GN|20261014|20:02:23|4785.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791997466047,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0F2D21EAD4CE123D8B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
