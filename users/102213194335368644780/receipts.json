@@ -121499,6 +121499,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792000699839_weu79",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "650000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:50:16",
+        "trackingNo": "2026014381969528",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RIFKI AKTAŞ",
+        "senderIban": "TR5800015001584798",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 52,
+        "fingerprint": "GN|20261014|20:50:16|650000|TR440001500158007391459193"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792000699839,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACD018C3BE428E1415E69C961315ED33",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
