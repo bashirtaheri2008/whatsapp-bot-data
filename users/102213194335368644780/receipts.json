@@ -119697,6 +119697,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791984434797_soxhg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "16:12",
+        "trackingNo": "4896998021",
+        "receiptNo": "03663-03663-999287045",
+        "referenceCode": "",
+        "senderName": "ALI DING",
+        "senderIban": "TR650015700000000206014726",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 79,
+        "fingerprint": "EP|4896998021"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1791984434797,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5AF82C00B89AB2BC8456E09C7DD9E14",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
