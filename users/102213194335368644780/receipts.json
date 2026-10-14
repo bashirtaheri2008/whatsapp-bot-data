@@ -119629,6 +119629,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791983713131_hbypi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "3950.00",
+        "currency": "TRY",
+        "date": "14/10/2026",
+        "time": "16:06:20",
+        "trackingNo": "3838945975",
+        "receiptNo": "438442004242",
+        "referenceCode": "14.10.2026/447/8888/8888",
+        "senderName": "ÖNDER ÜLGER",
+        "senderIban": "TR070006400000143840207135",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ÖNDER ÜLGER TARAFINDAN AKTARILAN",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261014|16:06:20|3950|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791983713131,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A81946BABC934A9BB1F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
