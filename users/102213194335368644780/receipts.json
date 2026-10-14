@@ -122179,6 +122179,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792006547339_2zgvf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "20000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "22:32:23",
+        "trackingNo": "AWX30-B-20261014223",
+        "receiptNo": "CGR2026001567031",
+        "referenceCode": "f3b83275-0da3-449a-a7c1-efe068b2c435",
+        "senderName": "MUHARREM ERGÜL",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAKUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: MUHARREM ERGÜL , Alıcı: NIZAMUDDIN YAKUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 60,
+        "fingerprint": "GN|20261014|22:32:23|20000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792006547339,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A518B77EE2BEE1742CF26CD20B60A28B",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
