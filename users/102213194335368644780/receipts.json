@@ -121397,6 +121397,74 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792000222039_5qg91",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0170/AKŞEHİR/KONYA ŞUBESİ",
+        "amount": "13000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:37:06",
+        "trackingNo": "7441049998",
+        "receiptNo": "F12345",
+        "referenceCode": "F12345",
+        "senderName": "ENES ERDOGAN",
+        "senderIban": "TR660001000170782491285001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261014|20:37:06|13000|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792000222039,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC768C18E095613D4ED543AE625227CC",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792000297452_l9yra",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "12000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:47",
+        "trackingNo": "4897717239",
+        "receiptNo": "03663-03663-999875962",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQU",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 78,
+        "fingerprint": "EP|4897717239"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792000297452,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A57BAD69723C270D2126347EC7908593",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
