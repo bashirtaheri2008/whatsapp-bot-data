@@ -120037,6 +120037,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791990104093_v980p",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ANADOLU SANAYI",
+        "amount": "4490.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "17:57:10",
+        "trackingNo": "4742000349",
+        "receiptNo": "2026-10-14-17.56.50.763913",
+        "referenceCode": "",
+        "senderName": "SEYMA NUR KUCUKKARA",
+        "senderIban": "TR620006200105200006642725",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261014|17:57:10|4490|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791990104093,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC97908624F2B1ADAF4ED7B37C859B3C",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
