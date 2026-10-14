@@ -118133,6 +118133,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791968877098_ak9wc",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN - GAZINO",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "12:05:30",
+        "trackingNo": "2406000140",
+        "receiptNo": "2026-10-14-12.05.29.171526",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR460006200106100006650146",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362275815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 33,
+        "fingerprint": "GN|20261014|12:05:30|4200|TR350001500158007362275815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791968877098,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA1BE172D3D025BBADA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
