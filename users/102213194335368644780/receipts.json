@@ -119255,6 +119255,74 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791980371792_7d1bp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti Bankasi A.S.",
+        "bankBranch": "ULUS / ANKARA",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "15:12:19",
+        "trackingNo": "1398000190",
+        "receiptNo": "2026-10-14-15.12.15.260237",
+        "referenceCode": "",
+        "senderName": "EMRE KIRAZLI",
+        "senderIban": "TR870006200071100006947687",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261014|15:12:19|3000|TR340001500158007312220752"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791980371792,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A59F63FA87F9BD07F4E13F26324E5C95",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791980469394_cycid",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "3300",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "14:52",
+        "trackingNo": "4896754087",
+        "receiptNo": "03663-03663-999086065",
+        "referenceCode": "202610148773763",
+        "senderName": "FADIME TOSUN",
+        "senderIban": "TR260015700000000153226961",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 72,
+        "fingerprint": "EP|4896754087"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791980469394,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A57C1057CB14DDB2AFBDB3F7B56CAC97",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
