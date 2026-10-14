@@ -122281,6 +122281,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792008038440_ti3a3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "440837",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "22:58:26",
+        "trackingNo": "20579927",
+        "receiptNo": "528324",
+        "referenceCode": "",
+        "senderName": "SADIK ASLAN",
+        "senderIban": "TR460004600179888000202113",
+        "receiverName": "SADIK ASLAN",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 57,
+        "fingerprint": "AK|20261014|22:58:26|440837|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792008038440,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABCA8493CDCF0BA18C6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792008388436_kr1c1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0600/SARAYÖNÜ/KONYA ŞUBESİ",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "22:58:33",
+        "trackingNo": "7441870294",
+        "receiptNo": "F10599",
+        "referenceCode": "A01",
+        "senderName": "SULEYMAN ACAY",
+        "senderIban": "TR070001009010971875405001",
+        "receiverName": "jawid usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261014|22:58:33|5500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792008388436,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A38B5CA27D5913116A9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
