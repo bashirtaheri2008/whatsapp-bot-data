@@ -119119,6 +119119,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791977945693_snvo3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "SINCAN",
+        "amount": "4550.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "14:24:31",
+        "trackingNo": "1871000201",
+        "receiptNo": "2026-10-14-14.24.27.561047",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR250006200046500006869135",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261014|14:24:31|4550|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791977945693,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7C1967E26C49D29C9C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
