@@ -120785,6 +120785,74 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791993706393_0bie7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "7000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:50:18",
+        "trackingNo": "633376052743241728",
+        "receiptNo": "",
+        "referenceCode": "14102026-9300-33512508",
+        "senderName": "MERT TEKİN",
+        "senderIban": "TR900013400002510241500001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Tesbih ödemesi",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261014|18:50:18|7000|TR350001500158007362279815"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791993706393,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACB6DD4CE9D40D22D17E1909D3588662",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791993747726_z6r0e",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "19:01:32",
+        "trackingNo": "517749145545",
+        "receiptNo": "925-940803 / 2548867531895",
+        "referenceCode": "SYJ2026167309576",
+        "senderName": "HAKKI KÜÇÜKAKTAŞ",
+        "senderIban": "TR100006701000000049812328",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "ELEKTRONİK FON TRANSFERI (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261014|19:01:32|4600|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791993747726,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABF8E772659C15B09A5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
