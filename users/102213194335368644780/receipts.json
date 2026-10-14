@@ -119323,6 +119323,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791980579704_31dxe",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1939/YENİKENT/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "15:04:03",
+        "trackingNo": "7439010391",
+        "receiptNo": "FO7054",
+        "referenceCode": "FO7054",
+        "senderName": "YASAR ARAR",
+        "senderIban": "TR850001001939709625705002",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261014|15:04:03|4000|TR340001500158007312220752"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791980579704,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5C0EF99D9EE10D36B1F12C18D08E53C",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
