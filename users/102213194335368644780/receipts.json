@@ -121363,6 +121363,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792000192749_5p0pq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:41:10",
+        "trackingNo": "43289890 / 392884",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ABDURRAHMAN SUMMEN",
+        "senderIban": "TR430004600773888000205738",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 62,
+        "fingerprint": "AK|20261014|20:41:10|4000|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792000192749,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACDBC92D996126EEF47FAABB3913DF59",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
