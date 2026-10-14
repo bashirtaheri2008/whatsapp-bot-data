@@ -121295,6 +121295,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791998508342_lzjue",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "7",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:20:17",
+        "trackingNo": "20107483",
+        "receiptNo": "369043",
+        "referenceCode": "",
+        "senderName": "ERDEM ALICI",
+        "senderIban": "TR760004601079888000107879",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 62,
+        "fingerprint": "AK|20261014|20:20:17|7|TR440001500158007391459193"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791998508342,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A55531E23A0336A903326BB2CD9A8CE5",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
