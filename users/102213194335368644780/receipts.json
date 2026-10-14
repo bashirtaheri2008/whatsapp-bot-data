@@ -120207,6 +120207,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791991759293_1ji79",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "430000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:25:22",
+        "trackingNo": "30822140",
+        "receiptNo": "220991",
+        "referenceCode": "",
+        "senderName": "DURSUN BUGRA GONEN",
+        "senderIban": "TR470004600646888000154786",
+        "receiverName": "Zinat Nazan",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 63,
+        "fingerprint": "AK|20261014|18:25:22|430000|TR800001500158007392030554"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791991759293,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC53D9296C8C15DFE4EF0BA5D37DA2EA",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
