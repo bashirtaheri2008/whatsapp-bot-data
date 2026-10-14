@@ -122519,6 +122519,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792010982340_bwjgy",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1912/ERYAMAN/ANKARA SUBESI",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "23:42:50",
+        "trackingNo": "7442044781",
+        "receiptNo": "F09268",
+        "referenceCode": "A01",
+        "senderName": "BEDIR OBUZHAN SIVRI",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 73,
+        "fingerprint": "ZB|20261014|23:42:50|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792010982340,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A96C7674553BA3DBA54",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
