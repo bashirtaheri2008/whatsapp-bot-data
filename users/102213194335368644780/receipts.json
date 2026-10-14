@@ -120955,6 +120955,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791994555544_grh7x",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "HAYMANA/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "10/07/2026",
+        "time": "19:11:43",
+        "trackingNo": "7640729219",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SAMET DUMAN",
+        "senderIban": "TR870001000007869660602505",
+        "receiverName": "NAZMUDDIN YAQUBI",
+        "receiverIban": "TR3400015001390075225075",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 42,
+        "fingerprint": "ZB|20260710|19:11:43|4000|TR3400015001390075225075"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791994555544,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A50BB44DF3BFFCE00B1ECCD4D0146AB7",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
