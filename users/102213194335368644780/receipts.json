@@ -119221,6 +119221,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791980292897_nd1lb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "500000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "15:14:47",
+        "trackingNo": "36039610",
+        "receiptNo": "829191",
+        "referenceCode": "",
+        "senderName": "MERT PARLAK",
+        "senderIban": "TR070004600005888000506201",
+        "receiverName": "Zinat Nazarı",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 59,
+        "fingerprint": "AK|20261014|15:14:47|500000|TR800001500158007392030554"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791980292897,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5B7CE75FAB0C12DD6E918F8C4D4C0E0",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
