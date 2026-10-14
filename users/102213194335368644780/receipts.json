@@ -122213,6 +122213,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792006952839_3twro",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "22:35",
+        "trackingNo": "1660046990",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-14-22.35.39.170840",
+        "senderName": "MEHMET CAN DAMAR",
+        "senderIban": "TR090001200958900001062836",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GIDEN FAST - MEHMET CAN DAMAR TARAFINDAN GONDERILEN",
+        "bankKey": "",
+        "ocrConfidence": 43,
+        "fingerprint": "GN|20261014|22:35|4700|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792006952839,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A666DDC69AC4149ACA6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
