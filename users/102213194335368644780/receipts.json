@@ -120853,6 +120853,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791993779591_ovmlh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:50:22",
+        "trackingNo": "633376070010658816",
+        "receiptNo": "14102026-9300-33512985",
+        "referenceCode": "",
+        "senderName": "BURHAN ALAT",
+        "senderIban": "TR160013400002013533000030",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261014|18:50:22|6000|TR440001500158007391459193"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791993779591,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5C90219066B8172B4D11B8EA47297B5",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791993922891_recyr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Vakıfbank",
+        "bankBranch": "",
+        "amount": "7400000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "19:03:54",
+        "trackingNo": "2026014377713625",
+        "receiptNo": "",
+        "referenceCode": "3003308168",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "OMID KHAN EYYUBI",
+        "receiverIban": "TR400001009010173950805001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 66,
+        "fingerprint": "ZB|20261014|19:03:54|7400000|TR400001009010173950805001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791993922891,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC791611CAF42DED055D689519D96A04",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
