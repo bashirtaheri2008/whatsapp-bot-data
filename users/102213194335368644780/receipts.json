@@ -120343,6 +120343,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791992110295_mednm",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2612/KALEALTI/AKSARAY SUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:29:33",
+        "trackingNo": "7440491125",
+        "receiptNo": "F16315",
+        "referenceCode": "A01",
+        "senderName": "RAMAZAN KILIÇ",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261014|18:29:33|5000|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791992110295,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACF7C507335E16B7999E84DA9CD0EA23",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
