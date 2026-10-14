@@ -120989,6 +120989,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791994682543_sau39",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "19:11",
+        "trackingNo": "4897492760",
+        "receiptNo": "03663-03663-999690253",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4897492760"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791994682543,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2AC8F291392117850F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
