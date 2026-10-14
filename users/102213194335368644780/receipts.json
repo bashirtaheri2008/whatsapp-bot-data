@@ -121907,6 +121907,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792002499241_4c2sb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2164/KURTULUS MAHALLESI/KIRIKKALE SUBESI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "21:19:47",
+        "trackingNo": "7441474797",
+        "receiptNo": "F12878",
+        "referenceCode": "A01",
+        "senderName": "HESAP NUMARAS",
+        "senderIban": "TR920007002164863701445002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 68,
+        "fingerprint": "ZB|20261014|21:19:47|4000|TR440001500158007391459193"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1792002499241,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5412B7648969073F689155F8EEB5C87",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
