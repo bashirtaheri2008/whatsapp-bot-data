@@ -117657,6 +117657,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791963018496_fcrub",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4250",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "10:28:37",
+        "trackingNo": "254888375141",
+        "receiptNo": "2548860072035",
+        "referenceCode": "SYJ2026162140226",
+        "senderName": "HACI GÜNEŞ",
+        "senderIban": "TR380006701000000011989390",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "FAST/",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261014|10:28:37|4250|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791963018496,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A60D5726A5621D6D7D5",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
