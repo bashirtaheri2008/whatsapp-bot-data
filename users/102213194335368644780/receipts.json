@@ -119085,6 +119085,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791977439600_z1u7b",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0831/KARŞIYAKA/ANKARA ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "14:24:10",
+        "trackingNo": "7438754833",
+        "receiptNo": "F04382",
+        "referenceCode": "F04382",
+        "senderName": "ÜMÜT KAYA",
+        "senderIban": "TR860001000831666229085002",
+        "receiverName": "ZİNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 77,
+        "fingerprint": "ZB|20261014|14:24:10|5000|TR800001500158007392030554"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791977439600,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3ACE038E4D0F03882F72",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
