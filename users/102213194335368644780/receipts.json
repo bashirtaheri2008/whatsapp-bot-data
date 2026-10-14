@@ -120751,6 +120751,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791993647895_sd0as",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "200.00",
+        "currency": "TL",
+        "date": "11/05/2024",
+        "time": "14:32:01",
+        "trackingNo": "",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 31,
+        "fingerprint": "GN|20240511|14:32:01|200"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791993647895,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC259AD2F7C52688B2804BB2ADE7B5CD",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
