@@ -122043,6 +122043,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792004675144_ctkld",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "21:53:30",
+        "trackingNo": "2026014384231833",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HASAN HÜSEYİN TURGUT",
+        "senderIban": "TR6300015001585640",
+        "receiverName": "ZİNNAT NAZARİ",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261014|21:53:30|3000|TR800001500158007392030554"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792004675144,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB1BAAAD548C4709012",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
