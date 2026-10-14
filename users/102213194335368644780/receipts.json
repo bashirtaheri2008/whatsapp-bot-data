@@ -122451,6 +122451,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792010133939_ydla3",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "40000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "23:34:03",
+        "trackingNo": "2026014387109419",
+        "receiptNo": "",
+        "referenceCode": "3003784272",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Yıldray yildirim",
+        "receiverIban": "TR190001009010500680205001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261014|23:34:03|40000|TR190001009010500680205001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792010133939,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC4773EADC5FB47DF026968ECDA9270B",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
