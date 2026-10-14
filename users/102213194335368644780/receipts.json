@@ -121533,6 +121533,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792000717538_pt6yf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Papara Elektronik Para A.Ş.",
+        "bankBranch": "",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "20:56",
+        "trackingNo": "4450044172",
+        "receiptNo": "PUA2026020393630",
+        "referenceCode": "543143220",
+        "senderName": "Ahmet Alkan",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "TR440001500158007391459193",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261014|20:56|6500|TR440001500158007391459193"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792000717538,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACA999518F7D87C665F62C7B1C2AE894",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
