@@ -117793,6 +117793,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791965979889_8s2gy",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2728/MİSKET MAHALLESİ/ANKARA ŞUBESİ",
+        "amount": "4100.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "11:13:20",
+        "trackingNo": "7437290535",
+        "receiptNo": "F00826",
+        "referenceCode": "FO0B26",
+        "senderName": "KAZIM KATIKCI",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261014|11:13:20|4100|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791965979889,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEA8016E3B8FCD17030",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
