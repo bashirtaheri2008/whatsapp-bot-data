@@ -122111,6 +122111,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792005213542_1ph7q",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "43000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "22:12:33",
+        "trackingNo": "3003668690",
+        "receiptNo": "",
+        "referenceCode": "2026014385173209",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "CENGIZ SILVER kuyumculuk iç ve dış tic san ltd şti",
+        "receiverIban": "TR03001340000229550500003",
+        "description": "ELDEN TESLİM ALDIĞIM ALTIN BEDELİ",
+        "bankKey": "",
+        "ocrConfidence": 68,
+        "fingerprint": "GN|20261014|22:12:33|43000|TR03001340000229550500003"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792005213542,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4ABFFB838B41E8B7DC94",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
