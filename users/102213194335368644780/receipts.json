@@ -120241,6 +120241,108 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791991800796_xzc3v",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "2400.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:28:41",
+        "trackingNo": "2026014376443842",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "CANSU ATILIR",
+        "senderIban": "TR100001500158********1880",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarida Detay Bilgileri Verilen Havale Islemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261014|18:28:41|2400|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791991800796,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC83637E980850A2E3781456D8191B42",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791991831493_ul1vw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "14/10/2026",
+        "time": "18:27:41",
+        "trackingNo": "3839390714",
+        "receiptNo": "436175005431",
+        "referenceCode": "14.10.2026/447/8888/8888",
+        "senderName": "FATİH SARAÇ",
+        "senderIban": "TR370006400000143610654931",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "FATİH SARAÇ tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 68,
+        "fingerprint": "GN|20261014|18:27:41|4000|TR340001500158007312220752"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791991831493,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A58C6F1EE433F73E51635A3FB3ECAEEE",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1791991914996_aj6ff",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:13:40",
+        "trackingNo": "32665130",
+        "receiptNo": "2051741",
+        "referenceCode": "",
+        "senderName": "EMRE YUCEL",
+        "senderIban": "TR910004600603888000207166",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261014|18:13:40|4000|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791991914996,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC28D0B573F37EDC01719B16A1653881",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
