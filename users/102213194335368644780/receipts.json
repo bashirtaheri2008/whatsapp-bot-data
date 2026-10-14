@@ -117861,6 +117861,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791966268403_0mm14",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "21000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "11:22:42",
+        "trackingNo": "2026014357006012",
+        "receiptNo": "",
+        "referenceCode": "3001979908",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Burhan bala",
+        "receiverIban": "TR480001009011119689005001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": "GN|20261014|11:22:42|21000|TR480001009011119689005001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1791966268403,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AE1B340F72F8167173F",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
