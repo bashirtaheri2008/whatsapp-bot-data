@@ -119459,6 +119459,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791982371438_uajvv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2315/TARIM VE ORMAN BAKANLIĞI/ANKARA ŞUBESİ",
+        "amount": "7000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "15:41:12",
+        "trackingNo": "7439304305",
+        "receiptNo": "F07746",
+        "referenceCode": "A01",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR410001002315618988715013",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261014|15:41:12|7000|TR340001500158007312220752"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791982371438,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A51102CDE88B0318EDBBD79F4ACAAB5D",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
