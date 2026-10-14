@@ -122145,6 +122145,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792005556692_w52f1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0174/KADINHANI/KONYA SUBESI",
+        "amount": "7000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "22:16:39",
+        "trackingNo": "7441699240",
+        "receiptNo": "F13352",
+        "referenceCode": "A01",
+        "senderName": "HAC ISMAIL ATASOBLU",
+        "senderIban": "TR930001000174773690575001",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261014|22:16:39|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792005556692,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A73AC8D8D935901D475",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
