@@ -119731,6 +119731,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791985829083_1r6eb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KARAMAN",
+        "amount": "9950.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "16:33:37",
+        "trackingNo": "2551000292",
+        "receiptNo": "2026-10-14-16.33.28.951828",
+        "referenceCode": "",
+        "senderName": "FURKAN CELIK",
+        "senderIban": "TR170006200059400006607510",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261014|16:33:37|9950|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791985829083,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC90C5381CEAAB8F40A9F00C38022F88",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
