@@ -119663,6 +119663,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791984319393_ogj17",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1",
+        "amount": "7000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "16:19:42",
+        "trackingNo": "7439575516",
+        "receiptNo": "F05871",
+        "referenceCode": "A01",
+        "senderName": "BEDIR OBUZHAN SIVRI",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261014|16:19:42|7000|TR800001500158007392030554"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791984319393,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABC1E9283897751C65C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
