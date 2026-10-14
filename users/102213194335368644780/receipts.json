@@ -119493,6 +119493,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791982492492_jiu4g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4200.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "15:53:38",
+        "trackingNo": "ANM7R-B-2026101466",
+        "receiptNo": "BKR2026001115392",
+        "referenceCode": "6e4d6e0a-620b-42d3-9f50-bf41654c9ae6",
+        "senderName": "AYHAN TAŞDELEN",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: AYHAN TAŞDELEN - , Alıcı: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261014|15:53:38|4200|TR340001500158007312220752"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791982492492,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A538A8F84D89DE6C5E1A99B793B79283",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
