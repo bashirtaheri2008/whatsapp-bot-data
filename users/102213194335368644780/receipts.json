@@ -119935,6 +119935,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791988629489_su5vm",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "17:35:23",
+        "trackingNo": "6370000334",
+        "receiptNo": "2026-10-14-17.35.20.765629",
+        "referenceCode": "",
+        "senderName": "GANIME OKUMUS",
+        "senderIban": "TR470006200132600006639879",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261014|17:35:23|4000|TR340001500158007312220752"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791988629489,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A563D46CF0B83955E85DD584E81FB6B8",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
