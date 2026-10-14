@@ -118405,6 +118405,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791971169297_cn7yd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akifbank",
+        "bankBranch": "444 - Bireysel Bankacilik Subesi",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "12:42",
+        "trackingNo": "4621761498",
+        "receiptNo": "24654",
+        "referenceCode": "4621761498",
+        "senderName": "MUSTAFA CAN",
+        "senderIban": "TR110014300000000029536370",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 44,
+        "fingerprint": "GN|20261014|12:42|5000|TR340001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791971169297,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA6DFA120BE775A3F46",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
