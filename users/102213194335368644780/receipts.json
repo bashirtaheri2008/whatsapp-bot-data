@@ -122247,6 +122247,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792008023548_zpzxb",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KARAMAN",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "22:59:02",
+        "trackingNo": "2313000426",
+        "receiptNo": "2026-10-14-22.58.47.661567",
+        "referenceCode": "",
+        "senderName": "MUZAFFER KOCAER",
+        "senderIban": "TR110006200059400006607327",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261014|22:59:02|5500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792008023548,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8C4AFA571CDD69C0D1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
