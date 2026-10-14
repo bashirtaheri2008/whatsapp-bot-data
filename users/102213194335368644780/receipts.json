@@ -119867,6 +119867,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791987542320_a1s3z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "300000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "17:14:28",
+        "trackingNo": "35684909",
+        "receiptNo": "121100",
+        "referenceCode": "",
+        "senderName": "LEYLAONCU",
+        "senderIban": "TR310004600541888000163913",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 61,
+        "fingerprint": "AK|20261014|17:14:28|300000|TR440001500158007391459193"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1791987542320,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A5673A83EE3A6184885A14538365405A",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
