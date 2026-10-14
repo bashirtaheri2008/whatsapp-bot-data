@@ -121023,6 +121023,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791994855438_jati1",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1345/ESKİL/AKSARAY ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "18:05:15",
+        "trackingNo": "7440370974",
+        "receiptNo": "F11256",
+        "referenceCode": "A01",
+        "senderName": "MERT ÇEÇEN",
+        "senderIban": "TR36************405001",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR44************459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 66,
+        "fingerprint": "ZB|20261014|18:05:15|7000|TR44459193"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1791994855438,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACF3CD85B6A474BE37B521E1DC8BC2CE",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
