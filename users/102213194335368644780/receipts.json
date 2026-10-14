@@ -118439,6 +118439,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791972181599_qe960",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "subesl",
+        "amount": "7800",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "13:01:49",
+        "trackingNo": "7438152962",
+        "receiptNo": "F11322",
+        "referenceCode": "F11322",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR340001001935870464695002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "7.800,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261014|13:01:49|7800|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791972181599,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7BC5B9B973790E0FF8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
