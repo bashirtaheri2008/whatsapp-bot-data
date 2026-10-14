@@ -118745,6 +118745,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791975440593_eb4bh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "13:55:38",
+        "trackingNo": "633301896456445952",
+        "receiptNo": "",
+        "referenceCode": "14102026-9300-24023983",
+        "senderName": "ABDULKADİR TÜRKOĞLU",
+        "senderIban": "TR800013400002247026700004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261014|13:55:38|5000|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1791975440593,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB34C616F412ADEE200",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
