@@ -118575,6 +118575,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1791973220793_by7xu",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "500837",
+        "currency": "TL",
+        "date": "14/10/2026",
+        "time": "13:17:45",
+        "trackingNo": "47057245",
+        "receiptNo": "6393281",
+        "referenceCode": "",
+        "senderName": "ADI AYSE AKKAYA",
+        "senderIban": "TR190004600151888000140852",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 55,
+        "fingerprint": "AK|20261014|13:17:45|500837|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1791973220793,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4596A460AA1687CC76",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
