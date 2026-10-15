@@ -127109,6 +127109,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792077970889_fyt5z",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ZAFER",
+        "amount": "4440.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:23:31",
+        "trackingNo": "1895000498",
+        "receiptNo": "2026-10-15-18.23.29.891039",
+        "referenceCode": "",
+        "senderName": "NUREDDIN ARPASIRTI",
+        "senderIban": "TR820006200077000006818084",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261015|18:23:31|4440|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792077970889,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAAD97C45F8C1D03DDC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
