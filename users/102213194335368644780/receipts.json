@@ -127413,6 +127413,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792079224386_70fgm",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2472/24 AĞUSTOS-AKŞEHİR/KONYA ŞUBESİ",
+        "amount": "10000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:37:49",
+        "trackingNo": "7451463296",
+        "receiptNo": "F14818",
+        "referenceCode": "A01",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR180001002472597204935002",
+        "receiverName": "BORİ BAY HAMDARD",
+        "receiverIban": "TR490001500158007321089289",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261015|18:37:49|10000|TR490001500158007321089289"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792079224386,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACCFFDC598AAB457B92E5FF214B73138",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
