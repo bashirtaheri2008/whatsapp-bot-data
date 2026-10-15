@@ -129929,6 +129929,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792095385833_u0plq",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:56:02",
+        "trackingNo": "2026014449657254",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "FERHAT KESEN",
+        "senderIban": "TR840001500158****7128",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarida Detay Bilgileri Verilen Havale Islemi Gerceklestirilmistir.",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261015|22:56:02|2000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792095385833,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACD711980702E748A67",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
