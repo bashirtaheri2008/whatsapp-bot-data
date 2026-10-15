@@ -123029,6 +123029,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792046939144_eeuk0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "15/10/2026",
+        "time": "09:37:18",
+        "trackingNo": "3841731914",
+        "receiptNo": "450545007850",
+        "referenceCode": "15.10.2026/447/8888/8888",
+        "senderName": "MEHMET AKİF DAYI",
+        "senderIban": "TR640006400000145050657275",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "MEHMET AKİF DAYI tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261015|09:37:18|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792046939144,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFAC902026B68080CEC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
