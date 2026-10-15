@@ -123233,6 +123233,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792049856340_l3fht",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "10:35:38",
+        "trackingNo": "CRF2026000628998",
+        "receiptNo": "AJKC3-B-20261015287",
+        "referenceCode": "",
+        "senderName": "YAKUP TUFAN",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: YAKUP TUFAN , Alıcı: RAHMATULLAH HAKIMI IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 34,
+        "fingerprint": "GN|20261015|10:35:38|4000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792049856340,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A28B46F128361456BDD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
