@@ -124661,6 +124661,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792063243788_l1vrr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Vakıfbank",
+        "bankBranch": "",
+        "amount": "50000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:19:32",
+        "trackingNo": "2026014424114964",
+        "receiptNo": "",
+        "referenceCode": "3007778703",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "CENGIZ SILVER",
+        "receiverIban": "TR030013400002295505500003",
+        "description": "ELDEN TESLIM ALDIGIM ALTIN BED",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261015|14:19:32|50000|TR030013400002295505500003"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792063243788,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACDB4813DF6A1E5396F9706CB60D9BCA",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
