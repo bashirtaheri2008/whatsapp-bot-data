@@ -125001,6 +125001,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792065221193_5n0be",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "İVEDİK",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:48:13",
+        "trackingNo": "696000374",
+        "receiptNo": "2026-10-15-14.48.07.969753",
+        "referenceCode": "",
+        "senderName": "EMRAH KOROGLU",
+        "senderIban": "TR120006200149500006657027",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261015|14:48:13|8000|TR800001500158007392030554"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792065221193,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A390A3C7699A887A523",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
