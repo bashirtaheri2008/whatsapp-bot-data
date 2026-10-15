@@ -128739,6 +128739,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792086313238_yt1zs",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "19:51:09",
+        "trackingNo": "633753751029891072",
+        "receiptNo": "15102026-9300-39445497",
+        "referenceCode": "5730-15117762-352",
+        "senderName": "LEVENT CEYLAN",
+        "senderIban": "TR060013400001511776200352",
+        "receiverName": "NIZAMUDDINYAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261015|19:51:09|5000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792086313238,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5E31E2ACF5128B45BA7152B22CED937",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792086328741_n9uvm",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:22:16",
+        "trackingNo": "3120000608",
+        "receiptNo": "2026-10-15-20.22.11.852187",
+        "referenceCode": "",
+        "senderName": "ORHAN AYBEY",
+        "senderIban": "TR340006200146300006660283",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 78,
+        "fingerprint": "GN|20261015|20:22:16|10000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792086328741,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5EFF22B92DB4D0BFE9CA08CB1647E78",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792086555729_usq25",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2173/MERAM/KONYA ŞUBESİ",
+        "amount": "6200.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:47:40",
+        "trackingNo": "7452517463",
+        "receiptNo": "F46500",
+        "referenceCode": "A01",
+        "senderName": "NECIBE KUGUKSAHIN",
+        "senderIban": "TR390001002173818844355002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261015|20:47:40|6200|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792086555729,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A13E825299FB771935E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
