@@ -127007,6 +127007,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792077182086_ken95",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2528/BUGDAY PAZARI/KONYA SUBESI",
+        "amount": "8870.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:12:00",
+        "trackingNo": "7451095761",
+        "receiptNo": "F10722",
+        "referenceCode": "A01",
+        "senderName": "FERHAT GELIK",
+        "senderIban": "TR180001002528883161075001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 70,
+        "fingerprint": "ZB|20261015|18:12:00|8870|TR440001500158007391459193"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792077182086,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC825F7E2CF16D5A200F34F38F551541",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
