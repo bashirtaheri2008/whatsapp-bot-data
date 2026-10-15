@@ -123811,6 +123811,40 @@
         "participantAlt": "93783321624@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792058267610_xmmg6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0171/ILGIN/KONYA SUBESI",
+        "amount": "7500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "12:51:27",
+        "trackingNo": "7447484891",
+        "receiptNo": "F12979",
+        "referenceCode": "A01",
+        "senderName": "MEHMET FATIH EREN",
+        "senderIban": "TR530001000171578481305001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 77,
+        "fingerprint": "ZB|20261015|12:51:27|7500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792058267610,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5D2E15964BAECB6B18",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
