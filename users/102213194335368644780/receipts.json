@@ -124015,6 +124015,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792060145233_ssovm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "450000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:27:39",
+        "trackingNo": "37441840737167",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUCAHIT ADIKUZEL",
+        "senderIban": "TR260004600773888000168796",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 59,
+        "fingerprint": "AK|20261015|13:27:39|450000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792060145233,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAFC8DFDD740E0F9F07",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
