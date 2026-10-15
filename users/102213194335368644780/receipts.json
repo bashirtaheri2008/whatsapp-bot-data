@@ -124253,6 +124253,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792062156397_d8nph",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi",
+        "bankBranch": "",
+        "amount": "4193.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "00:00:00",
+        "trackingNo": "517756046569",
+        "receiptNo": "",
+        "referenceCode": "17889622",
+        "senderName": "MEHMET AKPINAR",
+        "senderIban": "TR470006701000000054586002",
+        "receiverName": "Rahmatullah Rahmani",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI",
+        "bankKey": "",
+        "ocrConfidence": 50,
+        "fingerprint": "GN|20261015|00:00:00|4193|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062156397,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A215E716A8998EDF497",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
