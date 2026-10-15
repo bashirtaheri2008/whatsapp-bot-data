@@ -122995,6 +122995,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792045677423_j4x0m",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2528/BUGDAY PAZARI/KONYA SUBESI",
+        "amount": "6500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "09:26:19",
+        "trackingNo": "7444504152",
+        "receiptNo": "F02046",
+        "referenceCode": "A01",
+        "senderName": "HASAN DUMAN",
+        "senderIban": "TR760001002528391152075005",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 77,
+        "fingerprint": "ZB|20261015|09:26:19|6500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792045677423,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA7354647B1188A52C7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
