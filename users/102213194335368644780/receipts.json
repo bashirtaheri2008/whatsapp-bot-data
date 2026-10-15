@@ -130065,6 +130065,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792096678529_7sqpq",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "102500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "23:37:02",
+        "trackingNo": "3009951365",
+        "receiptNo": "",
+        "referenceCode": "2026014450706246",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Hasibullah Faizi",
+        "receiverIban": "TR170001002581921042885001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261015|23:37:02|102500|TR170001002581921042885001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792096678529,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AA9EB5359F8205F5FD5",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
