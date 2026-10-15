@@ -129657,6 +129657,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792092385923_0ky54",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ANKARA PURSAKLAR CHANGER DOK.",
+        "amount": "8.000,00",
+        "currency": "TL",
+        "date": "10/10/2026",
+        "time": "22:15:59",
+        "trackingNo": "43046801",
+        "receiptNo": "6970006462",
+        "referenceCode": "61046 / 4410471",
+        "senderName": "PURSAKLAR",
+        "senderIban": "TRY00060006006610471",
+        "receiverName": "MUHAMMED VAQIFOV",
+        "receiverIban": "TRY00060006006610471",
+        "description": "TL TL BONO - 0,40 TL",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261010|22:15:59|8000|TRY00060006006610471"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792092385923,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A94231B07CB0D4736CF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
