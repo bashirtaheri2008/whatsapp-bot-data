@@ -129249,6 +129249,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792090319926_a72dj",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "21:49:41",
+        "trackingNo": "2026014447113875",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YAŞAR ÇINAR",
+        "senderIban": "TR4300015001585758",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 70,
+        "fingerprint": "GN|20261015|21:49:41|3500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792090319926,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A611A4502DA0E733001",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
