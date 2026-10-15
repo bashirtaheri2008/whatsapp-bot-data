@@ -124593,6 +124593,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792062727989_dxfrz",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "450000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:07:52",
+        "trackingNo": "2026014423506086",
+        "receiptNo": "205003",
+        "referenceCode": "3007708894",
+        "senderName": "RAMAZAN INAN",
+        "senderIban": "",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR23000100901030942205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 54,
+        "fingerprint": "GN|20261015|14:07:52|450000|TR23000100901030942205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062727989,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5B9CB54D8A5D146D63",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
