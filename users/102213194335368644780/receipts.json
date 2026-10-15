@@ -129963,6 +129963,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792096090930_cnaoz",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Umraniye/İSTANBUL",
+        "amount": "2935.38",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:58:31",
+        "trackingNo": "21748452",
+        "receiptNo": "",
+        "referenceCode": "0922003497000017",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "KARTSIZ PARA YATIRMA",
+        "bankKey": "",
+        "ocrConfidence": 51,
+        "fingerprint": "GN|20261015|22:58:31|2935.38"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792096090930,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9DD99E9EBC1BFB1527",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
