@@ -127447,6 +127447,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792079246694_m5e1t",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0500/MAZIDAĞI/MARDİN ŞUBESİ",
+        "amount": "3950",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:42:45",
+        "trackingNo": "7451468424",
+        "receiptNo": "F17332",
+        "referenceCode": "F17332",
+        "senderName": "CELAL AKTAN",
+        "senderIban": "TR690001000500636406405007",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 74,
+        "fingerprint": "ZB|20261015|18:42:45|3950|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792079246694,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACF892F6C6FE016D1022D861D45EC3AA",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
