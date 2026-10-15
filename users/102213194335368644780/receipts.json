@@ -129487,6 +129487,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792091518031_hx6bn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "15/10/2026",
+        "time": "22:09:02",
+        "trackingNo": "3846280408",
+        "receiptNo": "421819014573",
+        "referenceCode": "15.10.2026/447/8888/8888",
+        "senderName": "MUSTAFA ALPEREN ÇAĞLAYAN",
+        "senderIban": "TR050006400000142187113965",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "MUSTAFA ALPEREN ÇAĞLAYAN tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 68,
+        "fingerprint": "GN|20261015|22:09:02|5000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792091518031,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7F240D626E1E3AF9A2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
