@@ -129827,6 +129827,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792093667928_7hub4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ATATÜRK BULVARI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:37:29",
+        "trackingNo": "1300000741",
+        "receiptNo": "2026-10-15-22.37.25.630394",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR670006200071000006802455",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 39,
+        "fingerprint": "GN|20261015|22:37:29|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792093667928,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA8AA17787E1E778F72",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
