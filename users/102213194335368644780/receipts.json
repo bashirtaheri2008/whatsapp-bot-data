@@ -122961,6 +122961,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792044721040_zf1z7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "3800",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "09:04:45",
+        "trackingNo": "AH0X9-B-202610157",
+        "receiptNo": "BDM2026002416621",
+        "referenceCode": "",
+        "senderName": "ADEM EMEKSIZ",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: ADEM EMEKSIZ , Alici: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261015|09:04:45|3800|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792044721040,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1D8D43930B5F3A2683",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
