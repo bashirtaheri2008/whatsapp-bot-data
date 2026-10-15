@@ -124151,6 +124151,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792061631290_y689d",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2612/KALEALTI/AKSARAY SUBESI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:49:12",
+        "trackingNo": "7448189591",
+        "receiptNo": "F14179",
+        "referenceCode": "A01",
+        "senderName": "ILKER TERYAKI",
+        "senderIban": "TR330001002612739017325001",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261015|13:49:12|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792061631290,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA75A323FEB84B1EB42",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792061654095_ld4ox",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1912/ERYAMAN/ANKARA SUBESI",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:52:16",
+        "trackingNo": "7448237487",
+        "receiptNo": "F08500",
+        "referenceCode": "A01",
+        "senderName": "BEDIR OBUZHAN SIVRI",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 73,
+        "fingerprint": "ZB|20261015|13:52:16|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792061654095,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A18F5803169B144F601",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792061856697_vwplq",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0908/DEMETEVLER/ANKARA SUBESI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:55:57",
+        "trackingNo": "7448323816",
+        "receiptNo": "F17941",
+        "referenceCode": "AO1",
+        "senderName": "FERDI KALU",
+        "senderIban": "TR740001000908624336675002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261015|13:55:57|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792061856697,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2F0758A11A6491B7F2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
