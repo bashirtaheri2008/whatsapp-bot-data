@@ -123199,6 +123199,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792049513748_woy8m",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0627/SİTELER/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "10:27:21",
+        "trackingNo": "7445470503",
+        "receiptNo": "F02523",
+        "referenceCode": "A01",
+        "senderName": "AYTEKİN CENGİZ",
+        "senderIban": "TR920001000627648811445003",
+        "receiverName": "rahmatuilaih hakimy",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261015|10:27:21|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792049513748,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A232D5037D245F9F0C1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
