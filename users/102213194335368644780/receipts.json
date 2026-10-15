@@ -128195,6 +128195,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792083937053_suglr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "YAŞAR KML CD./SİNCAN",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:04:28",
+        "trackingNo": "1601000568",
+        "receiptNo": "2026-10-15-20.04.24.010546",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ Yed1BinTL.",
+        "bankKey": "",
+        "ocrConfidence": 27,
+        "fingerprint": "GN|20261015|20:04:28|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792083937053,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAC889B82580F42E617",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
