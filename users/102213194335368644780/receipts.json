@@ -129861,6 +129861,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792093864936_koim1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "12500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:48",
+        "trackingNo": "4901547537",
+        "receiptNo": "03663-03663-1004557920",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 72,
+        "fingerprint": "EP|4901547537"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792093864936,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A678736F78FDDD31191",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
