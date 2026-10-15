@@ -129691,6 +129691,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792093176123_5co1n",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:37:21",
+        "trackingNo": "2026014448978438",
+        "receiptNo": "776444",
+        "referenceCode": "",
+        "senderName": "CELAL YILMAZ",
+        "senderIban": "TR5900015001588791",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 51,
+        "fingerprint": "GN|20261015|22:37:21|3500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792093176123,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2A569478C64E1AAC35",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
