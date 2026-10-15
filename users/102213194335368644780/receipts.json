@@ -123607,6 +123607,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792056148045_rdzyp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "12:16",
+        "trackingNo": "4899346857",
+        "receiptNo": "03663-03663-1002744313",
+        "referenceCode": "",
+        "senderName": "ERHAN YASEVAS",
+        "senderIban": "TR030015700000000115346547",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 71,
+        "fingerprint": "EP|4899346857"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792056148045,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0FABB3E782C8F3FC7C",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
