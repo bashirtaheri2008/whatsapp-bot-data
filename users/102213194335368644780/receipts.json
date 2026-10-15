@@ -129147,6 +129147,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792088672256_adqmr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1256/MESIR/MANISA SUBESI",
+        "amount": "3800.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "21:23:22",
+        "trackingNo": "7452682487",
+        "receiptNo": "F36482",
+        "referenceCode": "A01",
+        "senderName": "IHSAN KARABALAK",
+        "senderIban": "TR140001001256736296095003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 68,
+        "fingerprint": "ZB|20261015|21:23:22|3800|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792088672256,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A538BFFA7D018CEB121",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
