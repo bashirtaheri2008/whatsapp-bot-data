@@ -129793,6 +129793,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792093534732_p74z4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0230/SİVAS ŞUBESİ",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:44:33",
+        "trackingNo": "7453137799",
+        "receiptNo": "F66175",
+        "referenceCode": "F66175",
+        "senderName": "HALIT ELMAS",
+        "senderIban": "TR810001000230650429265001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261015|22:44:33|6500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792093534732,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5B17E0DBA513E193FF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
