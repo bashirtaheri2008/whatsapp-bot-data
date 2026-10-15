@@ -125341,6 +125341,142 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792066047994_gufcj",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "775644",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "15/10/2025",
+        "time": "15:02:25",
+        "trackingNo": "30008258630",
+        "receiptNo": "2026014426434030",
+        "referenceCode": "",
+        "senderName": "REYHAN MERVE KOÇAKGİL",
+        "senderIban": "",
+        "receiverName": "Rahmetullah Halimi",
+        "receiverIban": "TR230001009010309422050103",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 24,
+        "fingerprint": "GN|20251015|15:02:25|4000|TR230001009010309422050103"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792066047994,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1D884AD5083D8ABF00",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792066052594_gj6g4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "İSTİNYE PARK",
+        "amount": "4800.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:03:30",
+        "trackingNo": "2420000386",
+        "receiptNo": "2026-10-15-15.03.28.109420",
+        "referenceCode": "34682827",
+        "senderName": "ADILCEVAY/BİTİLS",
+        "senderIban": "TR270006200065100006678728",
+        "receiverName": "PANTOMİMLİK HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "YALNIZ DörtBinSekizYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 34,
+        "fingerprint": "GN|20261015|15:03:30|4800|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792066052594,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A666579AB4C10BF3E83",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792066057488_mkpol",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "e-Dekont",
+        "amount": "14.40",
+        "currency": "TL",
+        "date": "15/10/2024",
+        "time": "13:41:01",
+        "trackingNo": "147074428",
+        "receiptNo": "147074428",
+        "referenceCode": "147074428",
+        "senderName": "BURAK ZILCIK",
+        "senderIban": "TR62000640000050000909844456",
+        "receiverName": "TÜLAY TUGAY TUGAY",
+        "receiverIban": "TR210001000127534984800412",
+        "description": "ACIKLAMALARINIZIN IÇIN TRANSFER REF NO'SUNU - PAYLAT",
+        "bankKey": "",
+        "ocrConfidence": 24,
+        "fingerprint": "GN|20241015|13:41:01|14.40|TR210001000127534984800412"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792066057488,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9BE0844A332E0929D0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792066070205_qbvnv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:05:23",
+        "trackingNo": "1267000403",
+        "receiptNo": "2026-10-15-15.04.00.250216",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR660006200059600006605939",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 36,
+        "fingerprint": "GN|20261015|15:05:23|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792066070205,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A76A18CBAB3B9988044",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
