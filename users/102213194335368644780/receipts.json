@@ -129385,6 +129385,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792091251226_xsdoq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "21:42",
+        "trackingNo": "4901400632",
+        "receiptNo": "03663-03663-1004435227",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4901400632"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792091251226,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5E883708DDDC8E962ECB2E332E1C272",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792091263332_jj7mq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "300837",
+        "currency": "TL",
+        "date": "15/10/2025",
+        "time": "22:04:28",
+        "trackingNo": "52330653 / 859350",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SELIN OZTURK CIHAN",
+        "senderIban": "TR800004600179888000203732",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 55,
+        "fingerprint": "AK|20251015|22:04:28|300837|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792091263332,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A25EA873E84DADEBA68",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
