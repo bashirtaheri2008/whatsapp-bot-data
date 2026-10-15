@@ -125647,6 +125647,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792066879988_73k4g",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2488/ZAFER/KONYA SUBESİ",
+        "amount": "3945.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:18:54",
+        "trackingNo": "7449320853",
+        "receiptNo": "F14095",
+        "referenceCode": "A01",
+        "senderName": "REYYAN SILA ERDIM",
+        "senderIban": "TR260007009010989853005001",
+        "receiverName": "ebrar gölger",
+        "receiverIban": "TR730020500003165603600001",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 61,
+        "fingerprint": "ZB|20261015|15:18:54|3945|TR730020500003165603600001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792066879988,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA413548D9767E1A41D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792066889863_iitui",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ÇUKURAMBAR",
+        "amount": "5500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:16:17",
+        "trackingNo": "2920000414",
+        "receiptNo": "2026-10-15-15.16.14.771999",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR680006200118300006673196",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ BeşBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 41,
+        "fingerprint": "GN|20261015|15:16:17|5500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792066889886,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2FED9A222B527C3B26",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792066943887_o6m8l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "1.78",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:16:07",
+        "trackingNo": "36050330",
+        "receiptNo": "111920",
+        "referenceCode": "",
+        "senderName": "RESUL OZDAVAR",
+        "senderIban": "TR670004600033888000470159",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 59,
+        "fingerprint": "AK|20261015|15:16:07|1.78|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792066943887,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A37120FC92BB61A483E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792067384693_m12ud",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0099/ÇORLU/TEKİRDAĞ ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:20:54",
+        "trackingNo": "F17828",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALACAKH AD",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "Alacaklı Şube : 2783-HÜDAVENT HATUN/NİĞDE ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 62,
+        "fingerprint": "ZB|20261015|15:20:54|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792067384693,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4184892678A009333F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
