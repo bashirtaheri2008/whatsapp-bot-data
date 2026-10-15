@@ -124083,6 +124083,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792060856501_xkend",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "ZİRAAT MÜŞ.",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:33:21",
+        "trackingNo": "7448026219",
+        "receiptNo": "1461766951",
+        "referenceCode": "A01",
+        "senderName": "VELİ AKTUĞ",
+        "senderIban": "TR340001000150007312220752",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500150007312220752",
+        "description": "2.000,00 TRY tutarında Fast isleminin yapilmasi. Bu islem icin tarafinizdan 8,37 TRY masraf alinmistir.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 52,
+        "fingerprint": "ZB|20261015|13:33:21|2000|TR340001500150007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792060856501,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A507CDCD6051020CE2D847C64A0809F1",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
