@@ -126633,6 +126633,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792071882586_w59qx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "16:35:43",
+        "trackingNo": "517752720465",
+        "receiptNo": "SYJ2026181586720",
+        "referenceCode": "925-437011 / 2548986925435",
+        "senderName": "TAHİR ÖZDEMİR",
+        "senderIban": "TR980006701000000065595748",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "ziraat",
+        "ocrConfidence": 54,
+        "fingerprint": "ZB|20261015|16:35:43|4600|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792071882586,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0D296CBD3BBB6A326A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792071904090_oio0z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "16:37",
+        "trackingNo": "4900409921",
+        "receiptNo": "202610162827358",
+        "referenceCode": "03663-03663-1003620205",
+        "senderName": "RAMAZAN KAPLAN",
+        "senderIban": "TR270015700000000150239731",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 72,
+        "fingerprint": "EP|4900409921"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792071904091,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6824A72E33E93CEF42",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792071916001_rm2or",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "16:42:22",
+        "trackingNo": "M-2026-10-15-16.42.22.555878",
+        "receiptNo": "1663747546",
+        "referenceCode": "",
+        "senderName": "EMRE KIRAZLI",
+        "senderIban": "TR800001200126200001113184",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "GIDEN FAST - EMRE KIRAZLI TARAFINDAN GONDERILEN",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261015|16:42:22|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792071916001,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A560789630F7F166438",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
