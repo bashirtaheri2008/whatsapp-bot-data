@@ -130235,6 +130235,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792098272329_xeeq6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Hesab",
+        "bankBranch": "",
+        "amount": "100.00",
+        "currency": "AFN",
+        "date": "15/10/2026",
+        "time": "17:05",
+        "trackingNo": "0106991001792067722",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Bashir Tahiri",
+        "senderIban": "",
+        "receiverName": "Amrullah Ahmadi",
+        "receiverIban": "",
+        "description": "انتقال پول",
+        "bankKey": "",
+        "ocrConfidence": 40,
+        "fingerprint": "GN|20261015|17:05|100"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1792098272329,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "ACDC1DE266CCD642AB785932CEDFEFEF",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
