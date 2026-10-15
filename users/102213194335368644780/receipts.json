@@ -124117,6 +124117,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792061614087_eatas",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:40:19",
+        "trackingNo": "38662029",
+        "receiptNo": "770017",
+        "referenceCode": "",
+        "senderName": "EMRE GARIPOZ",
+        "senderIban": "TR750004600375888000254259",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 59,
+        "fingerprint": "AK|20261015|13:40:19|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792061614087,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5E3E6B86C980107893",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
