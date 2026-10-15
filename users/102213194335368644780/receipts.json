@@ -129079,6 +129079,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792088075224_x2mrk",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0026/AKSARAY ŞUBESİ",
+        "amount": "4800.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "21:11:19",
+        "trackingNo": "7452596289",
+        "receiptNo": "F48432",
+        "referenceCode": "A01",
+        "senderName": "FADIME DEMIRBAS",
+        "senderIban": "TR120001000026760925625001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261015|21:11:19|4800|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792088075224,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5B2C2FB499B115D681E7D2202DF9C4F",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
