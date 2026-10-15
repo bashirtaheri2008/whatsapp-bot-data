@@ -124287,6 +124287,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792062169689_h1rvx",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:53:28",
+        "trackingNo": "2026014422632987",
+        "receiptNo": "",
+        "referenceCode": "3007643058",
+        "senderName": "RAMAZAN KIVRAK",
+        "senderIban": "",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 49,
+        "fingerprint": "GN|20261015|13:53:28|4500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062169689,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6450E1B491829B0A84",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792062209891_iodga",
+      "data": {
+        "isReceipt": true,
+        "bank": "Şekerbank",
+        "bankBranch": "SİTELER",
+        "amount": "1728.37",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:54:02",
+        "trackingNo": "30267634466",
+        "receiptNo": "202640461511",
+        "referenceCode": "59553360",
+        "senderName": "ÖMER KÜRKAYA",
+        "senderIban": "TR670005901600130160010702",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 54,
+        "fingerprint": "GN|20261015|13:54:02|1728.37|TR34000158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062209891,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A13508B82BFD0516666",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792062233387_uaued",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1754/ATATÜRK CADDESI- SINCAN/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:02:31",
+        "trackingNo": "7448355404",
+        "receiptNo": "F05036",
+        "referenceCode": "A01",
+        "senderName": "MERT AYHAN",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261015|14:02:31|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062233387,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD601D07A76419A8E1D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
