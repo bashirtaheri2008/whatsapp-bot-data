@@ -124763,6 +124763,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792064511078_iii40",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0132/ISPARTA SUBESI",
+        "amount": "4290.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:32:27",
+        "trackingNo": "F41199",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALACAKL ADI SOYADI",
+        "senderIban": "TR020001000132690086115003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "2783-HUDAVENT HATUN/NIGDE SUBESI",
+        "bankKey": "ziraat",
+        "ocrConfidence": 67,
+        "fingerprint": "ZB|20261015|14:32:27|4290|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792064511078,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A81CCCFC056BE0E2D0F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
