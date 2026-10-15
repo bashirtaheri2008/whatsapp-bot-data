@@ -126973,6 +126973,40 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792077158990_yd4me",
+      "data": {
+        "isRecept": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:04:16",
+        "trackingNo": "633726851814903808",
+        "receiptNo": "292006456",
+        "referenceCode": "15102026-9300-35767831",
+        "senderName": "HANIFI KAYALI",
+        "senderIban": "TR590013400002244621200001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Yukarıda detay bilgileri verilen FAST işlemi için 3110-22446212-351 hesabınıza toplam 4.700,00 TL Borç kaydedilmiştir.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261015|18:04:16|4700|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792077158990,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9E709398E4AD9F417E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
