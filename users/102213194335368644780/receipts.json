@@ -130337,6 +130337,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792100033927_tsqpb",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4300.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "00:03",
+        "trackingNo": "1664798786",
+        "receiptNo": "M-2026-10-16-00.03.03.966171",
+        "referenceCode": "",
+        "senderName": "OGUZHAN KILIC",
+        "senderIban": "TR340001200941000001017206",
+        "receiverName": "ZINAT NAZARI",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "GIDEN FAST - OGUZHAN KILIC TARAFINDAN GONDERILEN",
+        "bankKey": "",
+        "ocrConfidence": 59,
+        "fingerprint": "GN|20261016|00:03|4300|TR800001500158007392030554"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792100033927,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE4E005F8956E6A9ED5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
