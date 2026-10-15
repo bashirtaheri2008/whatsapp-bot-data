@@ -124423,6 +124423,176 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792062485394_1dqnj",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1916/BINKONUTLAR/KONYA SUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:03:51",
+        "trackingNo": "F17109",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "EBUBEKIR FURKAN SARI",
+        "senderIban": "TR880001001916548768695004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 68,
+        "fingerprint": "ZB|20261015|14:03:51|5000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062485395,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8E151CD9F22A1F9A18",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792062497092_cqp31",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "500000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:03:00",
+        "trackingNo": "14701431",
+        "receiptNo": "827100",
+        "referenceCode": "",
+        "senderName": "SEVIMKOCA",
+        "senderIban": "TR760004600075888000153617",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 47,
+        "fingerprint": "AK|20261015|14:03:00|500000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062497092,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD58E1C06E363B3CFE7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792062509392_jhzsj",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "EREĞLİ",
+        "amount": "20000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:03:29",
+        "trackingNo": "4319000356",
+        "receiptNo": "2026-10-15-14.03.24.253486",
+        "referenceCode": "",
+        "senderName": "RÜCHAN TORUN",
+        "senderIban": "TR560006200059200006676852",
+        "receiverName": "ABDÜLHAKİM AYMAĞ",
+        "receiverIban": "TR450001009010877947605001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261015|14:03:29|20000|TR450001009010877947605001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062509392,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB241A6BCC35E0B22B0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792062546886_n3cn4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0919/YILDIZEVLER/ANKARA SUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:05:07",
+        "trackingNo": "7448410041",
+        "receiptNo": "F04076",
+        "referenceCode": "A01",
+        "senderName": "ERDİ AVŞAR",
+        "senderIban": "TR940001000919622787545001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261015|14:05:07|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792062546886,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEF1EB495C0B0AEF5AE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792062625191_3aerz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "320000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:09:05",
+        "trackingNo": "40041044",
+        "receiptNo": "842567",
+        "referenceCode": "",
+        "senderName": "MUSTAFA BURAK ACAR",
+        "senderIban": "TR700004600382888000237024",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 63,
+        "fingerprint": "AK|20261015|14:09:05|320000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792062625191,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD5B4763AAE0CCE3517",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
