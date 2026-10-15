@@ -127381,6 +127381,38 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792078737188_hd81l",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "10000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:36:50",
+        "trackingNo": "2026014438654965",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "senderName": "OKTAY BAYRAM",
+        "senderIban": "TR070001500158007362496047",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261015|18:36:50|10000|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792078737188,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACC8E7853A9AF11534051324E3EADCB2",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
