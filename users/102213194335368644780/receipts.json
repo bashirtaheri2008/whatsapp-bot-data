@@ -128535,6 +128535,142 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792085865623_g3qpn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "10000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:36",
+        "trackingNo": "4901226291",
+        "receiptNo": "03663-03663-1004281534",
+        "referenceCode": "",
+        "senderName": "HIKMET DIRI",
+        "senderIban": "TR510015700000000144827960",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 80,
+        "fingerprint": "EP|4901226291"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792085865623,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A316ED220EA33E9AC9F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792085881838_1rldc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "2783/HUDAVENT HATUN/NIGDE SAYIN SUBESI",
+        "amount": "30000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:36:48",
+        "trackingNo": "7452267737",
+        "receiptNo": "F23881",
+        "referenceCode": "A01",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Kadir özcan",
+        "receiverIban": "TR230015700000000206029644",
+        "description": "Elden alinan paranin iyadesi yazilsin",
+        "bankKey": "enpara",
+        "ocrConfidence": 78,
+        "fingerprint": "EP|7452267737"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792085881838,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A0A8B1479FD4004D966",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792085892529_yswcc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "450000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:25:34",
+        "trackingNo": "TR960004600244888000168766",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MAHMUT DOGAN",
+        "senderIban": "TR960004600244888000168766",
+        "receiverName": "SOPADITUNVAN RAHMATULIAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 52,
+        "fingerprint": "AK|20261015|13:25:34|450000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792085892529,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A71AA9871AAD927F3A1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792085967538_ivy1y",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "500000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:34:29",
+        "trackingNo": "42415605",
+        "receiptNo": "736085",
+        "referenceCode": "",
+        "senderName": "MUHARREM HARMANCI",
+        "senderIban": "TR430004600151888000120923",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 61,
+        "fingerprint": "AK|20261015|20:34:29|500000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792085967538,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2695039D405F976372",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
