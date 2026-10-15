@@ -125579,6 +125579,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792066679863_4rrra",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapiKredi",
+        "bankBranch": "",
+        "amount": "13500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:04:07",
+        "trackingNo": "517755836099",
+        "receiptNo": "SYJ2026180069391",
+        "referenceCode": "925-780167 / 2548984800745",
+        "senderName": "BAYRAM BERKE",
+        "senderIban": "TR910006701000000051844669",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 56,
+        "fingerprint": "GN|20261015|15:04:07|13500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792066679863,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFD5DED45EDA0440B33",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
