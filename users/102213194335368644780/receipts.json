@@ -123301,6 +123301,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792050750243_547jc",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "AKBANK DIRECT MOBIL CEP",
+        "amount": "4096.37",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "10:46:45",
+        "trackingNo": "TR580005400004880003120851",
+        "receiptNo": "888-0054-01-2851",
+        "referenceCode": "0025333993",
+        "senderName": "YASAR DOGAN",
+        "senderIban": "",
+        "receiverName": "Rahmabudsh Hakim",
+        "receiverIban": "TR350001000188007362278915",
+        "description": "KENDISI",
+        "bankKey": "akbank",
+        "ocrConfidence": 35,
+        "fingerprint": "AK|20261015|10:46:45|4096.37|TR350001000188007362278915"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792050750243,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9D4FCE77AE139C48BC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
