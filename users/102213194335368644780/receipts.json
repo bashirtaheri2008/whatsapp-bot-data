@@ -129895,6 +129895,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792095275431_zlltc",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "23:11:41",
+        "trackingNo": "8558000714",
+        "receiptNo": "2026-10-15-23.11.34.727832",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR240006200146300006672006",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": "GN|20261015|23:11:41|13000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792095275431,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A803856008316D9A351",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
