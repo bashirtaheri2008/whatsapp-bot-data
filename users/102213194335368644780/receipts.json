@@ -128229,6 +128229,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792083951142_eu6hh",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "CEBECİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:14:01",
+        "trackingNo": "2895000504",
+        "receiptNo": "2026-10-15-18.13.58.511989",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR430006200047000006645589",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 28,
+        "fingerprint": "GN|20261015|18:14:01|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792083951142,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4F90D013E3BABF87EF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792083967536_4zx33",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "19:02",
+        "trackingNo": "4900938196",
+        "receiptNo": "03663-03663-1004044485",
+        "referenceCode": "03663-03663-1004044485",
+        "senderName": "KADIR POLAT SARI",
+        "senderIban": "TR420015700000000139519409",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 72,
+        "fingerprint": "EP|4900938196"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792083967536,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A126CA24DF758A1D928",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792083975642_nyzyv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "AKŞEHİR",
+        "amount": "10000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:00:31",
+        "trackingNo": "6471000590",
+        "receiptNo": "2026-10-15-20.00.04.655623",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "KAZIM TİN",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID USMANI",
+        "bankKey": "",
+        "ocrConfidence": 27,
+        "fingerprint": "GN|20261015|20:00:31|10000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792083975642,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE2A65741459432EF6C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
