@@ -124627,6 +124627,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792063084590_abx56",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:16:30",
+        "trackingNo": "517753244606",
+        "receiptNo": "SYJ2026179288400",
+        "referenceCode": "925-0/2548983662029",
+        "senderName": "İLHAN KUMEK",
+        "senderIban": "TR090006701000000319245948",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR3500015001580073622793",
+        "description": "FAST/",
+        "bankKey": "",
+        "ocrConfidence": 43,
+        "fingerprint": "GN|20261015|14:16:30|4100|TR3500015001580073622793"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792063084590,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5B8BFD22867461C8CD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
