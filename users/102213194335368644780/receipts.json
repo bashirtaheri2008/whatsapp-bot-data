@@ -129521,6 +129521,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792091601128_m9vhb",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "12000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:06",
+        "trackingNo": "1664641522",
+        "receiptNo": "M-2026-10-15-22.06.56.654696",
+        "referenceCode": "",
+        "senderName": "EMRAH BELKAYA",
+        "senderIban": "TR070001200951000001108566",
+        "receiverName": "NIZAMUDDIN YAQUEL",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GIDEN FAST - EMRAH BELKAYA TARAFINDAN GONDERILEN",
+        "bankKey": "",
+        "ocrConfidence": 60,
+        "fingerprint": "GN|20261015|22:06|12000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792091601128,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABE14C498FE8A5FCA34",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792091616133_9savn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "500000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:11:24",
+        "trackingNo": "24209187",
+        "receiptNo": "866640",
+        "referenceCode": "",
+        "senderName": "HALIL IBRAHIM PASA",
+        "senderIban": "TR660004600382888000175210",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 62,
+        "fingerprint": "AK|20261015|22:11:24|500000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792091616133,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A03FF37942BC96D8300",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792091867127_ki9qq",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "6500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:14:28",
+        "trackingNo": "2026014448145539",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAŞİT CAN KURUM",
+        "senderIban": "TR120001500158******6766",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261015|22:14:28|6500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792091867127,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A82A1376C6652C7E81D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
