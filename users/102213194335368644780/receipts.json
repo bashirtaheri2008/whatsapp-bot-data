@@ -127177,6 +127177,74 @@
         "participantAlt": "93787485056@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792078200389_bdn2l",
+      "data": {
+        "isReceipt": true,
+        "bank": "AfghanPAY",
+        "bankBranch": "",
+        "amount": "500.00",
+        "currency": "AFN",
+        "date": "",
+        "time": "",
+        "trackingNo": "2526195410106",
+        "receiptNo": "",
+        "referenceCode": "AFP-65074",
+        "senderName": "Qari Hasibullah",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "",
+        "description": "Recharge to 0781813112",
+        "bankKey": "",
+        "ocrConfidence": 79,
+        "fingerprint": ""
+      },
+      "sender": "252861938147483",
+      "timestamp": 1792078200389,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363417303749175@g.us",
+        "fromMe": false,
+        "id": "AC3D8C9DC1C125073195E5BE072F877F",
+        "participant": "252861938147483@lid",
+        "participantAlt": "93789038151@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792078339286_n2vis",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:23",
+        "trackingNo": "4900806219",
+        "receiptNo": "03663-03663-1003938133",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4900806219"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792078339286,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5372A84563028C61C9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
