@@ -129011,6 +129011,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792087819735_ls5oc",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "17:18:34",
+        "trackingNo": "517759090449",
+        "receiptNo": "SYJ2026182184415",
+        "referenceCode": "925-865317 / 2548987668148",
+        "senderName": "MEHMET KARACA",
+        "senderIban": "TR790006701000000015153956",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR440001500158007351459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261015|17:18:34|7500|TR440001500158007351459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792087819735,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE5404D7E9595018292",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792087838133_25qny",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "6500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:38",
+        "trackingNo": "4901231935",
+        "receiptNo": "03663-03663-1004286475",
+        "referenceCode": "03663-03663-1004286475",
+        "senderName": "EMINE ZEHRA SIMSEK",
+        "senderIban": "TR970015700000000125957819",
+        "receiverName": "Jawit Usmani",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 78,
+        "fingerprint": "EP|4901231935"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792087838133,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A473B2C4F1D4A9C0A8D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
