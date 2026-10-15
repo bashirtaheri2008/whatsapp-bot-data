@@ -122893,6 +122893,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792043006550_7busg",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "DEMETEVLER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "08:30:38",
+        "trackingNo": "2894000072",
+        "receiptNo": "2026-10-15-08.30.29.942068",
+        "referenceCode": "",
+        "senderName": "SOLMAZ YILDIRIM",
+        "senderIban": "TR610006200053000006642831",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261015|08:30:38|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792043006550,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A45DCBAFC1653D1EE82",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
