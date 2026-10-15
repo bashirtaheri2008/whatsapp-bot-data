@@ -128467,6 +128467,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792085624629_ta7ab",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2344/MEVLANA/KONYA SUBESİ",
+        "amount": "7500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:31:55",
+        "trackingNo": "7452428490",
+        "receiptNo": "F33579",
+        "referenceCode": "A01",
+        "senderName": "BAYRAM GÜREL",
+        "senderIban": "TR800001500158007392030554",
+        "receiverName": "zınat nazari",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261015|20:31:55|7500|TR800001500158007392030554"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792085624629,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA61D452878EB3B6689",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
