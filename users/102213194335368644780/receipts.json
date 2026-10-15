@@ -128025,6 +128025,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792082857139_duwvq",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "19:35:19",
+        "trackingNo": "517769830090",
+        "receiptNo": "SYJ2026184094193",
+        "referenceCode": "925-689096 / 2548990372047",
+        "senderName": "BEDRETTİN ALSANCAK",
+        "senderIban": "TR740006701000000016053236",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) UC RETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 29,
+        "fingerprint": "GN|20261015|19:35:19|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792082857139,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AABD919058FF51F5860",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792083118541_5w1j3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "BİLECİK ŞUBESİ",
+        "amount": "7100",
+        "currency": "TRY",
+        "date": "15/10/2026",
+        "time": "19:49:46",
+        "trackingNo": "7451965447",
+        "receiptNo": "4648807",
+        "referenceCode": "A01",
+        "senderName": "NİZAMUDDİN YAKUPOĞLU",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "REFİK AKTAŞ",
+        "receiverIban": "TR710001000118920222865001",
+        "description": "7.100,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 35,
+        "fingerprint": "ZB|20261015|19:49:46|7100|TR710001000118920222865001"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792083118541,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5412DED0242F7958C8",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
