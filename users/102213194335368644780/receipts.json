@@ -123437,6 +123437,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792053440847_thv2g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "11:34:14",
+        "trackingNo": "50060476 / 4327751",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SENEM ASLAN",
+        "senderIban": "TR2200046000005888000831366",
+        "receiverName": "SENEM ASLAN",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 55,
+        "fingerprint": "AK|20261015|11:34:14|4400|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792053440847,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD8326526A3C55FDA19",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
