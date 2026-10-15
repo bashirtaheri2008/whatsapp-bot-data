@@ -127245,6 +127245,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792078431794_xalh0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:26:26",
+        "trackingNo": "AXLHX-B-20261015223",
+        "receiptNo": "CGR2026001581370",
+        "referenceCode": "",
+        "senderName": "BAYRAM YÜCETAŞ",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: BAYRAM YÜCETAŞ , Alıcı: Rahmatullah Hakimi, IBAN'a Para Transferi (FAST)",
+        "bankKey": "ziraat",
+        "ocrConfidence": 48,
+        "fingerprint": "ZB|20261015|18:26:26|4500"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792078431794,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3D7702692AA04B3797",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
