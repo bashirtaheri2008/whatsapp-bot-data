@@ -123947,6 +123947,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792058668140_kteyo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "13:02:51",
+        "trackingNo": "AO422-B-2026101576",
+        "receiptNo": "BLM2026001168348",
+        "referenceCode": "",
+        "senderName": "MUHLIS KOYUNCU",
+        "senderIban": "",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Gönderen: MUHLIS KOYUNCU , Alıcı: Rahmatullah Hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 38,
+        "fingerprint": "GN|20261015|13:02:51|4300|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792058668140,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A34544A4E9483929F7B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
