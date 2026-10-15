@@ -123335,6 +123335,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792052502947_cfm86",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "11:10",
+        "trackingNo": "4899082530",
+        "receiptNo": "03663-03663-1002520676",
+        "referenceCode": "",
+        "senderName": "ENES CEYLAN",
+        "senderIban": "TR630015700000000159236415",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4899082530"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792052502947,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5F09B4E853A97918F432E7D1F5B5FED",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
