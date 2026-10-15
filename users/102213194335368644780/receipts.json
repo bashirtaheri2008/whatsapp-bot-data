@@ -122723,6 +122723,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792039694681_sl40j",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "01:18",
+        "trackingNo": "4898173692",
+        "receiptNo": "03663-03663-1000561140",
+        "referenceCode": "03663-03663-1000561140",
+        "senderName": "MUSTAFA DENIZHAN",
+        "senderIban": "TR370015700000000204814273",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "Bireysel Odeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4898173692"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792039694681,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD6240A8FA6DDCFC24B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
