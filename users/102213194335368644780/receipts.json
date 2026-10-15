@@ -129317,6 +129317,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792090893436_x7hre",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "22:00:36",
+        "trackingNo": "633786329061736448",
+        "receiptNo": "",
+        "referenceCode": "15102026-9300-46835040",
+        "senderName": "GIZEM TEKBAŞ",
+        "senderIban": "TR610013400001689152600001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261015|22:00:36|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792090893436,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A06350096889E36FBD8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
