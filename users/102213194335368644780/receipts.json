@@ -127279,6 +127279,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792078447691_nzaf5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "MEVLANA",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:31:08",
+        "trackingNo": "4767000488",
+        "receiptNo": "2026-10-15-18.31.05.433885",
+        "referenceCode": "",
+        "senderName": "HIKMET KIRAT",
+        "senderIban": "TR830006200010100006962643",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261015|18:31:08|5000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792078447691,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8584342FD833EFA949",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792078466387_sx17t",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "1500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:30",
+        "trackingNo": "4900830153",
+        "receiptNo": "03663-03663-1003957131",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4900830153"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792078466387,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A248C0BDB64EF699C2D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792078636110_u0xax",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:35:22",
+        "trackingNo": "517760605823",
+        "receiptNo": "SYJ2026183346637",
+        "referenceCode": "3410839989",
+        "senderName": "FERHAT DİNLER",
+        "senderIban": "TR930006701000000093898595",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 63,
+        "fingerprint": "GN|20261015|18:35:22|4500|TR440001500158007391459193"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792078636110,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC9E3111D34997BC6EB5F4B3E38DC6F6",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
