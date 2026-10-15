@@ -125545,6 +125545,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792066617890_z3yg9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:15",
+        "trackingNo": "4900071022",
+        "receiptNo": "03663-03663-1003337744",
+        "referenceCode": "",
+        "senderName": "HALIL IBRAHIM ERTUNA",
+        "senderIban": "TR040015700000000154690505",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4900071022"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792066617890,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A223FA4051876E978F6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
