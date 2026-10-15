@@ -125103,6 +125103,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792065614289_6t9z2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1995/TAŞPAZAR MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:51:15",
+        "trackingNo": "F17701",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR290001001995894124935002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261015|14:51:15|4500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792065614289,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1B31F9D3E19935E9E3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792065628390_gpt2n",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:51:48",
+        "trackingNo": "ARA0Y-B-2026101521",
+        "receiptNo": "BFP2026001693537",
+        "referenceCode": "",
+        "senderName": "EMRE AĞIRBAŞ",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: EMRE AĞIRBAŞ , Alıcı: Rahmatullah Hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "ziraat",
+        "ocrConfidence": 50,
+        "fingerprint": "ZB|20261015|14:51:48|9000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792065628390,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9EBDD8113E52D56D05",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792065644091_ycvjk",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:56:56",
+        "trackingNo": "517752685586",
+        "receiptNo": "SYJ202618001351",
+        "referenceCode": "925-588026 / 2548984535962",
+        "senderName": "BAYRAM KONCA",
+        "senderIban": "TR810006701000000022390314",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "ziraat",
+        "ocrConfidence": 67,
+        "fingerprint": "ZB|20261015|14:56:56|4500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792065644091,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADA086EF62A15CFCFA6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792065648965_pksic",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "e-Dekont",
+        "amount": "758.37",
+        "currency": "TL",
+        "date": "11/10/2024",
+        "time": "14:44:17",
+        "trackingNo": "65055623",
+        "receiptNo": "65055623",
+        "referenceCode": "511776657765",
+        "senderName": "TÜRKİYE VAKIFLAR BANKASI T.A.Ş.",
+        "senderIban": "TR94000150015800731122270710",
+        "receiverName": "YAPI KREDI BANKASI T.A.S.",
+        "receiverIban": "TR340006700005000059294180",
+        "description": "HESAP TADILI",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20241011|14:44:17|758.37|TR340006700005000059294180"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792065648965,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB6F73E0B53B5104782",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
