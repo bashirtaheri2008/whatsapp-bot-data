@@ -123675,6 +123675,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792056423846_fcqsd",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4300.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "12:25:01",
+        "trackingNo": "1662638173",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-15-12.25.01.624691",
+        "senderName": "ERSİN ÖZKAN",
+        "senderIban": "TR850001200138700001126728",
+        "receiverName": "NIZAMUDDIN YAQUEL",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - ERSİN ÖZKAN TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 58,
+        "fingerprint": "GN|20261015|12:25:01|4300|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792056423846,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A33FA559EC9BA175996",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
