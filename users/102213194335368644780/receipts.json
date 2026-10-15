@@ -127075,6 +127075,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792077877090_5cx4w",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "3900",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:22:01",
+        "trackingNo": "517769451019",
+        "receiptNo": "SYJ202618315398",
+        "referenceCode": "3410777752",
+        "senderName": "OSMAN INER",
+        "senderIban": "TR520006701000000058044544",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UC...",
+        "bankKey": "",
+        "ocrConfidence": 55,
+        "fingerprint": "GN|20261015|18:22:01|3900|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792077877090,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD0438E279432F8C51D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
