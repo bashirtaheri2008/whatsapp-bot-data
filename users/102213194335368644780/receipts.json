@@ -128365,6 +128365,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792084275042_v9be3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "20:03",
+        "trackingNo": "4901134447",
+        "receiptNo": "03663-03663-1004205050",
+        "referenceCode": "202610165435802",
+        "senderName": "Sait Hamza Erhan",
+        "senderIban": "TR590015700000000206088457",
+        "receiverName": "BORI BAY HAMDARD",
+        "receiverIban": "TR6S 0006 4000 0014 5520 3086 56",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 63,
+        "fingerprint": "EP|4901134447"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792084275042,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC115E6E2EAA13BA246",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
