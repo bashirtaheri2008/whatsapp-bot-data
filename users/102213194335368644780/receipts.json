@@ -123777,6 +123777,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792057119141_worj0",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "12:37:44",
+        "trackingNo": "2026014418551773",
+        "receiptNo": "",
+        "referenceCode": "3007137681",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "HABIBULLAH NAVABI",
+        "receiverIban": "TR440001000468829814295001",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261015|12:37:44|5000|TR440001000468829814295001"
+      },
+      "sender": "184740149723320",
+      "timestamp": 1792057119141,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4AADA0C2A10921334316",
+        "participant": "184740149723320@lid",
+        "participantAlt": "93783321624@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
