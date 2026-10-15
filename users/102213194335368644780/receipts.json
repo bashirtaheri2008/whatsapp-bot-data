@@ -127549,6 +127549,142 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792080330289_p7mki",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4030",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:38",
+        "trackingNo": "4900854710",
+        "receiptNo": "03663-03663-1003977031",
+        "referenceCode": "202610164411097",
+        "senderName": "Ramazan Digrak",
+        "senderIban": "TR580015700000000056858825",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4900854710"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792080330289,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7CE5A659D7AC28F993",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792080343096_ckbid",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "BÜSAN",
+        "amount": "4800.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:40:40",
+        "trackingNo": "3865000517",
+        "receiptNo": "2026-10-15-18.40.38.062847",
+        "referenceCode": "",
+        "senderName": "YAKUP YÜREK",
+        "senderIban": "TR390006200079000006673064",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 63,
+        "fingerprint": "GN|20261015|18:40:40|4800|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792080343096,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACA476B36DF94297587",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792080362594_ck6ub",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARAMAN ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:37:40",
+        "trackingNo": "1719838171",
+        "receiptNo": "202610153782673",
+        "referenceCode": "00700-1320718",
+        "senderName": "MEHMET EMİN KARATAŞ",
+        "senderIban": "TR740011100000000110118620",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261015|18:37:40|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792080362594,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ADA117C8E19A3903AD6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792080379794_x03x7",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARATAY ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:44:32",
+        "trackingNo": "17199511907",
+        "receiptNo": "00422-1327104",
+        "referenceCode": "202610153840379",
+        "senderName": "FERDİ KILIÇ",
+        "senderIban": "TR040011100000000168052354",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007381459193",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261015|18:44:32|4500|TR440001500158007381459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792080379794,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A77214F5571B0045BF4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
