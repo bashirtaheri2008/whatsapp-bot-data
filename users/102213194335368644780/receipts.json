@@ -126939,6 +126939,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792077004286_uhvkr",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "17:55:29",
+        "trackingNo": "7451045788",
+        "receiptNo": "F29805",
+        "referenceCode": "A01",
+        "senderName": "KENAN BALCI",
+        "senderIban": "TR950001009010428894805001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 71,
+        "fingerprint": "ZB|20261015|17:55:29|6000|TR340001500158007312220752"
+      },
+      "sender": "103165752012908",
+      "timestamp": 1792077004286,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "ACA6C79C44B25874293D8CCB8C53EB41",
+        "participant": "103165752012908@lid",
+        "participantAlt": "93787485056@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
