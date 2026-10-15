@@ -125783,6 +125783,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792067641796_l6aiy",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOYOLU / ANKARA",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:30:25",
+        "trackingNo": "1538000392",
+        "receiptNo": "2026-10-15-15.30.23.590803",
+        "referenceCode": "",
+        "senderName": "RAMAZAN ÇELİK",
+        "senderIban": "TR100006200125700006295861",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261015|15:30:25|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792067641796,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A689FA70581D588A8CA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792067665958_7mrex",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:32:39",
+        "trackingNo": "517750115679",
+        "receiptNo": "SYJ2026180805552",
+        "referenceCode": "925-863857 / 2518985571766",
+        "senderName": "RIZVAN ÖZCAN",
+        "senderIban": "TR890006701000000076270178",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261015|15:32:39|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792067665958,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2390716B54C18BE804",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792067852799_xqn54",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "4,000",
+        "currency": "TL",
+        "date": "15/10/2025",
+        "time": "15:34:18",
+        "trackingNo": "26733708 / 156866",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ORHUN BURAK CAN DIDIKOGLU",
+        "senderIban": "TR130004601190888000518138",
+        "receiverName": "ORHUN BURAK CAN DIDIKOGLU",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 53,
+        "fingerprint": "AK|20251015|15:34:18|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792067852799,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE71818FB45126AAAA3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
