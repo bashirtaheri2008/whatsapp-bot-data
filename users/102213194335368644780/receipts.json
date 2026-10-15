@@ -127515,6 +127515,40 @@
         "participantAlt": "93798868816@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792080282385_l04l2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "18:56:35",
+        "trackingNo": "27525541",
+        "receiptNo": "576308",
+        "referenceCode": "",
+        "senderName": "BATUHAN GULTEKIN",
+        "senderIban": "TR410004600945888000103860",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 62,
+        "fingerprint": "AK|20261015|18:56:35|4000|TR440001500158007391459193"
+      },
+      "sender": "65026576638116",
+      "timestamp": 1792080282385,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "A58832C591C36B4EF20A2D1DEF48C7BD",
+        "participant": "65026576638116@lid",
+        "participantAlt": "93798868816@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
