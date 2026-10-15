@@ -125239,6 +125239,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792065842977_4drxn",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "BÜSAN ŞUBESİ",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "15:01:45",
+        "trackingNo": "171947431",
+        "receiptNo": "202610150811779",
+        "referenceCode": "01531-1240373",
+        "senderName": "AYŞE DURAN",
+        "senderIban": "TR710001100000000166266348",
+        "receiverName": "Ramallah Hakimi Türkiye Cumhuriyeti",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 37,
+        "fingerprint": "GN|20261015|15:01:45|4500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792065842977,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE0B65D7ADCC219B057",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792065853181_7xyee",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.S.",
+        "bankBranch": "ÇANKAYA/ANKARA",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "",
+        "trackingNo": "2372000375",
+        "receiptNo": "2026-10-15-15.01.26.501486",
+        "referenceCode": "12986659",
+        "senderName": "YILDIRI",
+        "senderIban": "TR32060620004080000667728",
+        "receiverName": "RAMBATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422050053",
+        "description": "ATATÜRK BULVARI NO:76 ŞEHİR KA T 201 KIZILAY 06460 ÇANKAYA/ANKARA",
+        "bankKey": "",
+        "ocrConfidence": 33,
+        "fingerprint": "GN|20261015|4500|TR230001009010309422050053"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792065853181,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5A6183266E6757910F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792065973990_p6552",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2603/ZAFER SANAY/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "14:58:11",
+        "trackingNo": "7449000136",
+        "receiptNo": "F12790",
+        "referenceCode": "A01",
+        "senderName": "MEHMET ALI GOSKUNSEL",
+        "senderIban": "TR630001002603816798615001",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 75,
+        "fingerprint": "ZB|20261015|14:58:11|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792065973990,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA49F1CFCC86E9821A3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
