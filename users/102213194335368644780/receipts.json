@@ -129113,6 +129113,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792088385032_fxrdy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "İSTANBUL",
+        "amount": "4.503,88",
+        "currency": "TL",
+        "date": "15/03/2026",
+        "time": "17:35:41",
+        "trackingNo": "1791479912478",
+        "receiptNo": "",
+        "referenceCode": "1791479912478",
+        "senderName": "TATİLİLER",
+        "senderIban": "TR120006200021000000123456",
+        "receiverName": "HAKKIYİLLAR HAKKI",
+        "receiverIban": "TR120006200021000000123456",
+        "description": "HAVA EHLİ GELİŞ KARTI 1300 270",
+        "bankKey": "",
+        "ocrConfidence": 40,
+        "fingerprint": "GN|20260315|17:35:41|4503.88|TR120006200021000000123456"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792088385032,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A55047684B04D6099DB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
