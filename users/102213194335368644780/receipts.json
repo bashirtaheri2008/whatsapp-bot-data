@@ -123913,6 +123913,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792058501841_hcjvx",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1521/TÜRKÖZÜ/ANKARA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "12:44:57",
+        "trackingNo": "7447420356",
+        "receiptNo": "F02660",
+        "referenceCode": "A01",
+        "senderName": "MUSTAFA KARATEKELİOĞLU",
+        "senderIban": "TR350007500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261015|12:44:57|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792058501841,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF14F533ED6ED578359",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
