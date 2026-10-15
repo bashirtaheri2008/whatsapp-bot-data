@@ -128331,6 +128331,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792084170350_xe352",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0309/KARAPINAR/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "15/10/2026",
+        "time": "20:07:37",
+        "trackingNo": "7452210958",
+        "receiptNo": "F32690",
+        "referenceCode": "A01",
+        "senderName": "BAYRAM ALİ ÖZÇELİK",
+        "senderIban": "TR300001009010192332505001",
+        "receiverName": "nizamudd",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "5.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 43,
+        "fingerprint": "ZB|20261015|20:07:37|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792084170350,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7439768AB1A18E0886",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
