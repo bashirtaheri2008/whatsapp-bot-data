@@ -124729,6 +124729,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792064392494_eud5l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2344/MEVLANA/KONYA ŞUBESİ",
+        "amount": "6500.00",
+        "currency": "TRY",
+        "date": "15/10/2026",
+        "time": "14:34:08",
+        "trackingNo": "7448756471",
+        "receiptNo": "F20666",
+        "referenceCode": "A01",
+        "senderName": "SEHER DEĞİŞ",
+        "senderIban": "TR420001002344683772965002",
+        "receiverName": "Rahmatullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 70,
+        "fingerprint": "ZB|20261015|14:34:08|6500|TR350001500158007362279815"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792064392494,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A20DA7DCBDDD101DB35",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
