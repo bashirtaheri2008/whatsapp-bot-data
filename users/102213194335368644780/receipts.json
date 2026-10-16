@@ -133975,6 +133975,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792181681641_ub0aq",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5200.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "23:12:36",
+        "trackingNo": "2026014503114828",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET ALİ BOĞAZ",
+        "senderIban": "TR0700015001586761",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261016|23:12:36|5200|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792181681641,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A56983C1A61227C6FE48189F1EC98286",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
