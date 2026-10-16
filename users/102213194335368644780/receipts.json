@@ -131255,6 +131255,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792141262392_6n9ll",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2728/MISKET MAHALLESI/ANKARA SUBESI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "11:52:07",
+        "trackingNo": "7455289967",
+        "receiptNo": "F01259",
+        "referenceCode": "F01259",
+        "senderName": "HESAP NUMARAS",
+        "senderIban": "TR850001002728478457945026",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261016|11:52:07|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792141262392,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF79F9A0A6C64BBFC75",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
