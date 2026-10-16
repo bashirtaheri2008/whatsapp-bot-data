@@ -132241,6 +132241,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792173269950_pdypk",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANKARA OSB",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:51:38",
+        "trackingNo": "6252000505",
+        "receiptNo": "2026-10-16-20.51.37.265469",
+        "referenceCode": "",
+        "senderName": "CENK HUSEYIN ALP",
+        "senderIban": "TR620006200068200006584920",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 49,
+        "fingerprint": "GN|20261016|20:51:38|4400|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792173269950,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB44A526AFA812BB7F9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
