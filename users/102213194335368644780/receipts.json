@@ -130541,6 +130541,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792130272289_23rwz",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "ZAFER SANAYI KONYA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "23:56:32",
+        "trackingNo": "1720373337",
+        "receiptNo": "202610156033823",
+        "referenceCode": "01532-1266823",
+        "senderName": "KADIR ÖZDEMİR",
+        "senderIban": "TR220011100000000139451871",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261015|23:56:32|4000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792130272289,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5B58F8A6648926C4519826CF483E02E",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
