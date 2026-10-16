@@ -132819,6 +132819,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792175623541_4z97w",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "4690.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:13:10",
+        "trackingNo": "7460224480",
+        "receiptNo": "F28457_4035",
+        "referenceCode": "A01",
+        "senderName": "ABDULGAFFAR SAHIN",
+        "senderIban": "TR080001009011080637605001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 75,
+        "fingerprint": "ZB|20261016|21:13:10|4690|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792175623541,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9F494EF7E80A64A048",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
