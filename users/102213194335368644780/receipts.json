@@ -132309,6 +132309,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792173581054_djy9o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "4800.00",
+        "currency": "TRY",
+        "date": "16/10/2026",
+        "time": "20:48:36",
+        "trackingNo": "3849736464",
+        "receiptNo": "145730003687",
+        "referenceCode": "16.10.2026/447/8888/8888",
+        "senderName": "HUSSEIN HESSO",
+        "senderIban": "TR020006400000114570321328",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "HUSSEIN HESSO tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 65,
+        "fingerprint": "GN|20261016|20:48:36|4800|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792173581054,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7BC26EF9AFCAA1D819",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
