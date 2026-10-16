@@ -130881,6 +130881,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792137671795_ei8v0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1283/PURSAKLAR/ANKARA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "10:51:54",
+        "trackingNo": "7454848644",
+        "receiptNo": "F04660",
+        "referenceCode": "A01",
+        "senderName": "YUSUF ENSARİ ÖZCAN",
+        "senderIban": "TR090001001283645042915003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261016|10:51:54|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792137671795,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A97D11649B9FF28211A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792138140897_m0t74",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4800.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "11:06",
+        "trackingNo": "1665376773",
+        "receiptNo": "M-2026-10-16-11.06.55.611856",
+        "referenceCode": "",
+        "senderName": "MEHMET CAN DAMAR",
+        "senderIban": "TR090001200958900001062836",
+        "receiverName": "RAHMATULLAH HAKKI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GIDEN FAST - MEHMET CAN DAMAR TARAFINDAN GONDERILEN",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261016|11:06|4800|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792138140897,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6ADF750E2C9AA7E9B4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
