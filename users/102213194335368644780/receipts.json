@@ -130473,6 +130473,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792125138429_2lroz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.S.",
+        "bankBranch": "",
+        "amount": "4950.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "01:21:54",
+        "trackingNo": "633836989056880640",
+        "receiptNo": "",
+        "referenceCode": "16102026-9300-220470",
+        "senderName": "EMRE ÇELEBİ",
+        "senderIban": "TR190013400002536524100001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261016|01:21:54|4950|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792125138429,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6C0CE0BB11172F5062",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
