@@ -133295,6 +133295,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792176988044_ejs6q",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0908/DEMETEVLER/ANKARA SUBESİ",
+        "amount": "3600.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:52:03",
+        "trackingNo": "7460308789",
+        "receiptNo": "F18231",
+        "referenceCode": "A01",
+        "senderName": "FERDI KALU",
+        "senderIban": "TR740001000908624336675002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 67,
+        "fingerprint": "ZB|20261016|21:52:03|3600|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792176988044,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE3ECC23882E62BB222",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
