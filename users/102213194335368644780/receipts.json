@@ -130677,6 +130677,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792134536989_61wfe",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1912/ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "09:33:37",
+        "trackingNo": "7454333766",
+        "receiptNo": "F01681",
+        "referenceCode": "A01",
+        "senderName": "BEDIR OBUZHAN SIVRI",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 74,
+        "fingerprint": "ZB|20261016|09:33:37|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792134536989,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A31650817527AEEC5EF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792134565098_hcfin",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "1000",
+        "currency": "TRY",
+        "date": "16/10/2026",
+        "time": "09:34:52",
+        "trackingNo": "3846906252",
+        "receiptNo": "A032026695869949",
+        "referenceCode": "16.10.2026/447/8888/8888",
+        "senderName": "YAŞAR ÇINAR",
+        "senderIban": "TR710006400000145211349483",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YAŞAR ÇINAR tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": "GN|20261016|09:34:52|1000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792134565098,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACF5EAF852BA28DEB05",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
