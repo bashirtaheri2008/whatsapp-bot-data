@@ -134451,6 +134451,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792188570731_pw71y",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "200837",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "01:06:43",
+        "trackingNo": "48937852",
+        "receiptNo": "811609",
+        "referenceCode": "",
+        "senderName": "CEVDET TAS",
+        "senderIban": "TR470004600033888000407857",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 57,
+        "fingerprint": "AK|20261017|01:06:43|200837|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792188570731,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5E32E8B63F5693FD1B50575D8CEAC10",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
