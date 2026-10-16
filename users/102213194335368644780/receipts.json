@@ -131289,6 +131289,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792143957894_u2bbv",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ZAFER",
+        "amount": "3950.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "12:09:50",
+        "trackingNo": "1944000147",
+        "receiptNo": "2026-10-16-12.09.47.070861",
+        "referenceCode": "",
+        "senderName": "RECEP DAĞTAŞ",
+        "senderIban": "TR080006200077000006975489",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 78,
+        "fingerprint": "GN|20261016|12:09:50|3950|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792143957894,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC9726CE3750DA04800",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
