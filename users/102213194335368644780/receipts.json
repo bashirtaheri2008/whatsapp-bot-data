@@ -131391,6 +131391,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792144075799_r44ur",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4100",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "12:40:48",
+        "trackingNo": "2026014473419635",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "DOĞANAY DÜZGÜN",
+        "senderIban": "TR230001500158******5257",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261016|12:40:48|4100|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792144075799,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4A8A2A7C0A3FE8022E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792144120097_4obls",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "BÜSAN ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "12:10:19",
+        "trackingNo": "1720861161",
+        "receiptNo": "01531-1245866",
+        "referenceCode": "202610161585589",
+        "senderName": "YASIN YILDIRIM",
+        "senderIban": "TR580011100000000037345337",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 64,
+        "fingerprint": "GN|20261016|12:10:19|5000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792144120097,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEBFCC0A03F1CA0EDE3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792144564397_42rxb",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "72000.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "12:54:24",
+        "trackingNo": "3011127323",
+        "receiptNo": "",
+        "referenceCode": "2026014473917239",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "Saadatullah Azhar Amini",
+        "receiverIban": "TR260006400000111530856451",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261016|12:54:24|72000|TR260006400000111530856451"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792144564397,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AAF4842269822ACAED0",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
