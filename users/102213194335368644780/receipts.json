@@ -131493,6 +131493,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792144808799_ea7rz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Vakıflar Bankası T.A.O.",
+        "bankBranch": "İSTANBUL",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "20/06/2026",
+        "time": "12:58:04",
+        "trackingNo": "2510304583767",
+        "receiptNo": "743002858",
+        "referenceCode": "2510304583767",
+        "senderName": "JAMID DEMIRI",
+        "senderIban": "TR4400015003580735459193",
+        "receiverName": "JAMID DEMIRI",
+        "receiverIban": "TR4400015003580735459193",
+        "description": "KREDI KARTI OD",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20260620|12:58:04|4500|TR4400015003580735459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792144808799,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AE790F72D0321AA0D71",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
