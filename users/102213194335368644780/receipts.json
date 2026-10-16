@@ -133533,6 +133533,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792178783445_slfdb",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:21:49",
+        "trackingNo": "517778160090",
+        "receiptNo": "SYJ2026200155446",
+        "referenceCode": "925-520129 / 2549011721992",
+        "senderName": "MEHMET GÜNDOĞMUŞ",
+        "senderIban": "TR70000670100000045077551",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261016|22:21:49|4300|TR350001500158007362279"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792178783445,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A46289B6AACF003B4FB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
