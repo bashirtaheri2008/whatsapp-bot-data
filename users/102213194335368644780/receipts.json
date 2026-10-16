@@ -130949,6 +130949,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792139038191_0a0nn",
+      "data": {
+        "isReceipt": true,
+        "bank": "BURGAN BANK",
+        "bankBranch": "1000-INTERNET",
+        "amount": "3000.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "11:12",
+        "trackingNo": "31995653",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MEHMET KIYMAZ",
+        "senderIban": "TR850012502009705140400351",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073314591593",
+        "description": "SN:31995653 JAWID USMANI Açk: 25000.00 TRY Günd.",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261016|11:12|3000|TR4400015001580073314591593"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792139038191,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A16FDAA199E8B212F54",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
