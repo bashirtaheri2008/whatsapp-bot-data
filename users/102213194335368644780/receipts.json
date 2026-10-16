@@ -133091,6 +133091,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792176298950_fwstl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "500897",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:41:45",
+        "trackingNo": "42415605",
+        "receiptNo": "646843",
+        "referenceCode": "",
+        "senderName": "MUHARREM HARMANCI",
+        "senderIban": "TR430004600151888000120923",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 56,
+        "fingerprint": "AK|20261016|21:41:45|500897|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792176298950,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6087294E4FB02BD1D0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
