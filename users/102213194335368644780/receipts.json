@@ -134179,6 +134179,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792184016524_9yya5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0039/ALANYA/ANTALYA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "23:41:42",
+        "trackingNo": "7460754433",
+        "receiptNo": "F16022",
+        "referenceCode": "F16022",
+        "senderName": "NUR EVŞAR YENEN",
+        "senderIban": "TR270001009010713302105001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 61,
+        "fingerprint": "ZB|20261016|23:41:42|4000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792184016524,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEAF4192CC62832654D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792184028524_84nck",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ZAFER",
+        "amount": "4981.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "23:29:43",
+        "trackingNo": "9084000571",
+        "receiptNo": "2026-10-16-23.29.37.268343",
+        "referenceCode": "",
+        "senderName": "MUSTAFA NARMAN",
+        "senderIban": "TR750006200077000006810741",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "REZERVASYON YAGISI",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261016|23:29:43|4981|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792184028524,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA82A90914CB485CD02",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792184040625_ruyrg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "23:40:33",
+        "trackingNo": "B1NTE-B-20261016428",
+        "receiptNo": "BPZ2026000635291",
+        "referenceCode": "e7b1a14d-80eb-4f52-95e0-848c33e9cc2c",
+        "senderName": "YASIN YAĞCI",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "",
+        "description": "Gönderen: YASIN YAĞCI , Alıcı: nizamuddin yaqubi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261016|23:40:33|4000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792184040625,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A130D97736D78BBF229",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
