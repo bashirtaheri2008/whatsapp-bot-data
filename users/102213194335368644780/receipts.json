@@ -132649,6 +132649,176 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792175389049_qr8gn",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOLYOLU / ANKARA",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:28:36",
+        "trackingNo": "3425000542",
+        "receiptNo": "2026-10-16-21.28.33.602692",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR110006200125700006672882",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 34,
+        "fingerprint": "GN|20261016|21:28:36|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792175389049,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A80330FAB86EB88E915",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792175410442_wt4u3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "SINCAN CARSISI",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:22:46",
+        "trackingNo": "9549000542",
+        "receiptNo": "2026-10-16-21.22.33.508562",
+        "referenceCode": "",
+        "senderName": "SERKAN URESIN",
+        "senderIban": "TR930006200109100006838688",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261016|21:22:46|7000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792175410442,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB8386B8B8130F1F569",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792175427947_tt2xw",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.O.M. KATILIM BANKASI A.Ş.",
+        "bankBranch": "Merkez Şube",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:13",
+        "trackingNo": "9779576",
+        "receiptNo": "",
+        "referenceCode": "AD3A7-B-202610161",
+        "senderName": "MUSTAFA BİLİCİ",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: MUSTAFA BİLİCİ , Alıcı: NIZAMUDDIN YAQUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 68,
+        "fingerprint": "GN|20261016|21:13|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792175427947,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9037A0D1E376D0AA25",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792175453546_0kw3l",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0116/ERZINCAN SUBESI",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:54:33",
+        "trackingNo": "7460059458",
+        "receiptNo": "F51601",
+        "referenceCode": "A01",
+        "senderName": "MUSA AKTAN",
+        "senderIban": "TR370001000116680799095001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 72,
+        "fingerprint": "ZB|20261016|20:54:33|7000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792175453546,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2805C905E043678030",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792175474441_adol9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0877/ETİMESGUT/ANKARA",
+        "amount": "4190.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:04:55",
+        "trackingNo": "7460111688",
+        "receiptNo": "F27189",
+        "referenceCode": "A01",
+        "senderName": "VEYSİ BİRGE",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261016|21:04:55|4190|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792175474441,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4D1E760AE05F73BB82",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
