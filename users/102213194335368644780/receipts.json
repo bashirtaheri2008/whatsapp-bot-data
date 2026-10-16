@@ -131867,6 +131867,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792172386150_12ajt",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1521/TURKOZU/ANKARA SUBESI",
+        "amount": "4340.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:33:46",
+        "trackingNo": "7459912898",
+        "receiptNo": "F05494",
+        "referenceCode": "A01",
+        "senderName": "MEHMET SAHINER",
+        "senderIban": "TR730001001521686552275008",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR150001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261016|20:33:46|4340|TR150001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792172386150,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A972893442DF917090E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
