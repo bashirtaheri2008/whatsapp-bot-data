@@ -131697,6 +131697,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792171785748_klg65",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:23:20",
+        "trackingNo": "2026014496943740",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUSTAFA KILINÇ",
+        "senderIban": "TR030001500158007309509190",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261016|20:23:20|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792171785748,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A029914D51A3B1E1502",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792171800046_0ic7f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "16/10/2026",
+        "time": "20:27:16",
+        "trackingNo": "3849683586",
+        "receiptNo": "450089007983",
+        "referenceCode": "16.10.2026/447/8888/8888",
+        "senderName": "MESUT UĞURLU",
+        "senderIban": "TR800006400000145004080885",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "MESUT UĞURLU tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": "GN|20261016|20:27:16|5000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792171800046,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD47F6F4277277E4CF2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792172053946_ge1fw",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0705/ÇUKURCA/HAKKARI SUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:25:08",
+        "trackingNo": "7459852325",
+        "receiptNo": "F20879",
+        "referenceCode": "A01",
+        "senderName": "HALIL IBRAHIM AKPINAR",
+        "senderIban": "TR380001000705853279235002",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340007500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 70,
+        "fingerprint": "ZB|20261016|20:25:08|7000|TR340007500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792172053946,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7F8FB827D0BE7FFCB3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
