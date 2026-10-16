@@ -134349,6 +134349,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792186273226_317sc",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "00:24:53",
+        "trackingNo": "2026013413932348",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Mükremin korkmaz",
+        "senderIban": "TR820001500158******2737",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261017|00:24:53|5000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792186273226,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5AAB7E932AC8908EA3A89C4716E8077",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
