@@ -134009,6 +134009,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792181744947_kc5eq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "23:06",
+        "trackingNo": "4904472915",
+        "receiptNo": "03663-03663-1008592726",
+        "referenceCode": "",
+        "senderName": "YUSUF KARADOL",
+        "senderIban": "TR150015700000000124429411",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35 0001 5001 5800 7362 2798 15",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 73,
+        "fingerprint": "EP|4904472915"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792181744947,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3AFF2D48089AC45475",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
