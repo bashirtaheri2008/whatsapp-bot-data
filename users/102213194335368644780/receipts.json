@@ -131187,6 +131187,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792140782394_lq4wc",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "7100000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "11:51:29",
+        "trackingNo": "3010895362",
+        "receiptNo": "",
+        "referenceCode": "2026014470436890",
+        "senderName": "NIZAMUDDIN YAQUBI",
+        "senderIban": "",
+        "receiverName": "Saadatullah Azhar Amini",
+        "receiverIban": "TR260006400000111530856451",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261016|11:51:29|7100000|TR260006400000111530856451"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792140782394,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "AC6E6B84DA58B58069E02F97ABA2F8E2",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792140947695_eexfb",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "",
+        "amount": "43500.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "11:55:00",
+        "trackingNo": "3010906475",
+        "receiptNo": "",
+        "referenceCode": "2026014470595450",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "",
+        "receiverName": "Saadattullah Azhar Amini",
+        "receiverIban": "TR260006400000111530856451",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261016|11:55:00|43500|TR260006400000111530856451"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792140947695,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A174FCC4FEB4439F557",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
