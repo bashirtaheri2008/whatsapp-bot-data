@@ -133907,6 +133907,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792180074953_utmw9",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KARTAL BULVAR",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:45:35",
+        "trackingNo": "3542000582",
+        "receiptNo": "2026-10-16-22.45.29.572491",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR310006200127800006650883",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinDörtYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 33,
+        "fingerprint": "GN|20261016|22:45:35|4400|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792180074953,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABC5D96B8DE15BBDC8B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792180465842_5k0ai",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:49:14",
+        "trackingNo": "TR730004600382888000236970",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "EMRE AVSAR AYDIN",
+        "senderIban": "TR730004600382888000236970",
+        "receiverName": "Nizammudin Yaqubi",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261016|22:49:14|6000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792180465842,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A55E711AF8582E51483C97B63C0C3140",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
