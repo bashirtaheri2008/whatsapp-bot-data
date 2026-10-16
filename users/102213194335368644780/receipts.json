@@ -133465,6 +133465,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792178060346_t0621",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:12",
+        "trackingNo": "4904376679",
+        "receiptNo": "03663-03663-1008504627",
+        "referenceCode": "",
+        "senderName": "MELIHA DIGRAK",
+        "senderIban": "TR0S0015700000000084239315",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4904376679"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792178060346,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5A16AAE0A516E819A0F49A3A9A7DC68",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
