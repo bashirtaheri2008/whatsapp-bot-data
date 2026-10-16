@@ -131527,6 +131527,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792170855341_9zqcv",
+      "data": {
+        "isReceipt": true,
+        "bank": "hesab.com",
+        "bankBranch": "",
+        "amount": "1625.00",
+        "currency": "AFN",
+        "date": "16/10/2026",
+        "time": "20:04",
+        "trackingNo": "0423037001792164871",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Sohrab Haidari",
+        "senderIban": "",
+        "receiverName": "Bashir Tahiri",
+        "receiverIban": "",
+        "description": "انتقال پول",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261016|20:04|1625"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1792170855341,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "AC27AF02E8ABDC10F50BBCB795BDE76F",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792171262851_y6kkb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:17",
+        "trackingNo": "4904112493",
+        "receiptNo": "03663-03663-1008280067",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4904112493"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792171262851,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABFBA344B7FD2FB8598",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
