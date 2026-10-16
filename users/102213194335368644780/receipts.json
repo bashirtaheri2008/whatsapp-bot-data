@@ -131969,6 +131969,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792172547343_2oi1j",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "SINCAN",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:41:17",
+        "trackingNo": "1274000553",
+        "receiptNo": "2026-10-16-20.41.14.920463",
+        "referenceCode": "",
+        "senderName": "SAYIN ENGIN SARGIN",
+        "senderIban": "TR260006200046500006608963",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 79,
+        "fingerprint": "GN|20261016|20:41:17|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792172547343,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9F209B02442320FE9E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792172596844_8d1ul",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "NATOLYOLU / ANKARA",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:42:23",
+        "trackingNo": "8243000510",
+        "receiptNo": "2026-10-16-20.42.22.067372",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR110006200125700006672882",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261016|20:42:23|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792172596844,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAA76A08C5679CB1764",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792172697590_rzn3q",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:41:31",
+        "trackingNo": "634128817945133056",
+        "receiptNo": "2920084495",
+        "referenceCode": "16102026-9300-41191436",
+        "senderName": "İHSAN ÇETİN",
+        "senderIban": "TR110013400002610100700001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261016|20:41:31|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792172697590,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4D72087D6512D61F37",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
