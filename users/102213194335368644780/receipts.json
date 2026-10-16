@@ -133397,6 +133397,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792177325141_tkpin",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2401/MEYDAN-BATIKENT/ANKARA ŞUBESİ",
+        "amount": "4497.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:00:35",
+        "trackingNo": "7460463414",
+        "receiptNo": "F08517",
+        "referenceCode": "A01",
+        "senderName": "BAYRAM YARADAN",
+        "senderIban": "TR050001002407466809775003",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 70,
+        "fingerprint": "ZB|20261016|22:00:35|4497|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792177325141,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4AB005059190E0F1BF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792177934547_htgru",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:09:28",
+        "trackingNo": "517771042279",
+        "receiptNo": "SYJ2026199941010",
+        "referenceCode": "93c2702b-3e12-47f1-a041-9668a7ceaa93",
+        "senderName": "BAYRAM KONCA",
+        "senderIban": "TR810006701000000022390314",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 57,
+        "fingerprint": "GN|20261016|22:09:28|3000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792177934547,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A58F50879C9AB82987F2C4664B389C43",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
