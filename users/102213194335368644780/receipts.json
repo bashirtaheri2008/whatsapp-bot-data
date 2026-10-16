@@ -132207,6 +132207,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792172987047_ygpiv",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4472.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "20:47:30",
+        "trackingNo": "2026014498151066",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "İSMAİL EROĞLU",
+        "senderIban": "TR9500015001589875",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 66,
+        "fingerprint": "GN|20261016|20:47:30|4472|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792172987047,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE86EA005E8290C36F6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
