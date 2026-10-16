@@ -130745,6 +130745,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792136591603_w4zha",
+      "data": {
+        "isReceipt": true,
+        "bank": "ING BANK A.S.",
+        "bankBranch": "ÜMITKÖY ŞUBESİ",
+        "amount": "500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "10:30:20",
+        "trackingNo": "26351971037",
+        "receiptNo": "7527719",
+        "referenceCode": "16/10/2026-315-48315-27676",
+        "senderName": "ÇINAR YAŞAR",
+        "senderIban": "",
+        "receiverName": "NİZAMUDDİN YAOUBİ",
+        "receiverIban": "TR340001001580007312220752",
+        "description": "Giden FAST Sorgu No:26351971037 TR340001001580007312220752 Türkiye Vakıflar Bankası T.A.O. NİZAMUDDİN YAOUBİ",
+        "bankKey": "",
+        "ocrConfidence": 37,
+        "fingerprint": "GN|20261016|10:30:20|500|TR340001001580007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792136591603,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A297381C4824F602376",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
