@@ -130609,6 +130609,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792134024806_zj5eb",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Subesiz Bankacilik",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "09:44:32",
+        "trackingNo": "3010438036",
+        "receiptNo": "2026014464034649",
+        "referenceCode": "",
+        "senderName": "MERCAN SOY",
+        "senderIban": "",
+        "receiverName": "BORI BAY HAMARD",
+        "receiverIban": "TR650006400000145520308656",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 69,
+        "fingerprint": "GN|20261016|09:44:32|4000|TR650006400000145520308656"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792134024806,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A042AE34856CF4CCFCA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
