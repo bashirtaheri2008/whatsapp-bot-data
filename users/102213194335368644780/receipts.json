@@ -134145,6 +134145,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792183999021_754kl",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankas A.S.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "15/10/2026",
+        "time": "23:39:14",
+        "trackingNo": "5008000313",
+        "receiptNo": "2026-10-15-14.32.49.654141",
+        "referenceCode": "",
+        "senderName": "BURAK YILMAZ",
+        "senderIban": "TR470006200146300006639582",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinBeşYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261015|23:39:14|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792183999021,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A92AB2BE866816734C6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
