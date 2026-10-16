@@ -133227,6 +133227,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792176827297_pzm87",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "4000/ZIRAAT SÜPER ŞUBE",
+        "amount": "4480.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:45:52",
+        "trackingNo": "7460245665",
+        "receiptNo": "F39151_4039",
+        "referenceCode": "A01",
+        "senderName": "HASAN ÖZDEMİR",
+        "senderIban": "TR42************505001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34************220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 67,
+        "fingerprint": "ZB|20261016|21:45:52|4480|TR34220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792176827297,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7DE8942938DD62D67B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792176967541_3jlrj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Denizbank A.Ş.",
+        "bankBranch": "",
+        "amount": "6500.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:45:35",
+        "trackingNo": "634144937271558144",
+        "receiptNo": "",
+        "referenceCode": "16102026-9300-45204359",
+        "senderName": "SERHAN ŞAPCIOĞLU",
+        "senderIban": "TR400013400000714617300001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda detay bilgileri verilen FAST islemi icin 9490-7146173-352 hesabiniza toplam 6.500,00 TL Borç kaydedilmistir.",
+        "bankKey": "",
+        "ocrConfidence": 76,
+        "fingerprint": "GN|20261016|21:45:35|6500|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792176967541,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A54BF697FFB6BCE9E0E3DD14A032C5B5",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
