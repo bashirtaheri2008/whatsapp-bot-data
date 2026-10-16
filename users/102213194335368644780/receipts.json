@@ -133601,6 +133601,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792178873748_2pihs",
+      "data": {
+        "isReceipt": true,
+        "bank": "TEB",
+        "bankBranch": "İvedik-167",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:15",
+        "trackingNo": "00004480",
+        "receiptNo": "15422593",
+        "referenceCode": "7668825618",
+        "senderName": "ALI KARABULUT",
+        "senderIban": "TR60000320000000131373507",
+        "receiverName": "NIZAMUDDIN YAGUBI",
+        "receiverIban": "TR340001500158007318220752",
+        "description": "Sayın ALİ KARABULUT",
+        "bankKey": "",
+        "ocrConfidence": 24,
+        "fingerprint": "GN|20261016|22:15|4000|TR340001500158007318220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792178873748,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9DE12CFA62EF6CC4FC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792179052353_9zqp7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:18",
+        "trackingNo": "4904388796",
+        "receiptNo": "03663-03663-1008514668",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 77,
+        "fingerprint": "EP|4904388796"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792179052353,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9D89C9DCAB8E346532",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
