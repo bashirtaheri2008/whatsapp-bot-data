@@ -131323,6 +131323,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792143976890_djt38",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "4600.00",
+        "currency": "TRY",
+        "date": "16/10/2026",
+        "time": "12:15:05",
+        "trackingNo": "3847582644",
+        "receiptNo": "423911007731",
+        "referenceCode": "16.10.2026/447/8888/8888",
+        "senderName": "RIDVAN SARIKAYA",
+        "senderIban": "TR270006400000142391829644",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "RIDVAN SARIKAYA tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 67,
+        "fingerprint": "GN|20261016|12:15:05|4600|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792143976890,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB9E61721F6D9719F2D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792144058594_eiujg",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "SINCAN ANKARA CADDESİ ŞUBESİ",
+        "amount": "3950.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "12:41:54",
+        "trackingNo": "1720920207",
+        "receiptNo": "202610161870286",
+        "referenceCode": "01337-2512941",
+        "senderName": "YUNUS YILMAZ",
+        "senderIban": "TR900011100000000107087276",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Odeme",
+        "bankKey": "",
+        "ocrConfidence": 62,
+        "fingerprint": "GN|20261016|12:41:54|3950|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792144058594,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6443CABA6ADE1903A3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
