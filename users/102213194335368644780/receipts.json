@@ -133363,6 +133363,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792177090146_9tdhw",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapi Kredi Bankasi A.S.",
+        "bankBranch": "",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:55:18",
+        "trackingNo": "517773857452",
+        "receiptNo": "SYJ2026199787333",
+        "referenceCode": "925-759968 / 2549011341434",
+        "senderName": "EMIRHAN AYAR",
+        "senderIban": "TR340006701000000096720514",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONIK FON TRANSFERI (EFT) UCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261016|21:55:18|4600|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792177090146,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACADB9D858286682FF4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
