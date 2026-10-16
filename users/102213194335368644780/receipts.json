@@ -132921,6 +132921,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792175843644_j6p2x",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "4,500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:34:44",
+        "trackingNo": "52330653 / 638893",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SELIN ÖZTÜRK CİHAN",
+        "senderIban": "TR800004600179888000203732",
+        "receiverName": "SELIN OZTURK CHAN",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 53,
+        "fingerprint": "AK|20261016|21:34:44|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792175843644,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF6EF8D0F5FBD566568",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792175906853_eo09a",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "3800.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:37:35",
+        "trackingNo": "2026014499868012",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SEMA NUR KURMA",
+        "senderIban": "TR200001500158****1918",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 74,
+        "fingerprint": "GN|20261016|21:37:35|3800|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792175906853,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA33E891F63F762CFAC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792176001468_wqd5i",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "ANKARA OSB",
+        "amount": "3895.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:37:18",
+        "trackingNo": "9060000534",
+        "receiptNo": "2026-10-16-21.37.12.668288",
+        "referenceCode": "",
+        "senderName": "İSMAİL ÖZCAN",
+        "senderIban": "TR650006200068200006604848",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261016|21:37:18|3895|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792176001468,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1B8F4A307401879396",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
