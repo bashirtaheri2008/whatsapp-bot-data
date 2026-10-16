@@ -133737,6 +133737,74 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792179408045_8xore",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KONYA ORG. SAN.",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:35:39",
+        "trackingNo": "1997000590",
+        "receiptNo": "2026-10-16-22.35.37.771206",
+        "referenceCode": "",
+        "senderName": "SERVET KIRDI",
+        "senderIban": "TR450006200146300006680261",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "REZERVASYON YAGIZI",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261016|22:35:39|4500|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792179408045,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A957CE5C24A31377B11",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792179500944_s8k75",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "4250",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:35:30",
+        "trackingNo": "517777304635",
+        "receiptNo": "SYJ202620020561",
+        "referenceCode": "96d7efdb-09e6-4b17-8fc9-7752a53ac7ec",
+        "senderName": "GÜLSEREN ERİCE",
+        "senderIban": "TR33000670100000030323935",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220549011777846",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 50,
+        "fingerprint": "GN|20261016|22:35:30|4250|TR340001500158007312220549011777846"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792179500944,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A978E78E46F4707D38A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
