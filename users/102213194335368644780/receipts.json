@@ -130643,6 +130643,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792134483993_sy7c7",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "6490",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "09:58:09",
+        "trackingNo": "2026014464578001",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YAR MOHAMMAD YARDAN",
+        "senderIban": "TR580001500158000000000101",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261016|09:58:09|6490|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792134483993,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9BBFA78353995BD8D6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
