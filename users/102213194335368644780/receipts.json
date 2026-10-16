@@ -133839,6 +133839,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792179984344_edc4o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:29",
+        "trackingNo": "4904407855",
+        "receiptNo": "03663-03663-1008530805",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 74,
+        "fingerprint": "EP|4904407855"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792179984344,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0D1DE6E1F96D5678FB",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792180063046_6rdo6",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KEÇİÖREN - GAZİNO",
+        "amount": "3800.00",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:45:58",
+        "trackingNo": "8653000584",
+        "receiptNo": "2026-10-16-22.45.57.227834",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR460006200106100006650146",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 35,
+        "fingerprint": "GN|20261016|22:45:58|3800|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792180063046,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6B40799C9E5700A2AF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
