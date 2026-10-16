@@ -132615,6 +132615,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792175375851_u2duo",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "325797",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "21:22:24",
+        "trackingNo": "TR700004600382888000237024",
+        "receiptNo": "40041044 / 624352",
+        "referenceCode": "",
+        "senderName": "MUSTAFA BURAK ACAR",
+        "senderIban": "TR700004600382888000237024",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 54,
+        "fingerprint": "AK|20261016|21:22:24|325797|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792175375851,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF7418D2B280F3C3BD0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
