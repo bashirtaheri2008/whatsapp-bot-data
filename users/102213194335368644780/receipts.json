@@ -133567,6 +133567,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792178857353_72m5s",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2332/atapark/ankara",
+        "amount": "4197.00",
+        "currency": "TL",
+        "date": "61/10/2026",
+        "time": "22:21:32",
+        "trackingNo": "7460522155",
+        "receiptNo": "F13011",
+        "referenceCode": "A01",
+        "senderName": "OGUZHAN YIGITER",
+        "senderIban": "TR800001002332509267045004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362270815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 64,
+        "fingerprint": "ZB|20261061|22:21:32|4197|TR350001500158007362270815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792178857353,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A676C763E5CB971797B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
