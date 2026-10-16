@@ -130813,6 +130813,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792136749799_7zach",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2603/zafer",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "10:21:34",
+        "trackingNo": "7454682046",
+        "receiptNo": "F03356",
+        "referenceCode": "F03356",
+        "senderName": "YUSUF PARMAKSIZ",
+        "senderIban": "TR720001009010015282305003",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 82,
+        "fingerprint": "ZB|20261016|10:21:34|7500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792136749799,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A218B2F15553C405523",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
