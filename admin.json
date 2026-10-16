@@ -23,6 +23,10 @@
     "114353481109264947010": {
       "allowDup": true,
       "allowConfirm": true
+    },
+    "up_test_a63a": {
+      "allowDup": true,
+      "allowConfirm": true
     }
   },
   "defaults": {
