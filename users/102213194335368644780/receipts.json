@@ -144107,6 +144107,108 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792262701792_6t1ut",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:39:01",
+        "trackingNo": "634505673134874624",
+        "receiptNo": "17102026-9300-37355429",
+        "referenceCode": "2040-23423844-351",
+        "senderName": "AYŞE TOK",
+        "senderIban": "TR200013400002342384400001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:39:01|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792262701792,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A83D40BD7BA9F619F38",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792262705181_qjosb",
+      "data": {
+        "isReceipt": true,
+        "bank": "TOM-Bank",
+        "bankBranch": "Merkez Şube",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:41",
+        "trackingNo": "7814676",
+        "receiptNo": "",
+        "referenceCode": "AEMNF-B-202610171",
+        "senderName": "MEHMET GÖK",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR320001500158007362279815",
+        "description": "IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792262705181,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A95E16B8CD12224416B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792262769182_jwjxe",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "NALCAGI SUBESI",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/01/2026",
+        "time": "21:42:36",
+        "trackingNo": "202601175465512",
+        "receiptNo": "04425-1705530",
+        "referenceCode": "133447747",
+        "senderName": "SULEYMAN KIR",
+        "senderIban": "TR12000100020010050015835455",
+        "receiverName": "RAHMATULLAH HAKIMI Türkiye Vatısfır",
+        "receiverIban": "TR12000100020010050015835455",
+        "description": "BSMV Tahsilat",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20260117|21:42:36|5000|TR12000100020010050015835455"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792262769182,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3CDCB9274BEAC2FD94",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
