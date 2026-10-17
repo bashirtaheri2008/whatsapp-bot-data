@@ -135301,6 +135301,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792216530531_76z09",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "08:54:28",
+        "trackingNo": "AGJQK-B-20261017149",
+        "receiptNo": "BTY2026000785909",
+        "referenceCode": "aa48b7d6-71b2-480f-a5a4-07112635ed8e",
+        "senderName": "DILAN CANSEL ARAS",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: DILAN CANSEL ARAS , Alıcı: Rahmatullah Hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261017|08:54:28|4500"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792216530531,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A038C532A836E24CC79",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
