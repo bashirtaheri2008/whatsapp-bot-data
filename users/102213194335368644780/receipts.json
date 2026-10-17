@@ -138837,6 +138837,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792240236143_8tmil",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2449/ALTIEYLÜL/BALIKESIR SUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:50:16",
+        "trackingNo": "F08072",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MÜKREMİN ÇETİN",
+        "senderIban": "TR840001002449823359855001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Alacaklı Şube : 2783-HÜDAVENDİ HATUN/İĞDE ŞUBESİ Alacaklı Hesap : 1030942225003 Alacaklı IBAN : TR23 0001 0090 1030 9422 2050 03 Alacaklı Adı Soyadı : RAHMATULLAH HAKİMİ Alacaklı Vergi No : Komisyon : 4,19 TRY Havale Tutarı : 5.000,00 TRY",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|14:50:16|5000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792240236143,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFFCE2A314635C69693",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792240329548_ledu0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1013/AKÖREN/KONYA ŞUBESİ",
+        "amount": "4900.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "15:31:02",
+        "trackingNo": "7463668609",
+        "receiptNo": "",
+        "referenceCode": "F01431",
+        "senderName": "MUHAMMET DOĞAN",
+        "senderIban": "TR880001001013757113645003",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.900,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|15:31:02|4900|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792240329548,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6673EFE086FA83E0B9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792240333652_mmajx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "TAŞPAZAR MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "15:30:08",
+        "trackingNo": "F08406",
+        "receiptNo": "",
+        "referenceCode": "10911110330",
+        "senderName": "ŞAYİN ŞABAN ALTINSOY",
+        "senderIban": "TR320001009010099689705001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Alacaklı Şube: 27/83-HÜDAVENT HATUN/NİĞDE ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|15:30:08|5000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792240333652,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABC7D48B4EF44422FDA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
