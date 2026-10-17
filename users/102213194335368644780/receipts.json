@@ -142849,6 +142849,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792255635781_u27ni",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1577/LALEGÜL/ANKARA ŞUBESİ",
+        "amount": "2485.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "19:44:07",
+        "trackingNo": "7465599899",
+        "receiptNo": "",
+        "referenceCode": "17/10/2026-19:44:07 - F05418",
+        "senderName": "BAYRAM DURUKAN",
+        "senderIban": "TR720001001577436152095004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "2.485,00 TRY tutarında Fast işlemi",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|19:44:07|2485|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792255635781,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A79D4F7AA744B3E0BDE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
