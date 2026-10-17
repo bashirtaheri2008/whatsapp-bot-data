@@ -142305,6 +142305,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792254133689_j03at",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "MEVLANA",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:18:15",
+        "trackingNo": "3962000367",
+        "receiptNo": "2026-10-17-19.18.11.713042",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR240006200010100006990574",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "YALNIZ YediBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|19:18:15|7000|TR35000158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792254133689,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A57AF4C11F0845D91CE1DE4A2DC30309",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792254339588_bf80z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Vakıflar Bankası T.A.O.",
+        "bankBranch": "SOKULLU CD. NO: 6/3 OSMANLIYE ISTANBUL",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:35:00",
+        "trackingNo": "2026-1017-99-XH2GX",
+        "receiptNo": "401470",
+        "referenceCode": "6040061870",
+        "senderName": "SULEYMAN DURAK",
+        "senderIban": "",
+        "receiverName": "HABİBATULLAH HAKİMİ",
+        "receiverIban": "TR16000150015800782279815",
+        "description": "Genel Nüdürlük",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:35:00|7000|TR16000150015800782279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792254339588,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A537B6EE01F5AE8FD2A51FF8F308C342",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
