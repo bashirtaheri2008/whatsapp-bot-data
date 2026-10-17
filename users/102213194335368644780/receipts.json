@@ -134825,6 +134825,142 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792208714899_urym3",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0705/ÇUKURCA/HAKKARİ ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "00:24:39",
+        "trackingNo": "7460847945",
+        "receiptNo": "F00198",
+        "referenceCode": "A01",
+        "senderName": "HALIL IBRAHIM AKPINAR",
+        "senderIban": "TR380001000705853279235002",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261017|00:24:39|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792208714899,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A40710DF63A1C8D7545",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792208730857_qq0f0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0705/ÇUKURCA/HAKKARİ ŞUBESİ",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "00:25:21",
+        "trackingNo": "7460848342",
+        "receiptNo": "F00201",
+        "referenceCode": "A01",
+        "senderName": "HALIL IBRAHIM AKPINAR",
+        "senderIban": "TR380001000705853279235002",
+        "receiverName": "Jawid usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261017|00:25:21|2000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792208730857,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0A60CE5B431E809F90",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792208753625_3527b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "6700",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "00:25",
+        "trackingNo": "4904588777",
+        "receiptNo": "03663-03663-1008689192",
+        "referenceCode": "",
+        "senderName": "BURAK TASPINAR",
+        "senderIban": "TR500015700000000159225688",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4904588777"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792208753625,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8017388B19C486D15B",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792208803028_k5se0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:45",
+        "trackingNo": "4904436278",
+        "receiptNo": "03663-03663-1008554290",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 80,
+        "fingerprint": "EP|4904436278"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792208803028,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A39BEB83BB4CA6449D5",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
