@@ -141965,6 +141965,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792252629680_9f2h1",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "POSTA CADDESİ ŞUBESİ",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:54:49",
+        "trackingNo": "172207042",
+        "receiptNo": "01315-2362022",
+        "referenceCode": "202610174688047",
+        "senderName": "SÜLEYMAN KELLER",
+        "senderIban": "TR720011100000000167246612",
+        "receiverName": "JAWID OSMANİ",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "3.3.1 EFT Ücreti (BSMV Dahil)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:54:49|5000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792252629680,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8121B2F1B543FC1C19",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
