@@ -137579,6 +137579,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792235158370_7qmux",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:04",
+        "trackingNo": "4905504192",
+        "receiptNo": "03663-03663-1010893737",
+        "referenceCode": "",
+        "senderName": "MEHMET KUCUKTONBUL",
+        "senderIban": "TR210015700000000130161518",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4905504192"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792235158370,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6859542DEDA1C6C31F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792235168174_natfy",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:04:56",
+        "trackingNo": "AKSIB-8-20261017113",
+        "receiptNo": "BPN2026001073888",
+        "referenceCode": "73c903c6-ba5b-4757-81b8-103975ca4740",
+        "senderName": "FATIH KOYUNCU",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Rahmatullah hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: FATIH KOYUNCU , Alıcı: Rahmatullah hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 44,
+        "fingerprint": "GN|20261017|14:04:56|4000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792235168174,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AF9684D42FE59B5F8F8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
