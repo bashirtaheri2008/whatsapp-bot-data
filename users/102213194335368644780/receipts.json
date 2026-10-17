@@ -139517,6 +139517,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792243358145_0n7sc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1916/BİNKONUTLAR/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "16:18:45",
+        "trackingNo": "7464164284",
+        "receiptNo": "",
+        "referenceCode": "F10740",
+        "senderName": "KENAN BATMAZ",
+        "senderIban": "TR270001001916775997695005",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.500,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|16:18:45|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792243358145,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A773459CD6EE25E0889",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792243666252_v75d0",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "85000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "16:28:21",
+        "trackingNo": "3014545159",
+        "receiptNo": "2026014533446739",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "",
+        "receiverName": "ZABET QURBANI",
+        "receiverIban": "TR190001009011187236505001",
+        "description": "FAST Giden Anlık Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|16:28:21|85000|TR190001009011187236505001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792243666252,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4AE9418FDCE6B4AD08ED",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
