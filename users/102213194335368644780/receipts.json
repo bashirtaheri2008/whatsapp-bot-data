@@ -141761,6 +141761,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792251063482_ja303",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "CEBECİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:28:53",
+        "trackingNo": "6143000381",
+        "receiptNo": "2026-10-17-18.28.50.585545",
+        "referenceCode": "",
+        "senderName": "PEHLÜL ARSLAN",
+        "senderIban": "TR370006200047000006632408",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:28:53|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792251063482,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4B851BC2D9F467D803",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
