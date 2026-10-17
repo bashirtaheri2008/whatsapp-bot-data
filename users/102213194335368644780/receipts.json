@@ -144515,6 +144515,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792265358180_cwxz8",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:55:40",
+        "trackingNo": "2026014544382501",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BAHATTİN BEZİRCİ",
+        "senderIban": "TR5800015001586980",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:55:40|2000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792265358180,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A095DC0DB87B6A1D549",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792265363480_p33sd",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KARATAY SUBESİ",
+        "amount": "4990",
+        "currency": "TL",
+        "date": "17/10/2025",
+        "time": "22:23:38",
+        "trackingNo": "00422-1337906",
+        "receiptNo": "202610175636993",
+        "referenceCode": "T99148",
+        "senderName": "TUFAN MUSTAFA KIZIL",
+        "senderIban": "TR15000100000000036945698",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000015007202778815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20251017|22:23:38|4990|TR35000015007202778815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792265363480,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1DC2FC4B435FEEE921",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792265366683_vzn6i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2683/HOCACIHAN/KONYA ŞUBESİ",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "22:24:54",
+        "trackingNo": "F16397",
+        "receiptNo": "7466403285",
+        "referenceCode": "",
+        "senderName": "İSMAİL KEKLİK",
+        "senderIban": "TR790001002683607074245002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|22:24:54|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792265366683,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA8E28DB53280390587",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
