@@ -135369,6 +135369,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792217679226_0xv7s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "300",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "23:53",
+        "trackingNo": "4904545503",
+        "receiptNo": "03663-03663-1008657311",
+        "referenceCode": "",
+        "senderName": "SALIH BIR",
+        "senderIban": "TR880015700000000202501748",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44 0001 5001 5800 7391 4591 93",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4904545503"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792217679226,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A1FA31759C34381AE4F",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
