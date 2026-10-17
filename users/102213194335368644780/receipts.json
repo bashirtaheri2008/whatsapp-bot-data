@@ -139109,6 +139109,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792241483752_wcu4z",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0239/TOKAT ŞUBESİ",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "15:42:27",
+        "trackingNo": "7463834101",
+        "receiptNo": "",
+        "referenceCode": "A01",
+        "senderName": "HALİL BAĞCI",
+        "senderIban": "TR310001000239971341655001",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.700,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|15:42:27|4700|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792241483752,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8063B22443578A3C4F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792241626446_1wav5",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4850.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "15:48",
+        "trackingNo": "1668151623",
+        "receiptNo": "M-2026-10-17-15.48.35.758846",
+        "referenceCode": "",
+        "senderName": "HAKAN PALAZ",
+        "senderIban": "TR970001200132400001115478",
+        "receiverName": "NIZAMUDDIN YAKUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "GİDEN FAST - HAKAN PALAZ TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|15:48|4850|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792241626446,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A59FF6FDE932CFB8A0C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
