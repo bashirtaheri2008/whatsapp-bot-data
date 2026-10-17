@@ -136321,6 +136321,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792228063607_j2gke",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "12:04:14",
+        "trackingNo": "2026014521891434",
+        "receiptNo": "",
+        "referenceCode": "3013765355",
+        "senderName": "KEREM ÖZEKMEKÇİ",
+        "senderIban": "",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261017|12:04:14|4700|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792228063607,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AAE5CFE6FBEFC575326",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
