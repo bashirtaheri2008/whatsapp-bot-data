@@ -136389,6 +136389,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792228284325_xrnu8",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2528/BUĞDAY PAZARI/KONYA ŞUBESİ",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "12:09:12",
+        "trackingNo": "F02754",
+        "receiptNo": "",
+        "referenceCode": "INTTHVLG",
+        "senderName": "FO SEYH SAMIL MAH. MILAS SK.",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 63,
+        "fingerprint": "ZB|20261017|12:09:12|4400|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792228284325,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3AF2B746024E19E40E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
