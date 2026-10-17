@@ -143937,6 +143937,142 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792261995091_uzbbh",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3503.37",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:29:14",
+        "trackingNo": "48861381/118420",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BURAK KAVLAK",
+        "senderIban": "TR290004600005888000815138",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|21:29:14|3503.37|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792261995091,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A83BFD10AC1D2FCC2B4",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792261999381_ils53",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "2400",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:31",
+        "trackingNo": "4906762884",
+        "receiptNo": "202610188506195",
+        "referenceCode": "03663-03663-1011868198",
+        "senderName": "Mehmet Baturhan Yıldıran",
+        "senderIban": "TR6600157000000000206013156",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4906762884"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792261999381,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0CC055D6DEF2A9547D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792262010892_fyl9j",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "3700",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:31:55",
+        "trackingNo": "517797655140",
+        "receiptNo": "SYJ202620954329",
+        "referenceCode": "925-387594 / 2549124418256",
+        "senderName": "BÜŞRA KARAKUŞ",
+        "senderIban": "TR45000670100000013049280",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:31:55|3700|TR350001500158007362279"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792262010892,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A77CD232B8C1572E4A2",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792262098490_82jvn",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:31:38",
+        "trackingNo": "21502207",
+        "receiptNo": "120888",
+        "referenceCode": "TR650004600185888000327862",
+        "senderName": "KERİM YEŞİLAY",
+        "senderIban": "TR650004600185888000327862",
+        "receiverName": "Rahmatullah Hakımı",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|21:31:38|6000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792262098490,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7763A927A8D61F8A92",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
