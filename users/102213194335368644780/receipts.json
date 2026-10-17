@@ -139211,6 +139211,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792242069843_86n5g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ÇUKURCA/HAKKARI ŞUBESİ",
+        "amount": "2000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "15:47:36",
+        "trackingNo": "7463923441",
+        "receiptNo": "",
+        "referenceCode": "09017",
+        "senderName": "",
+        "senderIban": "TR380001000705853279235002",
+        "receiverName": "HALİL İBRAHİM AKPINAR",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "2.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|15:47:36|2000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792242069843,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6B0891AAA8F7012A92",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792242188753_1xcla",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ÇUKURCA/HAKKARİ ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "15:47:17",
+        "trackingNo": "7463922501",
+        "receiptNo": "",
+        "referenceCode": "F09007",
+        "senderName": "",
+        "senderIban": "TR380001000705853279235002",
+        "receiverName": "HALİL İBRAHİM AKPINAR",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "7.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|15:47:17|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792242188753,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A98099EF1598D35FB1C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
