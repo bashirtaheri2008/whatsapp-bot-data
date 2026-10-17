@@ -136151,6 +136151,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792226595732_7cddj",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "11:41:13",
+        "trackingNo": "7663000114",
+        "receiptNo": "2026-10-17-11.41.10.836934",
+        "referenceCode": "01326/6670627",
+        "senderName": "İHSAN BAHADIR ALTIN",
+        "senderIban": "TR740006200132600006670627",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261017|11:41:13|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792226595732,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6F663800906BA9027E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
