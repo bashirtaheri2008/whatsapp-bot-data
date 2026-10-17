@@ -141421,6 +141421,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792250105288_1l55b",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "İnternet Bankacılığı",
+        "amount": "55.16",
+        "currency": "TL",
+        "date": "17/02/2024",
+        "time": "18:08:05",
+        "trackingNo": "5137962812814",
+        "receiptNo": "61135561",
+        "referenceCode": "TR630000000100800739149919",
+        "senderName": "İsmail Şahin",
+        "senderIban": "TR630000000100800739149919",
+        "receiverName": "TÜRKİYE VAKIFLAR BANKASI T.A.Ş.",
+        "receiverIban": "TR630000000100800739149919",
+        "description": "HESAP ÖZEL",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20240217|18:08:05|55.16|TR630000000100800739149919"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792250105288,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD257880BE6A82B8BCE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
