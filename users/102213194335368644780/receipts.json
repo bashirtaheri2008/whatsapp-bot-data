@@ -134553,6 +134553,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792208575233_xyr9z",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "16/10/2026",
+        "time": "22:51:33",
+        "trackingNo": "517776520072",
+        "receiptNo": "SYJ2026200242220",
+        "referenceCode": "925-517255 / 2519011917982",
+        "senderName": "ESRA ACAR",
+        "senderIban": "TR940006701000000042918287",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/Semih acar",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261016|22:51:33|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792208575233,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A75B32001E0E2803CF6",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
