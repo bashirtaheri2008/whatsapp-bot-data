@@ -136083,6 +136083,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792226177620_nu7us",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0912/NALGACI/KONYA SUBESI",
+        "amount": "14000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "11:32:09",
+        "trackingNo": "F04649",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MURAT KAVALBACAK",
+        "senderIban": "TR380001000912545024045002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261017|11:32:09|14000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792226177620,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A494859D2AE5CD65E45",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
