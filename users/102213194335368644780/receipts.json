@@ -142101,6 +142101,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792253499681_jpn9h",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ZAFER",
+        "amount": "3700",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:08:11",
+        "trackingNo": "5434000394",
+        "receiptNo": "2026-10-17-19.08.06.844621",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR380006200077000006991342",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|19:08:11|3700|TR350001500158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792253499681,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A570A7205BE41BE3A4F591C6411EBDEB",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
