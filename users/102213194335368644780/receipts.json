@@ -143767,6 +143767,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792261494293_345ui",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0743/GOLBASI/ANKARA SUBESI",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:20:29",
+        "trackingNo": "7466104084",
+        "receiptNo": "",
+        "referenceCode": "F14275",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "ALI IHSAN PETEK",
+        "receiverIban": "TR460001000743623565875002",
+        "description": "4.000,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|21:20:29|4000|TR460001000743623565875002"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792261494293,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4242CAD1C6EA056858",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
