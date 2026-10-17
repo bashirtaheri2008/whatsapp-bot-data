@@ -140877,6 +140877,176 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792248331979_k2aoq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:24:22",
+        "trackingNo": "AOC11-B-20261017105",
+        "receiptNo": "BNV20260014444181",
+        "referenceCode": "ec66b362-e8bf-4290-9d5d-de420462aa2d",
+        "senderName": "ERCAN DOĞRU",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "Rahmatullah hakımı",
+        "receiverIban": "",
+        "description": "Gönderen: ERCAN DOĞRU, Alıcı: Rahmatullah hakımı, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:24:22|4300"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248331979,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A14287FE18212AD2097",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792248334591_i9yqm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY SANAYI",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:41:06",
+        "trackingNo": "6767000335",
+        "receiptNo": "2026-10-17-17.41.04.395888",
+        "referenceCode": "",
+        "senderName": "MEHMET YEL",
+        "senderIban": "TR190006200051900006645776",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:41:06|4700|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248334591,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6A08C311125FBA8FD4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792248338285_5kxxh",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:43:58",
+        "trackingNo": "7464787918",
+        "receiptNo": "",
+        "referenceCode": "F18606_4017",
+        "senderName": "MEHMET GEÇİT",
+        "senderIban": "TR320001009010224880705003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 4,18 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:43:58|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248338285,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A98AFEB5B5C87105827",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792248341190_fpw1b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SİTELER",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:44:25",
+        "trackingNo": "6315000342",
+        "receiptNo": "2026-10-17-17.44.23.955736",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR310006200001600006289563",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:44:25|4200|TR35000158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248341190,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A28514B7394EA59B982",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792248382085_m61ot",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4965.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:44:48",
+        "trackingNo": "AONXN-B-20261017409",
+        "receiptNo": "BTK2026001280326",
+        "referenceCode": "5b9fc718-2aa6-40e7-935e-7afaec59a8d9",
+        "senderName": "EMRE DOĞDU",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: EMRE DOĞDU , Alıcı: JAWID USMANI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:44:48|4965"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248382085,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AE8BB1EF1BBB1D4DC74",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
