@@ -140367,6 +140367,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792247273981_murke",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:23",
+        "trackingNo": "4906132767",
+        "receiptNo": "202610186141224",
+        "referenceCode": "03663-03663-1011373242",
+        "senderName": "Enes Ceylan",
+        "senderIban": "TR6300157000000000159236415",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34000158007312220752",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4906132767"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792247273981,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A501216AC83AE4A81821A6E865765927",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792247279084_o22mn",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2528/BUĞDAY PAZARI/KONYA ŞUBESİ",
+        "amount": "7500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:18:51",
+        "trackingNo": "7464613832",
+        "receiptNo": "",
+        "referenceCode": "F07327",
+        "senderName": "YEDİBİN BEŞYÜZ EKZİOTUZ YEDİKİ",
+        "senderIban": "TR980001002528883161075001",
+        "receiverName": "FERHAT ÇELİK",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "7.500,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:18:51|7500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792247279084,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A908EFC150D7031B845",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792247392088_l8x1f",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ZAFER",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:28:43",
+        "trackingNo": "3941000341",
+        "receiptNo": "2026-10-17-17.28.28.463159",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR840006200077000006998274",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:28:43|4500|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792247392088,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB70068353D7E6D53FA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
