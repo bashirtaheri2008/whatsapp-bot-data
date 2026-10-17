@@ -138497,6 +138497,74 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792237921466_eov1l",
+      "data": {
+        "isReceipt": true,
+        "bank": "Hesab",
+        "bankBranch": "",
+        "amount": "30.00",
+        "currency": "AFN",
+        "date": "17/10/2026",
+        "time": "15:29:00",
+        "trackingNo": "0052335001792234766",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "+93 745 872 028",
+        "senderIban": "",
+        "receiverName": "+93 779 497 327",
+        "receiverIban": "",
+        "description": "افزاید کريدیت",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|15:29:00|30"
+      },
+      "sender": "118631895683295",
+      "timestamp": 1792237921466,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363430080362185@g.us",
+        "fromMe": false,
+        "id": "ACDACFDC931ED6F4EF95DD03587BB56F",
+        "participant": "118631895683295@lid",
+        "participantAlt": "93776400086@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792238141464_339vo",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "3000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:54:52",
+        "trackingNo": "35350019/456208",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "TAHİR GÖKCE",
+        "senderIban": "TR350004600727888000305279",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|14:54:52|3000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792238141464,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4BA9382A055EB489D0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
