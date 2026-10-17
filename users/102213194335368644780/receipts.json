@@ -141999,6 +141999,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792253176291_f4jzo",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "9500.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:03:39",
+        "trackingNo": "41124173",
+        "receiptNo": "8498823",
+        "referenceCode": "",
+        "senderName": "AYFER GÜRBÜZOĞLU",
+        "senderIban": "TR090004600310888000136380",
+        "receiverName": "Nizamuddinyaoubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "*TERS İŞLEM YAPILDI*",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|19:03:39|9500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792253176291,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AC998BEF3F162D2A726",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
