@@ -144311,6 +144311,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792263780487_5npms",
+      "data": {
+        "isReceipt": true,
+        "bank": "QNB Bank A.Ş.",
+        "bankBranch": "KIZILAY ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:54:57",
+        "trackingNo": "172210175541906",
+        "receiptNo": "00946-1627381",
+        "referenceCode": "202610175541906",
+        "senderName": "HASRET ADAK",
+        "senderIban": "TR3300111000000000167949969",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR3400015001580073122220752",
+        "description": "Bireysel Odenme",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:54:57|4000|TR3400015001580073122220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792263780487,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ADAEF6D5EC4D3F4ABC2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
