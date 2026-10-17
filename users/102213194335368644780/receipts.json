@@ -143733,6 +143733,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792260236981_qozsu",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:01:25",
+        "trackingNo": "634496210246352896",
+        "receiptNo": "",
+        "referenceCode": "17102026-9300-35082784",
+        "senderName": "MEHMET ACAR",
+        "senderIban": "TR720013400001644945600001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:01:25|1000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792260236981,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5559A16EB2672EAD10",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
