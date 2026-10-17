@@ -137477,6 +137477,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792234292011_m3dyc",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2783/hudavent",
+        "amount": "24200.00",
+        "currency": "TL",
+        "date": "71/10/2026",
+        "time": "13:50:45",
+        "trackingNo": "7462939153",
+        "receiptNo": "F05398",
+        "referenceCode": "A01",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Sebghatullah mirzayi",
+        "receiverIban": "TR080006400000145003393578",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 79,
+        "fingerprint": "ZB|20261071|13:50:45|24200|TR080006400000145003393578"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792234292011,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4A0161BABA1C20425C33",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
