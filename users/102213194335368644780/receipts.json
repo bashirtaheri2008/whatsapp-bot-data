@@ -137851,6 +137851,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792235971016_40t84",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk Katılım Bankası A.Ş.",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "3900.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:13:15",
+        "trackingNo": "AKY2C-B-202610177",
+        "receiptNo": "BDM2026002456061",
+        "referenceCode": "fedbb6f5-a1a6-4169-b085-65ce067c9e11",
+        "senderName": "HASAN BAYSAL",
+        "senderIban": "",
+        "receiverName": "NIZANUDDUNYAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: HASAN BAYSAL , Alıcı: NIZANUDDUNYAQUBI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 55,
+        "fingerprint": "GN|20261017|14:13:15|3900|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792235971016,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A521071A7496C09E6A9ABF26312EB74D",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792236033376_d4183",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "4.40",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:17:17",
+        "trackingNo": "27555302 / 396062",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MUHAMMED FEHMI KILI",
+        "senderIban": "TR950004600005888000768651",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 55,
+        "fingerprint": "AK|20261017|14:17:17|4.40|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792236033376,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A519B3DA1FC6F645401",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
