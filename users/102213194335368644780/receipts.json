@@ -138191,6 +138191,210 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792237214760_lb2k8",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ZAFER",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:24:38",
+        "trackingNo": "4805000207",
+        "receiptNo": "2026-10-17-14.24.35.493942",
+        "referenceCode": "",
+        "senderName": "HASRET KÜLTÜR",
+        "senderIban": "TR850006200077000006972163",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 61,
+        "fingerprint": "GN|20261017|14:24:38|4500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792237214760,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5DC8D4157F9105E2F3",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792237224770_geah4",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "SELÇUKLU",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:27:53",
+        "trackingNo": "1949000211",
+        "receiptNo": "2026-10-17-14.27.33.160793",
+        "referenceCode": "",
+        "senderName": "SELÇUKLU",
+        "senderIban": "TR380006200146400006837813",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 63,
+        "fingerprint": "GN|20261017|14:27:53|4600|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792237224770,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ACCF183C6689F6D621A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792237238869_3jsbp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:30:58",
+        "trackingNo": "254912734490",
+        "receiptNo": "925-440329 / 2549119300515",
+        "referenceCode": "SYJ2026205780784",
+        "senderName": "TAHİR ÖZDEMİR",
+        "senderIban": "TR980006701000000065595748",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "ziraat",
+        "ocrConfidence": 53,
+        "fingerprint": "ZB|20261017|14:30:58|4500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792237238869,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A529F9A5095BB15FE17",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792237253173_k8wps",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "4600",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:36:31",
+        "trackingNo": "254915755512",
+        "receiptNo": "SYJ2026205904425",
+        "referenceCode": "925-829466 / 2549119326386",
+        "senderName": "MEVLÜT GÜLEÇ",
+        "senderIban": "TR320006701000000095732702",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "ziraat",
+        "ocrConfidence": 54,
+        "fingerprint": "ZB|20261017|14:36:31|4600|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792237253173,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD15354244C960759EA",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792237268272_zhdoi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Yapı ve Kredi Bankası A.Ş.",
+        "bankBranch": "",
+        "amount": "1000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:28:53",
+        "trackingNo": "254912743401",
+        "receiptNo": "SYJ2026205771853",
+        "referenceCode": "925-400748 / 2549119090743",
+        "senderName": "ADNAN KEPÇELİOĞLU",
+        "senderIban": "TR590006701000000048113170",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "ziraat",
+        "ocrConfidence": 46,
+        "fingerprint": "ZB|20261017|14:28:53|1000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792237268272,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD369FBAE111F6C3655",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792237386669_9e28y",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "5.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:41:20",
+        "trackingNo": "FO7767_4007",
+        "receiptNo": "",
+        "referenceCode": "FO7767",
+        "senderName": "FATIH SANLI",
+        "senderIban": "TR540001004007650231605007",
+        "receiverName": "RAHMATULLAH HAKİMİ",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Alacaklı Şube : 2783-HÜDAVENT HATUN/NİĞDE ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 59,
+        "fingerprint": "ZB|20261017|14:41:20|5|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792237386669,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC9573FDE3E15AC9581",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
