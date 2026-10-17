@@ -136117,6 +136117,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792226445129_88dp9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ELVANKEENT",
+        "amount": "3800.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "11:39:34",
+        "trackingNo": "1582010114",
+        "receiptNo": "2026-10-17-11.39.31.610898",
+        "referenceCode": "1247/46012110",
+        "senderName": "HAIDER SANAF",
+        "senderIban": "TR80000150015800739203554",
+        "receiverName": "HAIDER SANAF",
+        "receiverIban": "TR8400062001247046012110",
+        "description": "YALNIZ UcRinSeKizYutTL.",
+        "bankKey": "",
+        "ocrConfidence": 22,
+        "fingerprint": "GN|20261017|11:39:34|3800|TR8400062001247046012110"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792226445129,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A662E0F37D24B7C40A8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
