@@ -143155,6 +143155,142 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792256751082_f19fk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "MEVLANA",
+        "amount": "3000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:55:56",
+        "trackingNo": "3606000411",
+        "receiptNo": "2026-10-17-19.55.53.072925",
+        "referenceCode": "",
+        "senderName": "MEHMET AYDEMİR",
+        "senderIban": "TR240006200010100006990574",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|19:55:56|3000|TR350001500158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792256751082,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5ED5AF8502375FC6000F56717F2A6DE",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792256755289_dgl1v",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ZAFER",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "20:00:28",
+        "trackingNo": "5086000356",
+        "receiptNo": "2026-10-17-20.00.20.804280",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR380006200077000006991342",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|20:00:28|4000|TR35000158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792256755289,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5355C24267271C9E7E61896568D2D5A",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792256806785_k62ry",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "20:03:34",
+        "trackingNo": "517798318599",
+        "receiptNo": "925-1054992",
+        "referenceCode": "SYJ202620889816",
+        "senderName": "HAMZA KILIÇ",
+        "senderIban": "TR84000670100000416937178",
+        "receiverName": "jawid usmani",
+        "receiverIban": "TR440001500158007391459123648493",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETI - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|20:03:34|5000|TR440001500158007391459123648493"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792256806785,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA877A2C1AE7725D428",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792256953181_bvijx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "20:06:06",
+        "trackingNo": "ATA0V-B-20261017351",
+        "receiptNo": "CHK2026000898143",
+        "referenceCode": "27f9ce13-6968-4e49-9376-afb055ca94c6",
+        "senderName": "OĞUZHAN ALYANAK",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "",
+        "description": "Gönderen: OĞUZHAN ALYANAK, Alıcı: JAWID USMANI, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|20:06:06|5000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792256953181,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A728F9AAF2EFB13D959",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
