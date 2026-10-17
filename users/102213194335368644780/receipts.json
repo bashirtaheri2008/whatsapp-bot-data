@@ -135097,6 +135097,142 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792215513627_89jay",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2329/YESILBAYIR/ANKARA SUBESI",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "17/11/2026",
+        "time": "07:59:55",
+        "trackingNo": "F00666",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ALACAKH AD SOYADI",
+        "senderIban": "TR530001002329603119695002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 56,
+        "fingerprint": "ZB|20261117|07:59:55|3500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792215513627,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A18E3E9663A3E1D4B27",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792215526837_rd25v",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "08:12",
+        "trackingNo": "4904811250",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR23 0001 0090 1030 9422 2050 03",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 76,
+        "fingerprint": "EP|4904811250"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792215526837,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5FAEE6B9BA410E7CF8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792215536622_bmp7u",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "MAMAK",
+        "amount": "15000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "08:25:27",
+        "trackingNo": "2379000058",
+        "receiptNo": "2026-10-17-08.24.57.031711",
+        "referenceCode": "01184 / 6635319",
+        "senderName": "KEMAL KONCA",
+        "senderIban": "TR380006200118400006635319",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 46,
+        "fingerprint": "GN|20261017|08:25:27|15000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792215536622,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABD34A3FC8AB40FCCCC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792215854826_f8gl3",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "9745.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "00:51:32",
+        "trackingNo": "2026014505830806",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HÜSEYİN ERTAŞ",
+        "senderIban": "TR520001500158****6174",
+        "receiverName": "NAZIMUDDİN YAQUBİ",
+        "receiverIban": "TR240001500158007312220782",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 54,
+        "fingerprint": "GN|20261017|00:51:32|9745|TR240001500158007312220782"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792215854826,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0A6F1C7511F04A2158",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
