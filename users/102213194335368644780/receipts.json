@@ -135709,6 +135709,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792222861226_9qvxb",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "4000/ZİRAAT SÜPER ŞUBE",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "10:29:08",
+        "trackingNo": "F04342_4022",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BAYRAM YASİN SAĞLAM",
+        "senderIban": "TR650001004022690018985004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Alacaklı Şube : 2783-HÜDAVENT HATUN/NİŞDE ŞUBESİ",
+        "bankKey": "ziraat",
+        "ocrConfidence": 37,
+        "fingerprint": "ZB|20261017|10:29:08|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792222861226,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A62047E206A02C5B3CD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
