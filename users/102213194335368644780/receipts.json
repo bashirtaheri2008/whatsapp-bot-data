@@ -135777,6 +135777,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792223326874_2yzt2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBIL BANKACILIK",
+        "amount": "5000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "10:47:27",
+        "trackingNo": "3850502624",
+        "receiptNo": "425198007223",
+        "referenceCode": "17.10.2026/447/8888/8888",
+        "senderName": "FERHAT KILIÇAY",
+        "senderIban": "TR360006400000142511480534",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "FERHAT KILIÇAY tarafindan aktarilan",
+        "bankKey": "",
+        "ocrConfidence": 68,
+        "fingerprint": "GN|20261017|10:47:27|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792223326874,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A518C911D9056CDD28E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
