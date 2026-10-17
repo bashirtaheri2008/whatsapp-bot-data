@@ -142169,6 +142169,142 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792253884484_0p8g4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1912/ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "3500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:16:11",
+        "trackingNo": "7465422147",
+        "receiptNo": "",
+        "referenceCode": "F06124",
+        "senderName": "BEDİR ÖĞÜZHAN SİVRİ",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "3.500,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|19:16:11|3500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792253884484,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD9B55C4508C1B6EF9E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792253887587_b8zpr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SANATORYUM/KEÇİÖREN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:07:22",
+        "trackingNo": "7386000351",
+        "receiptNo": "2026-10-17-19.07.18.476675",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR140006200122900006630870",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|19:07:22|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792253887587,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A298CE163599DCB4741",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792253890484_g6sj6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0171/ILGIN/KONYA ŞUBESİ",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:09:54",
+        "trackingNo": "7465349054",
+        "receiptNo": "F13746",
+        "referenceCode": "A01",
+        "senderName": "",
+        "senderIban": "TR340001000171968055025001",
+        "receiverName": "SÜLEYMAN ONUR BAŞLAR",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "JAWID USMANI",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|19:09:54|5000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792253890484,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5EF618EBF655A240EF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792254096090_40pxl",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2433/ÇAYIRHAN-NALLIHAN/ANKARA ŞUBESİ",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:18:03",
+        "trackingNo": "7465394713",
+        "receiptNo": "F20313",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR230001002433089326205007",
+        "receiverName": "ERSOY OVAZ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "NIZAMUDDIN YAKU",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|19:18:03|15000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792254096090,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A6E5E9BF235E003ACEB",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
