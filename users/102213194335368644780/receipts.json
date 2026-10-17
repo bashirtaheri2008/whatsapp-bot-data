@@ -139925,6 +139925,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792245237349_ooot0",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1985/AYDOĞDU/KONYA ŞUBESİ",
+        "amount": "12000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "16:27:37",
+        "trackingNo": "7464243742",
+        "receiptNo": "F07951",
+        "referenceCode": "A01",
+        "senderName": "NİZAMUDDİN YAQUBİ",
+        "senderIban": "TR750001001985573378115006",
+        "receiverName": "SEYİT BAKIRCI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "EFTGİDD İNTERNET İNTERNET",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|16:27:37|12000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792245237349,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5097436B73ED384492FF4842195EAA5",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
