@@ -143019,6 +143019,74 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792255893283_uzl7b",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KAHRAMANKAZAN",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:50:22",
+        "trackingNo": "1030000379",
+        "receiptNo": "2026-10-17-19.50.10.660327",
+        "referenceCode": "",
+        "senderName": "GANİME OKUMUŞ",
+        "senderIban": "TR470006200132600006639879",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220152",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|19:50:22|4200|TR340001500158007312220152"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792255893283,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA4112B9C914EA5E840",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792256036980_d317q",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2618/ASLIM CADDESI/KONYA ŞUBESİ",
+        "amount": "6400.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "19:51:48",
+        "trackingNo": "7465577862",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR060001002618608275865002",
+        "receiverName": "javid usman",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.400,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|19:51:48|6400|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792256036980,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A58ED5FDEFCDCFCF4C3",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
