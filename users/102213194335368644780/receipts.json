@@ -141387,6 +141387,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792249996282_wb5g2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY SANAYİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:09:25",
+        "trackingNo": "9298000325",
+        "receiptNo": "2026-10-17-18.09.23.228490",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR350006200051900006673230",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "YALNIZ YediBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:09:25|7000|TR35000158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792249996282,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5BF008130DF6765676F9AD69087270C",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
