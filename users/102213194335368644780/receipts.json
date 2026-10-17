@@ -142781,6 +142781,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792255416481_b7k7j",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ALAŞEHİR/MANİSA ŞUBESİ",
+        "amount": "5411.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:41:19",
+        "trackingNo": "7465635447",
+        "receiptNo": "F15479",
+        "referenceCode": "A01",
+        "senderName": "NİZAMUDDİN YAKUBİ",
+        "senderIban": "TR520001000190742592845001",
+        "receiverName": "MEHMET ÖZ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Fast Mesaj Kodu: A01",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|19:41:19|5411|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792255416481,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB6A67429E895DC5D6C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
