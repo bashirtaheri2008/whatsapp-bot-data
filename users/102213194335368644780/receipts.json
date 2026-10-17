@@ -141863,6 +141863,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792252155688_bag6x",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SANATORYUM/KEÇİÖREN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:48:27",
+        "trackingNo": "7789000369",
+        "receiptNo": "2026-10-17-18.48.21.307063",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR140006200122900006630870",
+        "receiverName": "HAYATİ TOPRAK",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:48:27|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792252155688,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3ABF42FACB8005E14471",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
