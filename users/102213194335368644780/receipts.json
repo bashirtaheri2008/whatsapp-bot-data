@@ -141897,6 +141897,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792252344686_cxhpc",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "9500.90",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:49:42",
+        "trackingNo": "41124173",
+        "receiptNo": "829549",
+        "referenceCode": "",
+        "senderName": "AYFER GÜRBÜZOĞLU",
+        "senderIban": "TR090004600310888000136380",
+        "receiverName": "Nizamuddin yaoubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "*TERS İŞLEM YAPILDI*",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|18:49:42|9500.90|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792252344686,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2EA642209CD4D0143A",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
