@@ -138939,6 +138939,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792240570552_915ne",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SELÇUKLU",
+        "amount": "3400",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "15:34:16",
+        "trackingNo": "6981000274",
+        "receiptNo": "2026-10-17-15.34.15.186338",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR570006200146400006881218",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|15:34:16|3400|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792240570552,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A57CB87EA066CE62410",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
