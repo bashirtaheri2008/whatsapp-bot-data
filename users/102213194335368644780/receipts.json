@@ -139755,6 +139755,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792244342848_7l5bm",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2344/MEVLANA/KONYA ŞUBESİ",
+        "amount": "4490.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "16:33:54",
+        "trackingNo": "7464296145",
+        "receiptNo": "F12936",
+        "referenceCode": "A01",
+        "senderName": "MESUT SERT",
+        "senderIban": "TR570001002344797909225001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.490,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|16:33:54|4490|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792244342848,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A266F0A48A968B70C20",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
