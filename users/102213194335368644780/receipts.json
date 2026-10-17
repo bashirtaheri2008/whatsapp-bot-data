@@ -135471,6 +135471,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792220226929_qr2qf",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "1995/TASPAZAR MAHALLESI/AKSARAY SUBESI",
+        "amount": "4500.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "09:29:56",
+        "trackingNo": "7461448070",
+        "receiptNo": "F01959",
+        "referenceCode": "A01",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR290001001995894124935002",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 69,
+        "fingerprint": "ZB|20261017|09:29:56|4500|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792220226929,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6360E3A07BD2AB0DF7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792220410126_k3m1j",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "55000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "09:57:35",
+        "trackingNo": "2026014499868012",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "SEMA NUR KURMA",
+        "senderIban": "TR200001500158****1918",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 73,
+        "fingerprint": "GN|20261017|09:57:35|55000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792220410126,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A76A95D0B76BE02715C",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
