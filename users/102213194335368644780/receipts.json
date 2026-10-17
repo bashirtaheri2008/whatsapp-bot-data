@@ -141285,6 +141285,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792249752385_goovd",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "NALÇACI",
+        "amount": "4250.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:08:13",
+        "trackingNo": "7755000332",
+        "receiptNo": "2026-10-17-18.08.09.296954",
+        "referenceCode": "",
+        "senderName": "SALİH KALENDER",
+        "senderIban": "TR390006200041900006859607",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000150015800739143593",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:08:13|4250|TR44000150015800739143593"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792249752385,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A65A8D779476D9DB2EE",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792249895179_5z87g",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:10:11",
+        "trackingNo": "634453121274150912",
+        "receiptNo": "",
+        "referenceCode": "17102026 - 9300 - 29089901",
+        "senderName": "MEHMET ACAR",
+        "senderIban": "TR720013400001644945600001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:10:11|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792249895179,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A7CDA6A32072D75E528",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
