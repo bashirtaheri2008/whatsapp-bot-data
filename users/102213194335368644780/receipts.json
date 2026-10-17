@@ -139347,6 +139347,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792242771150_r25bm",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "7500.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "16:11:02",
+        "trackingNo": "36396394 / 582682",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ARDA KAYNAK",
+        "senderIban": "TR370004600005888000733902",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|16:11:02|7500|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792242771150,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB2D6BB5DB7E59313CD",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792242988845_rimag",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0081/SUNGURLU/ÇORUM ŞUBESİ",
+        "amount": "8000",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:15:21",
+        "trackingNo": "7463993680",
+        "receiptNo": "",
+        "referenceCode": "F05923",
+        "senderName": "",
+        "senderIban": "TR710001000081738242035001",
+        "receiverName": "BUSE KAYASAROĞLU",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "knight online item",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|16:15:21|8000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792242988846,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3326C1A979CAB53473",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
