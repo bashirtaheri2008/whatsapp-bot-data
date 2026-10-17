@@ -140061,6 +140061,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792246444491_x1mvj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY SANAYI",
+        "amount": "4700",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:02:34",
+        "trackingNo": "2200000289",
+        "receiptNo": "2026-10-17-17.02.31.361484",
+        "referenceCode": "",
+        "senderName": "MEHMET YEL",
+        "senderIban": "TR190006200051900006645776",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:02:34|4700|TR35000158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792246444491,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AD2C2FEB68D147D9019",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
