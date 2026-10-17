@@ -139993,6 +139993,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792246073184_yi5e9",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "10000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:04:32",
+        "trackingNo": "634436598390140928",
+        "receiptNo": "",
+        "referenceCode": "17102026-9300-27180938",
+        "senderName": "ZEKERIYA ÖZDEMİR",
+        "senderIban": "TR160013400001383593800001",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:04:32|10000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792246073184,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5FA104E00BBC84E02CABD046C8B80D3",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
