@@ -135403,6 +135403,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792220049827_n83a0",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "4000/ZIRAAT SUPER SUBE",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "09:51:47",
+        "trackingNo": "7419466278",
+        "receiptNo": "F25971_4022",
+        "referenceCode": "A01",
+        "senderName": "AHMET FURKAN BAHGECI",
+        "senderIban": "TR340001500158007312220152",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220152",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 57,
+        "fingerprint": "ZB|20261017|09:51:47|6000|TR340001500158007312220152"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792220049827,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AB0BE5385EFD1905FEC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
