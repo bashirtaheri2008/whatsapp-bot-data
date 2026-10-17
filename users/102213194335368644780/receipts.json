@@ -143631,6 +143631,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792259816486_i086i",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KÜÇÜKSU CD./ÜMRANİYE",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "20:48:33",
+        "trackingNo": "4932000429",
+        "receiptNo": "2026-10-17-20.48.25.334281",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR680006200148100006671318",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR4400015001580073914591",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|20:48:33|6000|TR4400015001580073914591"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792259816486,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A044A98547B03494559",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
