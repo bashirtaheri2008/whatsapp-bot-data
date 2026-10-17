@@ -135335,6 +135335,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792217151634_y488f",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "2783/hudavent",
+        "amount": "15000",
+        "currency": "TL",
+        "date": "17/11/2026",
+        "time": "09:03:50",
+        "trackingNo": "7461511067",
+        "receiptNo": "F01515",
+        "referenceCode": "FO1515",
+        "senderName": "HESAP NUMARASI",
+        "senderIban": "TR230001009010308422205003",
+        "receiverName": "Derya Atakan",
+        "receiverIban": "TR490006200077000006828281",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 79,
+        "fingerprint": "ZB|20261117|09:03:50|15000|TR490006200077000006828281"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792217151635,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A993D21BD5B879A9354",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
