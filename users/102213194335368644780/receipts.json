@@ -136219,6 +136219,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792227604425_ovj41",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye Finans",
+        "bankBranch": "6/3 OBAKMAE ISTANBUL",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "11:51:00",
+        "trackingNo": "20261017-9040749",
+        "receiptNo": "421492",
+        "referenceCode": "TR230001009010209422205003",
+        "senderName": "MEMDUH EMİN KARATAŞ",
+        "senderIban": "",
+        "receiverName": "RAMPAUTILLAR HAKIMI",
+        "receiverIban": "TR230001009010209422205003",
+        "description": "Hesaplar Arası Transfer, Eczane",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261017|11:51:00|4500|TR230001009010209422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792227604425,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A06F0A73F1E3FCD5AC9",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
