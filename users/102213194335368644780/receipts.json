@@ -141625,6 +141625,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792250766589_mx17p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:21:20",
+        "trackingNo": "APLZQ-B-20261017287",
+        "receiptNo": "CRF2026000639749",
+        "referenceCode": "8dff9526-c4ba-4309-95df-89c2f80389ca",
+        "senderName": "RECEP KÖSE",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: RECEP KÖSE, Alıcı: RAHMATULLAH HAKIMI, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:21:20|4000"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792250766589,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2FA4D2775B0901186D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792250769680_qt8um",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "3000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:24",
+        "trackingNo": "1668460547",
+        "receiptNo": "",
+        "referenceCode": "M-2026-10-17-18.24.47.991137",
+        "senderName": "EMRE KIRAZLI",
+        "senderIban": "TR800001200126200001113184",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "GİDEN FAST - EMRE KIRAZLI TARAFINDAN GÖNDERİLEN",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792250769680,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A615AC8D6B9D46C81C7",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792250930584_sdof3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0831/KARŞIYAKA/ANKARA ŞUBESİ",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:28:06",
+        "trackingNo": "7465120442",
+        "receiptNo": "",
+        "referenceCode": "F06707",
+        "senderName": "ÜMÜT KAYA",
+        "senderIban": "TR860001000831666229085002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|18:28:06|4300|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792250930584,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A6C525E3D1CDF1CBF71",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
