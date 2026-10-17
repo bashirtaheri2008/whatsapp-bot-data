@@ -138157,6 +138157,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792237200477_s45tx",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0132/ISPARTA SUBESI",
+        "amount": "13500.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:37:02",
+        "trackingNo": "7463326377",
+        "receiptNo": "F18334",
+        "referenceCode": "A01",
+        "senderName": "EROL EMİN ASLAN",
+        "senderIban": "TR42***********315014",
+        "receiverName": "NIZAMUDDIN YAQUI",
+        "receiverIban": "TR34***********220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 65,
+        "fingerprint": "ZB|20261017|14:37:02|13500|TR34220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792237200477,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5F36C3B3198443E8E0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
