@@ -143665,6 +143665,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792259822088_nnjy7",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "2500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "20:56:04",
+        "trackingNo": "AUHJD-B-20261017428",
+        "receiptNo": "BPZ2026000638027",
+        "referenceCode": "3a63dec3-6489-453f-8d30-3921e64e861f",
+        "senderName": "YASIN YAĞCI",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "rahmatullah hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: YASIN YAĞCI, Alıcı: rahmatullah hakimi, IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|20:56:04|2500"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792259822088,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA936A8C4EE2BC9F265",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792259826087_8xsp3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2528/BUGDAY PAZARI/KONYA SUBESI",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "20:55:57",
+        "trackingNo": "7465987816",
+        "receiptNo": "",
+        "referenceCode": "F10073",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "FERHAT ÇELİK",
+        "receiverIban": "TR980001002528883161075001",
+        "description": "4.500,00 TRY tutarinda Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 8,37 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|20:55:57|4500|TR980001002528883161075001"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792259826087,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0E56BBFBAE4269B37B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
