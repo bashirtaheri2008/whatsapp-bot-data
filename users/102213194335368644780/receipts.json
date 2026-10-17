@@ -134485,6 +134485,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792204872226_hb6qs",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "600837",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "02:44:20",
+        "trackingNo": "36047276",
+        "receiptNo": "847081",
+        "referenceCode": "",
+        "senderName": "BRAIN AKDAG",
+        "senderIban": "TR900004600374888000152965",
+        "receiverName": "Nizammudin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 55,
+        "fingerprint": "AK|20261017|02:44:20|600837|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792204872226,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5F7378F6C571E335F060524EA6B7B23",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
