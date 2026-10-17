@@ -144821,6 +144821,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792269391282_0ihnf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "23:16",
+        "trackingNo": "4906941456",
+        "receiptNo": "202610189143817",
+        "referenceCode": "03663-03663-1012020364",
+        "senderName": "ADEM ALTAY",
+        "senderIban": "TR8500157000000000081435326",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4906941456"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792269391282,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC50041BE208EB10964",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
