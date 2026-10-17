@@ -141047,6 +141047,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792248658193_iniuo",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4400.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:47:19",
+        "trackingNo": "634447364182757376",
+        "receiptNo": "",
+        "referenceCode": "17102026-9300-28225541",
+        "senderName": "MEHMET İGERTAŞ",
+        "senderIban": "TR750013400001554365000001",
+        "receiverName": "RAHMATULLAHAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:47:19|4400|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248658193,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB828A5B1ECD96E2714",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
