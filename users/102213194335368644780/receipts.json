@@ -143427,6 +143427,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792257670787_j40kp",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1912/ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "20:18:38",
+        "trackingNo": "7465782421",
+        "receiptNo": "",
+        "referenceCode": "F06636",
+        "senderName": "BEDİR OĞUZHAN SİVRİ",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "NEZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "2.000,00 TRY tutarında Fast İşleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|20:18:38|2000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792257670787,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A36B2BE6237D02B11F0",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792257695889_kpjd2",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1997/HÜSEYİNŞAH/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "19/10/2026",
+        "time": "16:55:00",
+        "trackingNo": "7465780883",
+        "receiptNo": "1997/3477715/5001",
+        "referenceCode": "F13945",
+        "senderName": "EBRU KIRASLAN",
+        "senderIban": "TR640001001997347771550001",
+        "receiverName": "Rahmetullah hakkı",
+        "receiverIban": "TR630001500198007362279815",
+        "description": "Komsu",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261019|16:55:00|4000|TR630001500198007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792257695889,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A7869B6E105F7F2C65E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792257990689_0d87s",
+      "data": {
+        "isReceipt": true,
+        "bank": "Türkiye İş Bankası",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "12000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "20:22:30",
+        "trackingNo": "3852179236",
+        "receiptNo": "452143005716",
+        "referenceCode": "4703e1ae-b121-4147-824b-6a669ffeabcc",
+        "senderName": "SELİM KUNDEŞ",
+        "senderIban": "TR240006400000145211191346",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR44000158007391459193",
+        "description": "SELİM KUNDEŞ tarafından aktarılan",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|20:22:30|12000|TR44000158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792257990689,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A05F0E2C345AD691E19",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
