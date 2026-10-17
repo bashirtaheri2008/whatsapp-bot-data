@@ -138735,6 +138735,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792240034553_ddgkr",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1577/ALELGÜL/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "15:26:04",
+        "trackingNo": "F03261",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "BAYRAM DURUKAN",
+        "senderIban": "TR720001001577436152095004",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|15:26:04|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792240034553,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8EEC7EA23BE71A4051",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792240077544_b2uw1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2783/HÜDAVENENT HATUN/NİĞDE ŞUBESİ",
+        "amount": "15000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "15:27:28",
+        "trackingNo": "7463711416",
+        "receiptNo": "",
+        "referenceCode": "F07112",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR23000010309422205003",
+        "receiverName": "nezamuddin noori",
+        "receiverIban": "TR520021000000117553200001",
+        "description": "15.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,75 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|15:27:28|15000|TR520021000000117553200001"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792240077544,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "4A82D49B7BDC02FA3B06",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792240169648_2y4kc",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "4400",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "15:24",
+        "trackingNo": "4905754166",
+        "receiptNo": "202610184777431",
+        "referenceCode": "03663-03663-1011085223",
+        "senderName": "TANER URGANCI",
+        "senderIban": "TR1600157000000000087050346",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4905754166"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792240169648,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA6AAD27C816BD55E4E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
