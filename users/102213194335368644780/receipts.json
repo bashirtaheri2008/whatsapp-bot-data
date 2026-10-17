@@ -139041,6 +139041,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792240916151_pqkug",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SAHRAYICEDİT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "15:39:48",
+        "trackingNo": "8800000264",
+        "receiptNo": "2026-10-17-15.39.45.597897",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR240006200027700006854282",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|15:39:48|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792240916151,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A0E170C639FC3DEDEB9",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
