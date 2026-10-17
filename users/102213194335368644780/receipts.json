@@ -134519,6 +134519,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792204887035_dkmau",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Subesiz Bankacilik",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "02:47:53",
+        "trackingNo": "2026013413932348",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "Mukremin korkmaz",
+        "senderIban": "TR820001500158",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarida Detay Bilgileri Verilen Havale Islemi Gerceklestirilmistir",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261017|02:47:53|5000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792204887035,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5813D68BFC7A57E5DEC53B56A5F0ECD",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
