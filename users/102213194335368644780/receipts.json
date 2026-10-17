@@ -137239,6 +137239,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792233467933_eyv7l",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0799/BEŞEVLER/ANKARA ŞUBESİ",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "13:34:55",
+        "trackingNo": "7462795890",
+        "receiptNo": "F03098",
+        "referenceCode": "A01",
+        "senderName": "TANSU SAKIN",
+        "senderIban": "TR440001000799672317915001",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 76,
+        "fingerprint": "ZB|20261017|13:34:55|7000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792233467933,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A2C8E4BFD6710AD55B2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
