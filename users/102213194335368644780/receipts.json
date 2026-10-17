@@ -139687,6 +139687,74 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792244202852_yk57r",
+      "data": {
+        "isReceipt": true,
+        "bank": "PTT Bank",
+        "bankBranch": "MOBİL BANKACILIK",
+        "amount": "4600.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "16:22",
+        "trackingNo": "173707",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "KAMURAN SOLAK",
+        "senderIban": "",
+        "receiverName": "RA***** HA****",
+        "receiverIban": "TR35****************9815",
+        "description": "BİREYSEL ÖDEME",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|16:22|4600|TR359815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792244202852,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC12772E091575A769A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792244206655_c9jeq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4300.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "16:30:25",
+        "trackingNo": "CKD2026001887719",
+        "receiptNo": "ANE0Y-B-20261017246",
+        "referenceCode": "6c5741ee-e825-4a6c-b227-81ab1b3663fb",
+        "senderName": "AHMET ALPTEKIN",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: AHMET ALPTEKIN , Alıcı: RAHMATULLAH HAKIMI , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|16:30:25|4300"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792244206655,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A92372D2A1CE4B95F9F",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
