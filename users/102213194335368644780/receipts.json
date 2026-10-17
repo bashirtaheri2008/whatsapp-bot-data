@@ -141727,6 +141727,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792250968984_zuc3x",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "",
+        "amount": "30000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:28:11",
+        "trackingNo": "2026014537738469",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR350001500158****9815",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:28:11|30000|TR440001500158007391459193"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792250968984,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A54BEAB1FF4DEFC79F5",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
