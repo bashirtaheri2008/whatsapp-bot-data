@@ -140095,6 +140095,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792246451986_0cqus",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:02",
+        "trackingNo": "4906068163",
+        "receiptNo": "202610185902167",
+        "referenceCode": "03663-03663-1011322977",
+        "senderName": "Recep Sarıgüney",
+        "senderIban": "TR490015700000000144733033",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4906068163"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792246451986,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEA26C72E0314463107",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792246455891_mla93",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Cep Şube",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:04",
+        "trackingNo": "4906073254",
+        "receiptNo": "202610185922035",
+        "referenceCode": "03663-03663-1011326678",
+        "senderName": "Meliha Diğrak",
+        "senderIban": "TR0900157000000000084239315",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500058007362279815",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4906073254"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792246455891,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0E14220A156332D984",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792246459382_81f12",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0118/BİLECİK ŞUBESİ",
+        "amount": "4140.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:05:59",
+        "trackingNo": "7464517009",
+        "receiptNo": "",
+        "referenceCode": "F18172",
+        "senderName": "HARUN KOÇAK",
+        "senderIban": "TR120001000118909582175001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.140,00 TL tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:05:59|4140|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792246459382,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA9046F7F1D64D20953",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
