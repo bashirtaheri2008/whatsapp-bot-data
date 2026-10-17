@@ -135573,6 +135573,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792221355828_va2ft",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KARATAY SANAYI",
+        "amount": "4700.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "09:49:31",
+        "trackingNo": "1345000070",
+        "receiptNo": "2026-10-17-09.49.29.970567",
+        "referenceCode": "",
+        "senderName": "MEHMET YEL",
+        "senderIban": "TR190006200051900006645776",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 70,
+        "fingerprint": "GN|20261017|09:49:31|4700|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792221355828,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFBE5310C66C9E80BE1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792221367428_irchi",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "430000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "09:53:57",
+        "trackingNo": "TR530004600773888000212154",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "AHMET UGLER",
+        "senderIban": "TR530004600773888000212154",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 60,
+        "fingerprint": "AK|20261017|09:53:57|430000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792221367428,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AA16E3FF9B8B308A6F4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792221563595_spbac",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "SİNCAN/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "10:15:35",
+        "trackingNo": "F01099",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "MERT AYHAN",
+        "senderIban": "TR270001001754619973995013",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 53,
+        "fingerprint": "ZB|20261017|10:15:35|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792221563625,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A2250B6C6879DC59102",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
