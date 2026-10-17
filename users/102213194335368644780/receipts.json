@@ -140231,6 +140231,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792246581591_57ppq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0461/SELÇUKLU/KONYA ŞUBESİ",
+        "amount": "4200",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:14:58",
+        "trackingNo": "7464556067",
+        "receiptNo": "",
+        "referenceCode": "F12693",
+        "senderName": "MERVE ALTUNTAŞ",
+        "senderIban": "TR560001000461618924155003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.200,00 TRY tutarında Fast işleminin yapılması, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:14:58|4200|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792246581591,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A4EDCF09D661C2F8562",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792246676984_tiwb3",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ÇUBUK",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:15:26",
+        "trackingNo": "1902000322",
+        "receiptNo": "2026-10-17-17.15.23.121126",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR360006200111400000649091",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:15:26|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792246676984,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB9F177DE21F5481318",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
