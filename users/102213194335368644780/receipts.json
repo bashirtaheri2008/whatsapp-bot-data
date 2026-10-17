@@ -137205,6 +137205,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792233327729_jtulo",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "06170 YENİMAHALLE/ANKARA",
+        "amount": "8.37",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "13:34:14",
+        "trackingNo": "9652000173",
+        "receiptNo": "2026-10-17-13.34.12.678736",
+        "referenceCode": "1495/6675114",
+        "senderName": "UMUT OZAN",
+        "senderIban": "TR640001500158007391459193",
+        "receiverName": "İYEDEK",
+        "receiverIban": "TR580006200149500006675114",
+        "description": "MOBİL",
+        "bankKey": "",
+        "ocrConfidence": 31,
+        "fingerprint": "GN|20261017|13:34:14|8.37|TR580006200149500006675114"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792233327729,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ACF324618DB6F8B9201",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
