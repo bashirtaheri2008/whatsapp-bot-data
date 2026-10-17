@@ -138565,6 +138565,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792238584076_nwhyx",
+      "data": {
+        "isReceipt": true,
+        "bank": "Küveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "15:00:25",
+        "trackingNo": "ALSRU-B-20261017223",
+        "receiptNo": "CGR2026001598539",
+        "referenceCode": "4cf232bb-25c5-4d15-b29e-9927f844b546",
+        "senderName": "MEHMET DAVULCU",
+        "senderIban": "",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "Gönderen: MEHMET DAVULCU , Alıcı: Rahmatullah Hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|15:00:25|4500|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792238584076,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A5E8317D50BDFBB2DAC",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
