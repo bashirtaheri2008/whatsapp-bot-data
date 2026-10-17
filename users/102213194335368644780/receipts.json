@@ -137647,6 +137647,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792235393773_c7uta",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "ELVANKENT",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:08:56",
+        "trackingNo": "5680000203",
+        "receiptNo": "2026-10-17-14.08.53.145015",
+        "referenceCode": "",
+        "senderName": "EMRE OZBEK",
+        "senderIban": "TR940006200124700006601210",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 75,
+        "fingerprint": "GN|20261017|14:08:56|4000|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792235393773,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD8F4F387E447C7EEB1",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
