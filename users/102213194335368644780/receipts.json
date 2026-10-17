@@ -139653,6 +139653,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792243846542_5oy5g",
+      "data": {
+        "isReceipt": true,
+        "bank": "Dünya Katılım",
+        "bankBranch": "Büsan Şube / 112",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "16:28:34",
+        "trackingNo": "7994131",
+        "receiptNo": "722970939753144321",
+        "referenceCode": "",
+        "senderName": "DOĞUKAN TUNÇ",
+        "senderIban": "TR100021401000000000480496",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Giden FAST, Gönderen:DOĞUKAN TUNÇ, Alıcı:NIZAMUDDIN YAQUBI",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|16:28:34|5000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792243846542,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A59933CEAB96F1EFC9F383F565ED1F07",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
