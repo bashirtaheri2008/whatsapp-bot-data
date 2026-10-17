@@ -142373,6 +142373,142 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792254347587_4sqlg",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "ANADOLU SANAYI",
+        "amount": "6800",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:40:09",
+        "trackingNo": "8707000391",
+        "receiptNo": "2026-10-17-18.40.05.717967",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR860006200105200006645979",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "YALNIZ AltıBinSekizYüzTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:40:09|6800|TR35000158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792254347587,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A54E4D42237416DF72BC421E07DF0517",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792254352388_g9s1r",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0177/KARAMAN ŞUBESİ",
+        "amount": "11000.00",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "19:12:07",
+        "trackingNo": "7465449636",
+        "receiptNo": "",
+        "referenceCode": "F21102",
+        "senderName": "RAHMATULLAH HAKIMI",
+        "senderIban": "TR35000100017795928295507",
+        "receiverName": "ARZU CAN ÜNAL ERDOĞAN",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "11.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 16,76 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|19:12:07|11000|TR350001500158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792254352388,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A51799FA931E46CE8227474D1432415C",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792254357097_xzcoc",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "7700.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:32:08",
+        "trackingNo": "TR700004600696888000134218",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "DÖNE GÜRBÜZOĞLU",
+        "senderIban": "TR700004600696888000134218",
+        "receiverName": "Jawid Usmani",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|14:32:08|7700|TR440001500158007391459193"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792254357097,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3A9E1797FDF891F2AC",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792254548887_i9bpq",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "444 - Bireysel Bankacilik Subesi",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:26",
+        "trackingNo": "60553063",
+        "receiptNo": "",
+        "referenceCode": "4647632163",
+        "senderName": "BERAT CINAR",
+        "senderIban": "TR270014300000000021869396",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792254548887,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AAA02213B35A525DAC7",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
