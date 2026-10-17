@@ -136355,6 +136355,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792228201834_wjjcz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara Bank A.S.",
+        "bankBranch": "",
+        "amount": "4300",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "12:02",
+        "trackingNo": "4905160238",
+        "receiptNo": "03663-03663-1010623365",
+        "referenceCode": "",
+        "senderName": "HARUN BILGIN",
+        "senderIban": "TR060015700000000154252708",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR34 0001 5001 5800 7312 2207 52",
+        "description": "",
+        "bankKey": "enpara",
+        "ocrConfidence": 75,
+        "fingerprint": "EP|4905160238"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792228201834,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A5A3E16FF157991AC88",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
