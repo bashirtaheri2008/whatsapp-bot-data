@@ -136729,6 +136729,40 @@
         "participantAlt": "93792316465@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792231389526_r3m3u",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KARATAY/KONYA",
+        "amount": "5.000,00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "13:00:41",
+        "trackingNo": "6689000195",
+        "receiptNo": "2026-10-17-13.00.39.553450",
+        "referenceCode": "TR07 0006 2001 4640 0006 8767 83",
+        "senderName": "SELÇUKILIM",
+        "senderIban": "TR070006200146400006876783",
+        "receiverName": "JAMID USMANI",
+        "receiverIban": "TR440001580158057391453893",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 40,
+        "fingerprint": "GN|20261017|13:00:41|5000|TR440001580158057391453893"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792231389526,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFD5FA3F99BD3E7AAFA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
