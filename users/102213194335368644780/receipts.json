@@ -140639,6 +140639,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792247873785_5f1oz",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1912/ERYAMAN/ANKARA ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "17:19:12",
+        "trackingNo": "7464561451",
+        "receiptNo": "",
+        "referenceCode": "F05022",
+        "senderName": "BEDİR OĞUZHAN SİVRİ",
+        "senderIban": "TR720001001912857220295001",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "4.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:19:12|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792247873785,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A4BA60F173BC5785C2E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792247878284_8502p",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "SAHRAYICEDİT",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:26:37",
+        "trackingNo": "7202000313",
+        "receiptNo": "2026-10-17-17.26.31.916431",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR240006200027700006854282",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:26:37|4500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792247878284,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A3E55C22A1DC7962589",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792247972191_53rof",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "2000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:31:22",
+        "trackingNo": "634398050693795840",
+        "receiptNo": "",
+        "referenceCode": "17102026-9300-22222932",
+        "senderName": "TAYİP ESKİCİ",
+        "senderIban": "TR62001340000238941100001",
+        "receiverName": "NİZAMUDDİN YAQUBİ",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|14:31:22|2000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792247972191,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A463B5D6CB16205862D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
