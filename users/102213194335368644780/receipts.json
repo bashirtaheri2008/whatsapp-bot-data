@@ -144447,6 +144447,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792264836684_zn2l1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0919/YILDIZEVLER/ANKARA ŞUBESİ",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "22:12:49",
+        "trackingNo": "7466319457",
+        "receiptNo": "",
+        "referenceCode": "F04465",
+        "senderName": "FIRAT ÜNLÜ",
+        "senderIban": "TR060001000919662097475003",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|22:12:49|4000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792264836684,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC4ED770565074589CD",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792265351489_jd6rj",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "İSTANBUL 34000",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "22/04/2026",
+        "time": "22:04:48",
+        "trackingNo": "74653423737",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YUSUF KOCADONMEZ",
+        "senderIban": "TR550001000158027888279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR550001000158027888279815",
+        "description": "HESABINDAN 5.000,00 TL (BESBIN TL) (VALNE BESBIN TL)",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20260422|22:04:48|5000|TR550001000158027888279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792265351489,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A429946B4052412BF65",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
