@@ -137919,6 +137919,142 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792236049672_wb6ig",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "2000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:19:33",
+        "trackingNo": "254918691997",
+        "receiptNo": "SYJ2026205731275",
+        "referenceCode": "ed711647-3256-44cb-9a9a-83fae150ceel",
+        "senderName": "ADNAN KEPÇELİOĞLU",
+        "senderIban": "TR590006701000000048113170",
+        "receiverName": "Rahmatullah Hakimi",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRET - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 48,
+        "fingerprint": "GN|20261017|14:19:33|2000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792236049672,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AEE4743D29B3412E722",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792236088269_nuk4u",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "1500.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:18:09",
+        "trackingNo": "2026014528776509",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "YAŞAR ÇINAR",
+        "senderIban": "TR4300015001585758",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261017|14:18:09|1500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792236088269,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A8DA3CE64BF1A6A2AE2",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792236106634_g3gp5",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0309/KARAPINAR/KONYA SUBESI",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:18:18",
+        "trackingNo": "7463243736",
+        "receiptNo": "F10022",
+        "referenceCode": "A01",
+        "senderName": "NAZIM GANKURT",
+        "senderIban": "TR600001000309827763175001",
+        "receiverName": "nizamuddin yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 75,
+        "fingerprint": "ZB|20261017|14:18:18|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792236106634,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A776A0B034A3BEE4E59",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792236120010_6l41j",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "KADIRLI",
+        "amount": "5500.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:15:08",
+        "trackingNo": "9714000192",
+        "receiptNo": "2026-10-17-14.15.08.978562",
+        "referenceCode": "",
+        "senderName": "VEYSEL YALCIN",
+        "senderIban": "TR550006200107600006676778",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 78,
+        "fingerprint": "GN|20261017|14:15:08|5500|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792236120010,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2A9A2563DD90E4221C3E",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
