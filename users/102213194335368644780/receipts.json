@@ -135437,6 +135437,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792220211532_qskq2",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankas A.S.",
+        "bankBranch": "DİKMEN",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "09:33:47",
+        "trackingNo": "4968000067",
+        "receiptNo": "2026-10-17-09.33.41.744179",
+        "referenceCode": "",
+        "senderName": "HASAN KÖKSAL",
+        "senderIban": "TR710006200050600006625796",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 63,
+        "fingerprint": "GN|20261017|09:33:47|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792220211532,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A580F20B38F2B23CEF0",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
