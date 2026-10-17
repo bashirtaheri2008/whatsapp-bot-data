@@ -140775,6 +140775,108 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792248115886_zcw3x",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "AKŞEHİR/KONYA ŞUBESİ",
+        "amount": "13000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:36:14",
+        "trackingNo": "7464781804",
+        "receiptNo": "",
+        "referenceCode": "F07900",
+        "senderName": "",
+        "senderIban": "TR5500010001703042933506",
+        "receiverName": "VEYSEL TAVUT",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "rahmatullah",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:36:14|13000|TR350001500158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792248115886,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A59D24E39FD540BCE7D28F6978570C59",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792248276487_uwnh4",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4392.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:35:28",
+        "trackingNo": "AOJIC-B-20261017105",
+        "receiptNo": "BNV2026001444296",
+        "referenceCode": "dca44dba-cda3-45c3-a33f-1d5d1c5715d7",
+        "senderName": "RECEP DEMİRCİ",
+        "senderIban": "TR350001500158007362279815",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "",
+        "description": "Gönderen: RECEP DEMİRCİ , Alıcı: RAHMATULLAH HAKİMİ , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:35:28|4392"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248276487,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A511D14F982E06F9BCF",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792248280188_tir9g",
+      "data": {
+        "isReceipt": true,
+        "bank": "DenizBank",
+        "bankBranch": "",
+        "amount": "4650.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:34:36",
+        "trackingNo": "634444163659063296",
+        "receiptNo": "",
+        "referenceCode": "17102026-9300-28064149",
+        "senderName": "HANİFİ KAYALI",
+        "senderIban": "TR590013400002244621200001",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:34:36|4650|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248280188,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AED604288C952097298",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
