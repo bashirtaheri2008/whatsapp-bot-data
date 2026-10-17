@@ -137715,6 +137715,74 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792235644273_usmol",
+      "data": {
+        "isReceipt": true,
+        "bank": "T.C. Ziraat Bankasi",
+        "bankBranch": "0071/ILGAZ/ÇANKIRI ŞUBESİ",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:11:53",
+        "trackingNo": "7463166632",
+        "receiptNo": "F01844",
+        "referenceCode": "A01",
+        "senderName": "OMER BEKCI",
+        "senderIban": "TR180001000071660540395005",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "4.000,00 TRY tutarında Fast işleminin yapılmasını, Bu islem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 54,
+        "fingerprint": "ZB|20261017|14:11:53|4000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792235644273,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A87D7FEB486912895B8",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792235818970_ayghf",
+      "data": {
+        "isReceipt": true,
+        "bank": "Vakıfbank",
+        "bankBranch": "",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:16:13",
+        "trackingNo": "2026014528768196",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR4400015001589193",
+        "receiverName": "VAHIDOLLAH FAKHRI",
+        "receiverIban": "TR740001500158007313367542",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261017|14:16:13|5000|TR740001500158007313367542"
+      },
+      "sender": "38114143801409",
+      "timestamp": 1792235818970,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "4A6EBF4B9FB970B9639A",
+        "participant": "38114143801409@lid",
+        "participantAlt": "93792316465@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
