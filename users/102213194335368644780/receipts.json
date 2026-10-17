@@ -135029,6 +135029,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792213603837_83a0r",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "BALGAT",
+        "amount": "7000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "08:04:12",
+        "trackingNo": "9381000053",
+        "receiptNo": "2026-10-17-08.03.57.788490",
+        "referenceCode": "",
+        "senderName": "SUDE NAZ CAN",
+        "senderIban": "TR620006200105100006643894",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 72,
+        "fingerprint": "GN|20261017|08:04:12|7000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792213603837,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AFF32072C700C1F100D",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
