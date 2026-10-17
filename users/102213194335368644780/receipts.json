@@ -141931,6 +141931,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792252605483_0elpa",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "KIRIKKALE ŞUBESİ",
+        "amount": "4000",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "18:53:57",
+        "trackingNo": "F22777",
+        "receiptNo": "7465218804",
+        "referenceCode": "",
+        "senderName": "JAWID USMANI",
+        "senderIban": "TR440001500158007391459193",
+        "receiverName": "ABDULKADİR BOZBİYİK",
+        "receiverIban": "TR7900010003169649428501",
+        "description": "4.000,00 TRY tutarında Fast İşleminin yapılmasını, Bu işlem için tarafıma bildirilen 0,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|18:53:57|4000|TR7900010003169649428501"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792252605483,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AA1944A57344504C381",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
