@@ -138055,6 +138055,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792236733526_z7ld5",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "3900.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:27:42",
+        "trackingNo": "AL7HG-B-202610177",
+        "receiptNo": "BDM2026002456262",
+        "referenceCode": "1f235ede-c923-48a0-821d-fc7b9be90561",
+        "senderName": "HASAN BAYSAL",
+        "senderIban": "",
+        "receiverName": "NIZAMUDDIN YAQUBIL",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "Gönderen: HASAN BAYSAL , Alici: NIZAMUDDIN YAQUBIL , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 60,
+        "fingerprint": "GN|20261017|14:27:42|3900|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792236733526,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A57E99E3758A899EEDBE010ECBD324F0",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
