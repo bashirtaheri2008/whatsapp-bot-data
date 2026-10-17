@@ -141081,6 +141081,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792248723582_fjzj1",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "ZİRAAT SÜPER ŞUBE",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:47:29",
+        "trackingNo": "7464790626",
+        "receiptNo": "F15787_4005",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR180001004005738017005007",
+        "receiverName": "HASAN SÖYLER",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.000,00 TRY tutarında Fast isleminin yapilmasini, Bu islem icin tarafima bildirilen 4,18 TRY masraf alinmasini talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:47:29|6000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248723582,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1C10FA8CCC4C7D7FA4",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792248727587_bg973",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "1345/ESKIL/AKSARAY SUBESİ",
+        "amount": "6000",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "17:50:24",
+        "trackingNo": "F09058",
+        "receiptNo": "7464871082",
+        "referenceCode": "",
+        "senderName": "MUSTAFA ÖKSÜN",
+        "senderIban": "TR420001001345729900015003",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "6.000,00 TRY tutarında Fast işlemimin yapılmasını, Bu işlem için tarafıma bildirilen 8,37 TRY masraf alınmasını talep ederim.",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|17:50:24|6000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792248727587,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A1B2F528880B9E90B1D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
