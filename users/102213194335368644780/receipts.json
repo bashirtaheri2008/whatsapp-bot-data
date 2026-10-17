@@ -143801,6 +143801,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792261499489_jhnsi",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:21",
+        "trackingNo": "1668728518",
+        "receiptNo": "M-2026-10-17-21.21.05.407979",
+        "referenceCode": "",
+        "senderName": "MURAT KARADAĞ",
+        "senderIban": "TR130001200951500001009784",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "GİDEN FAST - MURAT KARADAĞ TARAFINDAN",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": ""
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792261499489,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AB806B88AFF89467725",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792261503780_dgw9s",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankası A.Ş.",
+        "bankBranch": "SİNCAN ÇARŞI",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:16:30",
+        "trackingNo": "5446000444",
+        "receiptNo": "2026-10-17-21.16.18.964627",
+        "referenceCode": "",
+        "senderName": "",
+        "senderIban": "TR200006200109100006894419",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR35000158007362279815",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:16:30|4000|TR35000158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792261503780,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A3F075B3D5F78F6ED31",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792261507283_nw3ke",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "4800.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:22:23",
+        "trackingNo": "2026014543305119",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "EMRE ÇELEBİ",
+        "senderIban": "TR48000150015861",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:22:23|4800|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792261507283,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0E0425CEB4FEB7E620",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
