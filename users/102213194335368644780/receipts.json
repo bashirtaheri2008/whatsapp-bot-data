@@ -141353,6 +141353,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792249988891_qv1oy",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakıfBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "6000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:02:26",
+        "trackingNo": "2026014536635210",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ARİF TURAN",
+        "senderIban": "TR8300015001580420",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:02:26|6000|TR350001500158007362279815"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792249988891,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A516E3A085B68B133CB0363534C03E86",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
