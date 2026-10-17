@@ -135539,6 +135539,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792221341926_mgr5w",
+      "data": {
+        "isReceipt": true,
+        "bank": "HALKBANK",
+        "bankBranch": "",
+        "amount": "4000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "10:03",
+        "trackingNo": "M-2026-10-17-10.03.20.545718",
+        "receiptNo": "1667493432",
+        "referenceCode": "",
+        "senderName": "ORCAN OSMAN ERSOZ",
+        "senderIban": "TR020001200921400001063576",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR230001009010309422205003",
+        "description": "GIDEN FAST - ORCAN OSMAN ERSOZ TARAFINDAN GONDERILEN",
+        "bankKey": "",
+        "ocrConfidence": 47,
+        "fingerprint": "GN|20261017|10:03|4000|TR230001009010309422205003"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792221341926,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AC98677E58D8EF84B6A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
