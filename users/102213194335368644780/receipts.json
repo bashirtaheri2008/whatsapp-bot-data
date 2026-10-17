@@ -135845,6 +135845,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792224014327_kid3o",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DIREKT MOBIL CEP",
+        "amount": "450837",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "10:58:12",
+        "trackingNo": "48343904 / 114288",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ABDULSAMED DURUM",
+        "senderIban": "TR520004600375888000322476",
+        "receiverName": "Zinat Nazan",
+        "receiverIban": "TR800001500158007392030554",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 53,
+        "fingerprint": "AK|20261017|10:58:12|450837|TR800001500158007392030554"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792224014327,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363431493238443@g.us",
+        "fromMe": false,
+        "id": "3A20D1A5609AD040E26B",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
