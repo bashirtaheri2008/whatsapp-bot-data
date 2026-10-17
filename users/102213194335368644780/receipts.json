@@ -144209,6 +144209,74 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792262793791_wpm63",
+      "data": {
+        "isReceipt": true,
+        "bank": "Enpara",
+        "bankBranch": "Enpara Şubesi",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:39",
+        "trackingNo": "4906778891",
+        "receiptNo": "202610188564263",
+        "referenceCode": "03663-03663-1011881731",
+        "senderName": "Celalettin Kaymak",
+        "senderIban": "TR400015700000000205004436",
+        "receiverName": "Nizamuddin Yaqubi",
+        "receiverIban": "TR34000158007312220752",
+        "description": "Bireysel Ödeme",
+        "bankKey": "enpara",
+        "ocrConfidence": 0,
+        "fingerprint": "EP|4906778891"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792262793791,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AD5062AA9F364C15076",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792263070162_u7e3q",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "21:48:41",
+        "trackingNo": "517799696530",
+        "receiptNo": "925594623",
+        "referenceCode": "SYJ202620958612",
+        "senderName": "ÖMER AK",
+        "senderIban": "TR44000670100000015650644",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|21:48:41|5000|TR350001500158007362279"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792263070162,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A67D5C41B2E3757657D",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
