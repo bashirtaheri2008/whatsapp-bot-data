@@ -141455,6 +141455,108 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792250131687_4jpqp",
+      "data": {
+        "isReceipt": true,
+        "bank": "YapıKredi",
+        "bankBranch": "",
+        "amount": "9000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:11:54",
+        "trackingNo": "517795857033",
+        "receiptNo": "SYJ202620800420",
+        "referenceCode": "925-1044513/2549122415273",
+        "senderName": "ERKAN İNCEOZ",
+        "senderIban": "TR28000670100000077976245",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "ELEKTRONİK FON TRANSFERİ (EFT) ÜCRETİ - FAST/",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|18:11:54|9000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792250131687,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A74C2ACB160E6545BB1",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792250161502_fvuj9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "2760/SELÇUKLUK MAHALLESİ/AKSARAY ŞUBESİ",
+        "amount": "5000",
+        "currency": "TRY",
+        "date": "17/10/2026",
+        "time": "18:12:16",
+        "trackingNo": "7464993307",
+        "receiptNo": "F06803",
+        "referenceCode": "",
+        "senderName": "BEŞBİNEKİZTLOTUZYEDİKRI",
+        "senderIban": "TR440001002760635845285003",
+        "receiverName": "SEZER AKHUY",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "HÜRRİYET MAH. 4709 / ŞEHİT EROL ŞAHİN SK. NO: 44/1/1 MERKEZ AKSARAY",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|18:12:16|5000|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792250161502,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A8C386BFA07990A7E0A",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
+    },
+    {
+      "id": "rc_1792250237593_2l5u0",
+      "data": {
+        "isReceipt": true,
+        "bank": "AKBANK",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "18:15:24",
+        "trackingNo": "TR170004600744888000119192",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ÖMER ÇİÇEKÖZÜ",
+        "senderIban": "TR170004600744888000119192",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 0,
+        "fingerprint": "AK|20261017|18:15:24|5000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792250237593,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2ABDF95D00643177D3BF",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
