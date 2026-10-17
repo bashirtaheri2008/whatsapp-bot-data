@@ -140027,6 +140027,40 @@
         "participantAlt": "93793699596@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792246275991_82ljk",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "KEÇİÖREN",
+        "amount": "4000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "17:08:56",
+        "trackingNo": "8659000296",
+        "receiptNo": "2026-10-17-17.08.46.558050",
+        "referenceCode": "",
+        "senderName": "OSMAN BALDEDE",
+        "senderIban": "TR660006200059600006605939",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "YALNIZ DörtBinTL.",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|17:08:56|4000|TR340001500158007312220752"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792246275991,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AF06AB129D8E2265A56",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
