@@ -135811,6 +135811,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792223681633_ipsia",
+      "data": {
+        "isReceipt": true,
+        "bank": "VakifBank",
+        "bankBranch": "Şubesiz Bankacılık",
+        "amount": "5000.00",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "10:47:59",
+        "trackingNo": "2026014518775030",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "ZEYNEP ALEYNA AKBAŞ",
+        "senderIban": "TR58000150015839",
+        "receiverName": "JAWID USMANI",
+        "receiverIban": "TR440001500158007391459193",
+        "description": "Yukarıda Detay Bilgileri Verilen Havale İşlemi Gerçekleştirilmiştir.",
+        "bankKey": "",
+        "ocrConfidence": 53,
+        "fingerprint": "GN|20261017|10:47:59|5000|TR440001500158007391459193"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792223681633,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A13FFFFD0F827D56D05",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
