@@ -142815,6 +142815,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792255443584_221v9",
+      "data": {
+        "isReceipt": true,
+        "bank": "Garanti BBVA",
+        "bankBranch": "NEMSET EMİN GİLEN",
+        "amount": "5000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "19:43:13",
+        "trackingNo": "649500404223",
+        "receiptNo": "2026-10-17-19.43.09.797795",
+        "referenceCode": "43931015",
+        "senderName": "HALICI",
+        "senderIban": "TR340001500158007312220752",
+        "receiverName": "HIZMETLIGI HUGULU",
+        "receiverIban": "TR8100060004190006811307",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 0,
+        "fingerprint": "GN|20261017|19:43:13|5000|TR8100060004190006811307"
+      },
+      "sender": "193063158849721",
+      "timestamp": 1792255443584,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363428367546485@g.us",
+        "fromMe": false,
+        "id": "2AEBE2E03F35154FD8BA",
+        "participant": "193063158849721@lid",
+        "participantAlt": "93787559576@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
