@@ -134961,6 +134961,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792210383628_odsor",
+      "data": {
+        "isReceipt": true,
+        "bank": "Akbank",
+        "bankBranch": "7777 - AKBANK DİREKT MOBİL CEP",
+        "amount": "400000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "00:22:24",
+        "trackingNo": "49503883 / 784931",
+        "receiptNo": "",
+        "referenceCode": "",
+        "senderName": "HATİCE İŞKTAŞ",
+        "senderIban": "TR150004600064888000359450",
+        "receiverName": "Nizammuddin Yaqubi",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "akbank",
+        "ocrConfidence": 54,
+        "fingerprint": "AK|20261017|00:22:24|400000|TR340001500158007312220752"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792210383628,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A0C7EB11B01F0EA661E",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
