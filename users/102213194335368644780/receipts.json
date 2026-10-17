@@ -135675,6 +135675,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792221576228_70zg6",
+      "data": {
+        "isReceipt": true,
+        "bank": "Kuveyt Türk",
+        "bankBranch": "Genel Müdürlük",
+        "amount": "4500",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "10:16:17",
+        "trackingNo": "AHAMI-B-20261017113",
+        "receiptNo": "BPN2026001072725",
+        "referenceCode": "8bb920aa-e329-44c3-b987-31126732862b",
+        "senderName": "FATİH KOYUNCU",
+        "senderIban": "TR230001009010309422205003",
+        "receiverName": "Rahmatullah hakimi",
+        "receiverIban": "",
+        "description": "Gönderen: FATİH KOYUNCU , Alıcı: Rahmatullah hakimi , IBAN'a Para Transferi (FAST)",
+        "bankKey": "",
+        "ocrConfidence": 42,
+        "fingerprint": "GN|20261017|10:16:17|4500"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792221576228,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3AFF5B36CEA5DADC2112",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
