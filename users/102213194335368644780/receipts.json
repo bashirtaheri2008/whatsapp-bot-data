@@ -144413,6 +144413,40 @@
         "participantAlt": "93700024062@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792264832082_7jr85",
+      "data": {
+        "isReceipt": true,
+        "bank": "Ziraat Bankası",
+        "bankBranch": "0831/KARŞIYAKA/ANKARA ŞUBESİ",
+        "amount": "3900",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "22:11:28",
+        "trackingNo": "7466374794",
+        "receiptNo": "",
+        "referenceCode": "F08601",
+        "senderName": "ÜMÜT KAYA",
+        "senderIban": "TR860001000831666229085002",
+        "receiverName": "RAHMATULLAH HAKIMI",
+        "receiverIban": "TR350001500158007362279815",
+        "description": "",
+        "bankKey": "ziraat",
+        "ocrConfidence": 0,
+        "fingerprint": "ZB|20261017|22:11:28|3900|TR350001500158007362279815"
+      },
+      "sender": "85856949956635",
+      "timestamp": 1792264832082,
+      "source": "image",
+      "msgKey": {
+        "remoteJid": "120363412489711215@g.us",
+        "fromMe": false,
+        "id": "3A9E86F804BF202EEAD6",
+        "participant": "85856949956635@lid",
+        "participantAlt": "93700024062@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
