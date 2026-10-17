@@ -137681,6 +137681,40 @@
         "participantAlt": "93787559576@s.whatsapp.net",
         "addressingMode": "lid"
       }
+    },
+    {
+      "id": "rc_1792235629075_hafwt",
+      "data": {
+        "isReceipt": true,
+        "bank": "T. Garanti Bankasi A.S.",
+        "bankBranch": "EREGLI",
+        "amount": "6000",
+        "currency": "TL",
+        "date": "17/10/2026",
+        "time": "14:09:46",
+        "trackingNo": "1457000168",
+        "receiptNo": "2026-10-17-14.09.40.502085",
+        "referenceCode": "477",
+        "senderName": "HUSAMETTIN ONAL",
+        "senderIban": "TR190006200059200006636681",
+        "receiverName": "NIZAMUDDIN YAQUBI",
+        "receiverIban": "TR340001500158007312220752",
+        "description": "",
+        "bankKey": "",
+        "ocrConfidence": 71,
+        "fingerprint": "GN|20261017|14:09:46|6000|TR340001500158007312220752"
+      },
+      "sender": "1323370070092",
+      "timestamp": 1792235629075,
+      "source": "pdf",
+      "msgKey": {
+        "remoteJid": "120363429547947761@g.us",
+        "fromMe": false,
+        "id": "A5A16297E389DF180469E998400803CD",
+        "participant": "1323370070092@lid",
+        "participantAlt": "93793699596@s.whatsapp.net",
+        "addressingMode": "lid"
+      }
     }
   ]
 }
